@@ -1,0 +1,89 @@
+{
+  "generated_at": "2026-09-06T22:49:00Z",
+  "items": [
+    {
+      "headline": "OpenAI releases GPT-6 Astra, its first model to hit 'Critical' cybersecurity capability",
+      "summary": "OpenAI shipped GPT-6 Astra, a frontier model president Greg Brockman called a 'generational leap' that is state-of-the-art on computer use, browsing, and software engineering. It is the first OpenAI model to reach the Critical tier of its Preparedness Framework for cybersecurity, meaning it can find and exploit previously unknown security flaws with minimal human guidance.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman",
+      "published_at": "2026-09-03"
+    },
+    {
+      "headline": "Nvidia to acquire Hugging Face for $12.9 billion",
+      "summary": "Nvidia agreed to buy open-weight AI hub Hugging Face, which hosts over 3 million models and 18 million developers, in its second-largest acquisition on record. Nvidia committed to keeping the platform open to competing hardware and cloud providers, with the deal expected to close in the first half of 2027.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+      "published_at": "2026-09-03"
+    },
+    {
+      "headline": "Anthropic releases Claude Fable 5.1 and Claude Mythos 5.1",
+      "summary": "Anthropic launched Fable 5.1 for general coding and knowledge work alongside Mythos 5.1, a version with different safeguards for cybersecurity and life-sciences work under trusted access. The release cuts cache-read prices by 75% and reports 52.6% on the Terminal-Bench-Science benchmark, beating GPT-5.6 Sol.",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads",
+      "published_at": "2026-09-01"
+    },
+    {
+      "headline": "Google launches Gemini 3.8 Flash and Gemini 3.8 Flash Cyber",
+      "summary": "Google introduced its third Flash-tier model release in six weeks, touting gains in software engineering and agentic, multi-step reasoning over 3.7 Flash. A cybersecurity-focused variant, Flash Cyber, launched alongside it, and both are already live in the Gemini app, AI Studio, and the Gemini API.",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/02/with-gemini-38-flash-google-reminds-everyone-its-still-in-the-race/5294049",
+      "published_at": "2026-09-02"
+    },
+    {
+      "headline": "Meta releases Muse Spark 1.3, its latest coding and agentic model",
+      "summary": "Meta's new model sustains longer-horizon, multi-workflow tasks, asks clarifying questions, and confirms before irreversible actions, while cutting tool usage by roughly 20% and token usage by roughly 25% versus Muse Spark 1.2. Meta says a 'max reasoning' variant is coming after further safety testing.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-02/meta-releases-more-powerful-ai-model-edging-closer-to-rivals",
+      "published_at": "2026-09-02"
+    },
+    {
+      "headline": "Critical flaws found in Claude Code, Gemini CLI, and OpenAI Codex via a single GitHub issue",
+      "summary": "Security researchers disclosed at Black Hat 2026 that a GitHub issue from an account with zero repository privileges could reach CI runner secrets in the vendors' own repos, including a Gemini CLI OS command injection (CVE-2026-12537) and a Claude Code key-exfiltration bug (CVE-2026-54316) that used Hugging Face's download counter as a covert channel. The findings highlight how agent 'harness' automation trusts untrusted input across privilege boundaries.",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html",
+      "published_at": "2026-08-08"
+    },
+    {
+      "headline": "Anthropic reportedly targets a September/October IPO valuing it above $2 trillion",
+      "summary": "Anthropic is said to be preparing to release its IPO prospectus after Labor Day, seeking to raise upwards of $130 billion with Morgan Stanley, Goldman Sachs, and JPMorgan running the offering. If it proceeds as planned it would become the most valuable public AI company, reflecting the company's rapid revenue growth this year.",
+      "source": "The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/03/anthropic-planning-unveil-ipo-details-labor-day/",
+      "published_at": "2026-09-03"
+    },
+    {
+      "headline": "1X unveils a 25-degree-of-freedom robotic hand for its NEO humanoid",
+      "summary": "1X Technologies revealed a new tendon-driven hand with 22 actuated finger/palm joints plus three wrist joints, built in-house and matching human grip strength at roughly three times the force of rival designs. The company says it removes a long-standing hardware bottleneck for humanoids, shifting the limiting factor to AI and training data ahead of household shipments later this year.",
+      "source": "eWeek",
+      "url": "https://www.eweek.com/news/1x-neo-humanoid-robot-hands-2026/",
+      "published_at": "2026-07-09"
+    },
+    {
+      "headline": "Figure AI strikes $3.5 billion Nscale compute deal and hits $39 billion valuation",
+      "summary": "Humanoid robot maker Figure signed a deal for up to 100,000 Nvidia Vera Rubin GPUs worth $3.5 billion to scale AI training, while a new funding round pushed its valuation to $39 billion. Figure 03 units are also expanding into live production work, including a retail-logistics deployment at a Reno distribution center for a major retailer.",
+      "source": "Forge",
+      "url": "https://forgeglobal.com/insights/figure-ai-robotics-growth-2026/",
+      "published_at": "2026-09-03"
+    },
+    {
+      "headline": "D-Robotics' Sunrise AI chips power new wave of consumer home robots",
+      "summary": "Chipmaker D-Robotics showcased its Sunrise AI chip family running three consumer home robots built by TCL, Vbot, and xLean, underscoring growing competition in affordable AI silicon for domestic robotics. The launch points to consumer robotics moving beyond premium humanoids into mass-market home devices.",
+      "source": "Kill The AI",
+      "url": "https://killtheai.com/news/top-10-ai-news-today-september-5-2026/",
+      "published_at": "2026-09-05"
+    },
+    {
+      "headline": "McKinsey survey: enterprises increasingly build with AI agents instead of buying software",
+      "summary": "A new McKinsey survey found 32% of organizations skipped purchasing software products in favor of building internally with agentic coding tools, while the share of large enterprises scaling AI agents rose from 27% to 40%. The findings suggest agentic coding tools are reshaping enterprise build-vs-buy decisions faster than expected.",
+      "source": "Kill The AI",
+      "url": "https://killtheai.com/news/top-10-ai-news-today-september-5-2026/",
+      "published_at": "2026-09-05"
+    },
+    {
+      "headline": "OpenAI to invest $1 billion in critical infrastructure security",
+      "summary": "OpenAI announced a $1 billion investment aimed at hardening critical infrastructure security, arriving alongside its GPT-6 Astra launch and growing scrutiny of frontier models' offensive cybersecurity capabilities. The move signals AI labs are pairing more capable models with larger defensive security commitments.",
+      "source": "Kill The AI",
+      "url": "https://killtheai.com/news/top-10-ai-news-today-september-5-2026/",
+      "published_at": "2026-09-05"
+    }
+  ]
+}
