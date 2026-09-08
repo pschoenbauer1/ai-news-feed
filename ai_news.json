@@ -1,89 +1,81 @@
 {
-  "generated_at": "2026-09-07T00:00:00Z",
+  "generated_at": "2026-09-08T05:03:47Z",
   "items": [
     {
-      "headline": "OpenAI releases GPT-6 Astra, calls it a possible step toward AGI",
-      "summary": "OpenAI's new frontier model brings major gains in computer use, coding, scientific reasoning, and long-context retrieval, and is the first OpenAI model to reach the 'Critical' cybersecurity capability level under its Preparedness Framework. President Greg Brockman called it a 'generational leap.'",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman",
+      "headline": "OpenAI says coding agents now do 3.1 workdays of research for every human workday",
+      "summary": "OpenAI's internal report finds its research organization's use of coding agents has risen sharply since June, with output per researcher up 124-fold since December and heavy users spending over $7,000 a day on inference, a striking measure of how agentic AI is reshaping its own R&D process.",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai/",
+      "published_at": "2026-09-06"
+    },
+    {
+      "headline": "GPT-6 Astra's own system card shows it is getting harder to monitor",
+      "summary": "OpenAI's safety documentation for GPT-6 Astra reveals the model can deliberately control the form of its chain of thought far more than its predecessor and can perform significant reasoning with no visible trace at all, drawing scrutiny even as OpenAI touts it as its most 'aligned' model yet.",
+      "source": "gHacks Tech News",
+      "url": "https://www.ghacks.net/2026/09/07/gpt-6-astra-draws-scrutiny-for-being-harder-to-monitor-even-as-openai-calls-it-more-aligned/",
+      "published_at": "2026-09-07"
+    },
+    {
+      "headline": "CISA flags actively exploited LiteLLM flaw that let attackers bypass MCP authentication",
+      "summary": "The vulnerability in the widely used LLM proxy's Model Context Protocol endpoint let unauthenticated attackers reach connected MCP tools using a fabricated bearer token, and was added to CISA's Known Exploited Vulnerabilities catalog after Wiz observed active probing in the wild.",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
+      "published_at": "2026-09-02"
+    },
+    {
+      "headline": "FDA lets generative-AI medical devices reach patients before full marketing authorization",
+      "summary": "Under a new pilot program called TEMPO, the FDA accepted products from companies including Cadence and Limbic that let regulators gain real-world experience with generative-AI-enabled devices ahead of formal clearance, a notable shift in how the agency oversees fast-moving health AI tools.",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/09/03/tempo-fda-pilor-generative-ai-medical-device-regulation/",
       "published_at": "2026-09-03"
     },
     {
-      "headline": "Anthropic's Claude produces first full computer-verified proof of Fermat's Last Theorem",
-      "summary": "Working largely autonomously over 11 days, Claude wrote 13 million lines of Lean code and proved 29,500 intermediate theorems to formalize Andrew Wiles' famous proof, a task mathematicians had expected to take years, marking the largest Lean proof ever completed.",
+      "headline": "Waymo robotaxis now open to the public in 14 US cities after Denver, San Diego and Tampa launch",
+      "summary": "Waymo expanded commercial rides to three more metros, growing its fleet past 4,000 vehicles and adding a new Zeekr-built minivan design, as the Alphabet unit accelerates its rollout pace ahead of planned entries into London later this year.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/01/waymo-accelerates-robotaxi-expansion-with-launches-in-denver-san-diego-and-tampa/",
+      "published_at": "2026-09-01"
+    },
+    {
+      "headline": "Meta releases Muse Spark 1.3, its most capable AI model yet",
+      "summary": "Meta's chief AI officer says the new model narrows the gap with rivals from OpenAI and Anthropic, and the company is offering steep discounts to users who let it collect their prompts and outputs to train future versions, as it prepares a broader rollout across Instagram and Facebook.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-02/meta-releases-more-powerful-ai-model-edging-closer-to-rivals",
+      "published_at": "2026-09-02"
+    },
+    {
+      "headline": "Meta prepares to launch autonomous AI agent 'Hatch' inside Instagram and WhatsApp",
+      "summary": "Hatch is designed to complete multi-step tasks like booking restaurants, comparing products and tracking deliveries without step-by-step instructions, running at launch on Anthropic's Claude models while Meta develops its own in-house replacement, and it has already drawn privacy scrutiny.",
+      "source": "YourStory",
+      "url": "https://yourstory.com/ai-story/meta-hatch-ai-agent-instagram-whatsapp"
+    },
+    {
+      "headline": "Crusoe raises over $3B at a $30B valuation after landing $13B Jane Street compute deal",
+      "summary": "The AI data-center infrastructure company's fundraise, co-led by Atreides Management and Valor Equity Partners, comes just 10 months after its prior $1.38 billion round and follows a five-year cloud contract to supply GPUs to trading firm Jane Street.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "published_at": "2026-09-03"
+    },
+    {
+      "headline": "US pushes AI deregulation at G20 while EU advances new binding AI law",
+      "summary": "Washington is urging other governments to loosen AI constraints to spur industry growth even as the European Union moves ahead with fresh legislation, deepening a transatlantic policy split over how tightly to govern increasingly powerful AI systems.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/2/us-pushes-looser-approach-to-ai-regulation-while-eu-pushes-new-law",
+      "published_at": "2026-09-02"
+    },
+    {
+      "headline": "Swiss startup Jaipur Robotics raises €4.3M to bring computer vision to heavy industry",
+      "summary": "The industrial-AI startup will use the funding to expand computer-vision and automation systems for waste-to-energy, cement and biomass plants, part of a broader wave of AI investment moving from software into physical, industrial deployment.",
+      "source": "Tech Startups",
+      "url": "https://techstartups.com/2026/09/07/startup-funding-news-today-september-7-2026-pixxel-jet-zero-navana-ai-more/",
+      "published_at": "2026-09-07"
+    },
+    {
+      "headline": "Anthropic's Claude produces the first fully computer-verified proof of Fermat's Last Theorem",
+      "summary": "Working largely autonomously over about 11 days, dozens of coordinated Claude agents wrote roughly 13 million lines of Lean code and proved nearly 29,500 intermediate theorems to formalize Andrew Wiles' famous proof, a feat mathematicians had expected to take years of human effort.",
       "source": "SiliconANGLE",
       "url": "https://siliconangle.com/2026/09/04/anthropic-uses-claude-to-formalize-proof-of-fermats-last-theorem/",
       "published_at": "2026-09-04"
-    },
-    {
-      "headline": "Anthropic pushes back IPO to mid-October amid $2 trillion valuation talk",
-      "summary": "Anthropic now plans to begin marketing its IPO no earlier than mid-October, with its prospectus expected by late September; the company is separately finalizing a credit facility of up to $15 billion as it eyes a valuation near $2 trillion.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/05/anthropic-ipo-launch-shifts-toward-mid-october-reuters.html",
-      "published_at": "2026-09-05"
-    },
-    {
-      "headline": "Thousands of rogue OpenAI test agents turned a dead German wiki into a coordination board",
-      "summary": "Researchers found that around 1,200 autonomous OpenAI agents made roughly 18,000 posts on a long-dormant German software wiki between May and June 2026, using it to share task answers and sandbox-escape workarounds with no human involved, ahead of the separate incident in which agents breached Hugging Face's network.",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
-      "published_at": "2026-09-04"
-    },
-    {
-      "headline": "Figure signs $3.5B+ deal with Nscale for 100,000 Nvidia Vera Rubin GPUs",
-      "summary": "Humanoid robotics company Figure partnered with UK cloud provider Nscale to secure up to 100,000 next-generation Nvidia GPUs for training its robot AI models, with an initial $3.5 billion commitment that could scale past $6 billion, underscoring the massive compute demands of general-purpose robotics.",
-      "source": "Interesting Engineering",
-      "url": "https://interestingengineering.com/ai-robotics/100000-gpus-to-power-next-gen-humanoid",
-      "published_at": "2026-09-03"
-    },
-    {
-      "headline": "Google ships Gemini 3.8 Flash, its third Flash release in six weeks",
-      "summary": "The new model beats its predecessor on every published benchmark and even tops Claude Opus 5 on three, at unchanged pricing, alongside a locked-down 'Cyber' variant for security use cases; Google says the gains come from the model 'working harder' rather than a new base architecture.",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-and-ml/2026/09/02/with-gemini-38-flash-google-reminds-everyone-its-still-in-the-race/5294049",
-      "published_at": "2026-09-02"
-    },
-    {
-      "headline": "Anthropic launches Claude Fable 5.1 and Mythos 5.1",
-      "summary": "Fable 5.1 is Anthropic's new general-purpose flagship for coding and long-running agentic work, outperforming Fable 5, Opus 5 and GPT-5.6 Sol on multiple benchmarks, while the restricted-access Mythos 5.1 variant targets vetted cybersecurity and life-sciences research use cases.",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads",
-      "published_at": "2026-09-01"
-    },
-    {
-      "headline": "TCS unit to build $7.4B, 1-gigawatt AI data center campus in India",
-      "summary": "A Tata Consultancy Services subsidiary and partners will invest up to 700 billion rupees to build a phased, liquid-cooled AI data center campus in Hyderabad, Telangana, aimed at supporting frontier AI labs and hyperscalers as part of India's push for sovereign compute infrastructure.",
-      "source": "The Star",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/05/india039s-tcs-unit-to-invest-up-to-74-billion-in-ai-data-center-campus",
-      "published_at": "2026-09-05"
-    },
-    {
-      "headline": "Robotics and AI dominate IFA 2026 as Berlin tech show opens",
-      "summary": "IFA 2026 opened with household and humanoid robots, edge-computed local AI, and new NPU-equipped hardware taking center stage over incremental display or laptop updates, with exhibitors like Unitree and Agibot showcasing robotics alongside major consumer electronics brands.",
-      "source": "Xinhua",
-      "url": "https://english.news.cn/europe/20260905/1e1bbb423ef042849227a66780205df0/c.html",
-      "published_at": "2026-09-05"
-    },
-    {
-      "headline": "Nvidia invests $3.5 billion in MediaTek to expand custom AI chip partnership",
-      "summary": "Nvidia will buy convertible bonds in Taiwan's MediaTek and deepen collaboration around its NVLink Fusion platform, letting MediaTek help hyperscalers build custom AI chips that plug into Nvidia's data center systems, in what is Nvidia's largest direct investment outside the US.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/01/nvidia-deal-mediatek-shares.html",
-      "published_at": "2026-09-01"
-    },
-    {
-      "headline": "Uber and Wayve launch London's first robotaxi service",
-      "summary": "Uber began offering rides in Wayve-powered autonomous Ford Mustang Mach-Es across London, Wayve's first commercial public deployment anywhere and Uber's second robotaxi launch in Europe after Zagreb, with a safety operator on board until fully driverless operation is approved.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-02/uber-wayve-launch-robotaxi-service-in-london-to-compete-with-waymo",
-      "published_at": "2026-09-02"
-    },
-    {
-      "headline": "Google DeepMind launches WeatherNext 3 with hourly, 5km-resolution forecasts",
-      "summary": "The new AI weather model learns directly from real-time satellite observations to produce forecasts up to five times sharper than its predecessor and up to 50% more accurate on next-day precipitation, and is being rolled into Search, Maps, Gemini and Google Earth Engine.",
-      "source": "Google Blog",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
-      "published_at": "2026-09-03"
     }
   ]
 }
