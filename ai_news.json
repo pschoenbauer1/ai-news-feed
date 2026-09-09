@@ -1,81 +1,82 @@
 {
-  "generated_at": "2026-09-08T05:03:47Z",
+  "generated_at": "2026-09-09T05:04:23Z",
   "items": [
     {
-      "headline": "OpenAI says coding agents now do 3.1 workdays of research for every human workday",
-      "summary": "OpenAI's internal report finds its research organization's use of coding agents has risen sharply since June, with output per researcher up 124-fold since December and heavy users spending over $7,000 a day on inference, a striking measure of how agentic AI is reshaping its own R&D process.",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai/",
-      "published_at": "2026-09-06"
+      "headline": "OpenAI claims Navier-Stokes proof, igniting authorship dispute with rival mathematicians",
+      "summary": "OpenAI says an internal model beyond GPT-6 Astra, using roughly 10,000 concurrent agents over 88 hours, produced a proof that 3D Navier-Stokes equations can blow up in finite time, one of the seven Millennium Prize Problems. The unpublished claim triggered a public clash after NYU mathematician Tristan Buckmaster and Anthropic researcher Levent Alpöge accused OpenAI of following their prior Lean-verified Euler blowup work without credit.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "published_at": "2026-09-08"
     },
     {
-      "headline": "GPT-6 Astra's own system card shows it is getting harder to monitor",
-      "summary": "OpenAI's safety documentation for GPT-6 Astra reveals the model can deliberately control the form of its chain of thought far more than its predecessor and can perform significant reasoning with no visible trace at all, drawing scrutiny even as OpenAI touts it as its most 'aligned' model yet.",
-      "source": "gHacks Tech News",
-      "url": "https://www.ghacks.net/2026/09/07/gpt-6-astra-draws-scrutiny-for-being-harder-to-monitor-even-as-openai-calls-it-more-aligned/",
-      "published_at": "2026-09-07"
-    },
-    {
-      "headline": "CISA flags actively exploited LiteLLM flaw that let attackers bypass MCP authentication",
-      "summary": "The vulnerability in the widely used LLM proxy's Model Context Protocol endpoint let unauthenticated attackers reach connected MCP tools using a fabricated bearer token, and was added to CISA's Known Exploited Vulnerabilities catalog after Wiz observed active probing in the wild.",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
-      "published_at": "2026-09-02"
-    },
-    {
-      "headline": "FDA lets generative-AI medical devices reach patients before full marketing authorization",
-      "summary": "Under a new pilot program called TEMPO, the FDA accepted products from companies including Cadence and Limbic that let regulators gain real-world experience with generative-AI-enabled devices ahead of formal clearance, a notable shift in how the agency oversees fast-moving health AI tools.",
-      "source": "STAT News",
-      "url": "https://www.statnews.com/2026/09/03/tempo-fda-pilor-generative-ai-medical-device-regulation/",
+      "headline": "OpenAI ships GPT-6 Astra, its first model to hit 'Critical' cybersecurity capability",
+      "summary": "OpenAI rolled out GPT-6 Astra with a 1M-token context window, built on its largest training run yet, and president Greg Brockman called it a potential step toward AGI. It's also the first OpenAI model rated Critical under the company's Preparedness Framework for autonomous vulnerability discovery.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman",
       "published_at": "2026-09-03"
     },
     {
-      "headline": "Waymo robotaxis now open to the public in 14 US cities after Denver, San Diego and Tampa launch",
-      "summary": "Waymo expanded commercial rides to three more metros, growing its fleet past 4,000 vehicles and adding a new Zeekr-built minivan design, as the Alphabet unit accelerates its rollout pace ahead of planned entries into London later this year.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/01/waymo-accelerates-robotaxi-expansion-with-launches-in-denver-san-diego-and-tampa/",
+      "headline": "Google DeepMind launches Gemini 3.8 Flash and a defenders-only Cyber variant",
+      "summary": "Google shipped Gemini 3.8 Flash, its third Flash release in six weeks, alongside a Gemini 3.8 Flash Cyber model restricted to trusted defenders via its Fairwind Program for autonomous vulnerability discovery. The move continues a rapid cadence of frontier releases as Google tries to close the gap with OpenAI and Anthropic.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html",
+      "published_at": "2026-09-02"
+    },
+    {
+      "headline": "Anthropic debuts Claude Fable 5.1 and Mythos 5.1 in a triple-release push",
+      "summary": "Anthropic released Claude Fable 5.1 broadly while gating the more capable Mythos 5.1 behind trusted-access programs for cybersecurity and life-sciences work. The launch kicked off the densest 72 hours of frontier model activity this year, with OpenAI, Google and Meta all shipping within 48 hours.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-september-1-triple-release-012352481.html",
       "published_at": "2026-09-01"
     },
     {
-      "headline": "Meta releases Muse Spark 1.3, its most capable AI model yet",
-      "summary": "Meta's chief AI officer says the new model narrows the gap with rivals from OpenAI and Anthropic, and the company is offering steep discounts to users who let it collect their prompts and outputs to train future versions, as it prepares a broader rollout across Instagram and Facebook.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-02/meta-releases-more-powerful-ai-model-edging-closer-to-rivals",
+      "headline": "Google, Anthropic and OpenAI simultaneously unveil dedicated cybersecurity AI models",
+      "summary": "All three labs announced cyber-focused model variants and new safeguards in the same week: Google's Gemini 3.8 Flash Cyber, Anthropic's gated Mythos 5.1 access plus Enterprise Frontier Safeguards, and OpenAI's added misuse protections. The coordinated rollout underscores growing concern that increasingly capable models can automate sophisticated offensive cyber operations as easily as defensive ones.",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
       "published_at": "2026-09-02"
     },
     {
-      "headline": "Meta prepares to launch autonomous AI agent 'Hatch' inside Instagram and WhatsApp",
-      "summary": "Hatch is designed to complete multi-step tasks like booking restaurants, comparing products and tracking deliveries without step-by-step instructions, running at launch on Anthropic's Claude models while Meta develops its own in-house replacement, and it has already drawn privacy scrutiny.",
-      "source": "YourStory",
-      "url": "https://yourstory.com/ai-story/meta-hatch-ai-agent-instagram-whatsapp"
+      "headline": "Anthropic's IPO timeline slips toward mid-October",
+      "summary": "Anthropic is reportedly pushing its public listing to mid-October, targeting a roughly $2 trillion valuation and up to $100 billion raised, after posting its first operating profit in Q2. The delay comes even as the company races to complete the offering before U.S. midterm elections in November.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/05/anthropic-ipo-launch-shifts-toward-mid-october-reuters.html",
+      "published_at": "2026-09-05"
     },
     {
-      "headline": "Crusoe raises over $3B at a $30B valuation after landing $13B Jane Street compute deal",
-      "summary": "The AI data-center infrastructure company's fundraise, co-led by Atreides Management and Valor Equity Partners, comes just 10 months after its prior $1.38 billion round and follows a five-year cloud contract to supply GPUs to trading firm Jane Street.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-      "published_at": "2026-09-03"
+      "headline": "Mistral AI raises largest-ever European tech funding round at €3 billion",
+      "summary": "Samsung led a €3 billion Series D for the French AI lab at a post-money valuation above €21 billion, with BlackRock, ASML and NVIDIA among participants. Mistral says the capital will expand frontier research and compute capacity as it positions itself as Europe's sovereign AI champion.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mistral-ai-raises-3-billion-111824280.html",
+      "published_at": "2026-09-08"
     },
     {
-      "headline": "US pushes AI deregulation at G20 while EU advances new binding AI law",
-      "summary": "Washington is urging other governments to loosen AI constraints to spur industry growth even as the European Union moves ahead with fresh legislation, deepening a transatlantic policy split over how tightly to govern increasingly powerful AI systems.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/2/us-pushes-looser-approach-to-ai-regulation-while-eu-pushes-new-law",
-      "published_at": "2026-09-02"
-    },
-    {
-      "headline": "Swiss startup Jaipur Robotics raises €4.3M to bring computer vision to heavy industry",
-      "summary": "The industrial-AI startup will use the funding to expand computer-vision and automation systems for waste-to-energy, cement and biomass plants, part of a broader wave of AI investment moving from software into physical, industrial deployment.",
-      "source": "Tech Startups",
-      "url": "https://techstartups.com/2026/09/07/startup-funding-news-today-september-7-2026-pixxel-jet-zero-navana-ai-more/",
+      "headline": "Unitree unveils world-model-powered autonomous humanoid, UnifoLM-X2-1.0",
+      "summary": "Unitree says its UnifoLM-X2-1.0 is the first fully autonomous humanoid driven by a real-time world model that predicts physical interactions before planning movement, letting its G1 robot spar against a human without teleoperation. The reveal follows Unitree's August IPO on Shanghai's STAR Market.",
+      "source": "Cryptobriefing",
+      "url": "https://cryptobriefing.com/unitree-world-model-humanoid-robot/",
       "published_at": "2026-09-07"
     },
     {
-      "headline": "Anthropic's Claude produces the first fully computer-verified proof of Fermat's Last Theorem",
-      "summary": "Working largely autonomously over about 11 days, dozens of coordinated Claude agents wrote roughly 13 million lines of Lean code and proved nearly 29,500 intermediate theorems to formalize Andrew Wiles' famous proof, a feat mathematicians had expected to take years of human effort.",
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/04/anthropic-uses-claude-to-formalize-proof-of-fermats-last-theorem/",
+      "headline": "Unitree humanoid robots found exposed to Bluetooth exploit from 30 meters away",
+      "summary": "Security researchers disclosed that Unitree's humanoid robots carry unpatched Bluetooth vulnerabilities giving attackers root access from up to 30 meters, even as the company exhibits the robots publicly in Berlin. The finding highlights growing physical-security risk as humanoid robots move from labs to public demonstrations.",
+      "source": "Tech Times",
+      "url": "https://www.techtimes.com/articles/326651/20260904/unitree-humanoid-robots-hacked-30-meters-eu-buyers-ifa-face-no-import-restriction.htm",
       "published_at": "2026-09-04"
+    },
+    {
+      "headline": "Open-source coding agent OpenHands hits production-ready 1.0",
+      "summary": "OpenHands reached its 1.0 release with Docker sandboxing, built-in security policies and a plugin system, and reports autonomously completing about 68% of SWE-bench Verified tasks. It's a notable milestone for open-source alternatives to closed autonomous coding agents like Claude Code and Codex.",
+      "source": "DEV Community",
+      "url": "https://dev.to/jamilxt/openhands-just-hit-10-heres-how-to-run-it-on-your-own-machine-without-handing-over-the-keys-5666",
+      "published_at": "2026-09-08"
+    },
+    {
+      "headline": "Baidu's Xiaodu unveils AI hardware lineup with upgraded Super Xiaodu assistant",
+      "summary": "Baidu's smart-device unit launched new displays, companion screens, speakers and cameras built around an upgraded Super Xiaodu AI assistant, including a second-generation AI monitoring agent for home cameras. The launch signals AI agents becoming the default control layer for consumer smart-home hardware in China.",
+      "source": "TechNode",
+      "url": "https://technode.com/2026/09/07/baidu-xiaodu-ai-hardware-launch/",
+      "published_at": "2026-09-07"
     }
   ]
 }
