@@ -1,82 +1,82 @@
 {
-  "generated_at": "2026-09-09T05:04:23Z",
+  "generated_at": "2026-09-10T05:02:26Z",
   "items": [
     {
-      "headline": "OpenAI claims Navier-Stokes proof, igniting authorship dispute with rival mathematicians",
-      "summary": "OpenAI says an internal model beyond GPT-6 Astra, using roughly 10,000 concurrent agents over 88 hours, produced a proof that 3D Navier-Stokes equations can blow up in finite time, one of the seven Millennium Prize Problems. The unpublished claim triggered a public clash after NYU mathematician Tristan Buckmaster and Anthropic researcher Levent Alpöge accused OpenAI of following their prior Lean-verified Euler blowup work without credit.",
+      "headline": "Anthropic Researcher Resigns, Warns AI Companies Are 'Gambling With Our Lives'",
+      "summary": "Jacob Coxon, who did pretraining research at both OpenAI and Anthropic, publicly resigned warning that AI labs are racing toward self-improving superintelligence without adequate safety measures, a claim several Anthropic staff publicly endorsed.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+      "published_at": "2026-09-09"
+    },
+    {
+      "headline": "OpenAI Says Unreleased Model Solved the Navier-Stokes Millennium Prize Problem",
+      "summary": "OpenAI claims an internal model more capable than GPT-6 Astra, using roughly 10,000 concurrent AI agents over 88 hours, produced a proof that 3D Navier-Stokes equations can develop a finite-time singularity, though the claim is disputed amid a credit controversy with independent mathematicians who had researched related equations for nearly a year.",
+      "source": "CNN Business",
+      "url": "https://www.cnn.com/2026/09/09/business/openai-millennium-problems-navier-stokes-hnk",
+      "published_at": "2026-09-09"
+    },
+    {
+      "headline": "US Intelligence Agencies Accuse Six Chinese AI Firms of 'Industrial-Scale' Model Distillation",
+      "summary": "A joint NSA, CISA, and FBI advisory alleges DeepSeek, Moonshot AI, Alibaba, MiniMax, StepFun, and Z.AI extracted billions of tokens from US frontier models including Claude, GPT, Gemini, and Grok since late 2024, using fraudulent accounts and proxy routing to evade detection.",
+      "source": "CISA",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a",
       "published_at": "2026-09-08"
     },
     {
-      "headline": "OpenAI ships GPT-6 Astra, its first model to hit 'Critical' cybersecurity capability",
-      "summary": "OpenAI rolled out GPT-6 Astra with a 1M-token context window, built on its largest training run yet, and president Greg Brockman called it a potential step toward AGI. It's also the first OpenAI model rated Critical under the company's Preparedness Framework for autonomous vulnerability discovery.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman",
-      "published_at": "2026-09-03"
-    },
-    {
-      "headline": "Google DeepMind launches Gemini 3.8 Flash and a defenders-only Cyber variant",
-      "summary": "Google shipped Gemini 3.8 Flash, its third Flash release in six weeks, alongside a Gemini 3.8 Flash Cyber model restricted to trusted defenders via its Fairwind Program for autonomous vulnerability discovery. The move continues a rapid cadence of frontier releases as Google tries to close the gap with OpenAI and Anthropic.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html",
-      "published_at": "2026-09-02"
-    },
-    {
-      "headline": "Anthropic debuts Claude Fable 5.1 and Mythos 5.1 in a triple-release push",
-      "summary": "Anthropic released Claude Fable 5.1 broadly while gating the more capable Mythos 5.1 behind trusted-access programs for cybersecurity and life-sciences work. The launch kicked off the densest 72 hours of frontier model activity this year, with OpenAI, Google and Meta all shipping within 48 hours.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-september-1-triple-release-012352481.html",
-      "published_at": "2026-09-01"
-    },
-    {
-      "headline": "Google, Anthropic and OpenAI simultaneously unveil dedicated cybersecurity AI models",
-      "summary": "All three labs announced cyber-focused model variants and new safeguards in the same week: Google's Gemini 3.8 Flash Cyber, Anthropic's gated Mythos 5.1 access plus Enterprise Frontier Safeguards, and OpenAI's added misuse protections. The coordinated rollout underscores growing concern that increasingly capable models can automate sophisticated offensive cyber operations as easily as defensive ones.",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
-      "published_at": "2026-09-02"
-    },
-    {
-      "headline": "Anthropic's IPO timeline slips toward mid-October",
-      "summary": "Anthropic is reportedly pushing its public listing to mid-October, targeting a roughly $2 trillion valuation and up to $100 billion raised, after posting its first operating profit in Q2. The delay comes even as the company races to complete the offering before U.S. midterm elections in November.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/05/anthropic-ipo-launch-shifts-toward-mid-october-reuters.html",
-      "published_at": "2026-09-05"
-    },
-    {
-      "headline": "Mistral AI raises largest-ever European tech funding round at €3 billion",
-      "summary": "Samsung led a €3 billion Series D for the French AI lab at a post-money valuation above €21 billion, with BlackRock, ASML and NVIDIA among participants. Mistral says the capital will expand frontier research and compute capacity as it positions itself as Europe's sovereign AI champion.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/mistral-ai-raises-3-billion-111824280.html",
+      "headline": "Google DeepMind Releases AlphaGenome Atlas, a 1-Petabyte Map of the Human Genome",
+      "summary": "The free resource offers precomputed molecular-effect predictions for all 9 billion possible single-nucleotide variants in human DNA, acting as a genomics successor to the AlphaFold Database and already helping researchers identify disease-associated variants.",
+      "source": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/new-google-deepmind-alphagenome-atlas-could-transform-our-understanding-of-genetic-diseases/",
       "published_at": "2026-09-08"
     },
     {
-      "headline": "Unitree unveils world-model-powered autonomous humanoid, UnifoLM-X2-1.0",
-      "summary": "Unitree says its UnifoLM-X2-1.0 is the first fully autonomous humanoid driven by a real-time world model that predicts physical interactions before planning movement, letting its G1 robot spar against a human without teleoperation. The reveal follows Unitree's August IPO on Shanghai's STAR Market.",
-      "source": "Cryptobriefing",
-      "url": "https://cryptobriefing.com/unitree-world-model-humanoid-robot/",
-      "published_at": "2026-09-07"
-    },
-    {
-      "headline": "Unitree humanoid robots found exposed to Bluetooth exploit from 30 meters away",
-      "summary": "Security researchers disclosed that Unitree's humanoid robots carry unpatched Bluetooth vulnerabilities giving attackers root access from up to 30 meters, even as the company exhibits the robots publicly in Berlin. The finding highlights growing physical-security risk as humanoid robots move from labs to public demonstrations.",
-      "source": "Tech Times",
-      "url": "https://www.techtimes.com/articles/326651/20260904/unitree-humanoid-robots-hacked-30-meters-eu-buyers-ifa-face-no-import-restriction.htm",
-      "published_at": "2026-09-04"
-    },
-    {
-      "headline": "Open-source coding agent OpenHands hits production-ready 1.0",
-      "summary": "OpenHands reached its 1.0 release with Docker sandboxing, built-in security policies and a plugin system, and reports autonomously completing about 68% of SWE-bench Verified tasks. It's a notable milestone for open-source alternatives to closed autonomous coding agents like Claude Code and Codex.",
-      "source": "DEV Community",
-      "url": "https://dev.to/jamilxt/openhands-just-hit-10-heres-how-to-run-it-on-your-own-machine-without-handing-over-the-keys-5666",
+      "headline": "Fields Medalist Jacob Tsimerman Launches Mathematical AI Safety Institute",
+      "summary": "Modeled on Princeton's Institute for Advanced Study, the new institute aims to build rigorous mathematical frameworks for AI safety and plans to grow to 30-100 researchers by late 2027; Tsimerman will simultaneously join OpenAI's safety team.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/technology/6076244-jacob-tsimerman-launches-maisi/",
       "published_at": "2026-09-08"
     },
     {
-      "headline": "Baidu's Xiaodu unveils AI hardware lineup with upgraded Super Xiaodu assistant",
-      "summary": "Baidu's smart-device unit launched new displays, companion screens, speakers and cameras built around an upgraded Super Xiaodu AI assistant, including a second-generation AI monitoring agent for home cameras. The launch signals AI agents becoming the default control layer for consumer smart-home hardware in China.",
+      "headline": "AI Coding Startup Cognition Raises $2 Billion at $48 Billion Valuation",
+      "summary": "The Series E round, led by Andreessen Horowitz and Accel, nearly doubles Cognition's valuation from May as run-rate revenue for its Devin autonomous coding agent grew from $492 million to nearly $900 million.",
+      "source": "Reuters (via Investing.com)",
+      "url": "https://www.investing.com/news/economy-news/cognition-ai-raises-2-billion-at-48-billion-valuation-4892546",
+      "published_at": "2026-09-08"
+    },
+    {
+      "headline": "Qualcomm and AWS Strike Multi-Generation Deal for Custom AI Inference Chips",
+      "summary": "The partnership will co-design custom AI-inference silicon and optical connectivity up to 1.6 Tbit/s for AWS data centers, with Amazon receiving stock options worth up to $60 billion tied to purchase commitments.",
+      "source": "DatacenterDynamics",
+      "url": "https://www.datacenterdynamics.com/en/news/qualcomm-and-aws-partner-on-custom-silicon-for-large-scale-ai-data-centers/",
+      "published_at": "2026-09-08"
+    },
+    {
+      "headline": "DeepSeek Begins Beta Testing of V4.1 Flash, a New Multimodal Model",
+      "summary": "The interim model introduces a new architecture with native multimodal support and claims to beat V4 Pro on internal benchmarks, ahead of a planned official release and price cut around September 10.",
       "source": "TechNode",
-      "url": "https://technode.com/2026/09/07/baidu-xiaodu-ai-hardware-launch/",
+      "url": "https://technode.com/2026/09/09/deepseek-v4-1-flash-multimodal-limited-beta/",
+      "published_at": "2026-09-09"
+    },
+    {
+      "headline": "Agility Robotics' SEC Filing Reveals $1.8M Revenue, $140M Loss Ahead of SPAC Listing",
+      "summary": "Financial details disclosed in Agility's S-4 filing show the humanoid robot maker's Digit robot is deployed at nine customer sites with over $300 million in multi-year orders, as the company prepares to go public via a $2.5 billion SPAC merger.",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac/",
       "published_at": "2026-09-07"
+    },
+    {
+      "headline": "Accenture and Google Cloud Launch Gemini Enterprise Business Group",
+      "summary": "The new group pairs a 1,000-person forward-deployed engineer workforce with Google Cloud specialists to accelerate large-scale Gemini Enterprise deployments and agentic AI adoption across industries.",
+      "source": "Accenture Newsroom",
+      "url": "https://newsroom.accenture.com/news/2026/accenture-and-google-cloud-deepen-partnership-with-formation-of-new-accenture-gemini-enterprise-business-group",
+      "published_at": "2026-09-08"
+    },
+    {
+      "headline": "Investigation Finds Meta Approved Hundreds of Ads With AI-Generated Child Abuse Imagery",
+      "summary": "A Tech Transparency Project report identified 332 paid ads on Facebook and Instagram containing AI-generated CSAM between November 2025 and August 2026, many linking to Chinese-made 'nudifying' apps, despite Meta's ad review process.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2231100/meta-apps-displayed-ads-that-contained-ai-generated-csam/",
+      "published_at": "2026-09-08"
     }
   ]
 }
