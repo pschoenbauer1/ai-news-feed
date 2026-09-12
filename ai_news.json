@@ -1,89 +1,74 @@
 {
-  "generated_at": "2026-09-11T05:02:55Z",
+  "generated_at": "2026-09-12T05:00:00Z",
   "items": [
     {
-      "headline": "OpenAI launches Agents API in public beta",
-      "summary": "OpenAI opened public beta access to its Agents API, exposing the same Codex harness that handles session orchestration, context compaction, and tool calling behind a single API call, letting developers build long-running autonomous agents without building their own orchestration layer.",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-the-agents-api/",
-      "published_at": "2026-09-10"
-    },
-    {
-      "headline": "AI alignment pioneer Paul Christiano joins OpenAI Foundation Board",
-      "summary": "OpenAI named Paul Christiano, founder of the Alignment Research Center and a co-inventor of RLHF, to its Foundation Board and Safety and Security Committee, adding a prominent safety researcher to its governance structure while he recuses himself from OpenAI-related matters at NIST.",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board/",
-      "published_at": "2026-09-09"
-    },
-    {
-      "headline": "AI sales-automation startup Clay raises $115M at $7.1B valuation",
-      "summary": "Clay, an AI-driven go-to-market platform used by Anthropic, Google, OpenAI and Stripe, closed a $115M round led by Wellington Management, more than doubling its valuation from $3.1B a year earlier as demand for AI revenue-generating agents surges.",
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/09/sales-automation-startup-clay-boosts-valuation-to-7-1b-in-115m-funding-round/",
-      "published_at": "2026-09-09"
-    },
-    {
-      "headline": "Oracle cloud infrastructure revenue surges 121% on AI demand",
-      "summary": "Oracle reported Q1 FY2027 cloud infrastructure revenue of $7.4B, up 121% year-over-year, with GPU-related revenue up 177% and over 96,000 Nvidia Grace Blackwell GB200 units delivered, underscoring the scale of AI datacenter buildout even as GPU rental margins stay thin.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-10/oracle-posts-cloud-sales-that-top-estimates-on-surging-ai-demand",
-      "published_at": "2026-09-10"
-    },
-    {
-      "headline": "Anthropic's Claude produces first fully verified proof of Fermat's Last Theorem",
-      "summary": "Working largely autonomously over 11 days, Claude generated a 13-million-line, computer-checked formalization of Fermat's Last Theorem in the Lean proof assistant, proving roughly 29,500 intermediate theorems in what researchers call the largest Lean proof ever written.",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-02822-9",
-      "published_at": "2026-09-04"
-    },
-    {
-      "headline": "Nvidia confirms $12.93B acquisition of Hugging Face",
-      "summary": "Nvidia finalized its purchase of Hugging Face, the platform hosting over 3 million AI models used by 18 million developers, for $12.93B, its second-largest acquisition ever, while pledging the platform will stay open to competing hardware and cloud providers.",
+      "headline": "Mistral AI raises €3B at €21B valuation in Europe's largest-ever tech funding round",
+      "summary": "Mistral closed a Samsung-led €3 billion round, nearly doubling its valuation from a year earlier, to expand compute, build data centers and scale its enterprise 'neocloud' business as European sovereign AI becomes a bigger commercial bet.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-      "published_at": "2026-09-03"
+      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+      "published_at": "2026-09-08"
     },
     {
-      "headline": "OpenAI launches GPT-6 Astra, its first model at 'Critical' cybersecurity capability",
-      "summary": "OpenAI released GPT-6 Astra, calling it a generational leap in coding, science and computer use, while flagging it as the first model to cross the Critical threshold on its Preparedness Framework for cybersecurity risk, prompting added safeguards before rollout.",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/gpt-6-astra/",
-      "published_at": "2026-09-03"
-    },
-    {
-      "headline": "Google ships Gemini 3.8 Flash and a locked-down 'Cyber' variant",
-      "summary": "Google released Gemini 3.8 Flash, its third Flash-tier update in six weeks, built on the 3.7 Flash base but tuned for longer-horizon coding and agentic tasks, alongside a security-focused Gemini 3.8 Flash Cyber variant, at unchanged pricing for now.",
-      "source": "Google",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-      "published_at": "2026-09-02"
-    },
-    {
-      "headline": "Meta releases Muse Spark 1.3, its most capable AI model yet",
-      "summary": "Meta rolled out Muse Spark 1.3 to developers and across Instagram, Facebook and Meta AI, narrowing the capability gap with OpenAI and Anthropic, while offering steep price discounts to users who let Meta use their prompts and outputs for future model training.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-02/meta-releases-more-powerful-ai-model-edging-closer-to-rivals",
-      "published_at": "2026-09-02"
-    },
-    {
-      "headline": "Anthropic releases Claude Fable 5.1 and Mythos 5.1",
-      "summary": "Anthropic shipped Claude Fable 5.1, generally available with new invisible watermarking for generated text, alongside the gated Mythos 5.1 variant for cybersecurity and life-sciences use, both cutting agentic-workload costs by up to 45% via cheaper cache reads.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "published_at": "2026-09-01"
-    },
-    {
-      "headline": "Unitree completes mainland China's first humanoid robot IPO",
-      "summary": "Unitree Robotics debuted on Shanghai's STAR Market with shares closing 460% above the IPO price after demand was oversubscribed more than 8,000 times, raising about $900M and valuing the humanoid and quadruped robot maker at roughly $9B.",
+      "headline": "Qualcomm signs $60B AI chip deal with Amazon",
+      "summary": "Qualcomm and Amazon struck a long-term partnership under which Amazon could buy up to $60 billion of custom AI inference chips and optical networking gear for its data centers, with Qualcomm also issuing Amazon roughly $4 billion in stock warrants, as cloud giants keep diversifying away from Nvidia.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/19/china-backflipping-robot-maker-unitree-jumps-shanghai-ipo.html",
-      "published_at": "2026-08-19"
+      "url": "https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html",
+      "published_at": "2026-09-08"
     },
     {
-      "headline": "FCC bans imports of new foreign-made humanoid and quadruped robots",
-      "summary": "The U.S. FCC restricted imports of new foreign-built humanoid robots, quadrupeds and connected mobile machines on national-security grounds, targeting China's dominance of the humanoid robot market while exempting previously approved models already in the U.S.",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/tech/tech-news/us-bans-foreign-made-humanoid-robots-targeting-china-national-security-rcna589777",
-      "published_at": "2026-07-27"
+      "headline": "Anthropic says Chinese AI labs ran industrial-scale distillation attacks on Claude",
+      "summary": "Anthropic's latest threat intelligence report accuses seven China-based labs, including Alibaba, DeepSeek and Moonshot AI, of covertly extracting Claude's capabilities through roughly 200 million exchanges, with Alibaba's campaign alone generating over 151 million interactions to clone Claude's reasoning and coding skills.",
+      "source": "PYMNTS",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-reports-chinese-labs-clone-claude-capabilities-on-industrial-scale/",
+      "published_at": "2026-09-11"
+    },
+    {
+      "headline": "Meta acquires Swedish AI agent startup Stilla.ai",
+      "summary": "Meta is buying eight-month-old Stilla, whose AI agents integrate with tools like Slack and GitHub to retain organizational context, to accelerate Meta Business Agent, the assistant that already handles over a billion business conversations a day on WhatsApp, Messenger and Instagram.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/09/meta-acquires-swedish-ai-startup-stillaai",
+      "published_at": "2026-09-09"
+    },
+    {
+      "headline": "Sakana AI launches Fugu Max and Fugu Ultra v2 multi-agent orchestration models",
+      "summary": "Sakana AI split its Fugu system into two models that route tasks across a pool of open and specialized models rather than relying on one monolithic network, with Ultra v2 aimed at hard multi-step tasks and cutting inference costs by roughly 60%.",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/",
+      "published_at": "2026-09-10"
+    },
+    {
+      "headline": "DeepSeek releases V4.1 Flash with 1-million-token context window",
+      "summary": "DeepSeek launched V4.1 Flash, a 552-billion-parameter mixture-of-experts model with native vision support that outperforms V4-Pro on benchmarks while cutting costs, with open weights published to Hugging Face under an MIT license.",
+      "source": "DeepSeek",
+      "url": "https://deepseek.com/en/news/deepseek-v4-1-flash/",
+      "published_at": "2026-09-10"
+    },
+    {
+      "headline": "Anthropic researcher's resignation reignites AI existential-risk debate",
+      "summary": "After a researcher resigned warning that colleagues 'earnestly believe' AI could kill all humans within a decade, Anthropic's alignment lead publicly backed a greater-than-10% probability estimate, drawing pushback from academics who call such figures speculative marketing.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/business/anthropic-researcher-resigned-9.7337789",
+      "published_at": "2026-09-11"
+    },
+    {
+      "headline": "Google launches native Gemini app for Windows",
+      "summary": "Google brought a dedicated Gemini desktop app to Windows 10 and 11 with an Alt+Space overlay shortcut, Gmail/Drive/Calendar integration, and Nano Banana image generation, following its macOS launch earlier this year and stepping up competition with Microsoft's and OpenAI's desktop assistants.",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/09/10/gemini-windows-app/",
+      "published_at": "2026-09-10"
+    },
+    {
+      "headline": "OpenAI launches GPT-Live-1 full-duplex voice API",
+      "summary": "OpenAI's new GPT-Live-1 model lets voice agents listen and speak simultaneously and handle interruptions naturally, improving full-duplex benchmark performance 30% over its prior voice model, with API pricing set at $0.05 per minute.",
+      "source": "GIGAZINE",
+      "url": "https://gigazine.net/gsc_news/en/20260911-gpt-live-1/",
+      "published_at": "2026-09-11"
+    },
+    {
+      "headline": "UBTech's consumer humanoid U1 robots set for first deliveries",
+      "summary": "UBTech says its UWorld U1 companion humanoids, sold in Lite, Pro and Ultra variants priced from about $17,600 to $145,000, have logged over 13,000 pre-orders ahead of first deliveries beginning September 16.",
+      "source": "humanoid.guide",
+      "url": "https://humanoid.guide/ubtech-lines-up-september-deliveries-for-u1-home-humanoids/"
     }
   ]
 }
