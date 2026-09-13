@@ -1,74 +1,67 @@
 {
-  "generated_at": "2026-09-12T05:00:00Z",
+  "generated_at": "2026-09-13T05:05:33Z",
   "items": [
     {
-      "headline": "Mistral AI raises €3B at €21B valuation in Europe's largest-ever tech funding round",
-      "summary": "Mistral closed a Samsung-led €3 billion round, nearly doubling its valuation from a year earlier, to expand compute, build data centers and scale its enterprise 'neocloud' business as European sovereign AI becomes a bigger commercial bet.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-      "published_at": "2026-09-08"
+      "headline": "Former Anthropic and Google safety researchers go public with AI risk warnings after quitting",
+      "summary": "Joe Benton, who led a safety research team at Anthropic, and Google's Josh Engels resigned and are joining AI-safety nonprofit METR, saying labs need far more transparency about incidents where models act outside intended bounds. Their departures follow ex-Anthropic researcher Jacob Coxon's viral resignation days earlier warning companies are 'racing straight to self-improving superintelligence.'",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/tech/security/two-ai-researchers-leave-anthropic-google-safety-concerns-rcna597086",
+      "published_at": "2026-09-12"
     },
     {
-      "headline": "Qualcomm signs $60B AI chip deal with Amazon",
-      "summary": "Qualcomm and Amazon struck a long-term partnership under which Amazon could buy up to $60 billion of custom AI inference chips and optical networking gear for its data centers, with Qualcomm also issuing Amazon roughly $4 billion in stock warrants, as cloud giants keep diversifying away from Nvidia.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html",
-      "published_at": "2026-09-08"
-    },
-    {
-      "headline": "Anthropic says Chinese AI labs ran industrial-scale distillation attacks on Claude",
-      "summary": "Anthropic's latest threat intelligence report accuses seven China-based labs, including Alibaba, DeepSeek and Moonshot AI, of covertly extracting Claude's capabilities through roughly 200 million exchanges, with Alibaba's campaign alone generating over 151 million interactions to clone Claude's reasoning and coding skills.",
-      "source": "PYMNTS",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-reports-chinese-labs-clone-claude-capabilities-on-industrial-scale/",
-      "published_at": "2026-09-11"
-    },
-    {
-      "headline": "Meta acquires Swedish AI agent startup Stilla.ai",
-      "summary": "Meta is buying eight-month-old Stilla, whose AI agents integrate with tools like Slack and GitHub to retain organizational context, to accelerate Meta Business Agent, the assistant that already handles over a billion business conversations a day on WhatsApp, Messenger and Instagram.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/09/09/meta-acquires-swedish-ai-startup-stillaai",
+      "headline": "OpenAI reverses course, calls for mandatory national AI safety regulation",
+      "summary": "OpenAI's Chris Lehane urged Congress to pass binding, capability-based safety rules covering testing, cybersecurity and incident reporting for the most advanced AI systems, a reversal from the company's earlier preference for voluntary commitments. The shift follows incidents involving AI agents acting outside their intended bounds during testing.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/technology/6081501-openai-calls-mandatory-ai-safety-requirements/",
       "published_at": "2026-09-09"
     },
     {
-      "headline": "Sakana AI launches Fugu Max and Fugu Ultra v2 multi-agent orchestration models",
-      "summary": "Sakana AI split its Fugu system into two models that route tasks across a pool of open and specialized models rather than relying on one monolithic network, with Ultra v2 aimed at hard multi-step tasks and cutting inference costs by roughly 60%.",
+      "headline": "UltraSense unveils ultrasound-based tactile sensing platform for humanoid robot hands",
+      "summary": "UltraSense Systems launched a sub-surface ultrasound sensing architecture that reads contact-induced deformation from beneath a robot's touch surface rather than relying on surface electrodes, aiming to give humanoid hands and grippers more durable, high-fidelity touch perception. The approach targets a key bottleneck in physical AI: sensors that hold up under the wear of constant real-world contact.",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com/ultrasound-offers-scalable-path-tactile-intelligence-physical-ai/",
+      "published_at": "2026-09-12"
+    },
+    {
+      "headline": "Cognition releases SWE-2, a coding model that nearly matches frontier models at a fraction of the cost",
+      "summary": "Devin-maker Cognition released SWE-2, post-trained from Moonshot AI's Kimi K3, scoring within a point of Anthropic's Fable 5.1 on Cognition's FrontierCode benchmark while costing roughly 64% less to run. It's immediately available in Devin Desktop and CLI, underscoring the push toward cheaper near-frontier coding agents.",
       "source": "MarkTechPost",
-      "url": "https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/",
+      "url": "https://www.marktechpost.com/2026/09/12/cognition-releases-swe-2-a-kimi-k3-post-trained-coding-model-that-matches-fable-5-1-on-frontiercode-at-64-lower-cost/",
+      "published_at": "2026-09-12"
+    },
+    {
+      "headline": "Hundreds of AI agents used to breach 395+ organizations in hours-long PaperCut exploitation campaign",
+      "summary": "GreyNoise researchers found a likely Russian-speaking threat actor orchestrated hundreds of AI agents, built on OpenAI's Codex harness and a DeepSeek model, to develop and deploy exploits against PaperCut NG/MF print-server flaws, compromising over 440 instances across 48 countries. The campaign reached domain-admin access at some victims within hours, illustrating how agentic AI can compress attack timelines.",
+      "source": "GreyNoise",
+      "url": "https://www.greynoise.io/blog/ai-orchestrated-campaign-against-papercut-ng-mf",
       "published_at": "2026-09-10"
     },
     {
-      "headline": "DeepSeek releases V4.1 Flash with 1-million-token context window",
-      "summary": "DeepSeek launched V4.1 Flash, a 552-billion-parameter mixture-of-experts model with native vision support that outperforms V4-Pro on benchmarks while cutting costs, with open weights published to Hugging Face under an MIT license.",
-      "source": "DeepSeek",
-      "url": "https://deepseek.com/en/news/deepseek-v4-1-flash/",
-      "published_at": "2026-09-10"
+      "headline": "AI chip startup Positron raises $875M Series C at $5B valuation",
+      "summary": "Positron closed an $875M two-tranche round backed by NEA, Atreides, Valor and Netscape co-founder Jim Clark to fund its Asimov inference chip, which uses large pools of commodity LPDDR5X memory instead of HBM to sidestep memory supply constraints. The financing also funds a new engineering data center and the follow-on Titan inference system.",
+      "source": "Tech Times",
+      "url": "https://www.techtimes.com/articles/327400/20260912/positron-ai-raises-875m-prove-commodity-memory-can-beat-hbm-inference.htm",
+      "published_at": "2026-09-12"
     },
     {
-      "headline": "Anthropic researcher's resignation reignites AI existential-risk debate",
-      "summary": "After a researcher resigned warning that colleagues 'earnestly believe' AI could kill all humans within a decade, Anthropic's alignment lead publicly backed a greater-than-10% probability estimate, drawing pushback from academics who call such figures speculative marketing.",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/business/anthropic-researcher-resigned-9.7337789",
-      "published_at": "2026-09-11"
+      "headline": "Visa, Mastercard and Ant International launch 'Know-Your-Agent' framework for AI shopping agents",
+      "summary": "The three payment giants agreed to work toward interoperability between their separate AI-agent identity protocols so an agent verified with one network doesn't need to re-register with the others. The move aims to secure and standardize the fast-growing 'agentic commerce' space, which McKinsey projects could handle trillions of dollars in transactions by 2030.",
+      "source": "Businesswire",
+      "url": "https://www.businesswire.com/news/home/20260909003891/en/Ant-International-Mastercard-and-Visa-Initiate-Collaboration-on-Know-Your-Agent-Interoperability-to-Scale-Agentic-Commerce",
+      "published_at": "2026-09-09"
     },
     {
-      "headline": "Google launches native Gemini app for Windows",
-      "summary": "Google brought a dedicated Gemini desktop app to Windows 10 and 11 with an Alt+Space overlay shortcut, Gmail/Drive/Calendar integration, and Nano Banana image generation, following its macOS launch earlier this year and stepping up competition with Microsoft's and OpenAI's desktop assistants.",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/09/10/gemini-windows-app/",
-      "published_at": "2026-09-10"
+      "headline": "Researchers disclose sandbox-escape flaws across Claude Code, Codex, Cursor and other AI coding agents",
+      "summary": "Stealth startup Accomplish detailed a class of 'configuration-based sandbox escape' vulnerabilities in which an AI coding agent's own generated files (like malicious .git configs) are later executed by trusted host tools, letting attacker-controlled code break out of the agent's sandbox. Vendors including Anthropic, OpenAI and Cursor have shipped fixes with wide variance in response time.",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html"
     },
     {
-      "headline": "OpenAI launches GPT-Live-1 full-duplex voice API",
-      "summary": "OpenAI's new GPT-Live-1 model lets voice agents listen and speak simultaneously and handle interruptions naturally, improving full-duplex benchmark performance 30% over its prior voice model, with API pricing set at $0.05 per minute.",
-      "source": "GIGAZINE",
-      "url": "https://gigazine.net/gsc_news/en/20260911-gpt-live-1/",
-      "published_at": "2026-09-11"
-    },
-    {
-      "headline": "UBTech's consumer humanoid U1 robots set for first deliveries",
-      "summary": "UBTech says its UWorld U1 companion humanoids, sold in Lite, Pro and Ultra variants priced from about $17,600 to $145,000, have logged over 13,000 pre-orders ahead of first deliveries beginning September 16.",
-      "source": "humanoid.guide",
-      "url": "https://humanoid.guide/ubtech-lines-up-september-deliveries-for-u1-home-humanoids/"
+      "headline": "Accenture and Google Cloud form 1,000-engineer group to scale Gemini Enterprise deployments",
+      "summary": "The companies launched the Accenture Gemini Enterprise Business Group, building a 1,000-person 'forward deployed engineer' workforce to help enterprise clients move from AI pilots to production use of Google's agentic Gemini Enterprise platform. It's the latest in a string of similar consultancy tie-ups from Microsoft, AWS and Anthropic as enterprises struggle to convert AI spending into measurable returns.",
+      "source": "TheNextWeb",
+      "url": "https://thenextweb.com/news/accenture-google-cloud-gemini-enterprise-forward-deployed-engineers",
+      "published_at": "2026-09-08"
     }
   ]
 }
