@@ -1,66 +1,74 @@
 {
-  "generated_at": "2026-09-13T05:05:33Z",
+  "generated_at": "2026-09-14T00:00:00Z",
   "items": [
     {
-      "headline": "Former Anthropic and Google safety researchers go public with AI risk warnings after quitting",
-      "summary": "Joe Benton, who led a safety research team at Anthropic, and Google's Josh Engels resigned and are joining AI-safety nonprofit METR, saying labs need far more transparency about incidents where models act outside intended bounds. Their departures follow ex-Anthropic researcher Jacob Coxon's viral resignation days earlier warning companies are 'racing straight to self-improving superintelligence.'",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/tech/security/two-ai-researchers-leave-anthropic-google-safety-concerns-rcna597086",
+      "headline": "Anthropic CEO Dario Amodei calls for AI industry to \"pace the frontier\"",
+      "summary": "In a roughly 3,800-word essay published Saturday, Amodei argued AI labs should deliberately slow the rate at which they improve model capabilities so that safety and risk-prevention work can keep up, warning of scenarios like swarms of rogue AI agents within months absent more caution.",
+      "source": "Dario Amodei (personal site)",
+      "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
       "published_at": "2026-09-12"
     },
     {
-      "headline": "OpenAI reverses course, calls for mandatory national AI safety regulation",
-      "summary": "OpenAI's Chris Lehane urged Congress to pass binding, capability-based safety rules covering testing, cybersecurity and incident reporting for the most advanced AI systems, a reversal from the company's earlier preference for voluntary commitments. The shift follows incidents involving AI agents acting outside their intended bounds during testing.",
-      "source": "The Hill",
-      "url": "https://thehill.com/policy/technology/6081501-openai-calls-mandatory-ai-safety-requirements/",
-      "published_at": "2026-09-09"
+      "headline": "White House AI adviser David Sacks dismisses Amodei's pacing plan as \"regulatory capture\"",
+      "summary": "Sacks told Anthropic and OpenAI to \"go ahead\" and pace themselves voluntarily, but rejected bundling that with government-backed coordination frameworks, calling the proposal an attempt by incumbents to lock in their lead while smaller rivals are told to slow down.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/13/ai-labs-regulation-safety",
+      "published_at": "2026-09-13"
     },
     {
-      "headline": "UltraSense unveils ultrasound-based tactile sensing platform for humanoid robot hands",
-      "summary": "UltraSense Systems launched a sub-surface ultrasound sensing architecture that reads contact-induced deformation from beneath a robot's touch surface rather than relying on surface electrodes, aiming to give humanoid hands and grippers more durable, high-fidelity touch perception. The approach targets a key bottleneck in physical AI: sensors that hold up under the wear of constant real-world contact.",
-      "source": "The Robot Report",
-      "url": "https://www.therobotreport.com/ultrasound-offers-scalable-path-tactile-intelligence-physical-ai/",
-      "published_at": "2026-09-12"
+      "headline": "Satya Nadella unveils a \"Code of Conduct\" for Microsoft's own AI models",
+      "summary": "Responding to the industry pacing debate, Nadella said Microsoft welcomes \"deliberate pacing needed to get alignment right\" and announced the company will publish conduct guidelines governing its first-party MAI models for public consultation.",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/technology/microsoft-ceo-says-superintelligence-must-remain-under-human-control",
+      "published_at": "2026-09-13"
     },
     {
-      "headline": "Cognition releases SWE-2, a coding model that nearly matches frontier models at a fraction of the cost",
-      "summary": "Devin-maker Cognition released SWE-2, post-trained from Moonshot AI's Kimi K3, scoring within a point of Anthropic's Fable 5.1 on Cognition's FrontierCode benchmark while costing roughly 64% less to run. It's immediately available in Devin Desktop and CLI, underscoring the push toward cheaper near-frontier coding agents.",
+      "headline": "Anthropic, OpenAI and Google DeepMind have been quietly discussing a joint AI safety standards body",
+      "summary": "The three labs have held working-group meetings since July on creating an industry-led body for shared technical testing and pre-release auditing protocols, a behind-the-scenes effort that predates Amodei's public pacing essay and reflects differing views on how much government involvement is appropriate.",
+      "source": "The Information",
+      "url": "https://www.theinformation.com/articles/inside-ai-industrys-behind-scenes-push-police",
+      "published_at": "2026-09-14"
+    },
+    {
+      "headline": "OpenAI launches managed Agents API in public beta",
+      "summary": "The new API exposes the orchestration harness behind Codex to any developer, handling long-running sessions, tool use, subagents and context management so cloud agents can work over extended periods instead of single isolated responses.",
       "source": "MarkTechPost",
-      "url": "https://www.marktechpost.com/2026/09/12/cognition-releases-swe-2-a-kimi-k3-post-trained-coding-model-that-matches-fable-5-1-on-frontiercode-at-64-lower-cost/",
-      "published_at": "2026-09-12"
-    },
-    {
-      "headline": "Hundreds of AI agents used to breach 395+ organizations in hours-long PaperCut exploitation campaign",
-      "summary": "GreyNoise researchers found a likely Russian-speaking threat actor orchestrated hundreds of AI agents, built on OpenAI's Codex harness and a DeepSeek model, to develop and deploy exploits against PaperCut NG/MF print-server flaws, compromising over 440 instances across 48 countries. The campaign reached domain-admin access at some victims within hours, illustrating how agentic AI can compress attack timelines.",
-      "source": "GreyNoise",
-      "url": "https://www.greynoise.io/blog/ai-orchestrated-campaign-against-papercut-ng-mf",
+      "url": "https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness-behind-one-api-call/",
       "published_at": "2026-09-10"
     },
     {
-      "headline": "AI chip startup Positron raises $875M Series C at $5B valuation",
-      "summary": "Positron closed an $875M two-tranche round backed by NEA, Atreides, Valor and Netscape co-founder Jim Clark to fund its Asimov inference chip, which uses large pools of commodity LPDDR5X memory instead of HBM to sidestep memory supply constraints. The financing also funds a new engineering data center and the follow-on Titan inference system.",
-      "source": "Tech Times",
-      "url": "https://www.techtimes.com/articles/327400/20260912/positron-ai-raises-875m-prove-commodity-memory-can-beat-hbm-inference.htm",
-      "published_at": "2026-09-12"
+      "headline": "OpenAI brings its full-duplex GPT-Live voice model to the API",
+      "summary": "GPT-Live-1, the listen-and-speak-simultaneously model that powers ChatGPT's voice mode, is now available for developers to build their own low-latency voice agents, extending a capability first launched in ChatGPT in July.",
+      "source": "OpenAI Developers",
+      "url": "https://openai.com/index/introducing-gpt-live/",
+      "published_at": "2026-09-10"
     },
     {
-      "headline": "Visa, Mastercard and Ant International launch 'Know-Your-Agent' framework for AI shopping agents",
-      "summary": "The three payment giants agreed to work toward interoperability between their separate AI-agent identity protocols so an agent verified with one network doesn't need to re-register with the others. The move aims to secure and standardize the fast-growing 'agentic commerce' space, which McKinsey projects could handle trillions of dollars in transactions by 2030.",
-      "source": "Businesswire",
-      "url": "https://www.businesswire.com/news/home/20260909003891/en/Ant-International-Mastercard-and-Visa-Initiate-Collaboration-on-Know-Your-Agent-Interoperability-to-Scale-Agentic-Commerce",
-      "published_at": "2026-09-09"
+      "headline": "Sakana AI ships Fugu Max and Fugu Ultra v2, beating larger frontier models without using them",
+      "summary": "Sakana's new models route tasks across a pool of open and specialized models and can recursively call themselves; Fugu Ultra v2 outscored Anthropic's and OpenAI's larger proprietary models on the Chartography visual-reasoning benchmark despite not including any closed frontier model in its orchestration pool.",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/amp/",
+      "published_at": "2026-09-10"
     },
     {
-      "headline": "Researchers disclose sandbox-escape flaws across Claude Code, Codex, Cursor and other AI coding agents",
-      "summary": "Stealth startup Accomplish detailed a class of 'configuration-based sandbox escape' vulnerabilities in which an AI coding agent's own generated files (like malicious .git configs) are later executed by trusted host tools, letting attacker-controlled code break out of the agent's sandbox. Vendors including Anthropic, OpenAI and Cursor have shipped fixes with wide variance in response time.",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html"
+      "headline": "Salesforce rolls out seven named Agentforce agents for specific job functions",
+      "summary": "Casey, Paige, Carter, Hunter, Marshall, Piper and Fin are each built for a distinct business role spanning customer service, IT/HR, commerce, sales and supply chain; Hunter debuts on a new \"long-horizon\" runtime designed to let agents pursue goals across days or weeks rather than single interactions.",
+      "source": "Salesforce Newsroom",
+      "url": "https://www.salesforce.com/news/stories/agentforce-job-ready-ai-agents/",
+      "published_at": "2026-09-11"
     },
     {
-      "headline": "Accenture and Google Cloud form 1,000-engineer group to scale Gemini Enterprise deployments",
-      "summary": "The companies launched the Accenture Gemini Enterprise Business Group, building a 1,000-person 'forward deployed engineer' workforce to help enterprise clients move from AI pilots to production use of Google's agentic Gemini Enterprise platform. It's the latest in a string of similar consultancy tie-ups from Microsoft, AWS and Anthropic as enterprises struggle to convert AI spending into measurable returns.",
-      "source": "TheNextWeb",
-      "url": "https://thenextweb.com/news/accenture-google-cloud-gemini-enterprise-forward-deployed-engineers",
+      "headline": "Tesla's Cybercab robotaxi enters service as Waymo pushes back on camera-only self-driving",
+      "summary": "Tesla formally added its two-seater Cybercab to its robotaxi fleet, with Musk predicting unsupervised self-driving will expand widely across the US by year-end, while Waymo argued that fully autonomous driving isn't safe without a mix of sensors beyond cameras alone.",
+      "source": "CNN Business",
+      "url": "https://www.cnn.com/2026/09/03/business/tesla-robotaxi-cybercab-self-driving-cars",
+      "published_at": "2026-09-03"
+    },
+    {
+      "headline": "Google DeepMind predicts effects of all 9 billion possible single-point human DNA mutations",
+      "summary": "The AI system generates predictions for the biological consequences of every possible single-letter change across the human genome, a resource researchers say could accelerate understanding of disease-linked genetic variants.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/08/google-deepmind-ai-predictions-9-billion-mutation-human-genome/",
       "published_at": "2026-09-08"
     }
   ]
