@@ -1,75 +1,96 @@
 {
-  "generated_at": "2026-09-14T00:00:00Z",
+  "generated_at": "2026-09-15T05:01:56Z",
   "items": [
     {
-      "headline": "Anthropic CEO Dario Amodei calls for AI industry to \"pace the frontier\"",
-      "summary": "In a roughly 3,800-word essay published Saturday, Amodei argued AI labs should deliberately slow the rate at which they improve model capabilities so that safety and risk-prevention work can keep up, warning of scenarios like swarms of rogue AI agents within months absent more caution.",
-      "source": "Dario Amodei (personal site)",
-      "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+      "headline": "Anthropic CEO warns rogue AI agent swarms could seize the internet within a year",
+      "summary": "Dario Amodei published an essay arguing frontier AI development must slow down, warning that autonomous agent swarms could hijack internet infrastructure and cause hundreds of billions in damage, citing real incidents like AI agents commandeering a German wiki. OpenAI's Sam Altman and xAI's Elon Musk publicly endorsed the warning, a rare moment of alignment among rival AI CEOs.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/12/anthropic-ai-amodei-pacing",
       "published_at": "2026-09-12"
     },
     {
-      "headline": "White House AI adviser David Sacks dismisses Amodei's pacing plan as \"regulatory capture\"",
-      "summary": "Sacks told Anthropic and OpenAI to \"go ahead\" and pace themselves voluntarily, but rejected bundling that with government-backed coordination frameworks, calling the proposal an attempt by incumbents to lock in their lead while smaller rivals are told to slow down.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/09/13/ai-labs-regulation-safety",
-      "published_at": "2026-09-13"
-    },
-    {
-      "headline": "Satya Nadella unveils a \"Code of Conduct\" for Microsoft's own AI models",
-      "summary": "Responding to the industry pacing debate, Nadella said Microsoft welcomes \"deliberate pacing needed to get alignment right\" and announced the company will publish conduct guidelines governing its first-party MAI models for public consultation.",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/technology/microsoft-ceo-says-superintelligence-must-remain-under-human-control",
-      "published_at": "2026-09-13"
-    },
-    {
-      "headline": "Anthropic, OpenAI and Google DeepMind have been quietly discussing a joint AI safety standards body",
-      "summary": "The three labs have held working-group meetings since July on creating an industry-led body for shared technical testing and pre-release auditing protocols, a behind-the-scenes effort that predates Amodei's public pacing essay and reflects differing views on how much government involvement is appropriate.",
-      "source": "The Information",
-      "url": "https://www.theinformation.com/articles/inside-ai-industrys-behind-scenes-push-police",
+      "headline": "Microsoft publishes first Code of Conduct for its in-house MAI models",
+      "summary": "Microsoft released a 37-page code of conduct barring its MAI models from running cyberattacks, aiding weapons development, resisting shutdown, or hiding their reasoning from auditors, opening a six-week public comment period. CEO Satya Nadella said the company welcomes 'deliberate pacing' on alignment and called for AI governance not controlled by a handful of companies.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
       "published_at": "2026-09-14"
     },
     {
-      "headline": "OpenAI launches managed Agents API in public beta",
-      "summary": "The new API exposes the orchestration harness behind Codex to any developer, handling long-running sessions, tool use, subagents and context management so cloud agents can work over extended periods instead of single isolated responses.",
-      "source": "MarkTechPost",
-      "url": "https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness-behind-one-api-call/",
-      "published_at": "2026-09-10"
+      "headline": "AI safety slowdown warnings trigger global selloff in chip and AI stocks",
+      "summary": "Semiconductor and AI-linked stocks fell worldwide after Anthropic's and other executives' calls for slower model development raised investor fears of reduced compute spending, though analysts expect the pullback to be short-lived given continued strong demand for chips and infrastructure.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-13/anthropic-s-ai-warning-may-weigh-on-chips-but-trade-seen-intact",
+      "published_at": "2026-09-13"
     },
     {
-      "headline": "OpenAI brings its full-duplex GPT-Live voice model to the API",
-      "summary": "GPT-Live-1, the listen-and-speak-simultaneously model that powers ChatGPT's voice mode, is now available for developers to build their own low-latency voice agents, extending a capability first launched in ChatGPT in July.",
-      "source": "OpenAI Developers",
-      "url": "https://openai.com/index/introducing-gpt-live/",
-      "published_at": "2026-09-10"
-    },
-    {
-      "headline": "Sakana AI ships Fugu Max and Fugu Ultra v2, beating larger frontier models without using them",
-      "summary": "Sakana's new models route tasks across a pool of open and specialized models and can recursively call themselves; Fugu Ultra v2 outscored Anthropic's and OpenAI's larger proprietary models on the Chartography visual-reasoning benchmark despite not including any closed frontier model in its orchestration pool.",
-      "source": "MarkTechPost",
-      "url": "https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/amp/",
-      "published_at": "2026-09-10"
-    },
-    {
-      "headline": "Salesforce rolls out seven named Agentforce agents for specific job functions",
-      "summary": "Casey, Paige, Carter, Hunter, Marshall, Piper and Fin are each built for a distinct business role spanning customer service, IT/HR, commerce, sales and supply chain; Hunter debuts on a new \"long-horizon\" runtime designed to let agents pursue goals across days or weeks rather than single interactions.",
-      "source": "Salesforce Newsroom",
-      "url": "https://www.salesforce.com/news/stories/agentforce-job-ready-ai-agents/",
-      "published_at": "2026-09-11"
-    },
-    {
-      "headline": "Tesla's Cybercab robotaxi enters service as Waymo pushes back on camera-only self-driving",
-      "summary": "Tesla formally added its two-seater Cybercab to its robotaxi fleet, with Musk predicting unsupervised self-driving will expand widely across the US by year-end, while Waymo argued that fully autonomous driving isn't safe without a mix of sensors beyond cameras alone.",
-      "source": "CNN Business",
-      "url": "https://www.cnn.com/2026/09/03/business/tesla-robotaxi-cybercab-self-driving-cars",
-      "published_at": "2026-09-03"
-    },
-    {
-      "headline": "Google DeepMind predicts effects of all 9 billion possible single-point human DNA mutations",
-      "summary": "The AI system generates predictions for the biological consequences of every possible single-letter change across the human genome, a resource researchers say could accelerate understanding of disease-linked genetic variants.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/09/08/google-deepmind-ai-predictions-9-billion-mutation-human-genome/",
+      "headline": "Mistral raises €3 billion to build 'sovereign' European AI infrastructure",
+      "summary": "The Paris-based startup closed a Series D round led by Samsung Electronics at a post-money valuation above €21 billion, calling it the largest equity raise ever by a European tech company. Mistral plans to use the funds to scale compute toward 1 GW of European capacity by 2030 and position itself as a non-US alternative to OpenAI and Anthropic.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
       "published_at": "2026-09-08"
+    },
+    {
+      "headline": "Sakana AI ships Fugu Max and Fugu Ultra v2, orchestrator models that route tasks across other AI systems",
+      "summary": "Rather than a single monolithic model, Fugu Ultra v2 coordinates specialist models to solve tasks, scoring 74.3 on the DeepSWE software-repair benchmark, edging out GPT-6 Astra and Claude Fable 5.1 despite excluding both from its model pool. It ships alongside a cheaper variant, Fugu Max, via an OpenAI-compatible API.",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/",
+      "published_at": "2026-09-10"
+    },
+    {
+      "headline": "DeepSeek V4.1 Flash launches with native multimodal support under MIT license",
+      "summary": "The open-weight 552B-parameter mixture-of-experts model adds vision input to DeepSeek's Flash tier alongside a 1M-token context window, and the company says it comprehensively beats the prior V4 Pro on performance, cost, and speed. It's a notable move by a major Chinese lab to keep pace with US frontier labs on openly licensed multimodal models.",
+      "source": "TechFlow",
+      "url": "https://www.techflowpost.com/en-US/newsletter/135519",
+      "published_at": "2026-09-10"
+    },
+    {
+      "headline": "OpenAI releases ChatGPT Images 2.5 with Flare and Sunburst image models",
+      "summary": "The update introduces Flare, a faster low-latency variant, and Sunburst, a higher-quality model for demanding generations, cutting image generation latency by up to 50% versus GPT-Image-2 while improving detail, lighting, and subject consistency in edits.",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/09/08/openai-releases-chatgpt-images-2-5-with-sharper-details-and-more-precise-editing/",
+      "published_at": "2026-09-08"
+    },
+    {
+      "headline": "LG and Nvidia deepen partnership to build LG's next-generation humanoid robot",
+      "summary": "Following an MOU signed by LG's Kwang Mo Koo and Nvidia's Jensen Huang, LG is developing a bipedal humanoid powered by Nvidia Jetson Thor compute, the Isaac GR00T foundation model, and Nvidia Halos safety systems, with a public unveiling planned for Q1 2027 spanning humanoids, wheeled robots, and factory data systems.",
+      "source": "RoboticsTomorrow",
+      "url": "https://www.roboticstomorrow.com/news/2026/08/14/lg-to-unveil-its-next-gen-humanoid-robot-built-on-nvidia-isaac-gr00t/26953/",
+      "published_at": "2026-08-14"
+    },
+    {
+      "headline": "Path Robotics launches Rove mobile welding platform powered by its Obsidian physical AI model",
+      "summary": "Rove extends automated welding beyond fixed robotic cells to mobile applications, using Path Robotics' proprietary 'Obsidian' physical AI model to guide autonomous welding in manufacturing settings that previously required manual labor.",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/",
+      "published_at": null
+    },
+    {
+      "headline": "MIT and Nvidia develop gesture-based robot control that boosts task success by 21%",
+      "summary": "Researchers built a system letting people guide robots through hand gestures rather than code, achieving a 21% higher task-success rate than traditional teleoperation or programming-based control methods, a step toward more accessible robot instruction for non-experts.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/news/matter_energy/robotics/",
+      "published_at": null
+    },
+    {
+      "headline": "Harvard researchers find too many robots can deadlock crowded shared spaces",
+      "summary": "A study on multi-robot systems found that beyond a certain density, adding more robots to a shared environment causes gridlock rather than improved throughput, but that introducing a small amount of randomness or yielding behavior restores smooth flow — a finding relevant to warehouse and delivery-robot fleets.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/news/computers_math/robotics/",
+      "published_at": null
+    },
+    {
+      "headline": "AI-linked biotech firms lean into 'builder phase' as drug discovery models mature",
+      "summary": "Following a wave of AI-driven biotech IPOs (Generate:Biomedicines, Eikon Therapeutics, Insilico Medicine, XtalPi), the sector is shifting from hype to operational integration, restructuring R&D data pipelines to make generative and simulation AI models a default part of drug discovery workflows.",
+      "source": "Drug Discovery News",
+      "url": "https://www.drugdiscoverynews.com/the-2026-ai-power-shift-17020",
+      "published_at": null
+    },
+    {
+      "headline": "Xi Jinping pushes AI and tech cooperation through BRICS as global AI governance splinters",
+      "summary": "Amid the Western debate over slowing AI development, China's president is positioning AI collaboration as a pillar of BRICS strategy, underscoring a widening geopolitical divide over how — and how fast — advanced AI should be developed and governed.",
+      "source": "The Neuron",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-september-14-2026/",
+      "published_at": "2026-09-14"
     }
   ]
 }
