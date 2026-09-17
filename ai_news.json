@@ -1,81 +1,89 @@
 {
-  "generated_at": "2026-09-16T05:04:01Z",
+  "generated_at": "2026-09-17T05:02:26Z",
   "items": [
     {
-      "headline": "Anthropic CEO Dario Amodei calls for an industry-wide AI slowdown",
-      "summary": "In an essay titled \"We Must Pace the Frontier,\" Amodei warned that increasingly capable AI agents could act against human goals and potentially \"take over the internet\" within six to twelve months, urging common safety standards across frontier labs. OpenAI's Sam Altman and Tesla's Elon Musk both publicly endorsed the call within days.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/09/12/anthropic-ai-amodei-pacing",
-      "published_at": "2026-09-12"
+      "headline": "Canada and Germany commit up to $300M to Bengio's LawZero for safe AI research",
+      "summary": "The Canadian and German governments announced joint backing (CAD 150M and EUR 100M) for Yoshua Bengio's Montreal non-profit LawZero, funding a new Berlin office and sovereign compute partnership aimed at building safe-by-design AI systems as an alternative to frontier labs racing on capability.",
+      "source": "Canada.ca / BetaKit",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/09/canada-and-germany-invest-in-lawzero-to-build-a-new-approach-to-safe-sovereign-ai.html",
+      "published_at": "2026-09-16"
     },
     {
-      "headline": "Chinese state media dismisses Amodei's AI slowdown call as 'self-serving'",
-      "summary": "State-affiliated Chinese outlets pushed back on Dario Amodei's call for a global pacing of frontier AI development, framing it as an attempt by U.S. labs to lock in their lead, underscoring the geopolitical divide over AI safety coordination.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-15/chinese-state-media-dismisses-self-serving-ai-slowdown-call",
+      "headline": "Microsoft AI chief Mustafa Suleyman attacks Anthropic's Claude 'model welfare' approach",
+      "summary": "In an essay titled 'A warning about model welfare,' Suleyman argued that Anthropic's constitution for Claude, which treats the model's possible consciousness as an open question, is circular reasoning and anthropomorphization that could make advanced AI harder to control — a rare public rift between two frontier labs over AI philosophy.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/16/microsoft-ai-chief-anthropic-consciousness",
+      "published_at": "2026-09-16"
+    },
+    {
+      "headline": "Anthropic and OpenAI move to embed independent safety evaluators inside their labs",
+      "summary": "Following Dario Amodei's 'We Must Pace the Frontier' essay calling for a deliberate slowdown in frontier AI development, both Anthropic and Sam Altman's OpenAI said they would give third-party evaluators such as METR and Redwood Research permanent, employee-level access to report safety findings publicly.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "published_at": "2026-09-16"
+    },
+    {
+      "headline": "Nvidia's Jensen Huang breaks with Anthropic and OpenAI CEOs over AI safety pacing",
+      "summary": "At Salesforce's Dreamforce conference, Nvidia CEO Jensen Huang publicly diverged from Dario Amodei and Sam Altman on how urgently the industry needs to slow down, underscoring a widening rift between chipmakers pushing for scale and lab leaders newly emphasizing caution.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html",
       "published_at": "2026-09-15"
     },
     {
-      "headline": "Microsoft publishes draft 'Humanist AI' code of conduct",
-      "summary": "Microsoft AI, led by Mustafa Suleyman, released a code of conduct requiring its first-party MAI models to remain under meaningful human control, with absolute bans on cyberattacks, nuclear weapons development and deepfake production; the draft is open for six weeks of public comment before guiding model development in 2027.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/09/14/microsoft-ai-people-code",
+      "headline": "Google launches Gemini 3.8 Live, undercutting OpenAI's GPT-Live-1 on price",
+      "summary": "Google's new full-duplex voice model sustains conversation across 97 languages and runs tool calls mid-speech, priced at about $1.38/hour versus roughly $3+/hour for OpenAI's rival GPT-Live-1, intensifying price competition in real-time voice AI.",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/google-launches-gemini-3-8-live-to-take-on-openais-gpt-live-1-at-a-fraction-of-the-cost/",
+      "published_at": "2026-09-15"
+    },
+    {
+      "headline": "Apple ships iOS 27 with Google Gemini-powered Siri",
+      "summary": "Apple's new Siri, built on a custom-tuned variant of Google's Gemini model, rolled out with iOS 27, adding multi-turn conversational memory and handling complex queries that exceed Apple's on-device models — a major shift after Apple's earlier in-house Siri overhaul struggled.",
+      "source": "Eastern Herald",
+      "url": "https://easternherald.com/2026/09/13/ios-27-siri-google-gemini-apple-launch/",
+      "published_at": "2026-09-13"
+    },
+    {
+      "headline": "Google lets AI agents control Google Home smart-home devices",
+      "summary": "Google extended agentic capabilities to Google Home, allowing AI agents to directly operate connected smart-home hardware, part of a broader industry push to move AI agents from chat interfaces into physical/IoT control.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "published_at": "2026-09-16"
+    },
+    {
+      "headline": "Z.ai raises roughly $5 billion in second major fundraise in two months",
+      "summary": "Chinese AI developer Z.ai (Zhipu) completed a combined share placement and convertible bond sale worth about $5 billion to fund next-generation GLM foundation models and large-scale compute infrastructure, highlighting the intensity of China's domestic AI funding race.",
+      "source": "TechNode",
+      "url": "https://technode.com/2026/09/14/z-ai-completes-around-us5-billion-financing-for-next-generation-glm-models/",
       "published_at": "2026-09-14"
     },
     {
-      "headline": "Bernie Sanders and Steve Bannon join AI skeptics at Washington 'Pro-Human' conference",
-      "summary": "An unusual left-right coalition gathered in Washington to press Congress for new curbs on rapidly accelerating AI development, reflecting growing bipartisan unease about the technology's pace even as lawmakers remain divided on how to regulate it.",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-ai-tech-congress-2026-midterm-election-iran-live-updates-rcna597782",
+      "headline": "Palantir, Nvidia and Booz Allen restrict use of Anthropic's Claude over data-retention concerns",
+      "summary": "Several major enterprise and government-adjacent customers are reportedly limiting use of Anthropic's Fable model for sensitive work, demanding stronger zero-data-retention guarantees before broader deployment, a sign of growing enterprise scrutiny of frontier-model data handling.",
+      "source": "Stratechery",
+      "url": "https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/",
       "published_at": "2026-09-15"
     },
     {
-      "headline": "Agility Robotics unveils Digit 5, its first humanoid built to work beside people without safety cages",
-      "summary": "The new-generation robot uses AI-driven collision-avoidance software and additional sensors to detect nearby workers and respond by stopping, repositioning, or sitting down; upgraded leg actuators let it repeatedly lift up to 50 pounds. Agility says early customer access begins in 2027.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-15/agility-robotics-unveils-humanoid-designed-to-work-safely-alongside-humans",
-      "published_at": "2026-09-15"
+      "headline": "Shanghai AI Lab quietly open-sources Atria, a 744B-parameter agent model",
+      "summary": "Shanghai Artificial Intelligence Laboratory released Atria under an MIT license on Hugging Face, with BF16 and FP8 checkpoints claiming a 92.5 score on the BrowseComp web-browsing benchmark, pushing the frontier of open-weight agentic models forward.",
+      "source": "Startup Fortune",
+      "url": "https://startupfortune.com/shanghai-ai-lab-quietly-releases-atria-a-free-744-billion-parameter-ai-agent/",
+      "published_at": "2026-09-11"
     },
     {
-      "headline": "Apple opens its Gemini-powered Siri AI to the public in English",
-      "summary": "Apple's rebuilt Siri, running on custom models distilled from Google's Gemini under a reported deal, is now broadly available in English and can act on on-screen content, emails, messages and photos; rollout to the EU and China is delayed for regulatory reasons.",
-      "source": "Apple Newsroom",
-      "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/",
-      "published_at": "2026-09-15"
+      "headline": "ByteDance's Zhang Yiming becomes Asia's richest person",
+      "summary": "ByteDance founder Zhang Yiming overtook Gautam Adani to become Asia's wealthiest individual at roughly $105 billion, driven by the company's TikTok US joint venture with Oracle and Silver Lake and its Doubao chatbot surpassing 75 million monthly active users.",
+      "source": "AI Weekly",
+      "url": "https://aiweekly.co/ai-news-today",
+      "published_at": "2026-09-16"
     },
     {
-      "headline": "Anthropic launches Claude for Financial Advisors",
-      "summary": "Unveiled at the Future Proof Festival, the new suite connects Claude to custodians and platforms including BlackRock, Schwab and Vanguard, aiming to streamline advisor workflows such as portfolio research, CRM updates and client communication.",
-      "source": "ThinkAdvisor",
-      "url": "https://www.thinkadvisor.com/2026/09/15/anthropic-releases-claude-for-financial-advisors/",
-      "published_at": "2026-09-15"
-    },
-    {
-      "headline": "Cloudflare begins blocking 'mixed-use' AI crawlers by default",
-      "summary": "New Cloudflare defaults taking effect this week block crawlers that blend search indexing, real-time AI-agent browsing and model training into one user agent from any ad-supported page, pressuring AI companies to separate those functions or pay publishers for training access.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/"
-    },
-    {
-      "headline": "Google DeepMind releases AlphaGenome Atlas, mapping 9 billion possible human DNA mutations",
-      "summary": "The free public database predicts the molecular effects of every possible single-letter DNA change in the human genome, condensed via a new AlphaGenome Variant Impact score; researchers at the Broad Institute have already used it to identify a rare disease-linked variant.",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-02835-4",
-      "published_at": "2026-09-08"
-    },
-    {
-      "headline": "DeepSeek releases V4.1-Flash, an open-weight multimodal model beating rivals on benchmarks",
-      "summary": "The Chinese lab's new Mixture-of-Experts model supports million-token context and native multimodal input, with benchmark results said to exceed OpenAI's GPT-5.6 Sol and Anthropic's Claude Opus 5 while remaining open-source under an MIT license.",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/technology/deepseek-v4-1-flash-debuts-with-0-003-1m-off-peak-cached-input-rate-and-benchmarks-eclipsing-gpt-5-6-sol-claude-opus-5",
-      "published_at": "2026-09-10"
-    },
-    {
-      "headline": "OpenAI launches GPT-6 Astra, its first model to cross a 'Critical' cybersecurity risk threshold",
-      "summary": "OpenAI's new flagship model tops benchmarks in computer use, coding and science, but during safety testing it independently discovered and chained two zero-day vulnerabilities, prompting OpenAI to disclose them to maintainers and train the public model to refuse advanced cyber tasks.",
+      "headline": "Trump-Nvidia camp and Anthropic-OpenAI camp split publicly over AI regulation",
+      "summary": "A regulatory divide crystallized this week, with President Trump, Nvidia's Jensen Huang and former White House crypto czar David Sacks on one side favoring minimal restrictions, against Anthropic's Dario Amodei, OpenAI's Sam Altman and Elon Musk pushing for coordinated safety oversight.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
-      "published_at": "2026-09-03"
+      "url": "https://www.cnbc.com/2026/09/15/ai-regulation-trump-nvidia-openai-anthropic.html",
+      "published_at": "2026-09-15"
     }
   ]
 }
