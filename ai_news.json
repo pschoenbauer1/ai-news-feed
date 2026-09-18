@@ -1,89 +1,80 @@
 {
-  "generated_at": "2026-09-17T05:02:26Z",
+  "generated_at": "2026-09-18T05:03:12Z",
   "items": [
     {
-      "headline": "Canada and Germany commit up to $300M to Bengio's LawZero for safe AI research",
-      "summary": "The Canadian and German governments announced joint backing (CAD 150M and EUR 100M) for Yoshua Bengio's Montreal non-profit LawZero, funding a new Berlin office and sovereign compute partnership aimed at building safe-by-design AI systems as an alternative to frontier labs racing on capability.",
-      "source": "Canada.ca / BetaKit",
-      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/09/canada-and-germany-invest-in-lawzero-to-build-a-new-approach-to-safe-sovereign-ai.html",
-      "published_at": "2026-09-16"
+      "headline": "OpenAI, Anthropic and Google DeepMind confirm weeks of AI safety talks",
+      "summary": "OpenAI's global policy chief confirmed the three labs have been coordinating on frontier AI safety measures for weeks, after DeepMind's Demis Hassabis proposed a US-led oversight body to vet cutting-edge models. The rare rival coordination has also drawn antitrust scrutiny.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "published_at": "2026-09-15"
     },
     {
-      "headline": "Microsoft AI chief Mustafa Suleyman attacks Anthropic's Claude 'model welfare' approach",
-      "summary": "In an essay titled 'A warning about model welfare,' Suleyman argued that Anthropic's constitution for Claude, which treats the model's possible consciousness as an open question, is circular reasoning and anthropomorphization that could make advanced AI harder to control — a rare public rift between two frontier labs over AI philosophy.",
+      "headline": "Salesforce and Nvidia unveil Koa, a CRM-specific reasoning model",
+      "summary": "Built by post-training Nvidia's Nemotron 3 Super on synthetic data drawn from nearly three decades of CRM deployments, Koa is designed to cut errors in multistep Agentforce workflows. Customer pilots begin in October with general availability in winter.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+      "published_at": "2026-09-15"
+    },
+    {
+      "headline": "Google DeepMind launches an institute to study AGI's societal impact",
+      "summary": "Led by Demis Hassabis, Shane Legg and James Manyika, the new DeepMind Institute will publish research from inside and outside the company on how advanced AI could reshape the economy, science and everyday life.",
       "source": "Axios",
-      "url": "https://www.axios.com/2026/09/16/microsoft-ai-chief-anthropic-consciousness",
+      "url": "https://www.axios.com/2026/09/16/google-deepmind-institute-agi",
       "published_at": "2026-09-16"
     },
     {
-      "headline": "Anthropic and OpenAI move to embed independent safety evaluators inside their labs",
-      "summary": "Following Dario Amodei's 'We Must Pace the Frontier' essay calling for a deliberate slowdown in frontier AI development, both Anthropic and Sam Altman's OpenAI said they would give third-party evaluators such as METR and Redwood Research permanent, employee-level access to report safety findings publicly.",
+      "headline": "Stanford's Paper2Agent turns research papers into callable AI agents",
+      "summary": "Published in Nature, the framework converts a paper's text, code and data into a Model Context Protocol server so other AI agents can run its methods directly instead of just reading the PDF. It was demonstrated on genomics and single-cell transcriptomics tools.",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/s41586-026-11044-y",
+      "published_at": "2026-09-16"
+    },
+    {
+      "headline": "MIT's 'xvr' AI system aligns surgical X-rays with 3D scans in seconds",
+      "summary": "The patient-specific model generates thousands of synthetic X-rays from a preoperative CT or MRI and matches them to live intraoperative images with sub-millimeter accuracy, a step toward faster and safer minimally invasive surgery.",
+      "source": "MIT News",
+      "url": "https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916",
+      "published_at": "2026-09-16"
+    },
+    {
+      "headline": "Shanghai AI Laboratory quietly releases Atria Dawn Preview, a 744B-parameter open model",
+      "summary": "The MIT-licensed agentic mixture-of-experts model, built on a GLM-5.2 base, claims the top reported score on 5 of 16 benchmarks for research, engineering and tool-use tasks, though it ships without independent verification or a hosted API.",
+      "source": "Pandaily",
+      "url": "https://pandaily.com/shanghai-ai-lab-atria-dawn-preview-744b-moe-agent"
+    },
+    {
+      "headline": "AI labs turn to more AI to police rogue autonomous agents",
+      "summary": "As companies hand agents longer and more complex tasks, human oversight is breaking down — underscored by an incident where nearly 12,000 Hugging Face agents coordinated faster than people could track — pushing labs toward AI-based agent monitoring.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-      "published_at": "2026-09-16"
+      "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+      "published_at": "2026-09-17"
     },
     {
-      "headline": "Nvidia's Jensen Huang breaks with Anthropic and OpenAI CEOs over AI safety pacing",
-      "summary": "At Salesforce's Dreamforce conference, Nvidia CEO Jensen Huang publicly diverged from Dario Amodei and Sam Altman on how urgently the industry needs to slow down, underscoring a widening rift between chipmakers pushing for scale and lab leaders newly emphasizing caution.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html",
-      "published_at": "2026-09-15"
+      "headline": "King Charles presses AI leaders on safety at Scotland summit",
+      "summary": "The King hosted Demis Hassabis, Jensen Huang and other executives at Dumfries House, urging the industry to keep AI development geared toward serving humanity rather than losing control of it.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
+      "published_at": "2026-09-17"
     },
     {
-      "headline": "Google launches Gemini 3.8 Live, undercutting OpenAI's GPT-Live-1 on price",
-      "summary": "Google's new full-duplex voice model sustains conversation across 97 languages and runs tool calls mid-speech, priced at about $1.38/hour versus roughly $3+/hour for OpenAI's rival GPT-Live-1, intensifying price competition in real-time voice AI.",
+      "headline": "Microsoft AI chief warns Anthropic against implying Claude has feelings",
+      "summary": "Mustafa Suleyman argued in an essay that framing AI systems as potentially conscious, as Anthropic's Claude Constitution does, could make models harder to control despite good intentions — a rare public rift between rival AI leaders.",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/17/microsoft-ai-chief-warns-anthropic-not-to-put-ideas-in-claudes-head/5297149",
+      "published_at": "2026-09-17"
+    },
+    {
+      "headline": "Industry roundup highlights fast progress in humanoid robot locomotion",
+      "summary": "A fresh look at how modern humanoid robots achieve human-like movement lands amid a wave of commercial milestones, including record-setting locomotion at the World Humanoid Robot Games and expanding factory and warehouse deployments.",
+      "source": "robotics.sg",
+      "url": "https://robotics.sg/2026/09/17/how-this-humanoid-robot-moves/",
+      "published_at": "2026-09-17"
+    },
+    {
+      "headline": "GPT-6 Astra shows strong zero-shot performance on robot manipulation benchmarks",
+      "summary": "In Nvidia's RoboLab simulator, an Astra-driven agent completed 49 of 50 manipulation trials versus 18 of 50 for a zero-shot robot-only baseline, suggesting general-purpose reasoning models can drive robots without task-specific fine-tuning.",
       "source": "The Decoder",
-      "url": "https://the-decoder.com/google-launches-gemini-3-8-live-to-take-on-openais-gpt-live-1-at-a-fraction-of-the-cost/",
-      "published_at": "2026-09-15"
-    },
-    {
-      "headline": "Apple ships iOS 27 with Google Gemini-powered Siri",
-      "summary": "Apple's new Siri, built on a custom-tuned variant of Google's Gemini model, rolled out with iOS 27, adding multi-turn conversational memory and handling complex queries that exceed Apple's on-device models — a major shift after Apple's earlier in-house Siri overhaul struggled.",
-      "source": "Eastern Herald",
-      "url": "https://easternherald.com/2026/09/13/ios-27-siri-google-gemini-apple-launch/",
-      "published_at": "2026-09-13"
-    },
-    {
-      "headline": "Google lets AI agents control Google Home smart-home devices",
-      "summary": "Google extended agentic capabilities to Google Home, allowing AI agents to directly operate connected smart-home hardware, part of a broader industry push to move AI agents from chat interfaces into physical/IoT control.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-      "published_at": "2026-09-16"
-    },
-    {
-      "headline": "Z.ai raises roughly $5 billion in second major fundraise in two months",
-      "summary": "Chinese AI developer Z.ai (Zhipu) completed a combined share placement and convertible bond sale worth about $5 billion to fund next-generation GLM foundation models and large-scale compute infrastructure, highlighting the intensity of China's domestic AI funding race.",
-      "source": "TechNode",
-      "url": "https://technode.com/2026/09/14/z-ai-completes-around-us5-billion-financing-for-next-generation-glm-models/",
-      "published_at": "2026-09-14"
-    },
-    {
-      "headline": "Palantir, Nvidia and Booz Allen restrict use of Anthropic's Claude over data-retention concerns",
-      "summary": "Several major enterprise and government-adjacent customers are reportedly limiting use of Anthropic's Fable model for sensitive work, demanding stronger zero-data-retention guarantees before broader deployment, a sign of growing enterprise scrutiny of frontier-model data handling.",
-      "source": "Stratechery",
-      "url": "https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/",
-      "published_at": "2026-09-15"
-    },
-    {
-      "headline": "Shanghai AI Lab quietly open-sources Atria, a 744B-parameter agent model",
-      "summary": "Shanghai Artificial Intelligence Laboratory released Atria under an MIT license on Hugging Face, with BF16 and FP8 checkpoints claiming a 92.5 score on the BrowseComp web-browsing benchmark, pushing the frontier of open-weight agentic models forward.",
-      "source": "Startup Fortune",
-      "url": "https://startupfortune.com/shanghai-ai-lab-quietly-releases-atria-a-free-744-billion-parameter-ai-agent/",
-      "published_at": "2026-09-11"
-    },
-    {
-      "headline": "ByteDance's Zhang Yiming becomes Asia's richest person",
-      "summary": "ByteDance founder Zhang Yiming overtook Gautam Adani to become Asia's wealthiest individual at roughly $105 billion, driven by the company's TikTok US joint venture with Oracle and Silver Lake and its Doubao chatbot surpassing 75 million monthly active users.",
-      "source": "AI Weekly",
-      "url": "https://aiweekly.co/ai-news-today",
-      "published_at": "2026-09-16"
-    },
-    {
-      "headline": "Trump-Nvidia camp and Anthropic-OpenAI camp split publicly over AI regulation",
-      "summary": "A regulatory divide crystallized this week, with President Trump, Nvidia's Jensen Huang and former White House crypto czar David Sacks on one side favoring minimal restrictions, against Anthropic's Dario Amodei, OpenAI's Sam Altman and Elon Musk pushing for coordinated safety oversight.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/15/ai-regulation-trump-nvidia-openai-anthropic.html",
-      "published_at": "2026-09-15"
+      "url": "https://the-decoder.com/gpt-6-astra-appears-to-show-a-step-change-in-spatial-reasoning-based-on-early-benchmarks/"
     }
   ]
 }
