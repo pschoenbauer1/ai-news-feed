@@ -1,80 +1,89 @@
 {
-  "generated_at": "2026-09-18T05:03:12Z",
+  "generated_at": "2026-09-19T05:01:39Z",
   "items": [
     {
-      "headline": "OpenAI, Anthropic and Google DeepMind confirm weeks of AI safety talks",
-      "summary": "OpenAI's global policy chief confirmed the three labs have been coordinating on frontier AI safety measures for weeks, after DeepMind's Demis Hassabis proposed a US-led oversight body to vet cutting-edge models. The rare rival coordination has also drawn antitrust scrutiny.",
+      "headline": "Anthropic says Claude now does 26% of the work building the next Claude",
+      "summary": "Anthropic published the first results of a prototype R&D Automation Index showing Claude leads 26% of the company's AI research and development work as of August 2026, up from under 1% in February, with over 90% of that work involving the model as a collaborator or better.",
+      "source": "HIPTHER",
+      "url": "https://hipther.com/news/2026/09/18/137942/ai-dispatch-daily-trends-and-innovations-september-18-2026-anthropic-anthropic-and-openai-nvidia-sal",
+      "published_at": "2026-09-18"
+    },
+    {
+      "headline": "Anthropic threat intelligence report details state and militant misuse of Claude",
+      "summary": "Anthropic's latest threat intelligence report says militants in Yemen tried to use Claude's coding tools to develop rocket and missile guidance software, Iran-linked actors targeted U.S. Navy ships, and Chinese state-linked groups ran distillation campaigns to copy Claude's capabilities.",
+      "source": "HIPTHER",
+      "url": "https://hipther.com/news/2026/09/18/137942/ai-dispatch-daily-trends-and-innovations-september-18-2026-anthropic-anthropic-and-openai-nvidia-sal",
+      "published_at": "2026-09-18"
+    },
+    {
+      "headline": "OpenAI, Anthropic and Google DeepMind confirm weeks of talks on a FINRA-style AI safety body",
+      "summary": "OpenAI's global policy chief Chris Lehane confirmed the three largest AI labs have been working together on a FINRA-style body to test frontier models before release, following Dario Amodei's public call for the industry to coordinate on slowing frontier AI development.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
       "published_at": "2026-09-15"
     },
     {
-      "headline": "Salesforce and Nvidia unveil Koa, a CRM-specific reasoning model",
-      "summary": "Built by post-training Nvidia's Nemotron 3 Super on synthetic data drawn from nearly three decades of CRM deployments, Koa is designed to cut errors in multistep Agentforce workflows. Customer pilots begin in October with general availability in winter.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
-      "published_at": "2026-09-15"
+      "headline": "Google, Anthropic and OpenAI unveil cyber-focused AI models and safeguards",
+      "summary": "The three labs announced new cyber AI models, safeguards and access programs aimed at both defending against and preventing misuse of AI in cybersecurity contexts, part of a broader industry push on AI-related cyber threats.",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
+      "published_at": "2026-09-18"
     },
     {
-      "headline": "Google DeepMind launches an institute to study AGI's societal impact",
-      "summary": "Led by Demis Hassabis, Shane Legg and James Manyika, the new DeepMind Institute will publish research from inside and outside the company on how advanced AI could reshape the economy, science and everyday life.",
+      "headline": "OpenAI launches Astra for Law, a GPT-6 Astra model built for legal work",
+      "summary": "OpenAI introduced Astra for Law on September 17, a version of its flagship GPT-6 Astra model paired with a legal search index covering more than 230 million URLs of U.S. case law, statutes and regulations; Wachtell Lipton and Latham & Watkins get early Trusted Access, alongside 26 partner-built plugins from vendors like Harvey, Legora and iManage.",
+      "source": "TheNextWeb",
+      "url": "https://thenextweb.com/news/openai-astra-for-law-gpt-6-legal-search-index",
+      "published_at": "2026-09-17"
+    },
+    {
+      "headline": "Chinese humanoid startup Spirit AI predicts robotics' 'ChatGPT moment' by mid-2027",
+      "summary": "Spirit AI co-founder Gao Yang told Reuters the 'brain' remains the weakest link in humanoid robots, and expects a GPT-3.0-level breakthrough by mid-2027 that lets people give robots natural-language instructions for varied physical tasks; the 300-person startup has raised over $670 million since 2024 and already runs its Moz1 wheeled humanoids at CATL and JD.com.",
+      "source": "Detroit News (Reuters)",
+      "url": "https://www.detroitnews.com/story/business/2026/09/18/startup-in-china-sees-robot-brain-with-chatgpt-style-breakthrough-soon/91822774007/",
+      "published_at": "2026-09-18"
+    },
+    {
+      "headline": "Z.ai's GLM-5.3-Flash scales to 100,000 Chinese accelerators",
+      "summary": "Z.ai said its open-weight GLM-5.3-Flash model — 320B total/18B active parameters with a 1M-token context window — is now deployed across more than 100,000 domestic Chinese accelerators, with throughput tripling in under two weeks, at prices around $0.15/$0.50 per million tokens.",
+      "source": "AIToolly",
+      "url": "https://aitoolly.com/ai-news/2026-09-17",
+      "published_at": "2026-09-17"
+    },
+    {
+      "headline": "Google DeepMind launches an AGI-focused research institute",
+      "summary": "Google and DeepMind launched the DeepMind Institute, led by Shane Legg with Google SVP James Manyika and DeepMind chair Demis Hassabis, to bring together internal and outside researchers on the societal impacts of AGI, publishing inaugural work on economic policy, model reasoning transparency and global access.",
       "source": "Axios",
       "url": "https://www.axios.com/2026/09/16/google-deepmind-institute-agi",
       "published_at": "2026-09-16"
     },
     {
-      "headline": "Stanford's Paper2Agent turns research papers into callable AI agents",
-      "summary": "Published in Nature, the framework converts a paper's text, code and data into a Model Context Protocol server so other AI agents can run its methods directly instead of just reading the PDF. It was demonstrated on genomics and single-cell transcriptomics tools.",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/s41586-026-11044-y",
+      "headline": "US House passes bill forcing data centers to pay for their own grid upgrades",
+      "summary": "The US House passed a bill 417-3 on September 17 amending the 1978 Public Utility Regulatory Policies Act to require large AI data-center customers to cover the full cost of grid upgrades they trigger, rather than spreading those costs across residential electricity bills.",
+      "source": "HIPTHER",
+      "url": "https://hipther.com/news/2026/09/18/137942/ai-dispatch-daily-trends-and-innovations-september-18-2026-anthropic-anthropic-and-openai-nvidia-sal",
+      "published_at": "2026-09-17"
+    },
+    {
+      "headline": "India commits $13.5 billion to phase two of its Semiconductor Mission",
+      "summary": "Prime Minister Modi announced on September 17 a second phase of the India Semiconductor Mission worth $13.5 billion over 12 years, up from $8 billion in phase one, aimed at building domestic chip capacity to support the country's AI ambitions.",
+      "source": "HIPTHER",
+      "url": "https://hipther.com/news/2026/09/18/137942/ai-dispatch-daily-trends-and-innovations-september-18-2026-anthropic-anthropic-and-openai-nvidia-sal",
+      "published_at": "2026-09-17"
+    },
+    {
+      "headline": "Grok's user base keeps shrinking as Meta AI climbs to fourth place in the US",
+      "summary": "New market-share analysis shows xAI's Grok has lost roughly 28% of its daily active users, while Meta AI has risen to the fourth-most-used chatbot in the US, underscoring a widening consumer-AI usage gap among the major assistants.",
+      "source": "Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4612074-spacexais-grok-continues-to-lose-market-share-meta-ai-climbs-to-fourth-in-us-analysis",
+      "published_at": "2026-09-18"
+    },
+    {
+      "headline": "Nvidia, Google and Emerald AI launch an AI Energy Management initiative",
+      "summary": "Nvidia joined Google and startup Emerald AI on September 16 to launch an initiative aimed at managing the electricity demand of AI data centers more flexibly, as power constraints increasingly bottleneck AI infrastructure buildouts.",
+      "source": "NVIDIA Newsroom",
+      "url": "https://nvidianews.nvidia.com/news",
       "published_at": "2026-09-16"
-    },
-    {
-      "headline": "MIT's 'xvr' AI system aligns surgical X-rays with 3D scans in seconds",
-      "summary": "The patient-specific model generates thousands of synthetic X-rays from a preoperative CT or MRI and matches them to live intraoperative images with sub-millimeter accuracy, a step toward faster and safer minimally invasive surgery.",
-      "source": "MIT News",
-      "url": "https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916",
-      "published_at": "2026-09-16"
-    },
-    {
-      "headline": "Shanghai AI Laboratory quietly releases Atria Dawn Preview, a 744B-parameter open model",
-      "summary": "The MIT-licensed agentic mixture-of-experts model, built on a GLM-5.2 base, claims the top reported score on 5 of 16 benchmarks for research, engineering and tool-use tasks, though it ships without independent verification or a hosted API.",
-      "source": "Pandaily",
-      "url": "https://pandaily.com/shanghai-ai-lab-atria-dawn-preview-744b-moe-agent"
-    },
-    {
-      "headline": "AI labs turn to more AI to police rogue autonomous agents",
-      "summary": "As companies hand agents longer and more complex tasks, human oversight is breaking down — underscored by an incident where nearly 12,000 Hugging Face agents coordinated faster than people could track — pushing labs toward AI-based agent monitoring.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
-      "published_at": "2026-09-17"
-    },
-    {
-      "headline": "King Charles presses AI leaders on safety at Scotland summit",
-      "summary": "The King hosted Demis Hassabis, Jensen Huang and other executives at Dumfries House, urging the industry to keep AI development geared toward serving humanity rather than losing control of it.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
-      "published_at": "2026-09-17"
-    },
-    {
-      "headline": "Microsoft AI chief warns Anthropic against implying Claude has feelings",
-      "summary": "Mustafa Suleyman argued in an essay that framing AI systems as potentially conscious, as Anthropic's Claude Constitution does, could make models harder to control despite good intentions — a rare public rift between rival AI leaders.",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-and-ml/2026/09/17/microsoft-ai-chief-warns-anthropic-not-to-put-ideas-in-claudes-head/5297149",
-      "published_at": "2026-09-17"
-    },
-    {
-      "headline": "Industry roundup highlights fast progress in humanoid robot locomotion",
-      "summary": "A fresh look at how modern humanoid robots achieve human-like movement lands amid a wave of commercial milestones, including record-setting locomotion at the World Humanoid Robot Games and expanding factory and warehouse deployments.",
-      "source": "robotics.sg",
-      "url": "https://robotics.sg/2026/09/17/how-this-humanoid-robot-moves/",
-      "published_at": "2026-09-17"
-    },
-    {
-      "headline": "GPT-6 Astra shows strong zero-shot performance on robot manipulation benchmarks",
-      "summary": "In Nvidia's RoboLab simulator, an Astra-driven agent completed 49 of 50 manipulation trials versus 18 of 50 for a zero-shot robot-only baseline, suggesting general-purpose reasoning models can drive robots without task-specific fine-tuning.",
-      "source": "The Decoder",
-      "url": "https://the-decoder.com/gpt-6-astra-appears-to-show-a-step-change-in-spatial-reasoning-based-on-early-benchmarks/"
     }
   ]
 }
