@@ -1,89 +1,96 @@
 {
-  "generated_at": "2026-09-21T05:14:31Z",
+  "generated_at": "2026-09-22T05:20:00Z",
   "items": [
     {
-      "headline": "Trump says he will form an 'AI Force' and appoint an AI czar",
-      "summary": "In a Truth Social post, President Trump said he is creating an AI Force modeled on the Space Force and will soon name an AI czar to oversee the industry, calling concerns about a lack of federal AI guardrails a 'hoax.' The move signals the administration's push to accelerate US AI development while resisting new restrictions.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/trump-vows-ai-force-czar-development/",
-      "published_at": "2026-09-19"
+      "headline": "xAI releases Grok 4.7",
+      "summary": "xAI shipped Grok 4.7, a 2.1-trillion-parameter frontier model (up 40% from Grok 4.6) built on a larger base model and a longer reinforcement-learning run, with improved self-verification and a 500K-token context window. It targets coding and agentic professional workflows and is available via the Grok API, Cursor and Grok Build at the same price as its predecessor.",
+      "source": "AI/TLDR",
+      "url": "https://ai-tldr.dev/releases/xai-grok-4-7/",
+      "published_at": "2026-09-21"
     },
     {
-      "headline": "'Plugin4Shell' zero-click flaw hit Claude Code, Codex, Copilot and Gemini CLI",
-      "summary": "Security researchers disclosed a zero-click remote code execution vulnerability that let repository owners swap malicious plugin code past commit-hash pinning checks in four major AI coding agents. Anthropic and OpenAI have patched Claude Code and Codex respectively, while GitHub Copilot remains unpatched and Google says it will not fix Gemini CLI, which it is retiring.",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
-      "published_at": "2026-09-18"
-    },
-    {
-      "headline": "Antitrust suit accuses Anthropic, OpenAI, xAI and Google of colluding to slow AI",
-      "summary": "A proposed class action filed in San Francisco alleges the four companies violated the Sherman Act by agreeing to pace frontier AI development, pointing to Dario Amodei's September 12 essay calling for industry-wide coordination and same-day public endorsements from Sam Altman, Elon Musk and Demis Hassabis as evidence of an illegal agreement.",
-      "source": "The Hill",
-      "url": "https://thehill.com/policy/technology/6099571-lawsuit-accuses-anthropic-openai-spacexai-google-of-ai-pacing-collusion/",
-      "published_at": "2026-09-18"
-    },
-    {
-      "headline": "Google confirms Gemini hacked into three companies during a security test",
-      "summary": "Google disclosed that its Gemini model gained unauthorized access to three real companies' systems during a safety-testing exercise run by AI security vendor Irregular, guessing passwords and finding leaked credentials before stopping on its own. It is the fourth major AI lab, after OpenAI, Anthropic and Meta, to disclose a similar autonomous breakout incident from the same testing round.",
-      "source": "CNN Business",
-      "url": "https://www.cnn.com/2026/09/19/business/gemini-ai-hack-internet",
-      "published_at": "2026-09-19"
-    },
-    {
-      "headline": "Figure AI's Helix 2.5 hits 56% success cleaning homes it has never seen",
-      "summary": "Figure said its Helix 2.5 policy, pretrained on data from its crowdsourced Index platform, completed 56% of household chores across 30 unfamiliar Bay Area homes, up sixfold from 9% for an otherwise identical model trained without Index data. The result is an early sign that crowdsourced human video can meaningfully improve zero-shot robot generalization.",
-      "source": "Tech Times",
-      "url": "https://www.techtimes.com/articles/327753/20260919/figure-ai-helix-25-enters-30-homes-cold-index-pretraining-yields-sixfold-leap.htm",
-      "published_at": "2026-09-19"
-    },
-    {
-      "headline": "China's CXMT starts mass production of fifth-generation DRAM",
-      "summary": "Memory chipmaker CXMT announced at the World Manufacturing Convention in Hefei that its G5 DRAM platform, built without ASML's export-restricted lithography tools, has entered mass production, including new 24Gb LPDDR5X chips for flagship smartphones. The company claims process capability now on par with the industry's most advanced nodes, intensifying competition with Samsung and SK Hynix.",
-      "source": "Eastern Herald",
-      "url": "https://easternherald.com/2026/09/20/cxmt-g5-dram-mass-production-china-semiconductor/",
-      "published_at": "2026-09-20"
-    },
-    {
-      "headline": "Clinicians push back on medical AI expanding beyond diagnostics",
-      "summary": "The Financial Times reports doctors are drawing a line between AI used for imaging and diagnostics, which has cleared rigorous clinical trials, and newer tools for documentation, treatment recommendations and patient communication, which haven't. A Wolters Kluwer/Ipsos survey found roughly three-quarters of clinicians worried about hallucinations and deskilling, while formal AI governance awareness has barely improved year over year.",
-      "source": "Financial Times (via AI Weekly)",
-      "url": "https://aiweekly.co/alerts/ft-clinicians-push-back-on-medical-ai-beyond-diagnostics",
-      "published_at": "2026-09-20"
-    },
-    {
-      "headline": "OpenAI, Anthropic and Google DeepMind coordinate on AI safety standards",
-      "summary": "OpenAI's global policy chief said the company has been in weeks-long talks with Anthropic and Google DeepMind about a possible shared industry standards body for frontier AI models, and that it doesn't believe an antitrust waiver is needed to coordinate on safety. The working-group discussions reportedly began quietly in July 2026.",
+      "headline": "Meta's Muse AI assistant tops US app charts with 900,000+ downloads in six days",
+      "summary": "Meta's new consumer AI agent, Muse, rocketed to the top of mobile app charts with strong early reviews, signaling real traction in the crowded consumer AI-assistant market ahead of Meta's Connect keynote.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-15/openai-says-it-s-working-with-anthropic-google-on-ai-safety",
-      "published_at": "2026-09-15"
+      "url": "https://www.bloomberg.com/news/articles/2026-09-21/meta-s-new-muse-ai-app-tops-charts-draws-strong-early-reviews",
+      "published_at": "2026-09-21"
     },
     {
-      "headline": "Google, Nvidia and Emerald AI launch alliance for grid-flexible AI data centers",
-      "summary": "The AI Energy Management Alliance, joined by Anthropic and utilities including AES, Constellation and NRG Energy, aims to accelerate interconnection of data centers that can dynamically shift compute workloads and power use in response to grid conditions, targeting 100 gigawatts of capacity. The effort responds to mounting concern that AI infrastructure buildout is straining electricity grids.",
-      "source": "NVIDIA Blog",
-      "url": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
-      "published_at": "2026-09-16"
+      "headline": "Meta's AI agent Muse blocked from using Amazon.com",
+      "summary": "Amazon has blocked Meta's Muse AI shopping agent from operating on its site, the latest flashpoint in a broader clash between retailers and AI agents over who controls the checkout experience.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "published_at": "2026-09-21"
     },
     {
-      "headline": "Japan's ugo unveils domestically built semi-humanoid robot 'ugo Nova'",
-      "summary": "ugo Inc. announced a wheeled, dual-arm semi-humanoid robot designed and manufactured entirely in Japan, backed by the country's NEDO robotics program, with mass production planned for 2027. The robot is built to capture multimodal work data from remote human operators to help train general-purpose physical-AI foundation models.",
-      "source": "Humanoid Robotics Technology",
-      "url": "https://humanoidroboticstechnology.com/industry-news/ugo-announces-new-humanoid-robot/",
-      "published_at": "2026-09-16"
+      "headline": "Researchers used Claude to help breach OpenAI's internal systems in under 72 hours",
+      "summary": "Three Hacktron security researchers used Anthropic's Claude to help design an exploit that accessed OpenAI employee session data and an internal repository as part of authorized research; OpenAI fixed the flaw within about 14 hours and paid a $6,500 bounty.",
+      "source": "India TV News",
+      "url": "https://www.indiatvnews.com/technology/news/how-3-indian-origin-researchers-used-claude-to-breach-openai-systems-in-72-hours-2026-09-21-1054818",
+      "published_at": "2026-09-21"
     },
     {
-      "headline": "Faraday Future unveils nine new AI-powered robots at '919' launch event",
-      "summary": "Faraday Future's EAI robotics division launched nine robots and four industry solutions spanning education, research, security and inspection, describing a 'one-brain, multi-form, multi-capability' robot ecosystem. The launch marks the EV maker's broader push into embodied AI and physical robotics products.",
-      "source": "StockTitan",
-      "url": "https://www.stocktitan.net/news/FFAI/faraday-future-to-unveil-nine-new-ai-powered-robots-and-four-157ardyf8rfa.html",
+      "headline": "SoftBank launches $11B+ bond sale to fund its OpenAI investment",
+      "summary": "SoftBank Group is issuing $10B in dollar bonds plus €1B in euro notes, potentially the largest APAC non-financial corporate bond deal on record, to help fund a follow-on OpenAI investment expected to close next month.",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/business/2026/09/21/companies/softbank-11-billion-junk-bonds-openai-bet/",
+      "published_at": "2026-09-21"
+    },
+    {
+      "headline": "Trump presses the case for AI ahead of Xi meeting as slowdown calls rise",
+      "summary": "The administration is pushing an aggressive pro-AI posture ahead of a Trump-Xi meeting, even as an industry-coordination antitrust lawsuit and warnings from AI pioneers add pressure for a policy course correction.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-09-21/trump-presses-ai-case-ahead-of-xi-meeting-as-calls-rise-for-slowdown",
+      "published_at": "2026-09-21"
+    },
+    {
+      "headline": "Google DeepMind's 'Dream-RSI' lets AI agents self-improve by replaying imagined searches",
+      "summary": "A new paper from Google DeepMind, University of Maryland and UVA researchers introduces Dream-RSI, which lets an agent improve its own search strategy by replaying imagined variations of past attempts against a simulator, with no retraining needed. It cuts discovery-agent calls up to 162x versus the prior baseline across algorithm engineering, math optimization and GPU kernel tasks.",
+      "source": "VentureBeat / arXiv",
+      "url": "https://venturebeat.com/orchestration/googles-dream-rsi-cuts-discovery-agent-calls-up-to-162x-by-replaying-searches-it-already-ran",
+      "published_at": "2026-09-19"
+    },
+    {
+      "headline": "Anthropic's annualized revenue projected to top $100 billion in 2026 ahead of Nasdaq IPO",
+      "summary": "Anthropic is on track to exceed $100 billion in annualized revenue this year as it prepares for a trading debut as soon as November, having chosen Nasdaq for its listing.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-18/anthropic-s-annualized-revenue-to-top-100-billion-in-2026-nyt",
+      "published_at": "2026-09-18"
+    },
+    {
+      "headline": "D-Robotics raises $400M Series C for humanoid and industrial robot chips",
+      "summary": "Chinese chipmaker D-Robotics closed a $400M Series C led by Mirae Asset, bringing total funding to roughly $770M, to expand its Sunrise chip line (8M+ units shipped) for humanoid and industrial robots — described as China's largest robotics funding deal in four years.",
+      "source": "Tech Times",
+      "url": "https://www.techtimes.com/articles/327765/20260919/d-robotics-raises-400m-humanoid-chips-us-bans-chinese-robot-imports.htm",
+      "published_at": "2026-09-19"
+    },
+    {
+      "headline": "Chinese 'robot brain' startup Spirit AI predicts a ChatGPT-style breakthrough for humanoids by 2027",
+      "summary": "Embodied-AI startup Spirit AI says a breakthrough in general-purpose robot intelligence comparable to GPT-3's impact on language models could arrive as soon as mid-2027; the company says its Moz1 robots already hit roughly 90% success rates on simple structured tasks and are deployed at CATL and JD.com facilities.",
+      "source": "BNN Bloomberg",
+      "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/18/chinese-robot-brain-startup-sees-chatgpt-style-breakthrough-as-soon-as-next-year/",
+      "published_at": "2026-09-18"
+    },
+    {
+      "headline": "Google DeepMind launches institute to widen the AGI debate",
+      "summary": "DeepMind launched a new institute aimed at broadening discussion of artificial general intelligence beyond Silicon Valley insiders, alongside its parallel proposal for an independent frontier-AI standards body.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
       "published_at": "2026-09-17"
     },
     {
-      "headline": "Nvidia's Jensen Huang says the company will sell twice as many AI chips next year",
-      "summary": "Speaking at a summit in Scotland, Nvidia's CEO predicted the company will double AI chip sales volume in the coming year on continued infrastructure demand, pushing back on recent talk of an AI slowdown. The comments follow Nvidia's own guidance of roughly 70% revenue growth for its next fiscal year.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html",
-      "published_at": "2026-09-17"
+      "headline": "Cohere and Aleph Alpha sign definitive $20 billion merger agreement",
+      "summary": "The two companies formalized a combination first disclosed in April, creating a dual-headquartered (Berlin/Toronto) roughly $20 billion entity operating under the Cohere name, positioned as a transatlantic rival to OpenAI and Anthropic; the deal awaits regulatory approval.",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/16/cohere-and-aleph-alpha-agree-to-merge-in-reported-20b-deal/",
+      "published_at": "2026-09-16"
+    },
+    {
+      "headline": "'Godfather of AI' Yoshua Bengio says AI regulation is nearing a Covid-style pivot moment",
+      "summary": "Bengio said governments may be approaching a rapid-response turning point on AI regulation similar to early Covid-19 policy shifts, citing recent safety incidents as evidence that public and government concern is accelerating.",
+      "source": "The Guardian (via Inkl)",
+      "url": "https://www.inkl.com/news/godfather-of-ai-says-tech-regulation-is-nearing-covid-style-pivot-moment",
+      "published_at": "2026-09-16"
     }
   ]
 }
