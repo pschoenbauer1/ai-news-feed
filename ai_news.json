@@ -1,96 +1,89 @@
 {
-  "generated_at": "2026-09-22T05:20:00Z",
+  "generated_at": "2026-09-23T05:11:48Z",
   "items": [
     {
-      "headline": "xAI releases Grok 4.7",
-      "summary": "xAI shipped Grok 4.7, a 2.1-trillion-parameter frontier model (up 40% from Grok 4.6) built on a larger base model and a longer reinforcement-learning run, with improved self-verification and a 500K-token context window. It targets coding and agentic professional workflows and is available via the Grok API, Cursor and Grok Build at the same price as its predecessor.",
-      "source": "AI/TLDR",
-      "url": "https://ai-tldr.dev/releases/xai-grok-4-7/",
-      "published_at": "2026-09-21"
-    },
-    {
-      "headline": "Meta's Muse AI assistant tops US app charts with 900,000+ downloads in six days",
-      "summary": "Meta's new consumer AI agent, Muse, rocketed to the top of mobile app charts with strong early reviews, signaling real traction in the crowded consumer AI-assistant market ahead of Meta's Connect keynote.",
+      "headline": "OpenAI will let outside groups safety-test models during training",
+      "summary": "OpenAI announced it will allow independent evaluators, including METR and Redwood Research, to assess its models' \"safety cases\" and safeguard resilience earlier in the development pipeline rather than only after training completes. The move follows scrutiny of OpenAI's internal safety practices and mirrors similar third-party evaluation commitments recently made by Anthropic.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-21/meta-s-new-muse-ai-app-tops-charts-draws-strong-early-reviews",
-      "published_at": "2026-09-21"
+      "url": "https://www.bloomberg.com/news/articles/2026-09-22/openai-to-let-outside-groups-evaluate-ai-models-at-earlier-phase",
+      "published_at": "2026-09-22"
     },
     {
-      "headline": "Meta's AI agent Muse blocked from using Amazon.com",
-      "summary": "Amazon has blocked Meta's Muse AI shopping agent from operating on its site, the latest flashpoint in a broader clash between retailers and AI agents over who controls the checkout experience.",
+      "headline": "OpenAI launches GPT-6 Sol and Luna, cutting API prices by half",
+      "summary": "OpenAI released gpt-6-sol and gpt-6-luna in its API, ChatGPT and Codex, claiming the new models cut factual-error rates roughly in half versus their predecessors while costing 50% less than the prior 5.6-series models. Sol targets complex coding and agentic workflows, intensifying price competition among frontier model providers.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "published_at": "2026-09-22"
+    },
+    {
+      "headline": "xAI releases Grok 4.7, its most capable coding model yet",
+      "summary": "xAI shipped Grok 4.7, trained with a longer reinforcement-learning run on harder, longer-horizon tasks, posting notable gains on coding benchmarks like CursorBench 4.0 and DeepSWE v1.1 over Grok 4.6. The model is rolling out in Cursor, GitHub Copilot, and the Grok API at unchanged pricing.",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot/",
       "published_at": "2026-09-21"
     },
     {
-      "headline": "Researchers used Claude to help breach OpenAI's internal systems in under 72 hours",
-      "summary": "Three Hacktron security researchers used Anthropic's Claude to help design an exploit that accessed OpenAI employee session data and an internal repository as part of authorized research; OpenAI fixed the flaw within about 14 hours and paid a $6,500 bounty.",
-      "source": "India TV News",
-      "url": "https://www.indiatvnews.com/technology/news/how-3-indian-origin-researchers-used-claude-to-breach-openai-systems-in-72-hours-2026-09-21-1054818",
+      "headline": "MIT's AI-controlled microrobot gets 450% faster, does insect-like somersaults",
+      "summary": "MIT researchers built a new AI flight controller for their coin-sized flapping-wing microrobot, boosting its speed by about 450% and letting it complete 10 consecutive somersaults in 11 seconds while resisting strong wind gusts. The advance could bring tiny robots closer to practical use in search-and-rescue and confined-space inspection.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260921081114.htm",
       "published_at": "2026-09-21"
     },
     {
-      "headline": "SoftBank launches $11B+ bond sale to fund its OpenAI investment",
-      "summary": "SoftBank Group is issuing $10B in dollar bonds plus €1B in euro notes, potentially the largest APAC non-financial corporate bond deal on record, to help fund a follow-on OpenAI investment expected to close next month.",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/business/2026/09/21/companies/softbank-11-billion-junk-bonds-openai-bet/",
-      "published_at": "2026-09-21"
+      "headline": "AI helps mathematicians crack decades-old inverse Galois problem",
+      "summary": "Combining human insight with AI-assisted search, mathematicians resolved roughly 25,000 open cases of an inverse Galois problem concerning which symmetry groups arise from polynomial equations of degree 24 — a challenge posed by 19th-century mathematician Évariste Galois. The project illustrates how AI can expand the scale of problems considered computationally tractable in pure mathematics.",
+      "source": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/mathematicians-use-ai-to-find-mysterious-symmetries-solving-decades-old-problem/",
+      "published_at": "2026-09-22"
     },
     {
-      "headline": "Trump presses the case for AI ahead of Xi meeting as slowdown calls rise",
-      "summary": "The administration is pushing an aggressive pro-AI posture ahead of a Trump-Xi meeting, even as an industry-coordination antitrust lawsuit and warnings from AI pioneers add pressure for a policy course correction.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-21/trump-presses-ai-case-ahead-of-xi-meeting-as-calls-rise-for-slowdown",
-      "published_at": "2026-09-21"
+      "headline": "Major banks warn AI shopping agents are outpacing fraud protections",
+      "summary": "A coalition including Bank of America, NatWest, ING, Capital One and Commonwealth Bank of Australia warned regulators that AI shopping agents from OpenAI, Anthropic, Google and Meta are being adopted faster than safeguards can keep up, citing scam, fraud and data-privacy risks. The group is pushing for rules requiring disclosure when an AI agent handles a transaction and stronger protection of payment data.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/22/banks-warn-ai-shopping-bots-raise-scam-fraud-data-privacy-risks.html",
+      "published_at": "2026-09-22"
     },
     {
-      "headline": "Google DeepMind's 'Dream-RSI' lets AI agents self-improve by replaying imagined searches",
-      "summary": "A new paper from Google DeepMind, University of Maryland and UVA researchers introduces Dream-RSI, which lets an agent improve its own search strategy by replaying imagined variations of past attempts against a simulator, with no retraining needed. It cuts discovery-agent calls up to 162x versus the prior baseline across algorithm engineering, math optimization and GPU kernel tasks.",
-      "source": "VentureBeat / arXiv",
-      "url": "https://venturebeat.com/orchestration/googles-dream-rsi-cuts-discovery-agent-calls-up-to-162x-by-replaying-searches-it-already-ran",
-      "published_at": "2026-09-19"
+      "headline": "Altman and Amodei to brief UN Security Council on AI risks",
+      "summary": "OpenAI's Sam Altman and Anthropic's Dario Amodei are expected to address a French-convened UN Security Council session on AI and international security, alongside Yoshua Bengio, Hugging Face's Clément Delangue, and representatives from China's DeepSeek and Moonshot. The high-profile briefing reflects growing international concern over frontier AI's geopolitical and security implications.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/22/altman-amodei-unga-ai-safety.html",
+      "published_at": "2026-09-22"
     },
     {
-      "headline": "Anthropic's annualized revenue projected to top $100 billion in 2026 ahead of Nasdaq IPO",
-      "summary": "Anthropic is on track to exceed $100 billion in annualized revenue this year as it prepares for a trading debut as soon as November, having chosen Nasdaq for its listing.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-18/anthropic-s-annualized-revenue-to-top-100-billion-in-2026-nyt",
-      "published_at": "2026-09-18"
-    },
-    {
-      "headline": "D-Robotics raises $400M Series C for humanoid and industrial robot chips",
-      "summary": "Chinese chipmaker D-Robotics closed a $400M Series C led by Mirae Asset, bringing total funding to roughly $770M, to expand its Sunrise chip line (8M+ units shipped) for humanoid and industrial robots — described as China's largest robotics funding deal in four years.",
-      "source": "Tech Times",
-      "url": "https://www.techtimes.com/articles/327765/20260919/d-robotics-raises-400m-humanoid-chips-us-bans-chinese-robot-imports.htm",
-      "published_at": "2026-09-19"
-    },
-    {
-      "headline": "Chinese 'robot brain' startup Spirit AI predicts a ChatGPT-style breakthrough for humanoids by 2027",
-      "summary": "Embodied-AI startup Spirit AI says a breakthrough in general-purpose robot intelligence comparable to GPT-3's impact on language models could arrive as soon as mid-2027; the company says its Moz1 robots already hit roughly 90% success rates on simple structured tasks and are deployed at CATL and JD.com facilities.",
-      "source": "BNN Bloomberg",
-      "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/18/chinese-robot-brain-startup-sees-chatgpt-style-breakthrough-as-soon-as-next-year/",
-      "published_at": "2026-09-18"
-    },
-    {
-      "headline": "Google DeepMind launches institute to widen the AGI debate",
-      "summary": "DeepMind launched a new institute aimed at broadening discussion of artificial general intelligence beyond Silicon Valley insiders, alongside its parallel proposal for an independent frontier-AI standards body.",
+      "headline": "Google DeepMind launches new institute to widen AGI debate",
+      "summary": "Google DeepMind launched the DeepMind Institute, led by co-founder Shane Legg and chaired by Demis Hassabis, aiming to surface a broader range of perspectives on artificial general intelligence from inside and outside the company. It's Hassabis's first major public initiative since stepping back from DeepMind's CEO role into a chairman position following the unit's recent reorganization.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
       "published_at": "2026-09-17"
     },
     {
-      "headline": "Cohere and Aleph Alpha sign definitive $20 billion merger agreement",
-      "summary": "The two companies formalized a combination first disclosed in April, creating a dual-headquartered (Berlin/Toronto) roughly $20 billion entity operating under the Cohere name, positioned as a transatlantic rival to OpenAI and Anthropic; the deal awaits regulatory approval.",
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/16/cohere-and-aleph-alpha-agree-to-merge-in-reported-20b-deal/",
-      "published_at": "2026-09-16"
+      "headline": "Nvidia's Rubin AI platform enters full production",
+      "summary": "Nvidia confirmed its next-generation Rubin AI computing platform, comprising six new chips, is now in full production, with cloud partners including AWS, Google Cloud, Microsoft and CoreWeave set to deploy Rubin-based instances later this year. Frontier labs such as Anthropic, OpenAI, Meta and xAI are counted among early adopters looking to Rubin to train larger models.",
+      "source": "NVIDIA Newsroom",
+      "url": "https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer",
+      "published_at": "2026-09-18"
     },
     {
-      "headline": "'Godfather of AI' Yoshua Bengio says AI regulation is nearing a Covid-style pivot moment",
-      "summary": "Bengio said governments may be approaching a rapid-response turning point on AI regulation similar to early Covid-19 policy shifts, citing recent safety incidents as evidence that public and government concern is accelerating.",
-      "source": "The Guardian (via Inkl)",
-      "url": "https://www.inkl.com/news/godfather-of-ai-says-tech-regulation-is-nearing-covid-style-pivot-moment",
-      "published_at": "2026-09-16"
+      "headline": "Humanoid robots post record sprint and jump marks as industry pivots to factory work",
+      "summary": "China's Tiangong Ultra clocked a 100-meter sprint of roughly 8.6-8.9 seconds and cleared high-jump marks near 2.9-3.4 meters at recent competitive showcases, underscoring rapid locomotion progress in humanoid robotics. Meanwhile, manufacturers like UBTech and AgiBot are shifting emphasis from demonstrations toward real-world factory and logistics deployments as Unitree's public listing draws fresh capital into the sector.",
+      "source": "KraneShares",
+      "url": "https://kraneshares.com/humanoid-robotics-in-2026-the-race-from-pilot-to-platform/",
+      "published_at": "2026-09-22"
+    },
+    {
+      "headline": "CorTec brain-computer interface earns second FDA Breakthrough Device tag",
+      "summary": "CorTec's Brain Interchange implant received a second US FDA Breakthrough Device Designation, this time covering its use to restore communication for people with severe disabilities. The designation accelerates the regulatory review pathway for a device that links neural signals to external communication systems.",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com/robotics-news/",
+      "published_at": "2026-09-22"
+    },
+    {
+      "headline": "OpenAI's GPT-6 Sol reaches 'Astra-level' reliability at a fraction of the cost",
+      "summary": "OpenAI said internal factuality evaluations based on real-world flagged conversations show GPT-6 Sol makes about half as many mistakes as its 5.6-series predecessor, approaching the reliability of its larger Astra model while priced at roughly $2/$10 per million input/output tokens. The release underscores an industry-wide push to close the gap between cheaper and flagship-tier models.",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/openai-releases-gpt-6-sol-and-luna-models-slashing-api-costs-50-or-more",
+      "published_at": "2026-09-22"
     }
   ]
 }
