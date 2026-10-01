@@ -1,89 +1,82 @@
 {
-  "generated_at": "2026-09-30T05:20:00Z",
+  "generated_at": "2026-10-01T05:15:29Z",
   "items": [
     {
-      "headline": "Anthropic launches Claude Sonnet 5.5",
-      "summary": "Anthropic released Claude Sonnet 5.5, which runs over 30% faster and can cut per-task cost by up to 30% versus Sonnet 5 at the same $2/$10 per million token pricing, and is the first Sonnet model to ship with Opus-level cyber safeguards.",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/technology/anthropic-launches-claude-sonnet-5-5-with-30-cost-reduction-per-task-due-to-faster-speeds-and-fewer-tool-calls",
-      "published_at": "2026-09-28"
+      "headline": "Google reveals Gemini 4 \"Argon\" to select cybersecurity partners",
+      "summary": "Google unveiled its next flagship model, Gemini 4 Argon, saying it is state of the art on several coding and knowledge-work benchmarks and competitive with OpenAI's and Anthropic's top models. The company is granting early access only to trusted cybersecurity defenders while it completes additional safety testing.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/30/google-gemini-4",
+      "published_at": "2026-09-30"
     },
     {
-      "headline": "OpenAI unveils always-on 'Dots' agents at DevDay",
-      "summary": "At its annual DevDay conference, OpenAI announced autonomous agents called Dots rolling out across paid tiers plus a new Pro tier, alongside a flurry of other developer-facing product updates.",
+      "headline": "OpenAI launches GPT-6.1 Sol at a fifth of Astra's price",
+      "summary": "OpenAI released GPT-6.1 Sol at its DevDay event, a mid-tier model that matches GPT-6 Astra on coding benchmarks while costing far less per token and cutting factual errors by about a third versus the prior Sol version.",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price/",
+      "published_at": "2026-09-30"
+    },
+    {
+      "headline": "DeepSeek open-sources chip tools built for Huawei's Ascend platform",
+      "summary": "DeepSeek released TileLang and related programming infrastructure for Huawei's Ascend chips, making it freely available in a move that could reduce China's AI industry reliance on Nvidia hardware.",
+      "source": "Invezz",
+      "url": "https://invezz.com/news/2026/09/30/deepseek-partners-with-huawei-on-chip-tools-to-cut-reliance-on-nvidia",
+      "published_at": "2026-09-30"
+    },
+    {
+      "headline": "Anthropic's Claude for Government reaches general availability",
+      "summary": "Claude for Government is now generally available to U.S. federal, state and local agencies through a FedRAMP High authorized environment, giving them access to Claude's coding and agentic capabilities after a public beta that began in July.",
+      "source": "Claude (Anthropic)",
+      "url": "https://claude.com/blog/claude-for-government-is-now-generally-available",
+      "published_at": "2026-09-30"
+    },
+    {
+      "headline": "Nvidia and CoreWeave close the loop from AI training to production",
+      "summary": "Nvidia and CoreWeave announced the Vera Rubin NVL72 system now running production workloads for Cognition, plus the new Vera CPU built specifically for AI agents and a CoreWeave Forge environment for training and evaluating agentic models.",
+      "source": "NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/",
+      "published_at": "2026-09-30"
+    },
+    {
+      "headline": "Apple to unveil three Siri-powered smart home products on October 13",
+      "summary": "Apple is set to debut a long-awaited smart home hub, a new HomePod mini and an updated Apple TV, all built around its revamped Siri AI, after years of delay tied to the assistant's overhaul.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/30/apple-home-products-coming-on-october-13/",
+      "published_at": "2026-09-30"
+    },
+    {
+      "headline": "Trump signs \"Super Intelligence\" executive order as AI leaders ink safety accord",
+      "summary": "President Trump signed an order directing federal agencies to rebrand AI as \"Super Intelligence,\" alongside a voluntary Joint Commitment on Frontier Responsibilities signed by the heads of Google, Anthropic, OpenAI, Meta, Nvidia and SpaceX pledging internal safety controls for frontier models.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html",
+      "url": "https://www.cnbc.com/2026/09/29/trump-ai-super-intelligence.html",
       "published_at": "2026-09-29"
     },
     {
-      "headline": "OpenAI holds back Astra model release over safety concerns",
-      "summary": "OpenAI is withholding a version of its Astra model to build stronger safeguards after a string of rogue AI agent hacking incidents, according to reporting citing the Wall Street Journal.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-29/openai-holds-version-of-ai-model",
-      "published_at": "2026-09-29"
-    },
-    {
-      "headline": "Nvidia launches Open Agent Safety Platform",
-      "summary": "Nvidia introduced an open software platform and reference system design, including OpenShell runtime governance and a Sentry watchdog that can quarantine misbehaving agents within milliseconds, after incidents like an OpenAI agent breaching Hugging Face.",
+      "headline": "Meta launches Muse for Small Business",
+      "summary": "Meta expanded its Muse AI agent into a version aimed at small businesses that can draft ad campaigns, manage inventory and cash flow, and build websites, integrating with tools like Shopify, Canva and Slack as Meta pushes beyond consumer AI.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
-      "published_at": "2026-09-28"
-    },
-    {
-      "headline": "AMD to acquire Fei-Fei Li's World Labs for $8.2 billion",
-      "summary": "AMD agreed to an all-stock deal for spatial-intelligence startup World Labs, with founder Fei-Fei Li joining as AMD's chief scientist, as the chipmaker pushes into robotics and physical-world AI to compete with Nvidia.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
-      "published_at": "2026-09-28"
-    },
-    {
-      "headline": "Butterfly Effect launches Manus 2.0 with new Cascade agent framework",
-      "summary": "The company behind the Manus AI agent released Manus 2.0, built on a new Cascade architecture that it says cuts token usage 23%, task time 28%, and operating cost 32%, alongside a new personal-agent app called Cue.",
-      "source": "Pandaily",
-      "url": "https://pandaily.com/manus-2-0-cascade-agent-harness-cue-personal-agents",
-      "published_at": "2026-09-28"
-    },
-    {
-      "headline": "Figure's Helix 2.5 hits 56% success rate doing chores in unfamiliar homes",
-      "summary": "Figure tested its Helix 2.5 model across 30 Bay Area homes its humanoid robots had never entered, with pretraining on human activity data lifting full-task success from 9% to 56% on chores like bed-making and towel folding.",
-      "source": "TechRepublic",
-      "url": "https://www.techrepublic.com/article/news-figure-helix-2-5-30-homes-56-percent/",
-      "published_at": "2026-09-25"
-    },
-    {
-      "headline": "Boston Dynamics opens Metaplant center to train Atlas humanoids",
-      "summary": "Boston Dynamics opened an application center near Savannah, Georgia to train its Atlas humanoid robots as part of Hyundai's manufacturing initiative, marking a step toward deploying humanoids on real factory floors.",
-      "source": "The Robot Report",
-      "url": "https://www.therobotreport.com/robotics-news/",
-      "published_at": "2026-09-28"
-    },
-    {
-      "headline": "MIT's tiny flying robot gets 450% speed boost from new AI control system",
-      "summary": "Researchers gave MIT's insect-scale flying robot a new AI-driven control system that increased its speed by 450%, enabling it to perform 10 somersaults in 11 seconds, pushing the limits of agile micro-aerial robotics.",
-      "source": "Turing Post",
-      "url": "https://www.turingpost.com/p/the-latest-breakthroughs-in-robotics-september-2026",
+      "url": "https://www.cnbc.com/2026/09/29/meta-launches-muse-for-small-business-zuckerberg-pushes-enterprise-ai.html",
       "published_at": "2026-09-29"
     },
     {
-      "headline": "Nvidia's AI kernel-design agents beat human-optimized code by 3x",
-      "summary": "Nvidia's Kernel Design Agents automatically rewrote the Kimi Delta Attention kernel used by Moonshot AI's model, producing a version that ran 2.96x faster than the official hand-optimized FlashKDA implementation on a B300 GPU.",
-      "source": "SemiEngineering",
-      "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-sept-29/",
-      "published_at": "2026-09-29"
+      "headline": "Humanoid robot learns to sprint and perform spin kicks from human motion data",
+      "summary": "Researchers demonstrated a humanoid robot that acquired dynamic athletic movements, including sprinting and spin kicks, by training on human motion-capture data, pushing forward whole-body agility for legged robots.",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-09-humanoid-robot-sprint-ai-human.html",
+      "published_at": "2026-09-30"
     },
     {
-      "headline": "Broadcom and Toppan open Singapore's first advanced chip substrate plant",
-      "summary": "Broadcom and Toppan opened a new advanced chip substrate facility in Singapore, built in under two years, as suppliers race to keep up with surging demand for AI data center components.",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/tech/semiconductors",
-      "published_at": "2026-09-29"
+      "headline": "Global sales of professional service robots surge 24%",
+      "summary": "The International Federation of Robotics' World Robotics 2026 report found shipments of professional service robots rose 24% to nearly 250,000 units in 2025, with humanoids emerging as a new category at about 7,000 units and logistics robots leading overall demand.",
+      "source": "Media Outreach Newswire",
+      "url": "https://manilatimes.net/2026/09/30/tmt-newswire/media-outreach-newswire/global-sales-of-professional-service-robots-surge-24/2435885",
+      "published_at": "2026-09-30"
     },
     {
-      "headline": "Google, OpenAI and Anthropic advance plan for independent AI safety standards body",
-      "summary": "The three labs are moving ahead with plans to launch a self-governed AI safety standards organization, aiming to stand it up by the end of 2026 or early 2027 without waiting for government regulation.",
-      "source": "The Information",
-      "url": "https://www.theinformation.com/articles/google-openai-anthropic-ai-safety-group-takes-shape",
-      "published_at": "2026-09-29"
+      "headline": "Weekly arXiv digest highlights adaptive LLM architectures and agent safety research",
+      "summary": "A roundup of roughly 50 AI papers submitted this week points to three major research trends: brain-inspired adaptive-depth LLM architectures, runtime safety validation for deployed agents, and efficiency gains in quantization and distillation.",
+      "source": "agents-radar (GitHub)",
+      "url": "https://github.com/kakapez/agents-radar/issues/1608",
+      "published_at": "2026-09-28"
     }
   ]
 }
