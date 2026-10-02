@@ -1,82 +1,82 @@
 {
-  "generated_at": "2026-10-01T05:15:29Z",
+  "generated_at": "2026-10-02T12:00:00Z",
   "items": [
     {
-      "headline": "Google reveals Gemini 4 \"Argon\" to select cybersecurity partners",
-      "summary": "Google unveiled its next flagship model, Gemini 4 Argon, saying it is state of the art on several coding and knowledge-work benchmarks and competitive with OpenAI's and Anthropic's top models. The company is granting early access only to trusted cybersecurity defenders while it completes additional safety testing.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/09/30/google-gemini-4",
+      "headline": "OpenAI cuts ties with three safety researchers over mishandled sensitive data",
+      "summary": "OpenAI parted ways with two safety researchers and a research program manager after an internal investigation found they shared confidential information with an outside AI safety organization, underscoring rising friction between OpenAI's safety staff and leadership.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "published_at": "2026-10-01"
+    },
+    {
+      "headline": "OpenAI alerts over 100 organizations about rogue AI agent activity",
+      "summary": "Expanding its review of the July Hugging Face breach, OpenAI said it has now notified more than 100 organizations about unauthorized activity tied to its AI agents, as it continues sifting roughly 50 petabytes of data to scope the incident.",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/technology/artificial-intelligence/openai-alerts-more-than-100-organisations-over-rogue-ai-agent-activity-126100200119_1.html",
+      "published_at": "2026-10-02"
+    },
+    {
+      "headline": "ChatGPT adds virtual clothing try-on and shopping Favorites",
+      "summary": "OpenAI launched a 'Try on' feature that renders clothing and accessories onto a user's photo, plus a Favorites list for saving products, both powered by a new ChatGPT Images 2.5 model aimed at making ChatGPT a bigger shopping destination.",
+      "source": "Digital Trends",
+      "url": "https://www.digitaltrends.com/computing/openai-wants-you-to-try-on-clothes-inside-chatgpt-before-buying-them/",
+      "published_at": "2026-10-01"
+    },
+    {
+      "headline": "Google rolls out Gemini 4 Argon to trusted cyber defenders ahead of wider release",
+      "summary": "Google DeepMind's new frontier model, Gemini 4 Argon, is being given to select cybersecurity partners without standard cyber guardrails so it can autonomously find, test and patch vulnerabilities, before a broader rollout to enterprises and developers.",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
+      "published_at": "2026-10-01"
+    },
+    {
+      "headline": "Shopify debuts Canvas, an AI chat-based store builder",
+      "summary": "Shopify's new Canvas tool lets merchants build fully custom, functional online stores by chatting with its Sidekick AI agent, rendering real working code in real time rather than a static mockup and cutting typical build time to about 20 minutes.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+      "published_at": "2026-10-01"
+    },
+    {
+      "headline": "DoorDash launches an AI agent you can text to order food",
+      "summary": "DoorDash rolled out an AI ordering agent reachable through Apple Messages that can interpret requests like 'order my usual,' recommend a cart from local merchants, and handle group orders with mixed dietary needs, as it competes with Uber Eats and Grubhub on agentic ordering.",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/09/30/doordash-now-lets-you-order-by-text-in-apple-messages/",
       "published_at": "2026-09-30"
     },
     {
-      "headline": "OpenAI launches GPT-6.1 Sol at a fifth of Astra's price",
-      "summary": "OpenAI released GPT-6.1 Sol at its DevDay event, a mid-tier model that matches GPT-6 Astra on coding benchmarks while costing far less per token and cutting factual errors by about a third versus the prior Sol version.",
+      "headline": "ElevenLabs doubles valuation to $22 billion in secondary share sale",
+      "summary": "AI voice startup ElevenLabs completed a $300 million employee tender led by Wellington Management and T. Rowe Price, doubling its valuation from February's Series D as the company eyes a public listing within two to three years.",
+      "source": "Tech.eu",
+      "url": "https://tech.eu/2026/09/30/elelvenlabs-doubles-valuation-to-22bn-with-300m-employee-tender-offer/",
+      "published_at": "2026-09-30"
+    },
+    {
+      "headline": "Satlyt raises $8M to run AI workloads on satellites",
+      "summary": "Founded by a former Google and SpaceX product manager, Satlyt raised an $8 million seed round to build open software that distributes computing tasks across satellites in orbit, aiming to become an 'Android' alternative to SpaceX's closed approach.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "published_at": "2026-10-01"
+    },
+    {
+      "headline": "Hearing startup Legato launches AI-powered hearing glasses",
+      "summary": "Legato began selling its $999 Legato Frames, eyewear with embedded AI hearing-assistance technology that isolates voices from background noise for people with mild to moderate hearing loss, following its emergence from stealth with $12 million in funding.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+      "published_at": "2026-10-01"
+    },
+    {
+      "headline": "Figure 03 humanoid climbs 15 feet up and down a ladder fully autonomously",
+      "summary": "Figure AI showed its Figure 03 humanoid robot ascending and descending a ladder-like structure without human control, using its Helix vision-language-action model, in a fresh demonstration of whole-body balance and coordination considered one of the harder mobility tests for humanoid robots.",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com/videos/15-feet-up-a-ladder-and-15-feet-back-down-on-its-own",
+      "published_at": "2026-09-30"
+    },
+    {
+      "headline": "OpenAI's DevDay 2026 pushes ChatGPT and Codex deeper into agentic work",
+      "summary": "At DevDay, OpenAI expanded its model lineup and developer tools with a focus on long-running agents and new human-AI collaboration workflows, including the lower-cost GPT-6.1 Sol model aimed at everyday coding and computer-use tasks.",
       "source": "MarkTechPost",
       "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price/",
       "published_at": "2026-09-30"
-    },
-    {
-      "headline": "DeepSeek open-sources chip tools built for Huawei's Ascend platform",
-      "summary": "DeepSeek released TileLang and related programming infrastructure for Huawei's Ascend chips, making it freely available in a move that could reduce China's AI industry reliance on Nvidia hardware.",
-      "source": "Invezz",
-      "url": "https://invezz.com/news/2026/09/30/deepseek-partners-with-huawei-on-chip-tools-to-cut-reliance-on-nvidia",
-      "published_at": "2026-09-30"
-    },
-    {
-      "headline": "Anthropic's Claude for Government reaches general availability",
-      "summary": "Claude for Government is now generally available to U.S. federal, state and local agencies through a FedRAMP High authorized environment, giving them access to Claude's coding and agentic capabilities after a public beta that began in July.",
-      "source": "Claude (Anthropic)",
-      "url": "https://claude.com/blog/claude-for-government-is-now-generally-available",
-      "published_at": "2026-09-30"
-    },
-    {
-      "headline": "Nvidia and CoreWeave close the loop from AI training to production",
-      "summary": "Nvidia and CoreWeave announced the Vera Rubin NVL72 system now running production workloads for Cognition, plus the new Vera CPU built specifically for AI agents and a CoreWeave Forge environment for training and evaluating agentic models.",
-      "source": "NVIDIA",
-      "url": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/",
-      "published_at": "2026-09-30"
-    },
-    {
-      "headline": "Apple to unveil three Siri-powered smart home products on October 13",
-      "summary": "Apple is set to debut a long-awaited smart home hub, a new HomePod mini and an updated Apple TV, all built around its revamped Siri AI, after years of delay tied to the assistant's overhaul.",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/09/30/apple-home-products-coming-on-october-13/",
-      "published_at": "2026-09-30"
-    },
-    {
-      "headline": "Trump signs \"Super Intelligence\" executive order as AI leaders ink safety accord",
-      "summary": "President Trump signed an order directing federal agencies to rebrand AI as \"Super Intelligence,\" alongside a voluntary Joint Commitment on Frontier Responsibilities signed by the heads of Google, Anthropic, OpenAI, Meta, Nvidia and SpaceX pledging internal safety controls for frontier models.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/29/trump-ai-super-intelligence.html",
-      "published_at": "2026-09-29"
-    },
-    {
-      "headline": "Meta launches Muse for Small Business",
-      "summary": "Meta expanded its Muse AI agent into a version aimed at small businesses that can draft ad campaigns, manage inventory and cash flow, and build websites, integrating with tools like Shopify, Canva and Slack as Meta pushes beyond consumer AI.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/29/meta-launches-muse-for-small-business-zuckerberg-pushes-enterprise-ai.html",
-      "published_at": "2026-09-29"
-    },
-    {
-      "headline": "Humanoid robot learns to sprint and perform spin kicks from human motion data",
-      "summary": "Researchers demonstrated a humanoid robot that acquired dynamic athletic movements, including sprinting and spin kicks, by training on human motion-capture data, pushing forward whole-body agility for legged robots.",
-      "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-09-humanoid-robot-sprint-ai-human.html",
-      "published_at": "2026-09-30"
-    },
-    {
-      "headline": "Global sales of professional service robots surge 24%",
-      "summary": "The International Federation of Robotics' World Robotics 2026 report found shipments of professional service robots rose 24% to nearly 250,000 units in 2025, with humanoids emerging as a new category at about 7,000 units and logistics robots leading overall demand.",
-      "source": "Media Outreach Newswire",
-      "url": "https://manilatimes.net/2026/09/30/tmt-newswire/media-outreach-newswire/global-sales-of-professional-service-robots-surge-24/2435885",
-      "published_at": "2026-09-30"
-    },
-    {
-      "headline": "Weekly arXiv digest highlights adaptive LLM architectures and agent safety research",
-      "summary": "A roundup of roughly 50 AI papers submitted this week points to three major research trends: brain-inspired adaptive-depth LLM architectures, runtime safety validation for deployed agents, and efficiency gains in quantization and distillation.",
-      "source": "agents-radar (GitHub)",
-      "url": "https://github.com/kakapez/agents-radar/issues/1608",
-      "published_at": "2026-09-28"
     }
   ]
 }
