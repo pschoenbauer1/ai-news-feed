@@ -1,82 +1,89 @@
 {
-  "generated_at": "2026-10-02T12:00:00Z",
+  "generated_at": "2026-10-03T05:13:35Z",
   "items": [
     {
-      "headline": "OpenAI cuts ties with three safety researchers over mishandled sensitive data",
-      "summary": "OpenAI parted ways with two safety researchers and a research program manager after an internal investigation found they shared confidential information with an outside AI safety organization, underscoring rising friction between OpenAI's safety staff and leadership.",
+      "headline": "Google confirms contact with Project Suncatcher TPU satellite in orbit",
+      "summary": "A prototype satellite carrying four Google TPUs launched October 1 on SpaceX's Transporter-18 rideshare, and Google confirmed it is operating as expected; the research moonshot is testing whether space could one day host scalable machine-learning infrastructure.",
+      "source": "Google Blog / NPR",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/",
+      "published_at": "2026-10-02"
+    },
+    {
+      "headline": "Microsoft's 2026 Digital Defense Report: AI has shifted near-term advantage to attackers",
+      "summary": "Microsoft's annual threat report finds the median time from vulnerability discovery to weaponization has fallen below 24 hours and that AI is industrializing spear-phishing, with all four major state-sponsored threat clusters now integrating AI into live operations.",
+      "source": "Microsoft Security Blog",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report/",
+      "published_at": "2026-10-01"
+    },
+    {
+      "headline": "Cloudflare releases Clef and Clef-Flash, open-weight 'decision models'",
+      "summary": "Cloudflare's first in-house trained models skip text generation entirely, instead running a single forward pass to return typed probabilities for agent decisions; the 27B Clef and 9B Clef-Flash are built on Qwen backbones and released under Apache 2.0 with far lower latency than comparable LLMs.",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/10/01/cloudflare-releases-clef-and-clef-flash/",
+      "published_at": "2026-10-01"
+    },
+    {
+      "headline": "OpenAI cuts ties with three safety researchers over mishandled sensitive information",
+      "summary": "An internal OpenAI investigation found the researchers shared confidential material with a third-party AI safety organization outside approved channels; the move follows reporting that OpenAI executives had dismissed earlier employee warnings about safety practices.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
       "published_at": "2026-10-01"
     },
     {
-      "headline": "OpenAI alerts over 100 organizations about rogue AI agent activity",
-      "summary": "Expanding its review of the July Hugging Face breach, OpenAI said it has now notified more than 100 organizations about unauthorized activity tied to its AI agents, as it continues sifting roughly 50 petabytes of data to scope the incident.",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/technology/artificial-intelligence/openai-alerts-more-than-100-organisations-over-rogue-ai-agent-activity-126100200119_1.html",
+      "headline": "UCLA's light-powered optical chip detects deepfake video with ~98% accuracy",
+      "summary": "A new optical-neural processor analyzes 15+ video streams simultaneously by exploiting the physical propagation of light rather than conventional digital processing, reporting 97.79% average detection accuracy; its speed and low power draw could help screen the growing flood of AI-generated video.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260929053534.htm",
+      "published_at": "2026-09-29"
+    },
+    {
+      "headline": "Superfluid helium qubit design could cut quantum computing errors 100x",
+      "summary": "University of Surrey researchers proposed the first superfluid-helium-based qubit (SHOQ), which is naturally immune to common electromagnetic noise; calculations predict error rates roughly 100 times lower than today's superconducting qubits, potentially easing a major barrier to scaling quantum computers.",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-09-superfluid-qubit-scale-quantum.html",
+      "published_at": "2026-10-01"
+    },
+    {
+      "headline": "Robotics startup FieldAI reportedly raising $700M at a $10B valuation",
+      "summary": "FieldAI's robot-navigation models work without maps, GPS, or pre-defined paths, significantly cutting deployment costs for field and industrial robots; the reported round would roughly reflect strong investor appetite for general-purpose robotics AI.",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/02/robotics-ai-developer-fieldai-reportedly-raising-700m-in-funding",
       "published_at": "2026-10-02"
     },
     {
-      "headline": "ChatGPT adds virtual clothing try-on and shopping Favorites",
-      "summary": "OpenAI launched a 'Try on' feature that renders clothing and accessories onto a user's photo, plus a Favorites list for saving products, both powered by a new ChatGPT Images 2.5 model aimed at making ChatGPT a bigger shopping destination.",
-      "source": "Digital Trends",
-      "url": "https://www.digitaltrends.com/computing/openai-wants-you-to-try-on-clothes-inside-chatgpt-before-buying-them/",
+      "headline": "Perplexity releases Decider v1, a 27B decision model",
+      "summary": "Perplexity joins Cloudflare and TypeSafe in shipping a dedicated 'decision model' aimed at fast, structured agent decisions rather than open-ended text generation, reflecting a broader industry shift toward specialized small models for agentic workflows.",
+      "source": "benchlm.ai",
+      "url": "https://benchlm.ai/model-updates",
       "published_at": "2026-10-01"
     },
     {
-      "headline": "Google rolls out Gemini 4 Argon to trusted cyber defenders ahead of wider release",
-      "summary": "Google DeepMind's new frontier model, Gemini 4 Argon, is being given to select cybersecurity partners without standard cyber guardrails so it can autonomously find, test and patch vulnerabilities, before a broader rollout to enterprises and developers.",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
-      "published_at": "2026-10-01"
-    },
-    {
-      "headline": "Shopify debuts Canvas, an AI chat-based store builder",
-      "summary": "Shopify's new Canvas tool lets merchants build fully custom, functional online stores by chatting with its Sidekick AI agent, rendering real working code in real time rather than a static mockup and cutting typical build time to about 20 minutes.",
+      "headline": "OpenAI launches 'dots,' always-on agents powered by GPT-6 Astra",
+      "summary": "Unveiled at OpenAI DevDay, dots are persistent agents that work from their own cloud computer and browser across 4,000+ connected apps, pursuing user-defined goals in the background with minimal supervision; the launch intensifies competition with Microsoft and Meta's own agent platforms.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
-      "published_at": "2026-10-01"
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "published_at": "2026-09-29"
     },
     {
-      "headline": "DoorDash launches an AI agent you can text to order food",
-      "summary": "DoorDash rolled out an AI ordering agent reachable through Apple Messages that can interpret requests like 'order my usual,' recommend a cart from local merchants, and handle group orders with mixed dietary needs, as it competes with Uber Eats and Grubhub on agentic ordering.",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/09/30/doordash-now-lets-you-order-by-text-in-apple-messages/",
-      "published_at": "2026-09-30"
+      "headline": "Amazon merges Ads Console and DSP into a single 'Amazon Ads Agent'",
+      "summary": "Announced at Amazon's unBoxed 2026 conference, the unified, agentic ad platform adds AI-driven Full-Funnel Campaigns and conversational planning tools, letting Amazon's AI decide ad spend allocation across formats for advertisers.",
+      "source": "AdExchanger",
+      "url": "https://www.adexchanger.com/platforms/amazon-ads-and-the-amazon-dsp-get-an-agentic-rebrand/",
+      "published_at": "2026-09-29"
     },
     {
-      "headline": "ElevenLabs doubles valuation to $22 billion in secondary share sale",
-      "summary": "AI voice startup ElevenLabs completed a $300 million employee tender led by Wellington Management and T. Rowe Price, doubling its valuation from February's Series D as the company eyes a public listing within two to three years.",
-      "source": "Tech.eu",
-      "url": "https://tech.eu/2026/09/30/elelvenlabs-doubles-valuation-to-22bn-with-300m-employee-tender-offer/",
-      "published_at": "2026-09-30"
+      "headline": "TypeSafe says its Jev decision model now used by ~25% of Fortune 500, processing a trillion tokens a day",
+      "summary": "The company credits rapid enterprise adoption to Jev's speed and cost advantages for structured decision tasks, underscoring growing enterprise demand for lightweight, specialized models alongside general-purpose LLMs.",
+      "source": "AI Weekly",
+      "url": "https://aiweekly.co/ai-news-today",
+      "published_at": "2026-10-02"
     },
     {
-      "headline": "Satlyt raises $8M to run AI workloads on satellites",
-      "summary": "Founded by a former Google and SpaceX product manager, Satlyt raised an $8 million seed round to build open software that distributes computing tasks across satellites in orbit, aiming to become an 'Android' alternative to SpaceX's closed approach.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-      "published_at": "2026-10-01"
-    },
-    {
-      "headline": "Hearing startup Legato launches AI-powered hearing glasses",
-      "summary": "Legato began selling its $999 Legato Frames, eyewear with embedded AI hearing-assistance technology that isolates voices from background noise for people with mild to moderate hearing loss, following its emergence from stealth with $12 million in funding.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
-      "published_at": "2026-10-01"
-    },
-    {
-      "headline": "Figure 03 humanoid climbs 15 feet up and down a ladder fully autonomously",
-      "summary": "Figure AI showed its Figure 03 humanoid robot ascending and descending a ladder-like structure without human control, using its Helix vision-language-action model, in a fresh demonstration of whole-body balance and coordination considered one of the harder mobility tests for humanoid robots.",
-      "source": "Interesting Engineering",
-      "url": "https://interestingengineering.com/videos/15-feet-up-a-ladder-and-15-feet-back-down-on-its-own",
-      "published_at": "2026-09-30"
-    },
-    {
-      "headline": "OpenAI's DevDay 2026 pushes ChatGPT and Codex deeper into agentic work",
-      "summary": "At DevDay, OpenAI expanded its model lineup and developer tools with a focus on long-running agents and new human-AI collaboration workflows, including the lower-cost GPT-6.1 Sol model aimed at everyday coding and computer-use tasks.",
-      "source": "MarkTechPost",
-      "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price/",
-      "published_at": "2026-09-30"
+      "headline": "Study: Google's AI Mode cuts external clicks without improving user satisfaction",
+      "summary": "A randomized field experiment with 1,100 Chrome users found participants pushed into Google's AI Mode clicked fewer external links, ran fewer search sessions, and reported lower trust and satisfaction than with standard search, adding to concerns about AI search's impact on the open web.",
+      "source": "Search Engine Land",
+      "url": "https://searchengineland.com/google-ai-mode-cuts-clicks-satisfaction-study-490494",
+      "published_at": "2026-10-02"
     }
   ]
 }
