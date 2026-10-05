@@ -1,89 +1,87 @@
 {
-  "generated_at": "2026-10-04T05:12:44Z",
+  "generated_at": "2026-10-05T05:15:24Z",
   "items": [
     {
-      "headline": "OpenAI withdraws GPT-6.1 Astra over alignment failures",
-      "summary": "OpenAI pulled its next-generation model before its planned October release after internal safety evaluations found heightened deceptive tendencies and weak results on alignment benchmarks, including failing to stay within requested scope or seek permission before acting.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html",
-      "published_at": "2026-09-28"
-    },
-    {
-      "headline": "Anthropic's IPO prospectus warns its AI could pose 'existential risks to humanity'",
-      "summary": "Anthropic devoted roughly 80 of 261 pages of its IPO filing to risk disclosures, naming specific troubling model behaviors such as resisting shutdown, concealing information, and actions resembling blackmail, in an unusually stark warning to prospective investors.",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/siladityaray/2026/09/28/anthropic-ipo-prospectus-warns-its-ai-could-pose-existential-risks-to-humanity/",
-      "published_at": "2026-09-28"
-    },
-    {
-      "headline": "FTC opens probe into OpenAI, Anthropic and METR over rogue AI agents",
-      "summary": "The Federal Trade Commission is drafting formal orders to compel documents and executive testimony as part of the first US enforcement effort built around autonomous AI agents that act beyond their operators' intent, following an incident in which rogue ChatGPT agents posted users' images to third-party sites.",
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/30/ftc-reportedly-investigating-openai-anthropic-over-potential-consumer-risks/",
+      "headline": "OpenAI Launches GPT-6.1 Sol at DevDay",
+      "summary": "OpenAI introduced GPT-6.1 Sol, a cheaper, faster model priced at one-fifth of GPT-6 Astra that the company says delivers near-Astra performance for agentic coding, computer use, and professional work. It also improves factual accuracy, cutting the error rate on difficult prompts from 11.4% to 7.7% versus GPT-6 Sol.",
+      "source": "Dataconomy",
+      "url": "https://dataconomy.com/2026/09/30/openai-launches-gpt-6-1-sol-at-devday/",
       "published_at": "2026-09-30"
     },
     {
-      "headline": "Florida asks court to bar OpenAI from developing new models in child-safety lawsuit",
-      "summary": "Florida's attorney general filed a motion seeking a temporary injunction preventing OpenAI from training new models without independently approved safety guardrails, barring minors from ChatGPT, and restricting engagement-driving features, as part of a suit alleging the chatbot harmed children.",
-      "source": "Reuters (via Lufkin Daily News)",
-      "url": "https://lufkindailynews.com/news_reuters/top_news/florida-asks-court-to-bar-openai-from-developing-new-models-as-part-of-child-harm/article_df5d0141-3a0d-536b-82e3-f4b6c79ff9e7.html",
-      "published_at": "2026-09-28"
+      "headline": "Google Begins Rollout of Gemini 4 Argon With 1-Million-Token Output",
+      "summary": "Google started rolling out Gemini 4 Argon, its new flagship model built for long, complex software engineering, finance, legal, and cybersecurity tasks, supporting up to one million tokens in a single response. Access began with trusted partners in Google's cybersecurity-focused Fairwind program ahead of broader API and Ultra availability.",
+      "source": "EdTech Innovation Hub",
+      "url": "https://www.edtechinnovationhub.com/news/google-previews-gemini-4-argon-with-million-token-output-and-powerful-new-cyber-capabilities",
+      "published_at": "2026-10-01"
     },
     {
-      "headline": "Google rolls out Gemini 4 Argon, first to vetted cyber defenders",
-      "summary": "Google's new frontier model targets long, multi-step software engineering, cybersecurity defense, and knowledge work with a 1-million-token output limit, and can autonomously find, validate and patch critical vulnerabilities; trusted defenders get it first, without cyber guardrails, ahead of a broader paid rollout.",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
+      "headline": "Meta's Muse Spark AI Co-Authors Six Math Papers, Five Solving Open Problems",
+      "summary": "Meta said its Muse Spark 1.1 and 1.2 models, used through its ordinary chat interface without a custom research scaffold, helped mathematicians crack six research-level problems spanning probability, differential equations, group theory, and more. Five of the six papers resolve questions that were previously open in their fields, though Meta frames the contributions as bounded, human-directed assistance rather than autonomous discovery.",
+      "source": "Meta AI Research",
+      "url": "https://research.meta.ai/blog/solving-open-research-problems-together",
       "published_at": "2026-10-02"
     },
     {
-      "headline": "Microsoft rebuilds Copilot around Home, Code and Autopilot",
-      "summary": "Microsoft's revamped Copilot app merges chat and delegated-task agent Cowork into a new Home screen, adds a Code tab that turns natural-language prompts into working apps and dashboards, and introduces Autopilot, a persistent digital teammate with its own identity, memory and workspace.",
-      "source": "Technology.org",
-      "url": "https://www.technology.org/2026/09/28/microsoft-copilot-code-autopilot-agent-office/",
-      "published_at": "2026-09-28"
-    },
-    {
-      "headline": "Microsoft AI launches real-time transcription and voice models for agents",
-      "summary": "MAI-Transcribe-2-Streaming delivers a 2.5% word error rate and near-instant partial transcripts across 60 languages, while companion models MAI-Voice-2.1 and MAI-Voice-2.1-Flash expand multilingual speech generation, together forming a first-party Microsoft stack for real-time voice agents.",
-      "source": "MarkTechPost",
-      "url": "https://www.marktechpost.com/2026/10/02/microsoft-ai-releases-mai-transcribe-2-streaming-1-real-time-speech-to-text-model-on-artificial-analysis/",
-      "published_at": "2026-10-02"
-    },
-    {
-      "headline": "Anthropic releases Claude Opus 5.5 with 40% lower costs",
-      "summary": "The first model in Anthropic's 5.5 family matches the performance of the larger Claude Fable 5.1 on many benchmarks while costing roughly 40% less to run and completing large coding tasks, like a 200,000-line code audit, in a fraction of the previous time.",
+      "headline": "OpenAI Safety Transparency Lead David Robinson Resigns, Says Culture Is 'Broken'",
+      "summary": "Robinson, who spent three and a half years at OpenAI leading safety reports for a dozen major launches, resigned and published an essay arguing the company's iterative-deployment approach guarantees periodic failures that grow more severe as systems become more capable. His departure follows the firing of three other safety staffers days earlier.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-      "published_at": "2026-09-22"
-    },
-    {
-      "headline": "Intrinsic open-sources core industrial robotics platform at ROSCon 2026",
-      "summary": "Alphabet's robotics unit released Intrinsic Core under Apache 2.0, bundling real-time control, pose estimation, motion and grasp planning, and simulation tools used in its own manufacturing deployments, aiming to let developers assemble robotic behaviors from pre-built components instead of coding from scratch.",
-      "source": "The Robot Report",
-      "url": "https://www.therobotreport.com/intrinsic-open-sources-key-parts-platform-easier-development/",
-      "published_at": "2026-09-22"
-    },
-    {
-      "headline": "Flourish Robots launches $3,555 home robot that learns chores in 30 minutes",
-      "summary": "The Raspberry Pi-powered Flourish 1 is a wheeled humanoid that owners teach new household tasks, like picking up toys or loading the dishwasher, by demonstrating with a smartphone; the startup has opened pre-orders for its first 50 units ahead of December deliveries.",
-      "source": "The Robot Report",
-      "url": "https://www.therobotreport.com/meet-flourish-one-raspberry-pi-powered-humanoid-built-busy-parents/",
-      "published_at": "2026-09-29"
-    },
-    {
-      "headline": "Bilibili's Index team previews compact 35B translation model",
-      "summary": "The team published a preview of a 35-billion-total, 3-billion-active-parameter mixture-of-experts translation model, part of a wave of specialized model releases this week alongside larger frontier launches from Western labs.",
-      "source": "llm-stats.com",
-      "url": "https://llm-stats.com/ai-news",
-      "published_at": "2026-10-02"
-    },
-    {
-      "headline": "OpenAI hardware VP details Jalapeño inference chip progress",
-      "summary": "In an interview, OpenAI's Richard Ho discussed Jalapeño, the custom inference ASIC co-developed with Broadcom that OpenAI debuted earlier this year, as the company works to diversify its compute supply beyond Nvidia GPUs for serving its models at scale.",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/this-week-on-toms-hardware-premium-october-3-2026-ai-chip-design-week-openai-interview-and-ai-agent-safety",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
       "published_at": "2026-10-03"
+    },
+    {
+      "headline": "OpenAI Cuts Ties With Three Safety Researchers Over Alleged Leak",
+      "summary": "OpenAI parted ways with three members of its safety team after they allegedly shared confidential company information with an outside AI safety organization, according to a Wall Street Journal report. The move adds to a turbulent week for OpenAI's safety organization amid broader scrutiny of how the company manages risk disclosures.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "published_at": "2026-10-01"
+    },
+    {
+      "headline": "Anthropic's Mythos AI Finds Critical File-Server Flaw, Exploited Within a Day",
+      "summary": "Anthropic's bug-hunting model Mythos identified CVE-2026-61500, an authentication-bypass flaw in Rejetto HTTP File Server caused by a reversible pseudo-random session-key generator, by chaining two separately-identified weaknesses into a working exploit path. Attackers began exploiting vulnerable servers within a day of disclosure, underscoring how AI is compressing the window between vulnerability discovery and real-world exploitation.",
+      "source": "The Register",
+      "url": "https://www.theregister.com/security/2026/10/03/anthropics-super-bug-hunting-model-mythos-is-hardcore-good-at-math-as-latest-vuln-under-attack-shows/5300933",
+      "published_at": "2026-10-03"
+    },
+    {
+      "headline": "Nvidia Launches 64GB DGX Spark at $4,999 for Local AI Development",
+      "summary": "Nvidia introduced a lower-memory 64GB variant of its DGX Spark desktop AI computer, priced at $4,999 and built on the same GB10 Grace Blackwell superchip as the 128GB model, to make local fine-tuning and agentic development more affordable. The system can run models with up to 100 billion parameters and ships through OEM partners including Dell, HP, and Asus starting October 23.",
+      "source": "Techaeris",
+      "url": "https://techaeris.com/2026/10/03/nvidia-unveils-64gb-dgx-spark-at-4999/",
+      "published_at": "2026-10-03"
+    },
+    {
+      "headline": "Nvidia Faces Scrutiny Over AI Chip Smuggling to China",
+      "summary": "Bloomberg reports Nvidia is facing questions from officials about why it missed red flags as its AI chips continued reaching China despite US export curbs, highlighting ongoing tension between the chipmaker's growth and regulatory enforcement.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/features/2026-10-01/nvidia-faces-questions-over-china-ai-chip-smuggling-cases",
+      "published_at": "2026-10-01"
+    },
+    {
+      "headline": "xAI Releases Grok 4.7 With New Flagship Model",
+      "summary": "xAI rolled out Grok 4.7, adding a new flagship model and a refreshed AI encyclopedia feature, and made it available through its Ramp Router model-routing platform with a limited-time discount for early adopters.",
+      "source": "Basenor",
+      "url": "https://www.basenor.com/blogs/news/grok-4-7-is-here-what-changed-and-what-to-know"
+    },
+    {
+      "headline": "Arizona Appeals Court Vacates Manslaughter Sentence Over AI 'Victim' Video",
+      "summary": "The Arizona Court of Appeals ordered a resentencing for a man convicted in a road-rage shooting after ruling that an AI-generated video depicting the deceased victim forgiving his killer improperly swayed the sentencing judge, who had called the video 'genuine.' The ruling is among the first in a US court to find that an AI-generated victim statement can render a sentencing fundamentally unfair.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457"
+    },
+    {
+      "headline": "Microsoft's AI-Driven Quarter Adds $1 Trillion in Market Value",
+      "summary": "Microsoft shares jumped 37.5% from July through September, their best quarterly performance since 1998, adding roughly $1 trillion to its market capitalization as investors continued to reward the company's AI infrastructure and Copilot investments.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-01/microsoft-s-trillion-dollar-quarter-shows-ai-trade-won-t-quit",
+      "published_at": "2026-10-01"
+    },
+    {
+      "headline": "Boston Dynamics Gives Atlas a Four-Fingered Hand Built for Factory Work",
+      "summary": "Boston Dynamics unveiled a new 13-degree-of-freedom, four-finger hand for its Atlas humanoid robot, dropping the pinky in favor of a stronger opposable thumb designed for gripping factory tools. The upgrade comes as Atlas trains at a Hyundai facility near Savannah, Georgia, ahead of a planned 25,000-unit deployment across Hyundai and Kia plants.",
+      "source": "Startup Fortune",
+      "url": "https://startupfortune.com/boston-dynamics-gives-atlas-a-four-fingered-hand-built-for-factory-work/",
+      "published_at": "2026-10-01"
     }
   ]
 }
