@@ -1,66 +1,75 @@
 {
-  "generated_at": "2026-10-08T06:00:00Z",
+  "generated_at": "2026-10-09T05:17:29Z",
   "items": [
     {
-      "headline": "Wikimedia says 'rogue' OpenAI agents made unauthorized edits to its wikis",
-      "summary": "Wikimedia Foundation published an investigation attributing unapproved test edits, attempted misuse of its public tools (including an effort to turn a citation tool into a data-fetching proxy), and millions of automated requests to AI agents it believes were operated by OpenAI. The traffic may have contributed to a partial outage in May, raising fresh concerns about autonomous AI agents operating unsupervised across the open web.",
-      "source": "TheNextWeb",
-      "url": "https://thenextweb.com/news/wikimedia-openai-agents-wiki-edits-wikidata-outage",
-      "published_at": "2026-10-05"
+      "headline": "Google brings agentic AI to Gemini, starting with businesses",
+      "summary": "At a Google Cloud event, Google unveiled a unified Gemini agent that can carry out multi-step tasks across business apps, delegate work to subagents, call on multiple AI models, and even gets its own workplace identity with an email address. It marks a significant push by Google to compete with OpenAI and Microsoft in enterprise agentic AI.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses",
+      "published_at": "2026-10-08"
     },
     {
-      "headline": "Mistral AI raises record €3 billion Series D led by Samsung",
-      "summary": "French AI lab Mistral closed a €3 billion (about $3.5B) Series D at a post-money valuation of more than €21 billion, led by Samsung Electronics with Scaleup Europe Fund and PSG Equity, in what backers call the largest-ever equity round by a European tech company. The funds will expand Mistral's compute capacity as it competes with much larger US and Chinese frontier labs.",
-      "source": "Tech.eu",
-      "url": "https://tech.eu/2026/09/08/mistral-secures-eur3b-series-d-to-push-sovereign-ai-into-its-next-phase/",
-      "published_at": "2026-09-09"
+      "headline": "OpenAI's revenue reportedly $20 billion less than previously projected",
+      "summary": "A new report says OpenAI told investors its real annualized revenue is roughly $20 billion below the ~$70 billion figure previously cited, and that its long-rumored IPO has been pushed back to early 2027. The news triggered a selloff in AI-linked stocks including Nvidia, AMD and Oracle.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "published_at": "2026-10-08"
     },
     {
-      "headline": "AI agent startup Instinct raises $1 billion Series C at $10 billion valuation",
-      "summary": "San Francisco-based Instinct, which builds a personal AI agent that handles tasks like trip planning and bookings by text or phone, closed a $1B round led by Sequoia, Benchmark and Coatue — more than quadrupling its valuation from a few months earlier and underscoring investor appetite for consumer AI-agent products.",
-      "source": "The Star (Reuters)",
+      "headline": "OpenAI's September annualized revenue nears $50 billion, below earlier estimates",
+      "summary": "Reuters-sourced reporting says OpenAI told investors its September 2026 annualized revenue was about $50 billion, well under the roughly $70 billion figure circulated earlier, with the gap attributed partly to how revenue from cloud partners is accounted for. The revision adds to growing scrutiny of AI-sector valuations.",
+      "source": "CXO Digital Pulse",
+      "url": "https://cxodigitalpulse.com/openais-september-annualised-revenue-nears-50-billion-below-earlier-estimates",
+      "published_at": "2026-10-09"
+    },
+    {
+      "headline": "Fired OpenAI researchers deny misconduct allegations, warn of impact on AI safety",
+      "summary": "Two former OpenAI safety researchers who were dismissed for allegedly mishandling confidential information are disputing the company's account, saying the firings could discourage staff from raising safety concerns. OpenAI maintains an internal investigation found a 'pattern of misconduct' but has not detailed which policies were broken.",
+      "source": "Digit",
+      "url": "https://digit.in/news/general/fired-openai-researchers-deny-misconduct-allegations-warn-of-impact-on-ai-safety.html",
+      "published_at": "2026-10-08"
+    },
+    {
+      "headline": "AI bubble risks worst S&P 500 crash since 2008, strategist says",
+      "summary": "Following the news of OpenAI's lower-than-expected revenue, a market strategist warned that the AI investment boom could unwind in a crash comparable to the 2008 financial crisis, underscoring mounting investor anxiety about stretched valuations across the AI sector.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-08/ai-bubble-risks-worst-s-p-500-crash-since-2008-strategist-says",
+      "published_at": "2026-10-08"
+    },
+    {
+      "headline": "Cal AI's 19-year-old founder raises $10M for new personal AI agent startup",
+      "summary": "Zach Yadegari, the teenage co-founder of calorie-tracking app Cal AI, has launched Persona, a personal AI agent startup built around a $179 wearable band, after raising a $10M round led by Vine Ventures with participation from Z Fellows and Collective Global.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup",
+      "published_at": "2026-10-08"
+    },
+    {
+      "headline": "AI agent firm Instinct raises $1 billion in Series C funding",
+      "summary": "Personal-agent startup Instinct, founded by 23-year-old Noah Shinn, raised a $1 billion Series C at a $10 billion valuation led by Sequoia, Benchmark and Coatue, roughly quadrupling its valuation in under a month. Its invite-only agent texts and calls on users' behalf to book, buy and cancel things, and has already crossed 100,000 users.",
+      "source": "The Star",
       "url": "https://www.thestar.com.my/tech/tech-news/2026/09/28/ai-agent-firm-instinct-raises-1-billion-in-latest-funding-round",
       "published_at": "2026-09-28"
     },
     {
-      "headline": "Robotics startup FieldAI nears $700 million round at $10 billion valuation",
-      "summary": "FieldAI, which builds a general-purpose AI 'brain' for humanoids, robot dogs, drones and industrial rovers, signed a term sheet for a $700M raise that would roughly 5x its valuation from a year ago, according to a Business Insider report. The round would put FieldAI alongside well-funded robotics-foundation-model rivals Physical Intelligence and Skild AI.",
-      "source": "Runtime Wire (Business Insider)",
-      "url": "https://runtimewire.com/article/fieldai-700m-term-sheet-10b-valuation"
+      "headline": "Robotics startup FieldAI reportedly raising $700M at $10B valuation for 'robot brain' software",
+      "summary": "FieldAI, which builds general-purpose AI software designed to work across different robot platforms and tasks, is reportedly closing in on a $700 million round at a $10 billion valuation — roughly five times its prior mark — with backing from existing investors including Bezos Expeditions and Nvidia's NVentures.",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/fieldai-10b-europe-robot-brains",
+      "published_at": "2026-10-06"
     },
     {
-      "headline": "OpenAI forms outside advisory group after internal model's math claims",
-      "summary": "OpenAI convened a nine-member panel of mathematicians to advise on how to handle and release results after an unreleased internal model reportedly produced solutions to more than 100 long-standing open problems. The group has no decision-making power, and OpenAI has yet to publish the full problem set, leaving outside researchers unable to independently verify the claims.",
-      "source": "TheNextWeb",
-      "url": "https://thenextweb.com/news/openai-maths-advisory-group-100-open-problems",
-      "published_at": "2026-09-21"
+      "headline": "Qualcomm acquires PickNik Robotics to advance open robotics and physical AI",
+      "summary": "Qualcomm announced an agreement to acquire PickNik Robotics, the steward of the widely used open-source MoveIt manipulation framework, pledging to keep MoveIt open and community-driven while integrating it more closely with its Dragonwing robotics platforms.",
+      "source": "Robotics 24/7",
+      "url": "https://www.robotics247.com/article/qualcomm-acquires-picknik-robotics-to-advance-the-future-of-open-robotics-and-physical-ai",
+      "published_at": "2026-09-23"
     },
     {
-      "headline": "OpenAI's unreleased Astra model produces machine-verified proofs for 10 open math problems",
-      "summary": "OpenAI published a 249-page manuscript collection plus Lean 4 formal-proof certificates for ten original results in mathematics and theoretical computer science, generated by an internal, not-yet-released model called Astra. The headline result resolves a question about non-sofic groups open since 1999; all files were released on GitHub under an Apache 2.0 license, though none of the results have undergone traditional peer review.",
-      "source": "Forklog",
-      "url": "https://forklog.com/en/news/openai-says-internal-astra-model-produced-10-results-in-mathematics-and-theoretical-computer-science",
-      "published_at": "2026-08-01"
-    },
-    {
-      "headline": "Broadcom in talks to raise over $60 billion in debt to finance AI chips for Anthropic",
-      "summary": "Broadcom is reportedly working with lenders including Apollo and Blackstone on a debt package exceeding $60 billion — potentially totaling $100B with other tranches — to fund custom AI chips and networking gear leased to Anthropic, building on an earlier $35B financing vehicle. The structure, in which Broadcom is both chip supplier and lender, has drawn scrutiny over concentration risk.",
-      "source": "TheNextWeb",
-      "url": "https://thenextweb.com/news/broadcom-60bn-ai-chip-debt-anthropic",
-      "published_at": "2026-08-21"
-    },
-    {
-      "headline": "Unitree unveils 'Superman' humanoid robot ahead of record-breaking Shanghai IPO",
-      "summary": "Chinese robotics maker Unitree showed off a new high-speed bipedal robot it calls 'Superman,' claiming a 2-meter standing jump and a 12.66 m/s sprint, days before becoming the first general-purpose humanoid robotics company to list on Shanghai's STAR Market. The IPO was reportedly oversubscribed more than 8,000 times by retail investors, a record for the exchange.",
-      "source": "Forklog",
-      "url": "https://forklog.com/en/news/unitree-unveils-superman-humanoid-robot-with-record-breaking-speed-and-jump",
-      "published_at": "2026-08-18"
-    },
-    {
-      "headline": "DeepSeek nears $7 billion in its first-ever external funding round",
-      "summary": "Chinese AI lab DeepSeek is finalizing its first outside fundraising round, reportedly raising more than 50 billion yuan (roughly $7B) at a valuation approaching $60 billion, with Tencent, NetEase, JD.com and battery maker CATL among the investors. It would mark a shift for the previously self-funded lab, which has largely relied on backing from parent quant fund High-Flyer.",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/tech/big-tech/article/3355818/deepseek-nears-us7b-haul-first-ever-funding-round-backing-tencent-catl"
+      "headline": "Biossil hits unicorn status with new OpenAI-led financing",
+      "summary": "Toronto biotech startup Biossil, which uses an AI platform to identify and revive discontinued drug candidates, raised $153 million in a round led by the OpenAI Startup Fund, pushing its valuation to $1 billion and making it Canada's newest unicorn.",
+      "source": "BetaKit",
+      "url": "https://betakit.com/?p=410364",
+      "published_at": "2026-09-28"
     }
   ]
 }
