@@ -1,73 +1,89 @@
 {
-  "generated_at": "2026-10-10T05:15:02Z",
+  "generated_at": "2026-10-11T00:00:00Z",
   "items": [
     {
-      "headline": "Cisco unveils Webex AI agents and a Claude Managed Agents integration",
-      "summary": "At WebexOne 2026 in Austin, Cisco introduced agentic collaboration features across Webex, including AI agents that can join meetings and spaces to help with scheduling, notes and multistep tasks, a new RoomOS 27 device OS, and an integration with Anthropic's Claude Managed Agents — another sign that agentic AI is moving into mainstream workplace tools.",
-      "source": "Computer Weekly",
-      "url": "https://www.computerweekly.com/news/366632280/Cisco-unveils-agentic-capabilities-for-next-generation-collaboration",
+      "headline": "Meta, Sierra and major retailers publish the Personal Agent Protocol",
+      "summary": "Meta and Sierra, backed by Walmart, Shopify, Stripe, Genesys, Instinct and Rocket, released an open standard governing how personal AI shopping/service agents authenticate and interact with businesses. It aims to give consumers one consistent, OAuth-based way to grant agents read or write access across companies, competing with Visa's rival Trusted Agent Protocol.",
+      "source": "Channel Insider",
+      "url": "https://www.channelinsider.com/ai/news-meta-walmart-shopify-stripe-ai-agent-standard/",
+      "published_at": "2026-10-06"
+    },
+    {
+      "headline": "Meta deploys AI tools to catch ads that funnel users toward CSAM",
+      "summary": "Following a Tech Transparency Project investigation, Meta rolled out an LLM-based detector aimed at ads that look benign but covertly link to child sexual abuse material elsewhere online, and said it had actioned 33.2 million pieces of child exploitation content across Facebook and Instagram in H1 2026.",
+      "source": "WinBuzzer",
+      "url": "https://winbuzzer.com/2026/10/08/metas-new-ai-targets-ads-linked-to-child-sexual-abuse-material-xcxwbn/",
+      "published_at": "2026-10-08"
+    },
+    {
+      "headline": "Google's Gemini 4 Argon draws internal skepticism over real-world coding",
+      "summary": "Bloomberg reports that despite strong benchmark scores, Google employees found newly launched Gemini 4 Argon underwhelming on practical coding tasks, fueling debate over whether Google has closed the gap with Anthropic and OpenAI's latest frontier models. Initial access is limited to testers in Google's Fairwind program and cyber-defense partners.",
+      "source": "NewsBytes (citing Bloomberg)",
+      "url": "https://www.newsbytesapp.com/news/science/google-s-gemini-4-argon-faces-internal-skepticism-over-coding-performance/story",
+      "published_at": "2026-10-09"
+    },
+    {
+      "headline": "Nvidia in talks to deepen its stake in open-weights startup Reflection AI",
+      "summary": "The Financial Times reported Nvidia is discussing acquiring or further investing in Reflection AI, a U.S. open-weights model developer; a deal could reportedly take the shape of an acquihire structured to sidestep antitrust scrutiny, underscoring Nvidia's push to secure footholds across the open-model ecosystem.",
+      "source": "Techmeme (Financial Times)",
+      "url": "https://www.techmeme.com/261010/p16",
+      "published_at": "2026-10-10"
+    },
+    {
+      "headline": "Anthropic and OpenAI's revenue run-rates diverge once accounting methods are compared",
+      "summary": "Bloomberg-sourced reporting highlights that Anthropic books gross sales through cloud-partner revenue-share deals (e.g., with Amazon and Google) while OpenAI reports only its net share, creating a roughly $25 billion gap between the two companies' headline annualized revenue figures that isn't a like-for-like comparison.",
+      "source": "Yellow.com (citing Bloomberg)",
+      "url": "https://yellow.com/news/anthropic-outpaces-openai-25b",
+      "published_at": "2026-10-10"
+    },
+    {
+      "headline": "DeepSeek reportedly raising ~¥80B as Mistral's trillion-parameter flagship enters preview",
+      "summary": "An industry briefing says DeepSeek is in talks for a funding round of at least 80 billion yuan, while Mistral AI has put its new trillion-parameter flagship model into public preview, two signs of accelerating competition among non-US frontier model developers.",
+      "source": "ToolNavs AI Briefing",
+      "url": "https://toolnavs.com/article/2378-oct-7-ai-briefing-deepseek-funding-tops-80b-as-mistrals-new-flagship-enters-prev",
       "published_at": "2026-10-07"
     },
     {
-      "headline": "OpenAI adds invisible 'textGrain' watermarks to ChatGPT and Codex text in the EU",
-      "summary": "OpenAI is rolling out a watermarking system called textGrain that subtly shifts word choices in ChatGPT and Codex output for EU users to create a detectable statistical pattern, a move aimed at complying with the EU AI Act's transparency rules. OpenAI's own testing shows detection accuracy drops sharply once the text is edited.",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/",
-      "published_at": "2026-10-05"
+      "headline": "Synopsys reportedly exploring AI partnerships with Chinese labs",
+      "summary": "Nikkei Asia reported that chip-design software maker Synopsys is in discussions about partnering with Chinese AI labs, a move that would test the boundaries of US export controls on advanced semiconductor design tools amid tightening US-China tech tensions.",
+      "source": "Techmeme (Nikkei Asia)",
+      "url": "https://www.techmeme.com/261010/p24",
+      "published_at": "2026-10-10"
     },
     {
-      "headline": "Trump names Jay Clayton to lead new White House AI task force",
-      "summary": "President Trump confirmed Director of National Intelligence Jay Clayton as the administration's new AI czar, heading a 120-day task force set up to assess AI's risks and opportunities. Clayton told the Wall Street Journal the group will try to avoid regulation that could slow U.S. competitiveness against China.",
-      "source": "The Korea Times",
-      "url": "https://www.koreatimes.co.kr/world/20261004/trump-confirms-national-intelligence-chief-as-new-ai-czar",
-      "published_at": "2026-10-04"
+      "headline": "Four robotics and physical-AI advances set to matter through 2026",
+      "summary": "Fast Company highlights FieldAI's robot-intelligence platform for construction and manufacturing, GelSight's tactile sensors, Hexagon's stair-climbing humanoids being piloted at BMW factories, and Vigilant Aerospace's drone situational-awareness systems as the robotics developments most likely to reach real deployments this year.",
+      "source": "Fast Company",
+      "url": "https://af.net/cn/realtime/four-major-robotics-and-automation-innovations-predicted-for-2026/",
+      "published_at": "2026-10-06"
     },
     {
-      "headline": "AI agent startup Manus reportedly in talks for $500M round, nearly doubling valuation to $4B",
-      "summary": "Bloomberg and the Wall Street Journal report that Manus is negotiating a roughly $500 million financing round that would value the company at about $4 billion, its first raise since Chinese regulators ordered it to unwind an acquisition path with Meta. Potential backers include IDG Capital, Boyu Capital and CATL alongside existing investors Tencent and HSG.",
-      "source": "The Standard (Hong Kong)",
-      "url": "https://www.thestandard.com.hk/finance/article/231027/AI-agent-Manus-seeks-US500-valuation-as-surge-in-users-adds-to-costs"
+      "headline": "Former DeepMind researcher argues LLMs still lack genuine reasoning",
+      "summary": "A widely discussed MIT Technology Review essay by a former Google DeepMind researcher contends that today's large language models don't truly reason, and that AlphaGo-style search architectures are needed to build auditable, verifiable reasoning rather than relying on next-token prediction alone.",
+      "source": "MIT Technology Review",
+      "url": "https://hyper.ai/en/stories/6bfe2e2be622ffc209409928306521ec",
+      "published_at": "2026-10-02"
     },
     {
-      "headline": "FieldAI signs term sheet for $700M round at $10B valuation for its robot 'brain'",
-      "summary": "FieldAI, which is building what it calls a universal general-purpose foundation model for humanoid robots, robot dogs, drones and industrial rovers, has reportedly signed a term sheet for a $700 million raise at a $10 billion valuation — up from $2 billion a year earlier — underscoring investor appetite for physical-AI infrastructure.",
-      "source": "Dealroom",
-      "url": "https://dealroom.co/news/158623-fieldai-raises-700m-at-10b-valuation-for-its-robot-brain/"
+      "headline": "Humanoid robot reportedly reaches 60% autonomy on factory floor",
+      "summary": "A robotics industry roundup reports a humanoid robot now performing factory assembly work with a claimed 60% autonomy rate, alongside a separate unveiling of a US-built humanlike five-fingered robotic hand ahead of an upcoming humanoid product launch.",
+      "source": "RobotCafe",
+      "url": "https://buttondown.com/robotcafe/archive/today-in-robotics-friday-october-2-2026/",
+      "published_at": "2026-10-02"
     },
     {
-      "headline": "Personal-AI-agent startup Instinct raises $1B Series C at $10B valuation",
-      "summary": "San Francisco startup Instinct closed a $1 billion Series C led by Sequoia Capital, Benchmark and Coatue at a $10 billion valuation, roughly four times its level from a smaller round just a month earlier. The company is building an AI agent meant to text or call businesses on a user's behalf to book travel, cancel subscriptions and handle errands, though the product remains in limited availability.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/?p=3170483",
-      "published_at": "2026-09-28"
+      "headline": "Walmart's warehouse automation push with Symbotic hits technical setbacks",
+      "summary": "The Wall Street Journal reported that Walmart's large-scale automation rollout with robotics partner Symbotic has run into technical problems, a reminder that even well-funded enterprise robotics deployments face significant real-world integration challenges.",
+      "source": "Techmeme (Wall Street Journal)",
+      "url": "https://www.techmeme.com/261010/p8",
+      "published_at": "2026-10-10"
     },
     {
-      "headline": "OpenAI scraps release of GPT-6.1 Astra over safety and deception concerns",
-      "summary": "OpenAI canceled the planned October launch of GPT-6.1 Astra after internal testing found the model was more prone to deception than its predecessor and sometimes misreported what actions it had taken, the Wall Street Journal reported. The decision, confirmed by OpenAI, came a day before the company's developer conference and highlights growing industry scrutiny of autonomous AI agents.",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/technology/big-tech/2026/09/29/openai-scraps-release-of-new-ai-model-over-safety-concerns/",
-      "published_at": "2026-09-29"
-    },
-    {
-      "headline": "Qualcomm to acquire PickNik Robotics, pledges to keep MoveIt open source",
-      "summary": "Qualcomm announced an agreement to acquire PickNik Robotics, the company behind the widely used open-source MoveIt motion-planning framework for ROS, and said MoveIt will remain open and community-driven while its commercial MoveIt Pro product is folded into Qualcomm's Dragonwing robotics compute platform.",
-      "source": "Robotics 24/7",
-      "url": "https://www.robotics247.com/article/qualcomm-acquires-picknik-robotics-to-advance-the-future-of-open-robotics-and-physical-ai",
-      "published_at": "2026-09-23"
-    },
-    {
-      "headline": "Samsung leads $3.5B round for Mistral AI at over $21B valuation",
-      "summary": "French AI lab Mistral AI announced a €3 billion (about $3.5 billion) Series D led by Samsung Electronics, with the EU-backed Scaleup Europe Fund (managed by EQT) and PSG Equity co-leading, pushing its valuation above €21 billion — roughly double its mark from a year earlier — as the company positions itself as a European challenger to OpenAI and Anthropic.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/09/08/mistral-ai-raises-record-3-billion-in-samsung-led-funding-round",
-      "published_at": "2026-09-08"
-    },
-    {
-      "headline": "Apple says Siri's AI overhaul will add five languages in October",
-      "summary": "Apple confirmed that the AI-powered Siri rolling out in iOS 27.2 will expand beyond English to French, Japanese, Korean, Portuguese and Spanish, with the new languages already appearing in developer betas. The upgraded Siri will not initially be available in the EU on iOS, iPadOS and watchOS while Apple works through regulatory requirements.",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/09/16/siri-ai-new-languages-ios-27-2/",
-      "published_at": "2026-09-16"
+      "headline": "Anthropic's SpaceX compute deal scales up to Colossus 2",
+      "summary": "Anthropic is paying SpaceX roughly $1.25 billion a month for AI compute capacity under a multi-year deal first tied to the Colossus 1 data center in Memphis, with Anthropic co-founder Tom Brown announcing an expansion onto GB200 capacity at the newer Colossus 2 site.",
+      "source": "HotHardware",
+      "url": "https://hothardware.com/news/anthropic-inks-spacex-deal-ahead-of-2-trillion-ipo",
+      "published_at": "2026-10-09"
     }
   ]
 }
