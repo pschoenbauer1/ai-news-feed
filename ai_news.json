@@ -1,89 +1,89 @@
 {
-  "generated_at": "2026-10-11T00:00:00Z",
+  "generated_at": "2026-10-12T00:00:00Z",
   "items": [
     {
-      "headline": "Meta, Sierra and major retailers publish the Personal Agent Protocol",
-      "summary": "Meta and Sierra, backed by Walmart, Shopify, Stripe, Genesys, Instinct and Rocket, released an open standard governing how personal AI shopping/service agents authenticate and interact with businesses. It aims to give consumers one consistent, OAuth-based way to grant agents read or write access across companies, competing with Visa's rival Trusted Agent Protocol.",
-      "source": "Channel Insider",
-      "url": "https://www.channelinsider.com/ai/news-meta-walmart-shopify-stripe-ai-agent-standard/",
+      "headline": "OpenAI publishes 722 AI-generated math manuscripts from an unreleased model",
+      "summary": "OpenAI released 722 papers covering 372 families of mathematical results, including claimed progress on the Unique Games Conjecture, produced by an internal model it has not named or released. Only a fraction of the results are formally verified, drawing criticism that OpenAI withheld the model, exact prompts, and per-problem compute data needed for independent replication.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/380366/openai-secret-ai-model-cracked-hundreds-math-problems-one-prompt",
       "published_at": "2026-10-06"
     },
     {
-      "headline": "Meta deploys AI tools to catch ads that funnel users toward CSAM",
-      "summary": "Following a Tech Transparency Project investigation, Meta rolled out an LLM-based detector aimed at ads that look benign but covertly link to child sexual abuse material elsewhere online, and said it had actioned 33.2 million pieces of child exploitation content across Facebook and Instagram in H1 2026.",
-      "source": "WinBuzzer",
-      "url": "https://winbuzzer.com/2026/10/08/metas-new-ai-targets-ads-linked-to-child-sexual-abuse-material-xcxwbn/",
-      "published_at": "2026-10-08"
+      "headline": "Google's Gemini 4 Argon draws skepticism despite topping benchmarks",
+      "summary": "Google began a limited rollout of Gemini 4 Argon to trusted cyber-defense testers, with company benchmarks showing it ahead of GPT-6 Astra and Claude Opus 5.5 on most of 18 tests. Analysts and some Google employees reportedly found the gains less convincing in real-world coding use than on the benchmark scores themselves.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/02/tech-download-google-argon-frontier-openai-anthropic.html",
+      "published_at": "2026-10-02"
     },
     {
-      "headline": "Google's Gemini 4 Argon draws internal skepticism over real-world coding",
-      "summary": "Bloomberg reports that despite strong benchmark scores, Google employees found newly launched Gemini 4 Argon underwhelming on practical coding tasks, fueling debate over whether Google has closed the gap with Anthropic and OpenAI's latest frontier models. Initial access is limited to testers in Google's Fairwind program and cyber-defense partners.",
-      "source": "NewsBytes (citing Bloomberg)",
-      "url": "https://www.newsbytesapp.com/news/science/google-s-gemini-4-argon-faces-internal-skepticism-over-coding-performance/story",
-      "published_at": "2026-10-09"
+      "headline": "Anthropic launches Claude Haiku 5.5 with a steep price cut",
+      "summary": "Anthropic released Haiku 5.5, its first Haiku model with an adjustable effort control, pricing it at $0.10 per million input tokens and $0.50 per million output tokens for shorter requests -- roughly 75% cheaper to run on average than Haiku 4.5.",
+      "source": "The New Stack",
+      "url": "https://thenewstack.io/anthropic-claude-haiku-5-5/",
+      "published_at": "2026-10-07"
     },
     {
-      "headline": "Nvidia in talks to deepen its stake in open-weights startup Reflection AI",
-      "summary": "The Financial Times reported Nvidia is discussing acquiring or further investing in Reflection AI, a U.S. open-weights model developer; a deal could reportedly take the shape of an acquihire structured to sidestep antitrust scrutiny, underscoring Nvidia's push to secure footholds across the open-model ecosystem.",
-      "source": "Techmeme (Financial Times)",
+      "headline": "OpenAI unveils Dots, always-on personal AI agents",
+      "summary": "At its DevDay conference, OpenAI introduced Dots, agents built on GPT-6 Astra that keep working on a user's goals in the background, each with its own cloud computer and access to more than 4,000 apps. The agents roll out first to ChatGPT Pro and Business Premium users, with Europe excluded for now.",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/29/openai-launches-dots-always-on-ai-agents-in-chatgpt-with-their-own-cloud-computers/",
+      "published_at": "2026-09-29"
+    },
+    {
+      "headline": "Anthropic says Claude discovered a new CRISPR-like gene-editing mechanism",
+      "summary": "Anthropic reported that its Claude model identified a bacteriophage enzyme system, dubbed ART, that resembles CRISPR and could represent a new gene-editing tool, after a research team gave it a broad prompt and let it propose experiments. Outside scientists called the preprint intriguing but said it falls short of demonstrating actual gene editing.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/24/ai-model-claude-discovers-crispr-like-enzyme-system-anthropic-says",
+      "published_at": "2026-09-24"
+    },
+    {
+      "headline": "Mistral unveils trillion-parameter open-weight model \"Le Chonk\"",
+      "summary": "French startup Mistral announced Mistral Large 4, nicknamed Le Chonk, a mixture-of-experts model with roughly 1.05 trillion total parameters and a 1-million-token context window, available now in API preview with open weights planned for later in October. It's part of a broader push by Mistral to offer a sovereign, open alternative to US frontier labs.",
+      "source": "AlternativeTo News",
+      "url": "https://alternativeto.net/news/2026/10/mistral-unveils-mistral-large-4-le-chonk--a-new-frontier-in-open-weight-ai-models/",
+      "published_at": "2026-10-06"
+    },
+    {
+      "headline": "Pentagon confirms it has stopped using Anthropic's Claude",
+      "summary": "A Defense Department official told the BBC the Pentagon has ceased using Anthropic's products, the first on-record confirmation since Defense Secretary Pete Hegseth labeled the company a supply-chain risk earlier this year over its refusal to drop certain safety safeguards. Anthropic is suing the administration to overturn that designation.",
+      "source": "BBC News (via AI Weekly)",
+      "url": "https://aiweekly.co/alerts/pentagon-tells-bbc-it-has-stopped-using-anthropics-claude",
+      "published_at": "2026-10-05"
+    },
+    {
+      "headline": "Nvidia reportedly in talks to deepen its stake in Reflection AI",
+      "summary": "Nvidia is in discussions to increase its investment in Reflection AI, an open-weights model startup, as chipmakers continue to pour capital into AI labs to secure demand and influence over the open-model ecosystem.",
+      "source": "Techmeme",
       "url": "https://www.techmeme.com/261010/p16",
       "published_at": "2026-10-10"
     },
     {
-      "headline": "Anthropic and OpenAI's revenue run-rates diverge once accounting methods are compared",
-      "summary": "Bloomberg-sourced reporting highlights that Anthropic books gross sales through cloud-partner revenue-share deals (e.g., with Amazon and Google) while OpenAI reports only its net share, creating a roughly $25 billion gap between the two companies' headline annualized revenue figures that isn't a like-for-like comparison.",
-      "source": "Yellow.com (citing Bloomberg)",
-      "url": "https://yellow.com/news/anthropic-outpaces-openai-25b",
+      "headline": "Walmart's warehouse robotics push with Symbotic hits technical setbacks",
+      "summary": "Walmart's large-scale automation rollout with robotics firm Symbotic is reportedly running into technical problems, underscoring the gap between ambitious warehouse-automation plans and the reliability needed for continuous retail operations at scale.",
+      "source": "Techmeme",
+      "url": "https://www.techmeme.com/261010/p8",
       "published_at": "2026-10-10"
     },
     {
-      "headline": "DeepSeek reportedly raising ~¥80B as Mistral's trillion-parameter flagship enters preview",
-      "summary": "An industry briefing says DeepSeek is in talks for a funding round of at least 80 billion yuan, while Mistral AI has put its new trillion-parameter flagship model into public preview, two signs of accelerating competition among non-US frontier model developers.",
-      "source": "ToolNavs AI Briefing",
-      "url": "https://toolnavs.com/article/2378-oct-7-ai-briefing-deepseek-funding-tops-80b-as-mistrals-new-flagship-enters-prev",
-      "published_at": "2026-10-07"
-    },
-    {
-      "headline": "Synopsys reportedly exploring AI partnerships with Chinese labs",
-      "summary": "Nikkei Asia reported that chip-design software maker Synopsys is in discussions about partnering with Chinese AI labs, a move that would test the boundaries of US export controls on advanced semiconductor design tools amid tightening US-China tech tensions.",
-      "source": "Techmeme (Nikkei Asia)",
-      "url": "https://www.techmeme.com/261010/p24",
-      "published_at": "2026-10-10"
-    },
-    {
-      "headline": "Four robotics and physical-AI advances set to matter through 2026",
-      "summary": "Fast Company highlights FieldAI's robot-intelligence platform for construction and manufacturing, GelSight's tactile sensors, Hexagon's stair-climbing humanoids being piloted at BMW factories, and Vigilant Aerospace's drone situational-awareness systems as the robotics developments most likely to reach real deployments this year.",
-      "source": "Fast Company",
-      "url": "https://af.net/cn/realtime/four-major-robotics-and-automation-innovations-predicted-for-2026/",
-      "published_at": "2026-10-06"
-    },
-    {
-      "headline": "Former DeepMind researcher argues LLMs still lack genuine reasoning",
-      "summary": "A widely discussed MIT Technology Review essay by a former Google DeepMind researcher contends that today's large language models don't truly reason, and that AlphaGo-style search architectures are needed to build auditable, verifiable reasoning rather than relying on next-token prediction alone.",
-      "source": "MIT Technology Review",
-      "url": "https://hyper.ai/en/stories/6bfe2e2be622ffc209409928306521ec",
-      "published_at": "2026-10-02"
-    },
-    {
-      "headline": "Humanoid robot reportedly reaches 60% autonomy on factory floor",
-      "summary": "A robotics industry roundup reports a humanoid robot now performing factory assembly work with a claimed 60% autonomy rate, alongside a separate unveiling of a US-built humanlike five-fingered robotic hand ahead of an upcoming humanoid product launch.",
+      "headline": "Humanoid robot reportedly reaches 60% autonomy on a factory floor",
+      "summary": "A humanoid robot deployed in manufacturing is claimed by its maker to operate with roughly 60% autonomy during factory tasks, part of a wave of recent demonstrations -- including a humanlike five-finger robotic hand -- as humanoid robotics firms race toward commercial deployment.",
       "source": "RobotCafe",
       "url": "https://buttondown.com/robotcafe/archive/today-in-robotics-friday-october-2-2026/",
       "published_at": "2026-10-02"
     },
     {
-      "headline": "Walmart's warehouse automation push with Symbotic hits technical setbacks",
-      "summary": "The Wall Street Journal reported that Walmart's large-scale automation rollout with robotics partner Symbotic has run into technical problems, a reminder that even well-funded enterprise robotics deployments face significant real-world integration challenges.",
-      "source": "Techmeme (Wall Street Journal)",
-      "url": "https://www.techmeme.com/261010/p8",
-      "published_at": "2026-10-10"
+      "headline": "Qualcomm acquires PickNik Robotics as Nvidia ships Isaac ROS 5.0",
+      "summary": "Qualcomm acquired robotics software firm PickNik Robotics, while Nvidia released Isaac ROS 5.0, adding AI-agent capabilities to the widely used ROS robotics development ecosystem -- signs of continued consolidation and tooling investment in the robotics software stack.",
+      "source": "Robotics 247",
+      "url": "https://www.robotics247.com/podcast/september-2026-robotics-recap",
+      "published_at": "2026-09-30"
     },
     {
-      "headline": "Anthropic's SpaceX compute deal scales up to Colossus 2",
-      "summary": "Anthropic is paying SpaceX roughly $1.25 billion a month for AI compute capacity under a multi-year deal first tied to the Colossus 1 data center in Memphis, with Anthropic co-founder Tom Brown announcing an expansion onto GB200 capacity at the newer Colossus 2 site.",
-      "source": "HotHardware",
-      "url": "https://hothardware.com/news/anthropic-inks-spacex-deal-ahead-of-2-trillion-ipo",
-      "published_at": "2026-10-09"
+      "headline": "UK AI Security Institute's pre-release model access thrown into question",
+      "summary": "The UK's AI Security Institute may lose pre-release testing access to the newest OpenAI and Anthropic models after the White House reportedly asked the companies to delay sharing frontier models with the UK body pending a US government review, raising concerns about a widening gap in independent international AI safety testing.",
+      "source": "Computing",
+      "url": "https://www.computing.co.uk/news/2026/ai/uk-ai-security-institute-may-be-blocked-from-testing-latest-openai-and-anthropic-models",
+      "published_at": "2026-10-08"
     }
   ]
 }
