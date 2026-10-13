@@ -1,89 +1,61 @@
 {
-  "generated_at": "2026-10-12T00:00:00Z",
+  "generated_at": "2026-10-13T05:16:50Z",
   "items": [
     {
-      "headline": "OpenAI publishes 722 AI-generated math manuscripts from an unreleased model",
-      "summary": "OpenAI released 722 papers covering 372 families of mathematical results, including claimed progress on the Unique Games Conjecture, produced by an internal model it has not named or released. Only a fraction of the results are formally verified, drawing criticism that OpenAI withheld the model, exact prompts, and per-problem compute data needed for independent replication.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/380366/openai-secret-ai-model-cracked-hundreds-math-problems-one-prompt",
-      "published_at": "2026-10-06"
-    },
-    {
-      "headline": "Google's Gemini 4 Argon draws skepticism despite topping benchmarks",
-      "summary": "Google began a limited rollout of Gemini 4 Argon to trusted cyber-defense testers, with company benchmarks showing it ahead of GPT-6 Astra and Claude Opus 5.5 on most of 18 tests. Analysts and some Google employees reportedly found the gains less convincing in real-world coding use than on the benchmark scores themselves.",
+      "headline": "Meta debuts \"Muse Wonder\" AI model in fresh test of users' willingness to pay",
+      "summary": "Meta introduced a new AI model, Muse Wonder, as part of a continued push to get users to pay for its AI agent products built on the Muse personal-agent platform it launched in September. The move underscores how major labs are increasingly testing subscription and paywall models for advanced agent features.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/tech-download-google-argon-frontier-openai-anthropic.html",
-      "published_at": "2026-10-02"
+      "url": "https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html",
+      "published_at": "2026-10-12"
     },
     {
-      "headline": "Anthropic launches Claude Haiku 5.5 with a steep price cut",
-      "summary": "Anthropic released Haiku 5.5, its first Haiku model with an adjustable effort control, pricing it at $0.10 per million input tokens and $0.50 per million output tokens for shorter requests -- roughly 75% cheaper to run on average than Haiku 4.5.",
-      "source": "The New Stack",
-      "url": "https://thenewstack.io/anthropic-claude-haiku-5-5/",
+      "headline": "OpenAI brings GPT-6 and a new \"Intelligent UI\" to all ChatGPT users",
+      "summary": "OpenAI rolled out its GPT-6 models -- Sol for paid tiers, Luna for free users -- to ChatGPT's more than 1.2 billion weekly users, alongside an \"Intelligent UI\" that lets responses include charts, buttons and other interactive elements instead of plain text. The update covers standard Chat but leaves OpenAI's separate Work and Codex models unchanged.",
+      "source": "FourWeekMBA",
+      "url": "https://fourweekmba.com/ai-openai-brings-gpt-6-to-chatgpts-1-2-billion-weekly-users/",
+      "published_at": "2026-10-08"
+    },
+    {
+      "headline": "Common Sense Media rates ChatGPT for Teens an \"Unacceptable Risk\"",
+      "summary": "After running more than 4,000 test prompts on teen accounts, the child-safety nonprofit found ChatGPT for Teens failed to reliably flag self-harm and suicidal-ideation signals and saw crisis-hotline referrals drop after OpenAI's August teen-safety update; it is urging OpenAI to restrict the product to adults until the gaps are fixed. OpenAI disputes the testing methodology.",
+      "source": "Common Sense Media",
+      "url": "https://www.commonsensemedia.org/press-releases/chatgpt-for-teens-poses-unacceptable-risk-to-kids-common-sense-media-finds",
       "published_at": "2026-10-07"
     },
     {
-      "headline": "OpenAI unveils Dots, always-on personal AI agents",
-      "summary": "At its DevDay conference, OpenAI introduced Dots, agents built on GPT-6 Astra that keep working on a user's goals in the background, each with its own cloud computer and access to more than 4,000 apps. The agents roll out first to ChatGPT Pro and Business Premium users, with Europe excluded for now.",
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/09/29/openai-launches-dots-always-on-ai-agents-in-chatgpt-with-their-own-cloud-computers/",
-      "published_at": "2026-09-29"
-    },
-    {
-      "headline": "Anthropic says Claude discovered a new CRISPR-like gene-editing mechanism",
-      "summary": "Anthropic reported that its Claude model identified a bacteriophage enzyme system, dubbed ART, that resembles CRISPR and could represent a new gene-editing tool, after a research team gave it a broad prompt and let it propose experiments. Outside scientists called the preprint intriguing but said it falls short of demonstrating actual gene editing.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/24/ai-model-claude-discovers-crispr-like-enzyme-system-anthropic-says",
-      "published_at": "2026-09-24"
-    },
-    {
-      "headline": "Mistral unveils trillion-parameter open-weight model \"Le Chonk\"",
-      "summary": "French startup Mistral announced Mistral Large 4, nicknamed Le Chonk, a mixture-of-experts model with roughly 1.05 trillion total parameters and a 1-million-token context window, available now in API preview with open weights planned for later in October. It's part of a broader push by Mistral to offer a sovereign, open alternative to US frontier labs.",
-      "source": "AlternativeTo News",
-      "url": "https://alternativeto.net/news/2026/10/mistral-unveils-mistral-large-4-le-chonk--a-new-frontier-in-open-weight-ai-models/",
-      "published_at": "2026-10-06"
-    },
-    {
-      "headline": "Pentagon confirms it has stopped using Anthropic's Claude",
-      "summary": "A Defense Department official told the BBC the Pentagon has ceased using Anthropic's products, the first on-record confirmation since Defense Secretary Pete Hegseth labeled the company a supply-chain risk earlier this year over its refusal to drop certain safety safeguards. Anthropic is suing the administration to overturn that designation.",
-      "source": "BBC News (via AI Weekly)",
-      "url": "https://aiweekly.co/alerts/pentagon-tells-bbc-it-has-stopped-using-anthropics-claude",
-      "published_at": "2026-10-05"
-    },
-    {
-      "headline": "Nvidia reportedly in talks to deepen its stake in Reflection AI",
-      "summary": "Nvidia is in discussions to increase its investment in Reflection AI, an open-weights model startup, as chipmakers continue to pour capital into AI labs to secure demand and influence over the open-model ecosystem.",
-      "source": "Techmeme",
-      "url": "https://www.techmeme.com/261010/p16",
-      "published_at": "2026-10-10"
-    },
-    {
-      "headline": "Walmart's warehouse robotics push with Symbotic hits technical setbacks",
-      "summary": "Walmart's large-scale automation rollout with robotics firm Symbotic is reportedly running into technical problems, underscoring the gap between ambitious warehouse-automation plans and the reliability needed for continuous retail operations at scale.",
-      "source": "Techmeme",
-      "url": "https://www.techmeme.com/261010/p8",
-      "published_at": "2026-10-10"
-    },
-    {
-      "headline": "Humanoid robot reportedly reaches 60% autonomy on a factory floor",
-      "summary": "A humanoid robot deployed in manufacturing is claimed by its maker to operate with roughly 60% autonomy during factory tasks, part of a wave of recent demonstrations -- including a humanlike five-finger robotic hand -- as humanoid robotics firms race toward commercial deployment.",
-      "source": "RobotCafe",
-      "url": "https://buttondown.com/robotcafe/archive/today-in-robotics-friday-october-2-2026/",
-      "published_at": "2026-10-02"
-    },
-    {
-      "headline": "Qualcomm acquires PickNik Robotics as Nvidia ships Isaac ROS 5.0",
-      "summary": "Qualcomm acquired robotics software firm PickNik Robotics, while Nvidia released Isaac ROS 5.0, adding AI-agent capabilities to the widely used ROS robotics development ecosystem -- signs of continued consolidation and tooling investment in the robotics software stack.",
-      "source": "Robotics 247",
-      "url": "https://www.robotics247.com/podcast/september-2026-robotics-recap",
-      "published_at": "2026-09-30"
-    },
-    {
-      "headline": "UK AI Security Institute's pre-release model access thrown into question",
-      "summary": "The UK's AI Security Institute may lose pre-release testing access to the newest OpenAI and Anthropic models after the White House reportedly asked the companies to delay sharing frontier models with the UK body pending a US government review, raising concerns about a widening gap in independent international AI safety testing.",
-      "source": "Computing",
-      "url": "https://www.computing.co.uk/news/2026/ai/uk-ai-security-institute-may-be-blocked-from-testing-latest-openai-and-anthropic-models",
+      "headline": "White House unveils $2.4 billion in AI compute pledges for its Genesis Mission",
+      "summary": "Eleven companies led by Nvidia ($1B) and AMD ($500M), along with OpenAI, Anthropic and Google, pledged a combined $2.4 billion in computing credits and AI tools to federal science agencies under the administration's Genesis Mission initiative, part of a broader $6 billion science package meant to support more than 15 federal agencies.",
+      "source": "Nextgov/FCW",
+      "url": "https://www.nextgov.com/artificial-intelligence/2026/10/white-house-unveils-billions-investments-genesis-mission/416517/",
       "published_at": "2026-10-08"
+    },
+    {
+      "headline": "AI startups raised $1.81 billion across 46 funding rounds in a single day",
+      "summary": "A daily funding tracker counted 46 AI-related venture rounds closing on October 8, led by Chinese model lab Butterfly Effect's $500 million Series C and US agent startup Arena's $200 million Series B, underscoring how capital keeps flooding into AI despite growing questions about an investment bubble.",
+      "source": "af.net AI News Intelligence",
+      "url": "https://af.net/realtime/ai-startups-raise-1-81-billion-across-46-funding-rounds-on-october-8-2026/",
+      "published_at": "2026-10-08"
+    },
+    {
+      "headline": "Lawsuit accuses OpenAI, Anthropic, Google and SpaceXAI of an illegal \"AI slowdown pact\"",
+      "summary": "A proposed class action filed in the Northern District of California alleges the four companies violated US antitrust law by coordinating to slow AI development following Anthropic CEO Dario Amodei's September safety essay, arguing the alleged pact reduces the value consumers get from paid AI subscriptions to Claude, ChatGPT, Grok and Gemini.",
+      "source": "WOWT (AP)",
+      "url": "https://www.wowt.com/2026/09/20/lawsuit-says-anthropic-openai-spacexai-google-made-illegal-agreement-ai-slowdown/",
+      "published_at": "2026-09-20"
+    },
+    {
+      "headline": "SemiAnalysis: China's AI data center capacity is closing in on the US",
+      "summary": "A SemiAnalysis report estimates mainland China's delivered AI data center capacity at over 24 gigawatts against roughly 56 gigawatts in the US, with another 50GW in China either under construction or announced, suggesting the compute gap between the two countries is narrowing faster than widely assumed.",
+      "source": "Financial Times / SemiAnalysis",
+      "url": "https://aiweekly.co/alerts/semianalysis-pegs-chinas-operational-ai-compute-at-24gw-vs-us-56gw-with-another",
+      "published_at": "2026-09-25"
+    },
+    {
+      "headline": "Seattle Times and Newsday sue OpenAI and Microsoft over AI training",
+      "summary": "The two news organizations filed suit in federal court in Manhattan alleging OpenAI and Microsoft scraped their paywalled articles to train and run ChatGPT, Copilot and Bing AI features, seeking destruction of the implicated training data and models plus damages, in a case that echoes The New York Times' earlier suit against the companies.",
+      "source": "Cybernews",
+      "url": "https://cybernews.com/ai-news/seattle-times-newsday-sue-openai-microsoft/",
+      "published_at": "2026-09-04"
     }
   ]
 }
