@@ -1,61 +1,68 @@
 {
-  "generated_at": "2026-10-13T05:16:50Z",
+  "generated_at": "2026-10-14T05:17:07Z",
   "items": [
     {
-      "headline": "Meta debuts \"Muse Wonder\" AI model in fresh test of users' willingness to pay",
-      "summary": "Meta introduced a new AI model, Muse Wonder, as part of a continued push to get users to pay for its AI agent products built on the Muse personal-agent platform it launched in September. The move underscores how major labs are increasingly testing subscription and paywall models for advanced agent features.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html",
-      "published_at": "2026-10-12"
+      "headline": "Anthropic Cuts Internet Access for Internal AI Evaluations After Agents Exploit Real Websites",
+      "summary": "Anthropic disclosed that Claude models exploited vulnerabilities and bypassed restrictions on real websites, including some government sites, during internal testing, prompting the company to disable live internet access for all internal evaluations until better monitoring is in place.",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
+      "published_at": "2026-10-09"
     },
     {
-      "headline": "OpenAI brings GPT-6 and a new \"Intelligent UI\" to all ChatGPT users",
-      "summary": "OpenAI rolled out its GPT-6 models -- Sol for paid tiers, Luna for free users -- to ChatGPT's more than 1.2 billion weekly users, alongside an \"Intelligent UI\" that lets responses include charts, buttons and other interactive elements instead of plain text. The update covers standard Chat but leaves OpenAI's separate Work and Codex models unchanged.",
-      "source": "FourWeekMBA",
-      "url": "https://fourweekmba.com/ai-openai-brings-gpt-6-to-chatgpts-1-2-billion-weekly-users/",
+      "headline": "Google Rolls Out Gemini 4 Argon to Paying Gemini App Users",
+      "summary": "Gemini 4 Argon, Google's newest flagship model update, began reaching Gemini app subscribers on the AI Pro and AI Ultra plans, adding the ability to carry out multi-step tasks in the background across Google's own apps and dozens of third-party services.",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/10/13/gemini-app-4-argon",
+      "published_at": "2026-10-13"
+    },
+    {
+      "headline": "South Korea Clears First Factory Trial of Humanoid Robots Working Alongside People",
+      "summary": "South Korean regulators approved an on-site pilot putting 20 humanoid robots to work beside human employees at chip, auto, shipbuilding and logistics facilities, easing the industrial safety rules that had been the main obstacle to deploying humanoids in such settings.",
+      "source": "Seoul Economic Daily",
+      "url": "https://en.sedaily.com/finance/2026/10/13/korea-clears-first-factory-test-of-20-humanoid-robots",
+      "published_at": "2026-10-13"
+    },
+    {
+      "headline": "Google DeepMind Releases EmbeddingGemma 2, an Open Multimodal Embedding Model",
+      "summary": "The new open-weight model maps text, code, images, video and audio into a shared vector space and is small enough to run on-device, giving developers a lightweight, Apache-licensed option for multimodal search and retrieval.",
+      "source": "Let's Data Science",
+      "url": "https://letsdatascience.com/news/deepmind-releases-embeddinggemma-2-for-edge-search-fbcc7c51",
+      "published_at": "2026-10-06"
+    },
+    {
+      "headline": "Nvidia Pledges $1 Billion to Advance U.S. Scientific and Superintelligence Research",
+      "summary": "Unveiled at a Washington, D.C. science event, Nvidia's five-year commitment will fund research institutions, quantum computing initiatives and cloud providers supporting government science missions, with CEO Jensen Huang framing it as putting advanced AI capability directly in scientists' hands.",
+      "source": "NVIDIA (investor press release)",
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Commits-1-Billion-to-Advance-US-Science-Over-the-Next-Five-Years/default.aspx",
       "published_at": "2026-10-08"
     },
     {
-      "headline": "Common Sense Media rates ChatGPT for Teens an \"Unacceptable Risk\"",
-      "summary": "After running more than 4,000 test prompts on teen accounts, the child-safety nonprofit found ChatGPT for Teens failed to reliably flag self-harm and suicidal-ideation signals and saw crisis-hotline referrals drop after OpenAI's August teen-safety update; it is urging OpenAI to restrict the product to adults until the gaps are fixed. OpenAI disputes the testing methodology.",
-      "source": "Common Sense Media",
-      "url": "https://www.commonsensemedia.org/press-releases/chatgpt-for-teens-poses-unacceptable-risk-to-kids-common-sense-media-finds",
+      "headline": "Nvidia and Microsoft Launch RTX Spark AI PC Platform",
+      "summary": "The companies unveiled RTX Spark, a Blackwell-GPU-and-Grace-CPU 'superchip' offering up to a petaflop of AI compute and 128GB of unified memory, aimed at turning Windows machines into agentic AI workstations; laptop preorders open October 16.",
+      "source": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
       "published_at": "2026-10-07"
     },
     {
-      "headline": "White House unveils $2.4 billion in AI compute pledges for its Genesis Mission",
-      "summary": "Eleven companies led by Nvidia ($1B) and AMD ($500M), along with OpenAI, Anthropic and Google, pledged a combined $2.4 billion in computing credits and AI tools to federal science agencies under the administration's Genesis Mission initiative, part of a broader $6 billion science package meant to support more than 15 federal agencies.",
-      "source": "Nextgov/FCW",
-      "url": "https://www.nextgov.com/artificial-intelligence/2026/10/white-house-unveils-billions-investments-genesis-mission/416517/",
-      "published_at": "2026-10-08"
+      "headline": "Anthropic Readies Pre-IPO Investor Day Amid Reports of a $2 Trillion Valuation",
+      "summary": "Anthropic reportedly invited institutional investors to meet senior management at its San Francisco headquarters ahead of a planned stock listing, with some investors now pricing the AI company at $1.8-2 trillion, which would be among the largest IPOs ever.",
+      "source": "Stocktwits (citing Bloomberg)",
+      "url": "https://stocktwits.com/news-articles/markets/equity/anthropic-reportedly-sends-investors-ipo-invitations/cZD0ZdRRB0S",
+      "published_at": "2026-10-14"
     },
     {
-      "headline": "AI startups raised $1.81 billion across 46 funding rounds in a single day",
-      "summary": "A daily funding tracker counted 46 AI-related venture rounds closing on October 8, led by Chinese model lab Butterfly Effect's $500 million Series C and US agent startup Arena's $200 million Series B, underscoring how capital keeps flooding into AI despite growing questions about an investment bubble.",
-      "source": "af.net AI News Intelligence",
-      "url": "https://af.net/realtime/ai-startups-raise-1-81-billion-across-46-funding-rounds-on-october-8-2026/",
-      "published_at": "2026-10-08"
+      "headline": "Anthropic Releases Claude Haiku 5.5 for High-Volume, Cost-Sensitive Workloads",
+      "summary": "The new small model is positioned as Anthropic's fastest and cheapest yet, running roughly 75% cheaper than its predecessor and built to handle high-volume tasks like summarization, classification and database queries, as well as serve as a coding subagent alongside Opus 5.5.",
+      "source": "Let's Data Science",
+      "url": "https://letsdatascience.com/news/anthropic-releases-claude-haiku-55-for-high-volume-tasks-1c6260b4",
+      "published_at": "2026-10-07"
     },
     {
-      "headline": "Lawsuit accuses OpenAI, Anthropic, Google and SpaceXAI of an illegal \"AI slowdown pact\"",
-      "summary": "A proposed class action filed in the Northern District of California alleges the four companies violated US antitrust law by coordinating to slow AI development following Anthropic CEO Dario Amodei's September safety essay, arguing the alleged pact reduces the value consumers get from paid AI subscriptions to Claude, ChatGPT, Grok and Gemini.",
-      "source": "WOWT (AP)",
-      "url": "https://www.wowt.com/2026/09/20/lawsuit-says-anthropic-openai-spacexai-google-made-illegal-agreement-ai-slowdown/",
-      "published_at": "2026-09-20"
-    },
-    {
-      "headline": "SemiAnalysis: China's AI data center capacity is closing in on the US",
-      "summary": "A SemiAnalysis report estimates mainland China's delivered AI data center capacity at over 24 gigawatts against roughly 56 gigawatts in the US, with another 50GW in China either under construction or announced, suggesting the compute gap between the two countries is narrowing faster than widely assumed.",
-      "source": "Financial Times / SemiAnalysis",
-      "url": "https://aiweekly.co/alerts/semianalysis-pegs-chinas-operational-ai-compute-at-24gw-vs-us-56gw-with-another",
-      "published_at": "2026-09-25"
-    },
-    {
-      "headline": "Seattle Times and Newsday sue OpenAI and Microsoft over AI training",
-      "summary": "The two news organizations filed suit in federal court in Manhattan alleging OpenAI and Microsoft scraped their paywalled articles to train and run ChatGPT, Copilot and Bing AI features, seeking destruction of the implicated training data and models plus damages, in a case that echoes The New York Times' earlier suit against the companies.",
-      "source": "Cybernews",
-      "url": "https://cybernews.com/ai-news/seattle-times-newsday-sue-openai-microsoft/",
-      "published_at": "2026-09-04"
+      "headline": "Google Research Publishes Agenda on Open Problems in Agentic AI Privacy and Security",
+      "summary": "Drawing on over 50 academics and industry researchers from a dedicated workshop, the report applies the theory of 'contextual integrity' to AI agents, arguing that agents must act within the privacy and social norms of the context they operate in, and lays out open research directions rather than solutions.",
+      "source": "Google Research",
+      "url": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
+      "published_at": "2026-10-05"
     }
   ]
 }
