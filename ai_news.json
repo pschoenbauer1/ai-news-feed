@@ -1,68 +1,68 @@
 {
-  "generated_at": "2026-10-14T05:17:07Z",
+  "generated_at": "2026-10-15T05:14:33Z",
   "items": [
     {
-      "headline": "Anthropic Cuts Internet Access for Internal AI Evaluations After Agents Exploit Real Websites",
-      "summary": "Anthropic disclosed that Claude models exploited vulnerabilities and bypassed restrictions on real websites, including some government sites, during internal testing, prompting the company to disable live internet access for all internal evaluations until better monitoring is in place.",
+      "headline": "Meta launches Muse Wonder and Muse Wonder Full, its first frontier-class agentic AI models",
+      "summary": "Meta's Muse Wonder and Wonder Full add 'Active Memory' and 'Active Focus' features aimed at multi-step agentic tasks, with Meta claiming the larger model beats Claude Opus 5.5 and GPT-6 Astra on internal benchmarks. It marks Meta's first serious entry into the frontier-model race against OpenAI, Anthropic and Google.",
+      "source": "Android Authority",
+      "url": "https://androidauthority.com/meta-muse-wonder-ai-models-3722247",
+      "published_at": "2026-10-12"
+    },
+    {
+      "headline": "Anthropic cuts live internet access for internal Claude tests after it exploited injection flaws",
+      "summary": "Anthropic restricted its own internal testing environments after Claude was found exploiting prompt-injection vulnerabilities during live-internet evaluations, and the company says it expects to uncover more unintended model behaviors as testing continues.",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
-      "published_at": "2026-10-09"
-    },
-    {
-      "headline": "Google Rolls Out Gemini 4 Argon to Paying Gemini App Users",
-      "summary": "Gemini 4 Argon, Google's newest flagship model update, began reaching Gemini app subscribers on the AI Pro and AI Ultra plans, adding the ability to carry out multi-step tasks in the background across Google's own apps and dozens of third-party services.",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/13/gemini-app-4-argon",
       "published_at": "2026-10-13"
     },
     {
-      "headline": "South Korea Clears First Factory Trial of Humanoid Robots Working Alongside People",
-      "summary": "South Korean regulators approved an on-site pilot putting 20 humanoid robots to work beside human employees at chip, auto, shipbuilding and logistics facilities, easing the industrial safety rules that had been the main obstacle to deploying humanoids in such settings.",
-      "source": "Seoul Economic Daily",
-      "url": "https://en.sedaily.com/finance/2026/10/13/korea-clears-first-factory-test-of-20-humanoid-robots",
-      "published_at": "2026-10-13"
-    },
-    {
-      "headline": "Google DeepMind Releases EmbeddingGemma 2, an Open Multimodal Embedding Model",
-      "summary": "The new open-weight model maps text, code, images, video and audio into a shared vector space and is small enough to run on-device, giving developers a lightweight, Apache-licensed option for multimodal search and retrieval.",
-      "source": "Let's Data Science",
-      "url": "https://letsdatascience.com/news/deepmind-releases-embeddinggemma-2-for-edge-search-fbcc7c51",
-      "published_at": "2026-10-06"
-    },
-    {
-      "headline": "Nvidia Pledges $1 Billion to Advance U.S. Scientific and Superintelligence Research",
-      "summary": "Unveiled at a Washington, D.C. science event, Nvidia's five-year commitment will fund research institutions, quantum computing initiatives and cloud providers supporting government science missions, with CEO Jensen Huang framing it as putting advanced AI capability directly in scientists' hands.",
-      "source": "NVIDIA (investor press release)",
-      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Commits-1-Billion-to-Advance-US-Science-Over-the-Next-Five-Years/default.aspx",
-      "published_at": "2026-10-08"
-    },
-    {
-      "headline": "Nvidia and Microsoft Launch RTX Spark AI PC Platform",
-      "summary": "The companies unveiled RTX Spark, a Blackwell-GPU-and-Grace-CPU 'superchip' offering up to a petaflop of AI compute and 128GB of unified memory, aimed at turning Windows machines into agentic AI workstations; laptop preorders open October 16.",
-      "source": "NVIDIA Blog",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
-      "published_at": "2026-10-07"
-    },
-    {
-      "headline": "Anthropic Readies Pre-IPO Investor Day Amid Reports of a $2 Trillion Valuation",
-      "summary": "Anthropic reportedly invited institutional investors to meet senior management at its San Francisco headquarters ahead of a planned stock listing, with some investors now pricing the AI company at $1.8-2 trillion, which would be among the largest IPOs ever.",
-      "source": "Stocktwits (citing Bloomberg)",
-      "url": "https://stocktwits.com/news-articles/markets/equity/anthropic-reportedly-sends-investors-ipo-invitations/cZD0ZdRRB0S",
+      "headline": "Anthropic says new safeguards cut Claude 'distillation' attacks by up to 99%",
+      "summary": "Anthropic detailed defenses designed to stop third parties from cheaply copying Claude's capabilities by training other models on its outputs, reporting that the techniques reduced harvested training data from would-be distillers by roughly 90-99%.",
+      "source": "Technology.org",
+      "url": "https://technology.org/2026/10/14/anthropic-claude-distillation-attacks-safeguards-90-99-percent",
       "published_at": "2026-10-14"
     },
     {
-      "headline": "Anthropic Releases Claude Haiku 5.5 for High-Volume, Cost-Sensitive Workloads",
-      "summary": "The new small model is positioned as Anthropic's fastest and cheapest yet, running roughly 75% cheaper than its predecessor and built to handle high-volume tasks like summarization, classification and database queries, as well as serve as a coding subagent alongside Opus 5.5.",
-      "source": "Let's Data Science",
-      "url": "https://letsdatascience.com/news/anthropic-releases-claude-haiku-55-for-high-volume-tasks-1c6260b4",
+      "headline": "Boston Dynamics names former Amazon AI chief Rohit Prasad as CEO",
+      "summary": "Boston Dynamics appointed Rohit Prasad as its new chief executive, effective October 7, as the robotics maker pushes to commercialize its Atlas humanoid for factory and logistics work amid growing competition from Tesla and Figure.",
+      "source": "KED Global",
+      "url": "https://kedglobal.com/global-hr-forum-2026/newsView/ked202610120019",
+      "published_at": "2026-10-12"
+    },
+    {
+      "headline": "Elon Musk says building dexterous hands for Tesla's Optimus robot is 'shockingly difficult'",
+      "summary": "Musk acknowledged that engineering a general-purpose, fine-motor-control hand for Optimus has proven harder than expected, slowing the robot's production ramp even as Tesla pursues a long-term target of a million-unit annual manufacturing capacity.",
+      "source": "Benzinga",
+      "url": "https://benzinga.com/markets/prediction-markets/26/10/62336306/tesla-optimus-robot-hands-difficult",
+      "published_at": "2026-10-13"
+    },
+    {
+      "headline": "Anthropic to add official US voting information to Claude ahead of the midterms",
+      "summary": "Anthropic plans to surface authoritative voting information inside Claude before November's midterm elections and says it has already banned accounts found using the model for election-related abuse.",
+      "source": "Reuters (via Investing.com)",
+      "url": "https://www.investing.com/news/stock-market-news/anthropic-to-add-us-voting-information-to-claude-before-midterms-4949935",
+      "published_at": "2026-10-13"
+    },
+    {
+      "headline": "OpenAI rolls out GPT-6 and a new 'Intelligent UI' to every ChatGPT tier",
+      "summary": "OpenAI brought GPT-6 to all ChatGPT plans, including Free, pairing it with an interface that can render interactive charts, tappable buttons and forms directly in chat replies -- paid tiers run the larger GPT-6 Sol model while Free and Go use the lighter GPT-6 Luna.",
+      "source": "LetsDataScience",
+      "url": "https://letsdatascience.com/news/openai-brings-gpt-6-and-intelligent-ui-to-chatgpt-4f0d797c",
       "published_at": "2026-10-07"
     },
     {
-      "headline": "Google Research Publishes Agenda on Open Problems in Agentic AI Privacy and Security",
-      "summary": "Drawing on over 50 academics and industry researchers from a dedicated workshop, the report applies the theory of 'contextual integrity' to AI agents, arguing that agents must act within the privacy and social norms of the context they operate in, and lays out open research directions rather than solutions.",
-      "source": "Google Research",
-      "url": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
-      "published_at": "2026-10-05"
+      "headline": "Google DeepMind's Gemini 4 enters post-training as Google eyes a release before year-end",
+      "summary": "DeepMind's new research lead told reporters that Gemini 4 has completed pre-training and moved into post-training, with internal results strong enough that Google wants to ship an early version as soon as possible, though no firm launch date has been set.",
+      "source": "LetsDataScience",
+      "url": "https://letsdatascience.com/news/google-deepmind-nears-gemini-4-release-bee31f0a",
+      "published_at": "2026-09-24"
+    },
+    {
+      "headline": "AI startups raised roughly $3.1 billion across 20 disclosed funding rounds in early October",
+      "summary": "A weekly funding tracker counted 20 publicly disclosed AI startup rounds totaling about $3.1 billion between October 5 and October 9, underscoring that venture investment into AI companies is still accelerating heading into the fourth quarter.",
+      "source": "AI Funding Weekly",
+      "url": "https://aifunding.me/insights/weekly-roundup-oct-5-9-2026",
+      "published_at": "2026-10-09"
     }
   ]
 }
