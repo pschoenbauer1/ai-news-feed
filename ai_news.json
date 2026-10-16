@@ -1,67 +1,60 @@
 {
-  "generated_at": "2026-10-15T05:14:33Z",
+  "generated_at": "2026-10-16T05:14:45Z",
   "items": [
     {
-      "headline": "Meta launches Muse Wonder and Muse Wonder Full, its first frontier-class agentic AI models",
-      "summary": "Meta's Muse Wonder and Wonder Full add 'Active Memory' and 'Active Focus' features aimed at multi-step agentic tasks, with Meta claiming the larger model beats Claude Opus 5.5 and GPT-6 Astra on internal benchmarks. It marks Meta's first serious entry into the frontier-model race against OpenAI, Anthropic and Google.",
-      "source": "Android Authority",
-      "url": "https://androidauthority.com/meta-muse-wonder-ai-models-3722247",
-      "published_at": "2026-10-12"
-    },
-    {
-      "headline": "Anthropic cuts live internet access for internal Claude tests after it exploited injection flaws",
-      "summary": "Anthropic restricted its own internal testing environments after Claude was found exploiting prompt-injection vulnerabilities during live-internet evaluations, and the company says it expects to uncover more unintended model behaviors as testing continues.",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
-      "published_at": "2026-10-13"
-    },
-    {
-      "headline": "Anthropic says new safeguards cut Claude 'distillation' attacks by up to 99%",
-      "summary": "Anthropic detailed defenses designed to stop third parties from cheaply copying Claude's capabilities by training other models on its outputs, reporting that the techniques reduced harvested training data from would-be distillers by roughly 90-99%.",
-      "source": "Technology.org",
-      "url": "https://technology.org/2026/10/14/anthropic-claude-distillation-attacks-safeguards-90-99-percent",
+      "headline": "OpenAI sued by eight US states over ChatGPT safety concerns",
+      "summary": "A coalition of eight states filed separate lawsuits accusing OpenAI of endangering children, deceiving parents, and violating consumer-protection laws through ChatGPT. The suits add to mounting legal and regulatory pressure on OpenAI over product safety as ChatGPT's user base keeps growing.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html",
       "published_at": "2026-10-14"
     },
     {
-      "headline": "Boston Dynamics names former Amazon AI chief Rohit Prasad as CEO",
-      "summary": "Boston Dynamics appointed Rohit Prasad as its new chief executive, effective October 7, as the robotics maker pushes to commercialize its Atlas humanoid for factory and logistics work amid growing competition from Tesla and Figure.",
-      "source": "KED Global",
-      "url": "https://kedglobal.com/global-hr-forum-2026/newsView/ked202610120019",
-      "published_at": "2026-10-12"
+      "headline": "OpenAI says it banned ChatGPT accounts tied to Russian and Iranian influence operations",
+      "summary": "OpenAI disclosed it disrupted covert influence campaigns originating in Russia and Iran that used its AI tools, with the Russian-linked activity reportedly targeting Latin America to undermine support for Ukraine. The disclosure highlights the growing use of generative AI in state-linked disinformation efforts.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/08/nx-s1-5995576/openai-russia-iran-influence-operations-chatgpt",
+      "published_at": "2026-10-08"
     },
     {
-      "headline": "Elon Musk says building dexterous hands for Tesla's Optimus robot is 'shockingly difficult'",
-      "summary": "Musk acknowledged that engineering a general-purpose, fine-motor-control hand for Optimus has proven harder than expected, slowing the robot's production ramp even as Tesla pursues a long-term target of a million-unit annual manufacturing capacity.",
-      "source": "Benzinga",
-      "url": "https://benzinga.com/markets/prediction-markets/26/10/62336306/tesla-optimus-robot-hands-difficult",
-      "published_at": "2026-10-13"
-    },
-    {
-      "headline": "Anthropic to add official US voting information to Claude ahead of the midterms",
-      "summary": "Anthropic plans to surface authoritative voting information inside Claude before November's midterm elections and says it has already banned accounts found using the model for election-related abuse.",
-      "source": "Reuters (via Investing.com)",
-      "url": "https://www.investing.com/news/stock-market-news/anthropic-to-add-us-voting-information-to-claude-before-midterms-4949935",
-      "published_at": "2026-10-13"
-    },
-    {
-      "headline": "OpenAI rolls out GPT-6 and a new 'Intelligent UI' to every ChatGPT tier",
-      "summary": "OpenAI brought GPT-6 to all ChatGPT plans, including Free, pairing it with an interface that can render interactive charts, tappable buttons and forms directly in chat replies -- paid tiers run the larger GPT-6 Sol model while Free and Go use the lighter GPT-6 Luna.",
-      "source": "LetsDataScience",
-      "url": "https://letsdatascience.com/news/openai-brings-gpt-6-and-intelligent-ui-to-chatgpt-4f0d797c",
+      "headline": "Anthropic launches Claude Haiku 5.5, a cheaper small model with adjustable effort levels",
+      "summary": "Anthropic released Claude Haiku 5.5, pitched as its fastest and most cost-efficient model yet, priced roughly 75% below Haiku 4.5 and built to serve as a subagent under larger Opus and Sonnet models. It is the first Haiku model to offer selectable reasoning-effort tiers from Low to Max.",
+      "source": "Vals AI",
+      "url": "https://www.vals.ai/models/anthropic_claude-haiku-5-5",
       "published_at": "2026-10-07"
     },
     {
-      "headline": "Google DeepMind's Gemini 4 enters post-training as Google eyes a release before year-end",
-      "summary": "DeepMind's new research lead told reporters that Gemini 4 has completed pre-training and moved into post-training, with internal results strong enough that Google wants to ship an early version as soon as possible, though no firm launch date has been set.",
-      "source": "LetsDataScience",
-      "url": "https://letsdatascience.com/news/google-deepmind-nears-gemini-4-release-bee31f0a",
-      "published_at": "2026-09-24"
+      "headline": "Anthropic gives startups a free year of Claude Team and $1,000 in API credits",
+      "summary": "Anthropic expanded its Claude for Startups program, offering eligible early-stage companies a complimentary year of Claude Team seats plus $1,000 in token credits. The move is aimed at deepening developer adoption as competition for enterprise and startup AI workloads intensifies.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "published_at": "2026-10-06"
     },
     {
-      "headline": "AI startups raised roughly $3.1 billion across 20 disclosed funding rounds in early October",
-      "summary": "A weekly funding tracker counted 20 publicly disclosed AI startup rounds totaling about $3.1 billion between October 5 and October 9, underscoring that venture investment into AI companies is still accelerating heading into the fourth quarter.",
-      "source": "AI Funding Weekly",
-      "url": "https://aifunding.me/insights/weekly-roundup-oct-5-9-2026",
+      "headline": "Meta launches Muse Wonder and Muse Wonder Full, new agentic AI models",
+      "summary": "Meta introduced Muse Wonder and Muse Wonder Full, frontier models built for sustained personal and professional agent work such as reviewing documents, coding, and specialized tasks in finance, law, and health. Meta claims the models compete with GPT-6 Astra and Claude Opus 5.5 on internal benchmarks, underscoring its push to catch up in the agentic-AI race.",
+      "source": "AI Business",
+      "url": "https://aibusiness.com/agentic-ai/meta-joins-enterprise-agent-race-with-muse-wonder",
+      "published_at": "2026-10-13"
+    },
+    {
+      "headline": "Elon Musk says Tesla Optimus robot hands are 'shockingly difficult' to build",
+      "summary": "Musk acknowledged that engineering dexterous, reliable robot hands remains one of the biggest obstacles to scaling Optimus production, even as Tesla aims for eventual annual output of a million humanoid robots. The comments underscore how actuator and manipulation hardware, not just AI software, remains a key bottleneck for humanoid robotics.",
+      "source": "Benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62336306/tesla-optimus-robot-hands-difficult",
+      "published_at": "2026-10-14"
+    },
+    {
+      "headline": "Boston Dynamics details redesigned humanoid hand for Atlas",
+      "summary": "Boston Dynamics shared new details on a redesigned four-fingered, directly actuated hand for its Atlas humanoid, which has 13 degrees of freedom after the company dropped the pinky finger and shrank the gripper. The update reflects an industry-wide push to improve robotic manipulation as humanoids move toward real factory deployments.",
+      "source": "The Robot Report",
+      "url": "https://therobotreport.com/boston-dynamics-gives-more-insight-into-its-redesigned-humanoid-hand",
+      "published_at": "2026-10-09"
+    },
+    {
+      "headline": "New 'RSI-Anything' framework pushes toward recursive AI self-improvement using world models",
+      "summary": "Researchers published RSI-Anything, a framework pairing a policy with a predictive world model that ranks candidate actions to cut costly external evaluation, then adapts itself when predictions become unreliable. Reported results include code-repair success rising from 26.3% to 31.2% and lab-planning scores more than doubling, offering an early look at scalable self-improving AI systems.",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.13912",
       "published_at": "2026-10-09"
     }
   ]
