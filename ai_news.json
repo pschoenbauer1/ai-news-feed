@@ -1,61 +1,75 @@
 {
-  "generated_at": "2026-10-20T05:14:30Z",
+  "generated_at": "2026-10-21T05:13:45Z",
   "items": [
     {
-      "headline": "Meta releases Muse Wonder, its first frontier-class AI model",
-      "summary": "Meta's Superintelligence Lab launched Muse Wonder and Muse Wonder Full, its most capable models yet, after years of trailing OpenAI, Anthropic and Google on frontier benchmarks. The closed-weight models break from Meta's earlier open Llama strategy and emphasize long-running coding and agent tasks.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder",
-      "published_at": "2026-10-12"
-    },
-    {
-      "headline": "FBI arrests OpenAI employee over hidden recording device in conference room",
-      "summary": "A 35-year-old OpenAI engineer was charged after a listening device, concealed in toilet paper and plugged into a TV's USB port, was found in an executive conference room. OpenAI said it saw no evidence the employee accessed model weights, source code or customer data, and has terminated him.",
-      "source": "The Atlanta Journal-Constitution",
-      "url": "https://www.ajc.com/news/2026/10/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/",
+      "headline": "Google's Gemini 4 Argon reaches general availability in the Gemini API",
+      "summary": "Google expanded access to Gemini 4 Argon, its frontier model, making it generally available via the Gemini API with a roughly 1M-token context window and introductory pricing of $2/M input and $10/M output tokens through November 30. It had previously been limited to a trusted group of cybersecurity partners.",
+      "source": "Let's Data Science",
+      "url": "https://letsdatascience.com/news/google-releases-gemini-4-argon-for-scientific-computing-644a49ff",
       "published_at": "2026-10-13"
     },
     {
-      "headline": "Character.AI files for Chapter 11 bankruptcy as Disney moves to hire most of its staff",
-      "summary": "The chatbot company filed for Chapter 11 in Delaware, and Disney has offered jobs to 66 of its roughly 86 employees as part of a $20 million stalking-horse bid for a license to its technology. The deal underscores how quickly consumer AI-companion startups have struggled financially even as demand for their products grew.",
-      "source": "PPC Land",
-      "url": "https://ppc.land/disney-budgets-180m-for-character-ai-staff-20m-for-the-bankrupt-company/",
+      "headline": "xAI launches Grok Voice 3.0, a new speech-to-speech model for voice agents",
+      "summary": "xAI released Grok Voice 3.0 as the new default behind its Voice Agent API, aimed at phone support, contact centers and in-app assistants; it reports sub-one-second latency and topped Artificial Analysis's Speech-to-Speech Index at launch.",
+      "source": "DevX",
+      "url": "https://www.devx.com/artificial-intelligence-ai/what-is-grok-voice-3-0-xai-speech-to-speech-model/",
+      "published_at": "2026-10-14"
+    },
+    {
+      "headline": "Meta launches Muse Wonder and Muse Wonder Full for agentic coding",
+      "summary": "Meta's new Muse Wonder models, available via its Model API and the Muse Code coding agent, pushed coding-agent benchmark scores up sharply versus the prior Muse Spark model, with Wonder Full reportedly matching Anthropic's Claude Code on Artificial Analysis's Coding Agent Index.",
+      "source": "Let's Data Science",
+      "url": "https://letsdatascience.com/news/meta-launches-muse-wonder-and-muse-wonder-full-for-agentic-t-41113cca",
       "published_at": "2026-10-12"
     },
     {
-      "headline": "Nvidia in advanced talks to acquire Hugging Face for about $12.9 billion",
-      "summary": "The Information reported Nvidia has agreed to buy the open-source AI platform, while Reuters, citing Business Insider, described the talks as advanced but not yet a signed deal. It would be one of Nvidia's largest acquisitions as it pushes further into the AI software layer.",
-      "source": "Reuters",
-      "url": "https://betanews.com/article/nvidia-confirms-plans-to-acquire-ai-firm-hugging-face/",
-      "published_at": "2026-08-27"
-    },
-    {
-      "headline": "Rivian says its vehicles will eventually run third-party AI agents",
-      "summary": "Rivian CEO RJ Scaringe said at TechCrunch Disrupt that future vehicles could run AI agents built by outside companies, including Anthropic, beyond the automaker's current in-house voice assistant. It signals automakers increasingly see cars as a new platform for third-party AI agents.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+      "headline": "NVIDIA expands Nemotron family with Super VL and Bolt models",
+      "summary": "NVIDIA released Nemotron 3.5 Super VL, a 120B-parameter open vision-language model it says completes multimodal agent tasks about five times faster than comparable models, alongside smaller efficiency-focused Bolt models for memory-constrained deployment.",
+      "source": "HPCwire",
+      "url": "https://www.hpcwire.com/aiwire/2026/10/15/nvidia-expands-nemotron-family-with-highest-efficiency-super-vl-and-bolt-models/",
       "published_at": "2026-10-15"
     },
     {
-      "headline": "Anthropic releases Claude Opus 5.5, a cheaper flagship coding and agent model",
-      "summary": "Anthropic's new flagship runs roughly 20-40% cheaper than Opus 5 while performing close to its larger Claude Fable 5.1 model on most tasks, with external evaluators including METR reviewing its safety behavior. It's aimed squarely at coding, agent workflows and enterprise analytics.",
-      "source": "Thurrott",
-      "url": "https://thurrott.com/a-i/anthropic/341913/anthropic-releases-claude-opus-5-5",
-      "published_at": "2026-09-22"
+      "headline": "Liquid AI releases open-weight LFM2.5-24B-A2B mixture-of-experts model",
+      "summary": "Liquid AI open-sourced LFM2.5-24B-A2B, a 24B-parameter mixture-of-experts reasoning model with only ~2B active parameters per token, which the company claims is competitive with the larger Qwen3.6-35B-A3B on several agentic benchmarks.",
+      "source": "LLM Reference",
+      "url": "https://www.llmreference.com/model/lfm-2.5-24b-a2b",
+      "published_at": "2026-10-13"
     },
     {
-      "headline": "Amazon triples Nvidia GPU commitment to about 3 million chips for AWS",
-      "summary": "Nvidia disclosed on an earnings call that Amazon expanded an earlier order to roughly 3 million Blackwell Ultra, Rubin and Rubin Ultra GPUs for AWS data centers, citing demand from AI labs, enterprises and governments that has outrun forecasts. The deal also covers Nvidia networking, CPUs and robotics software.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
-      "published_at": "2026-08-26"
+      "headline": "Google opens Deep Review, an AI tool for checking technical documents, to the public",
+      "summary": "Google Research made Deep Review publicly available for flagging mathematical errors, logical gaps and unsupported claims in papers and other technical documents, following pilots on more than 15,000 manuscripts; the free tier allows two reviews per week.",
+      "source": "Google Research",
+      "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review/",
+      "published_at": "2026-10-14"
     },
     {
-      "headline": "Big Tech plans record $680 billion in AI infrastructure spending for 2026",
-      "summary": "Alphabet, Amazon, Meta and Microsoft collectively plan to spend a record $680 billion this year on AI data centers and networking, with Alphabet alone raising its capex guidance to $180-190 billion. Investors have pushed back on some of the hyperscalers, demanding clearer proof the spending will pay off.",
-      "source": "CRE Daily",
-      "url": "https://www.credaily.com/?p=217580",
-      "published_at": "2026-10-09"
+      "headline": "Anthropic updates Claude usage policy to ban persistent, purposeless cruelty toward the AI",
+      "summary": "Anthropic announced a policy change, effective November 12, that lets it end conversations where users are repeatedly and gratuitously abusive to Claude with no discernible purpose, while explicitly excluding ordinary frustration, dark creative fiction, and legitimate testing or research.",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com/ai-robotics/anthropic-claude-new-usage-policy-cruelty-crackdown",
+      "published_at": "2026-10-08"
+    },
+    {
+      "headline": "Rockefeller Foundation and OpenAI Foundation launch $50M program to bring AI to city services",
+      "summary": "The two foundations announced a joint $50 million initiative offering grants of $500,000 to $2 million to help city governments use AI to improve public services, with applications open from October 14 through November 29.",
+      "source": "The Rockefeller Foundation",
+      "url": "https://www.rockefellerfoundation.org/news/rockefeller-openai-50-million-partnership-cities-improve-public-services-ai/",
+      "published_at": "2026-10-14"
+    },
+    {
+      "headline": "OpenAI rolls out GPT-Live-1.1 and a smaller 'Quip' model to ChatGPT Voice",
+      "summary": "OpenAI began a gradual rollout of GPT-Live-1.1 across ChatGPT, Codex and Dots, adding 13 new voices and more natural accents in languages including French, German, Hindi, Mexican Spanish, Korean and Japanese, alongside a lighter Quip variant succeeding GPT-Live-1 mini.",
+      "source": "AI Weekly",
+      "url": "https://aiweekly.co/alerts/openai-rolls-out-gpt-live-11-to-all-users-with-13-new-voices-across-six-non",
+      "published_at": "2026-10-15"
+    },
+    {
+      "headline": "MBZUAI and Inception42 launch Jais 3, a family of open Arabic-native AI models",
+      "summary": "The Jais 3 family spans six open models from 900M to 375B parameters plus a dedicated Arabic speech-recognition model, trained on Modern Standard Arabic and regional dialects; the developers say the flagship model leads open models on agentic tasks in Arabic.",
+      "source": "HPCwire",
+      "url": "https://www.hpcwire.com/aiwire/2026/10/16/mbzuai-and-inception42-introduce-jais-3-and-arabic-speech-recognition-model/",
+      "published_at": "2026-10-16"
     }
   ]
 }
