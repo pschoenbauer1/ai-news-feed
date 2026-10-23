@@ -1,75 +1,68 @@
 {
-  "generated_at": "2026-10-22T05:15:09Z",
+  "generated_at": "2026-10-23T05:14:43Z",
   "items": [
     {
-      "headline": "Anthropic quietly pitches its own AI safety bill to lawmakers",
-      "summary": "Anthropic privately circulated a draft federal bill that would let the Commerce Department ask a court to block release of an AI model only if it poses an imminent risk of over $1 billion in damage or 50+ deaths/serious injuries from bioweapons, loss of control, or cyberattacks. The move is notable because a leading AI lab is shaping the terms of its own regulation, drawing criticism that the threshold is narrow and company-friendly.",
-      "source": "Politico (via The Star)",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/17/anthropic-quietly-pitches-its-own-ai-safety-bill-to-lawmakers-politico-reports",
-      "published_at": "2026-10-17"
+      "headline": "OpenAI acquires Orchestra Bio to expand its Rosalind life-sciences push",
+      "summary": "OpenAI bought the drug-development coordination startup Orchestra Bio and will fold its team and agentic workflow tools into Rosalind, OpenAI's life-sciences model suite. The deal signals frontier AI labs racing to move beyond chat products into automating actual drug-discovery pipelines, following Anthropic's similar biotech push.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/381467/openai-buys-orchestra-bio-ai-agents-drug-development",
+      "published_at": "2026-10-20"
     },
     {
-      "headline": "xAI launches Grok Voice 3.0, a speech-to-speech model for voice agents",
-      "summary": "xAI released Grok Voice 3.0, which processes audio directly rather than chaining speech-to-text, an LLM, and text-to-speech, aimed at phone support, contact centers, and in-app assistants. It replaces Grok Voice 2.0 and is available via xAI's Voice Agent API.",
-      "source": "DevX",
-      "url": "https://www.devx.com/artificial-intelligence-ai/what-is-grok-voice-3-0-xai-speech-to-speech-model/",
-      "published_at": "2026-10-14"
+      "headline": "Google open-sources TorchTPU, bringing native PyTorch support to Cloud TPUs",
+      "summary": "Unveiled at PyTorch Conference, TorchTPU lets existing PyTorch code target Google's TPUs by simply switching the device setting, replacing the older PyTorch/XLA bridge and integrating with vLLM, SGLang, TorchTitan and Hugging Face Transformers. It was co-developed with Meta and tested at a scale of 8,192 Ironwood (TPU7x) chips, lowering the barrier to running PyTorch workloads outside Nvidia's CUDA ecosystem.",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/10/20/google-torchtpu-open-source-native-pytorch-tpu/",
+      "published_at": "2026-10-20"
     },
     {
-      "headline": "Mistral AI puts Large 4 into public preview",
-      "summary": "Mistral AI's newest flagship model, Mistral Large 4, entered public preview, with open weights expected by the end of October. It's a notable step for the French lab as it competes with much larger US and Chinese frontier labs.",
-      "source": "Layer3 Labs",
-      "url": "https://www.layer3labs.io/guides/mistral-ai-explained",
-      "published_at": "2026-10-06"
+      "headline": "Anthropic pitches Congress a federal AI safety bill with a high bar for shutting down models",
+      "summary": "Anthropic has privately circulated draft legislation that would let federal authorities halt a frontier AI model only when it poses an imminent risk of over $1 billion in damages or death/injury to more than 50 people, covering bioweapons, loss of control, and cyberattack scenarios. The threshold has drawn criticism from some policy watchers as too permissive, while others see it as a template building on Anthropic's own Advanced AI Framework and California's SB 53.",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com/ai-robotics/anthropic-confidential-congress-draft-bill",
+      "published_at": "2026-10-19"
     },
     {
-      "headline": "OpenAI expands GPT-6 access to all ChatGPT users, including free tier",
-      "summary": "After initially limiting GPT-6 Astra to its Daybreak enterprise program, OpenAI began rolling the model out to the entire ChatGPT user base, including free users, significantly widening access to its most capable model to date.",
-      "source": "Ground News (via BizToc)",
-      "url": "https://ground.news/article/openai-expands-access-to-gpt-6-to-all-users",
-      "published_at": "2026-10-07"
+      "headline": "AI chip startup Tenstorrent raises $1.5B Series E at a $6.2B valuation",
+      "summary": "Tenstorrent, the RISC-V/AI accelerator company founded by chip veteran Jim Keller, more than doubled its valuation from its 2024 round with backing from Fidelity, ARK Invest, Morgan Stanley and Tether. The capital will fund volume manufacturing of its Galaxy servers, underscoring continued investor appetite for Nvidia alternatives even as commercial traction remains unproven at scale.",
+      "source": "DataCenterDynamics",
+      "url": "https://datacenterdynamics.com/en/news/ai-chip-startup-tenstorrent-raises-15bn-at-62bn-valuation",
+      "published_at": "2026-10-19"
     },
     {
-      "headline": "Microsoft overhauls Microsoft 365 Copilot's navigation around agents and automation",
-      "summary": "Microsoft restructured Copilot's interface: a standalone 'Agents' entry in Chat is being replaced by 'Plugins,' and 'Automations' is moving into the Home pane for Cowork users, part of a broader push to make Copilot an agentic layer across Microsoft 365.",
-      "source": "A Guide to Cloud",
-      "url": "https://www.aguidetocloud.com/blog/microsoft-365-copilot-october-2026-updates/",
-      "published_at": "2026-10-12"
+      "headline": "Dream Labs raises $90M seed and launches a foundation-model API for robots",
+      "summary": "Dream Labs' new Dream API turns a robot's camera feed and a plain-English instruction into motor commands, with its Dream-1 model already working with more than 20 hardware partners on tasks like picking, placing and folding laundry. The launch adds to a wave of 'robot brain' foundation models aiming to generalize across different manufacturers' hardware.",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/19/dream-labs-raises-90m-to-help-build-more-intelligent-robots-with-simple-video-feeds/",
+      "published_at": "2026-10-19"
     },
     {
-      "headline": "FDA comment period closes on generative AI medical device framework",
-      "summary": "The FDA's Digital Health Center of Excellence is wrapping up public comments (due October 19) on its discussion paper covering generative AI-enabled medical devices, an early step toward formal guidance for diagnostic and clinical AI tools entering an already crowded regulatory list of 1,600+ AI-enabled devices.",
-      "source": "FDA Digital Health Center of Excellence",
-      "url": "https://techjacksolutions.com/ai-brief/fda-genai-medical-device-discussion-paper-what-it-requires/",
-      "published_at": "2026-08-18"
+      "headline": "Tesla's AI and robotics capital spending trails Wall Street expectations",
+      "summary": "Tesla's latest quarterly results show spending on AI and robotics initiatives, including Optimus and its AI compute buildout, falling short of analyst forecasts, clouding Elon Musk's plan to pivot the company toward artificial intelligence and robotics. The shortfall raises questions about the pace of Tesla's humanoid robot and self-driving ambitions relative to its public targets.",
+      "source": "The Japan Times",
+      "url": "https://japantimes.co.jp/business/2026/10/22/companies/tesla-ai-robotics-spending",
+      "published_at": "2026-10-22"
     },
     {
-      "headline": "NVIDIA releases Isaac ROS 5.0, bringing agentic AI to the ROS robotics ecosystem",
-      "summary": "NVIDIA shipped Isaac ROS 5.0 at ROSCon in Toronto, adding reusable 'Isaac skills' for manipulation and setup that robots and AI agents can run, plus agent-ready documentation, support for ROS Lyrical/Ubuntu 24.04, and faster GPU-accelerated perception for the roughly 1.3 million-strong ROS developer community.",
-      "source": "NVIDIA Blog",
-      "url": "https://blogs.nvidia.com/blog/isaac-ros-5-0/",
-      "published_at": "2026-09-22"
+      "headline": "Salesforce to buy marketing platform Braze for $5.66B to bolster Agentforce",
+      "summary": "Salesforce will fold Braze's real-time customer-engagement tools into Marketing Cloud, Data 360 and its Agentforce AI-agent platform, paying a roughly 58% premium over Braze's prior share price. The deal is the latest in Salesforce's string of AI-focused acquisitions as it races to make autonomous agents central to its enterprise software stack.",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/dealroom/salesforce-to-buy-braze-for-566-billion/",
+      "published_at": "2026-10-20"
     },
     {
-      "headline": "Google DeepMind AI safety researcher publicly resigns over Pentagon AI contract",
-      "summary": "Another Google DeepMind researcher departed citing concerns that the company's AI systems and military contracts are moving faster than internal safety oversight can keep up with, continuing a string of high-profile safety-team exits from the lab in recent months.",
-      "source": "OECD.AI AI Incidents Monitor",
-      "url": "https://oecd.ai/en/incidents/2026-09-10-d758",
-      "published_at": "2026-09-10"
+      "headline": "Agility Robotics taps Nyobolt for ultra-fast-charging batteries in its Digit 5 humanoid",
+      "summary": "The partnership gives Digit 5 a roughly 10:1 run-to-charge ratio -- 90 minutes of work per 9-minute charge, versus 2:1 for the prior-generation Digit 4 -- aimed at letting the humanoid work more than 20 hours in a 24-hour day across multiple shifts. Faster charging addresses one of the biggest practical bottlenecks limiting humanoid robot utilization in warehouses and factories.",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com/agility-robotics-chooses-nyobolt-ultra-fast-charging-digit-5-humanoid/",
+      "published_at": "2026-10-15"
     },
     {
-      "headline": "EU AI Office gains enforcement power over general-purpose AI providers",
-      "summary": "The EU AI Act's GPAI enforcement regime took full effect, giving the AI Office authority to demand documentation, commission independent model evaluations, order corrective action up to market withdrawal, and fine providers up to 3% of global turnover or €15 million for noncompliance.",
-      "source": "Cloud Security Alliance",
-      "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-eu-ai-act-gpai-enforcement-20260803-csa-st/",
-      "published_at": "2026-08-03"
-    },
-    {
-      "headline": "Schaeffler and ROKAE partner to mass-produce humanoid robot joint modules",
-      "summary": "German industrial supplier Schaeffler signed a strategic agreement with Chinese robotics firm ROKAE to co-develop integrated joint modules for humanoid robots, with Schaeffler supplying precision components from its new Taicang 'embodied intelligent robotics' facility as industrial giants race into humanoid manufacturing.",
-      "source": "Gasgoo Autonews",
-      "url": "https://autonews.gasgoo.com/articles/market-industry/schaeffler-signs-strategic-cooperation-agreement-with-rokae-2042829189579710464",
-      "published_at": "2026-04-07"
+      "headline": "Anthropic's Q3 revenue jumps 45% to $16.8B as it prepares for a possible IPO",
+      "summary": "Anthropic reportedly told potential investors its third-quarter revenue reached $16.8 billion and that the company has achieved adjusted profitability, strengthening its case ahead of a widely anticipated US listing that could rival SpaceX's record IPO size. The disclosure comes as Anthropic also fights a separate legal battle with the Pentagon over a terminated contract.",
+      "source": "TechNews (via Reuters)",
+      "url": "https://finance.technews.tw/2026/10/15/anthropics-q3-revenue-surges-45-to-nearly-17-billion/",
+      "published_at": "2026-10-15"
     }
   ]
 }
