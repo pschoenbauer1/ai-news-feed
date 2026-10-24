@@ -1,68 +1,75 @@
 {
-  "generated_at": "2026-10-23T05:14:43Z",
+  "generated_at": "2026-10-24T05:13:33Z",
   "items": [
     {
-      "headline": "OpenAI acquires Orchestra Bio to expand its Rosalind life-sciences push",
-      "summary": "OpenAI bought the drug-development coordination startup Orchestra Bio and will fold its team and agentic workflow tools into Rosalind, OpenAI's life-sciences model suite. The deal signals frontier AI labs racing to move beyond chat products into automating actual drug-discovery pipelines, following Anthropic's similar biotech push.",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/381467/openai-buys-orchestra-bio-ai-agents-drug-development",
+      "headline": "Anthropic launches Claude Duet, a proactive AI agent for connected apps",
+      "summary": "Claude Duet monitors a user's connected apps (Gmail, Slack, Stripe, Shopify and thousands of other integrations), sends periodic briefings, and acts on tasks autonomously while requiring explicit approval before sending messages, making payments, signing documents or deleting files. It's a research preview for Pro/Max subscribers built on Opus 5.5.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/21/anthropic-claude-duet/",
+      "published_at": "2026-10-21"
+    },
+    {
+      "headline": "Microsoft says China-linked hackers used an AI pentesting framework in global ConnectWise breach",
+      "summary": "Microsoft attributed a supply-chain attack on ConnectWise customers' Microsoft 365 tenants to the China state-aligned group Storm-0940, which used an open-source agentic AI pentesting tool called ARTEX to automate reconnaissance and gain privileged cloud access to more than 2,250 tenants, in some cases in under three hours.",
+      "source": "KFGO (AP wire)",
+      "url": "https://kfgo.com/2026/10/21/chinese-linked-hackers-compromise-connectwise-target-hundreds-in-global-attack-microsoft-says/",
+      "published_at": "2026-10-21"
+    },
+    {
+      "headline": "Nvidia and Samsung Electro-Mechanics to build dedicated AI chip substrate fabs",
+      "summary": "Announced alongside Nvidia's GTC Berlin keynote, Samsung Electro-Mechanics will add dedicated production lines at its Sejong and Busan plants solely for Nvidia's AI semiconductor package substrates, as demand for advanced packaging continues to outstrip supply.",
+      "source": "Digital Today (Korea)",
+      "url": "https://www.digitaltoday.co.kr/en/view/117830/samsung-electro-mechanics-nvidia-expand-dedicated-ai-substrate-fabs-with-joint-investment",
+      "published_at": "2026-10-21"
+    },
+    {
+      "headline": "US bars DeepSeek from all civilian federal agencies",
+      "summary": "The Department of Homeland Security ordered every US civilian federal agency to stop using DeepSeek's AI products and any third-party tools built on its models, citing the risk that sensitive government data could be exposed to Chinese authorities. The order took effect October 20 with agencies able to request narrow exceptions.",
+      "source": "Techzine",
+      "url": "https://www.techzine.eu/news/privacy-compliance/145107/u-s-government-bans-deepseek-from-federal-agencies/",
       "published_at": "2026-10-20"
     },
     {
-      "headline": "Google open-sources TorchTPU, bringing native PyTorch support to Cloud TPUs",
-      "summary": "Unveiled at PyTorch Conference, TorchTPU lets existing PyTorch code target Google's TPUs by simply switching the device setting, replacing the older PyTorch/XLA bridge and integrating with vLLM, SGLang, TorchTitan and Hugging Face Transformers. It was co-developed with Meta and tested at a scale of 8,192 Ironwood (TPU7x) chips, lowering the barrier to running PyTorch workloads outside Nvidia's CUDA ecosystem.",
-      "source": "MarkTechPost",
-      "url": "https://www.marktechpost.com/2026/10/20/google-torchtpu-open-source-native-pytorch-tpu/",
-      "published_at": "2026-10-20"
+      "headline": "Major US banks lock third-party AI agents out of customer accounts",
+      "summary": "JPMorgan Chase, Citigroup and Bank of America have each moved to block external AI agents from directly operating on customer accounts, after executives including Jamie Dimon warned of 'rogue agents' and unresolved liability questions over AI-authorized payments and deposit movements.",
+      "source": "Digital Today, citing Financial Times",
+      "url": "https://www.digitaltoday.co.kr/en/view/115865/major-financial-firms-move-to-block-access-by-personal-ai-agents-citing-deposit-flight-risk",
+      "published_at": "2026-10-14"
     },
     {
-      "headline": "Anthropic pitches Congress a federal AI safety bill with a high bar for shutting down models",
-      "summary": "Anthropic has privately circulated draft legislation that would let federal authorities halt a frontier AI model only when it poses an imminent risk of over $1 billion in damages or death/injury to more than 50 people, covering bioweapons, loss of control, and cyberattack scenarios. The threshold has drawn criticism from some policy watchers as too permissive, while others see it as a template building on Anthropic's own Advanced AI Framework and California's SB 53.",
-      "source": "Interesting Engineering",
-      "url": "https://interestingengineering.com/ai-robotics/anthropic-confidential-congress-draft-bill",
-      "published_at": "2026-10-19"
+      "headline": "DeepSeek nears $12-14 billion funding round backed by Tencent and CATL",
+      "summary": "DeepSeek is reportedly close to closing a roughly RMB 80-100 billion ($12-14 billion) financing round at a valuation near $70-84 billion, with Tencent and battery maker CATL among the largest backers, as the company prepares to restructure ahead of a possible 2027 IPO on Shanghai's STAR Market.",
+      "source": "TechNode",
+      "url": "https://technode.com/2026/10/08/deepseek-reportedly-nears-12-billion-funding-round-backed-by-tencent-and-catl/",
+      "published_at": "2026-10-08"
     },
     {
-      "headline": "AI chip startup Tenstorrent raises $1.5B Series E at a $6.2B valuation",
-      "summary": "Tenstorrent, the RISC-V/AI accelerator company founded by chip veteran Jim Keller, more than doubled its valuation from its 2024 round with backing from Fidelity, ARK Invest, Morgan Stanley and Tether. The capital will fund volume manufacturing of its Galaxy servers, underscoring continued investor appetite for Nvidia alternatives even as commercial traction remains unproven at scale.",
-      "source": "DataCenterDynamics",
-      "url": "https://datacenterdynamics.com/en/news/ai-chip-startup-tenstorrent-raises-15bn-at-62bn-valuation",
-      "published_at": "2026-10-19"
+      "headline": "OpenAI in talks for $30 billion-plus round with UAE funds and BlackRock at up to $1.4 trillion valuation",
+      "summary": "OpenAI is negotiating a bridge financing round of at least $30 billion, with Abu Dhabi's MGX leading a consortium of UAE investors potentially contributing up to $10 billion and BlackRock also in discussions, as the company pushes its IPO timeline back to at least 2027.",
+      "source": "Bloomberg Government",
+      "url": "https://news.bgov.com/artificial-intelligence/openai-in-talks-with-uae-funds-blackrock-for-30-billion-round",
+      "published_at": "2026-10-06"
     },
     {
-      "headline": "Dream Labs raises $90M seed and launches a foundation-model API for robots",
-      "summary": "Dream Labs' new Dream API turns a robot's camera feed and a plain-English instruction into motor commands, with its Dream-1 model already working with more than 20 hardware partners on tasks like picking, placing and folding laundry. The launch adds to a wave of 'robot brain' foundation models aiming to generalize across different manufacturers' hardware.",
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/10/19/dream-labs-raises-90m-to-help-build-more-intelligent-robots-with-simple-video-feeds/",
-      "published_at": "2026-10-19"
-    },
-    {
-      "headline": "Tesla's AI and robotics capital spending trails Wall Street expectations",
-      "summary": "Tesla's latest quarterly results show spending on AI and robotics initiatives, including Optimus and its AI compute buildout, falling short of analyst forecasts, clouding Elon Musk's plan to pivot the company toward artificial intelligence and robotics. The shortfall raises questions about the pace of Tesla's humanoid robot and self-driving ambitions relative to its public targets.",
-      "source": "The Japan Times",
-      "url": "https://japantimes.co.jp/business/2026/10/22/companies/tesla-ai-robotics-spending",
-      "published_at": "2026-10-22"
-    },
-    {
-      "headline": "Salesforce to buy marketing platform Braze for $5.66B to bolster Agentforce",
-      "summary": "Salesforce will fold Braze's real-time customer-engagement tools into Marketing Cloud, Data 360 and its Agentforce AI-agent platform, paying a roughly 58% premium over Braze's prior share price. The deal is the latest in Salesforce's string of AI-focused acquisitions as it races to make autonomous agents central to its enterprise software stack.",
-      "source": "Adweek",
-      "url": "https://www.adweek.com/dealroom/salesforce-to-buy-braze-for-566-billion/",
-      "published_at": "2026-10-20"
-    },
-    {
-      "headline": "Agility Robotics taps Nyobolt for ultra-fast-charging batteries in its Digit 5 humanoid",
-      "summary": "The partnership gives Digit 5 a roughly 10:1 run-to-charge ratio -- 90 minutes of work per 9-minute charge, versus 2:1 for the prior-generation Digit 4 -- aimed at letting the humanoid work more than 20 hours in a 24-hour day across multiple shifts. Faster charging addresses one of the biggest practical bottlenecks limiting humanoid robot utilization in warehouses and factories.",
-      "source": "The Robot Report",
-      "url": "https://www.therobotreport.com/agility-robotics-chooses-nyobolt-ultra-fast-charging-digit-5-humanoid/",
+      "headline": "Eight US states sue OpenAI over ChatGPT safety claims",
+      "summary": "Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho and Montana filed separate state-court lawsuits alleging ChatGPT violates consumer protection laws by giving dangerous medical advice and encouraging self-harm; the suits seek court-ordered changes and civil penalties, while OpenAI points to newly added parental controls and age-appropriate protections.",
+      "source": "Coeur d'Alene Press (AP)",
+      "url": "https://cdapress.com/news/2026/oct/15/states-including-idaho-sue-ai-giant-openai-saying-its-popular-chatbot-is-hurting-children-and-deceiving-adults/",
       "published_at": "2026-10-15"
     },
     {
-      "headline": "Anthropic's Q3 revenue jumps 45% to $16.8B as it prepares for a possible IPO",
-      "summary": "Anthropic reportedly told potential investors its third-quarter revenue reached $16.8 billion and that the company has achieved adjusted profitability, strengthening its case ahead of a widely anticipated US listing that could rival SpaceX's record IPO size. The disclosure comes as Anthropic also fights a separate legal battle with the Pentagon over a terminated contract.",
-      "source": "TechNews (via Reuters)",
-      "url": "https://finance.technews.tw/2026/10/15/anthropics-q3-revenue-surges-45-to-nearly-17-billion/",
-      "published_at": "2026-10-15"
+      "headline": "Nvidia GTC Berlin 2026 keynote spotlights agentic AI, robotics and physical AI",
+      "summary": "At Nvidia's GTC Berlin conference (October 20-22), CEO Jensen Huang's keynote and the surrounding sessions centered on agentic AI, robotics and 'physical AI,' with the company projecting substantially higher chip sales next year as demand for AI infrastructure keeps climbing.",
+      "source": "Nvidia / event coverage",
+      "url": "https://www.nvidia.com/en-eu/gtc/keynote/",
+      "published_at": "2026-10-21"
+    },
+    {
+      "headline": "Mistral AI pulls ahead of Cohere in valuation as Europe's AI labs consolidate",
+      "summary": "Mistral AI's €3 billion Series D set a post-money valuation above €21 billion (about $24.4 billion) and higher reported revenue than rival Cohere, whose pending merger with Aleph Alpha would value the combined company at around $20 billion, underscoring how Europe's independent AI labs are regrouping to compete with US and Chinese rivals.",
+      "source": "ValueAddVC",
+      "url": "https://valueaddvc.com/blog/cohere-vs-mistral-2026-which-enterprise-ai-lab-is-worth-more",
+      "published_at": "2026-10-16"
     }
   ]
 }
