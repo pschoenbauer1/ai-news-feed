@@ -1,75 +1,68 @@
 {
-  "generated_at": "2026-10-24T05:13:33Z",
+  "generated_at": "2026-10-25T05:35:00Z",
   "items": [
     {
-      "headline": "Anthropic launches Claude Duet, a proactive AI agent for connected apps",
-      "summary": "Claude Duet monitors a user's connected apps (Gmail, Slack, Stripe, Shopify and thousands of other integrations), sends periodic briefings, and acts on tasks autonomously while requiring explicit approval before sending messages, making payments, signing documents or deleting files. It's a research preview for Pro/Max subscribers built on Opus 5.5.",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/21/anthropic-claude-duet/",
+      "headline": "Nebius and Nvidia launch open-source 'Physical AI Workbench' for robotics teams",
+      "summary": "Cloud provider Nebius, working with Nvidia, released an open-source toolkit that bundles data generation, simulation (Cosmos, Isaac Sim, Isaac GR00T) and training/evaluation into one agent-driven workflow, aiming to cut the glue-code robotics teams need to build physical AI systems.",
+      "source": "Nebius",
+      "url": "https://nebius.com/blog/posts/physical-ai-workbench",
+      "published_at": "2026-10-22"
+    },
+    {
+      "headline": "AI-assisted audit uncovers critical PHP flaws, prompting emergency patches across the web",
+      "summary": "A security audit aided by an OpenAI model and researchers at Wiz uncovered two critical memory-safety bugs (CVE-2026-109618 and CVE-2026-109619) affecting most PHP-powered websites; PHP shipped emergency patches for the 8.5, 8.4, 8.3 and 8.2 branches on October 21, and attackers began probing within days.",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/php2shell-php-rce-ai-openai-wiz",
       "published_at": "2026-10-21"
     },
     {
-      "headline": "Microsoft says China-linked hackers used an AI pentesting framework in global ConnectWise breach",
-      "summary": "Microsoft attributed a supply-chain attack on ConnectWise customers' Microsoft 365 tenants to the China state-aligned group Storm-0940, which used an open-source agentic AI pentesting tool called ARTEX to automate reconnaissance and gain privileged cloud access to more than 2,250 tenants, in some cases in under three hours.",
-      "source": "KFGO (AP wire)",
-      "url": "https://kfgo.com/2026/10/21/chinese-linked-hackers-compromise-connectwise-target-hundreds-in-global-attack-microsoft-says/",
+      "headline": "Node.js patches critical Brotli decoder flaw allowing remote code execution",
+      "summary": "Node.js's October 2026 security release fixed ten vulnerabilities, including CVE-2026-111497, a CVSS 9.2 out-of-bounds write in the bundled Brotli decompression library that could let attackers execute arbitrary code; users are urged to upgrade to 22.23.4, 24.22.1 or 26.12.1.",
+      "source": "SecurityOnline",
+      "url": "https://securityonline.info/nodejs-security-release-october-2026/",
       "published_at": "2026-10-21"
     },
     {
-      "headline": "Nvidia and Samsung Electro-Mechanics to build dedicated AI chip substrate fabs",
-      "summary": "Announced alongside Nvidia's GTC Berlin keynote, Samsung Electro-Mechanics will add dedicated production lines at its Sejong and Busan plants solely for Nvidia's AI semiconductor package substrates, as demand for advanced packaging continues to outstrip supply.",
-      "source": "Digital Today (Korea)",
-      "url": "https://www.digitaltoday.co.kr/en/view/117830/samsung-electro-mechanics-nvidia-expand-dedicated-ai-substrate-fabs-with-joint-investment",
+      "headline": "AI lab Recursive releases Flint, an open-weight coding model built largely by its own AI research system",
+      "summary": "Richard Socher's startup Recursive launched Flint, a free, laptop-runnable coding model it says was built in under four months with heavy help from its automated 'Eureka Machine' research system, an early example of AI meaningfully accelerating its own model development.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/recursive-launches-flint-local-coding-model/",
       "published_at": "2026-10-21"
     },
     {
-      "headline": "US bars DeepSeek from all civilian federal agencies",
-      "summary": "The Department of Homeland Security ordered every US civilian federal agency to stop using DeepSeek's AI products and any third-party tools built on its models, citing the risk that sensitive government data could be exposed to Chinese authorities. The order took effect October 20 with agencies able to request narrow exceptions.",
-      "source": "Techzine",
-      "url": "https://www.techzine.eu/news/privacy-compliance/145107/u-s-government-bans-deepseek-from-federal-agencies/",
+      "headline": "Replit's CEO says the company has dropped Anthropic's Claude as its default coding model for OpenAI",
+      "summary": "At a public event, Replit CEO Amjad Masad said the company is no longer working with Anthropic and now defaults to OpenAI's models, citing cost among the reasons, though a source close to the deal disputed that the partnership has fully ended.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "published_at": "2026-10-20"
     },
     {
-      "headline": "Major US banks lock third-party AI agents out of customer accounts",
-      "summary": "JPMorgan Chase, Citigroup and Bank of America have each moved to block external AI agents from directly operating on customer accounts, after executives including Jamie Dimon warned of 'rogue agents' and unresolved liability questions over AI-authorized payments and deposit movements.",
-      "source": "Digital Today, citing Financial Times",
-      "url": "https://www.digitaltoday.co.kr/en/view/115865/major-financial-firms-move-to-block-access-by-personal-ai-agents-citing-deposit-flight-risk",
-      "published_at": "2026-10-14"
-    },
-    {
-      "headline": "DeepSeek nears $12-14 billion funding round backed by Tencent and CATL",
-      "summary": "DeepSeek is reportedly close to closing a roughly RMB 80-100 billion ($12-14 billion) financing round at a valuation near $70-84 billion, with Tencent and battery maker CATL among the largest backers, as the company prepares to restructure ahead of a possible 2027 IPO on Shanghai's STAR Market.",
-      "source": "TechNode",
-      "url": "https://technode.com/2026/10/08/deepseek-reportedly-nears-12-billion-funding-round-backed-by-tencent-and-catl/",
-      "published_at": "2026-10-08"
-    },
-    {
-      "headline": "OpenAI in talks for $30 billion-plus round with UAE funds and BlackRock at up to $1.4 trillion valuation",
-      "summary": "OpenAI is negotiating a bridge financing round of at least $30 billion, with Abu Dhabi's MGX leading a consortium of UAE investors potentially contributing up to $10 billion and BlackRock also in discussions, as the company pushes its IPO timeline back to at least 2027.",
-      "source": "Bloomberg Government",
-      "url": "https://news.bgov.com/artificial-intelligence/openai-in-talks-with-uae-funds-blackrock-for-30-billion-round",
-      "published_at": "2026-10-06"
-    },
-    {
-      "headline": "Eight US states sue OpenAI over ChatGPT safety claims",
-      "summary": "Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho and Montana filed separate state-court lawsuits alleging ChatGPT violates consumer protection laws by giving dangerous medical advice and encouraging self-harm; the suits seek court-ordered changes and civil penalties, while OpenAI points to newly added parental controls and age-appropriate protections.",
-      "source": "Coeur d'Alene Press (AP)",
-      "url": "https://cdapress.com/news/2026/oct/15/states-including-idaho-sue-ai-giant-openai-saying-its-popular-chatbot-is-hurting-children-and-deceiving-adults/",
-      "published_at": "2026-10-15"
-    },
-    {
-      "headline": "Nvidia GTC Berlin 2026 keynote spotlights agentic AI, robotics and physical AI",
-      "summary": "At Nvidia's GTC Berlin conference (October 20-22), CEO Jensen Huang's keynote and the surrounding sessions centered on agentic AI, robotics and 'physical AI,' with the company projecting substantially higher chip sales next year as demand for AI infrastructure keeps climbing.",
-      "source": "Nvidia / event coverage",
-      "url": "https://www.nvidia.com/en-eu/gtc/keynote/",
-      "published_at": "2026-10-21"
-    },
-    {
-      "headline": "Mistral AI pulls ahead of Cohere in valuation as Europe's AI labs consolidate",
-      "summary": "Mistral AI's €3 billion Series D set a post-money valuation above €21 billion (about $24.4 billion) and higher reported revenue than rival Cohere, whose pending merger with Aleph Alpha would value the combined company at around $20 billion, underscoring how Europe's independent AI labs are regrouping to compete with US and Chinese rivals.",
-      "source": "ValueAddVC",
-      "url": "https://valueaddvc.com/blog/cohere-vs-mistral-2026-which-enterprise-ai-lab-is-worth-more",
+      "headline": "Anthropic pitches Congress a confidential frontier AI safety bill with a 50-death threshold",
+      "summary": "Politico reported that Anthropic circulated draft federal legislation that would let regulators block an AI model's release only if it poses a foreseeable risk of over $1 billion in damage or more than 50 deaths from bio-weapons, rogue agentic behavior or cyberattacks, drawing criticism that the bar is set too high.",
+      "source": "Cybernews",
+      "url": "https://cybernews.com/ai-news/anthropic-50-people/",
       "published_at": "2026-10-16"
+    },
+    {
+      "headline": "Google DeepMind's Gemini 4 Argon teaches a humanoid robot to play cornhole from a single video",
+      "summary": "DeepMind said its Gemini 4 Argon model watched one video of a person throwing cornhole bags, built its own physics simulation to practice in, then transferred that skill to Apptronik's Apollo humanoid, which sank seven throws in a row in a real-world test.",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com/videos/googles-gemini-4-argon-taught-a-humanoid-robot-to-play-cornhole",
+      "published_at": "2026-10-13"
+    },
+    {
+      "headline": "Fired OpenAI safety researchers say they were pushed out for raising concerns; company denies it",
+      "summary": "Three former OpenAI safety staffers, Mikita Balesni, Tomek Korbak and Jasmine Wang, told NPR they believe they were dismissed in retaliation for safety advocacy and contact with outside researchers; OpenAI says they were fired for separate breaches of trust unrelated to safety speech.",
+      "source": "NPR (St. Louis Public Radio)",
+      "url": "https://www.stlpr.org/npr/2026-10-09/fired-openai-employees-question-the-companys-commitment-to-safety",
+      "published_at": "2026-10-09"
+    },
+    {
+      "headline": "ABB expands OmniCore EyeMotion with an 'AI Robot Trainer' for vision-guided manufacturing",
+      "summary": "At China's CIIF 2026 trade fair, ABB Robotics unveiled an AI Robot Trainer that pairs with its OmniCore EyeMotion vision platform to let non-specialists set up AI-guided pick-and-place, bin-picking and inspection tasks, claiming up to 90% faster commissioning alongside two new compact industrial robots.",
+      "source": "Robotics 24/7",
+      "url": "https://www.robotics247.com/article/ciif-2026-abb-robotics-introduces-two-new-robots-for-precision-manufacturing-and-expands-omnicore-eyemotion-with-ai-robot-trainer/technologies",
+      "published_at": "2026-10-15"
     }
   ]
 }
