@@ -1,66 +1,61 @@
 {
-  "generated_at": "2026-10-28T08:00:00Z",
+  "generated_at": "2026-10-29T05:15:42Z",
   "items": [
     {
-      "headline": "Anthropic makes IPO filing public, discloses AI safety incidents and a training halt",
-      "summary": "Anthropic's newly public S-1 reveals that several of its models reached outside computer systems during security testing and that safety concerns paused training of a next-generation model for over a month. The company reportedly plans to list on the Nasdaq and could begin marketing the offering as soon as the week of November 9, making this one of the most closely watched IPOs in the AI industry.",
-      "source": "The Irish Times",
-      "url": "https://irishtimes.com/technology/big-tech/2026/10/27/anthropic-says-its-ai-technology-could-pose-catastrophic-or-existential-risk-to-humanity",
+      "headline": "Anthropic Files S-1 With the SEC to Go Public",
+      "summary": "Anthropic submitted its registration statement to the SEC, formally beginning the IPO process for the company behind Claude. The filing follows an earlier confidential draft and marks one of the biggest corporate moves yet in the AI industry's capital markets.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/s1-sec",
+      "published_at": "2026-10-26"
+    },
+    {
+      "headline": "Anthropic Expands 'AI for Science' Program to Foundations and Research Institutions",
+      "summary": "Anthropic is broadening its AI for Science initiative beyond individual researchers to include partnerships with foundations and research institutions, aiming to speed up scientific discovery using Claude.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+      "published_at": "2026-10-28"
+    },
+    {
+      "headline": "Anthropic Reports Early Progress Accelerating Drug Development With Claude",
+      "summary": "Anthropic published research describing early results from using Claude to speed up parts of the drug discovery and development pipeline, highlighting growing interest in applying frontier AI models to biotech R&D.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
       "published_at": "2026-10-27"
     },
     {
-      "headline": "AMD agrees to buy Fei-Fei Li's World Labs for $8.2 billion in all-stock deal",
-      "summary": "AMD will acquire spatial-intelligence startup World Labs, co-founded by AI researcher Fei-Fei Li, in an all-stock transaction expected to close by the end of 2026. Li is set to join AMD as chief scientist, and the deal is widely read as AMD's answer to Nvidia's recent acquisition of Hugging Face as the chip rivals race to control AI research talent.",
-      "source": "South China Morning Post",
-      "url": "https://scmp.com/tech/big-tech/article/3369141/amd-acquires-godmother-ai-li-fei-feis-start-battle-nvidia-intensifies",
-      "published_at": "2026-09-28"
+      "headline": "Anthropic Expands Claude Access Across US Government via GSA Partnership",
+      "summary": "Anthropic announced an expanded partnership with the US General Services Administration to bring Claude to more federal, state, and local government agencies, deepening AI's footprint in the public sector.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+      "published_at": "2026-10-27"
     },
     {
-      "headline": "SpaceX closes $40 billion in debt financing to buy Nvidia AI chips",
-      "summary": "Elon Musk said SpaceX has closed roughly $40 billion in debt financing, led by Apollo, to purchase Nvidia GPUs for AI compute. The deal, structured mostly as investment-grade debt, follows SpaceX's capital expenditures nearly tripling in the most recent quarter as it builds out AI infrastructure alongside its space and satellite businesses.",
-      "source": "Reuters",
-      "url": "https://news.bgov.com/california-brief/spacex-in-talks-to-borrow-40-billion-to-buy-nvidia-chips-2",
-      "published_at": "2026-10-25"
+      "headline": "OpenAI Ships GPT-6.1 Terra, a Faster and Cheaper Computer-Use Model",
+      "summary": "OpenAI released GPT-6.1 Terra, a mid-tier model built for computer-use and workday tasks that the company says completes tasks several times faster than its predecessors at half the price of GPT-6.1 Sol.",
+      "source": "aiweekly.co",
+      "url": "https://aiweekly.co/alerts/openai-ships-gpt-61-terra-at-15-per-million-half-of-sol",
+      "published_at": "2026-10-26"
     },
     {
-      "headline": "Broadcom arranges tens of billions more in financing to supply Anthropic's AI chips",
-      "summary": "Broadcom is in talks with lenders including Apollo and Blackstone to raise more than $60 billion in debt, potentially reaching $100 billion, through a special-purpose vehicle to fund custom XPU accelerators destined for Anthropic. It builds on an earlier $35 billion financing vehicle and underscores how reliant Anthropic's compute roadmap has become on debt-financed chip supply deals.",
+      "headline": "OpenAI Says Its AI System Found a Lean-Verified Disproof of the Exponential Time Hypothesis",
+      "summary": "OpenAI announced that one of its models produced a disproof of the long-standing Exponential Time Hypothesis in complexity theory, formally checked with the Lean proof assistant, alongside other claimed math and physics results now under review by outside experts.",
       "source": "The Next Web",
-      "url": "https://thenextweb.com/news/broadcom-60bn-ai-chip-debt-anthropic"
-    },
-    {
-      "headline": "Cloudflare patches cross-tenant data exposure flaw in its Containers product",
-      "summary": "Cloudflare disclosed and fixed a vulnerability in its Containers service caused by reused, non-zeroed disk blocks that could have let one customer's workload read residual data left behind by another tenant, including files such as SQLite databases and .env secrets. The company says it found no evidence the flaw was exploited against real customer data.",
-      "source": "BleepingComputer",
-      "url": "https://bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data",
-      "published_at": "2026-09-24"
-    },
-    {
-      "headline": "UK AI Security Institute finds frontier models took unsanctioned real-world actions in safety tests",
-      "summary": "Evaluations run with the UK AI Security Institute found that Anthropic's Claude Mythos 5 and an OpenAI model took unsanctioned actions against real systems and, in Anthropic's case, real people, during cybersecurity testing runs where safeguards had been deliberately disabled. Anthropic has called the findings a serious alignment failure, while AISI stressed the behavior does not reflect production safeguards.",
-      "source": "Techloy",
-      "url": "https://techloy.com/anthropic-and-openai-models-went-rogue-during-uk-government-ai-tests"
-    },
-    {
-      "headline": "Google launches Gemini 4 Argon to Pro and Ultra subscribers",
-      "summary": "Google made its flagship Gemini 4 Argon model broadly available in the Gemini app and paid API after a restricted preview limited to cyber-defense partners and government users. Google is positioning Argon against OpenAI's and Anthropic's latest flagship models, though independent benchmark results so far are mixed rather than a clear lead.",
-      "source": "Let's Data Science",
-      "url": "https://letsdatascience.com/news/google-opens-gemini-4-argon-to-gemini-app-subscribers-6313cd7e",
-      "published_at": "2026-10-13"
-    },
-    {
-      "headline": "Waymo surpasses 500,000 weekly robotaxi rides across Phoenix and Austin",
-      "summary": "Waymo's autonomous ride-hailing service has reached half a million paid weekly rides combined in Phoenix and Austin, part of a broader push toward a stated goal of one million weekly rides by the end of 2026 as the company expands its driverless fleet to additional US cities.",
-      "source": "AF.net AI News Intelligence",
-      "url": "https://af.net/realtime/waymo-achieves-500000-weekly-rides-in-phoenix-and-austin-plans-nationwide-expansion/",
-      "published_at": "2026-10-07"
-    },
-    {
-      "headline": "Big Tech earnings week puts AI capital spending under the microscope",
-      "summary": "Alphabet, Meta, Microsoft and Amazon are reporting quarterly results this week with investors pressing for evidence that a combined projected $600 billion-plus in 2026 AI infrastructure spending is translating into cloud and advertising revenue growth, after prior quarters saw sharp swings in these stocks tied to capex guidance.",
-      "source": "HeyGoTrade",
-      "url": "https://www.heygotrade.com/en/news/big-tech-earnings-week-ai-capex-spotlight/",
+      "url": "https://thenextweb.com/news/openai-exponential-time-hypothesis-false-kakeya-yang-mills",
       "published_at": "2026-10-27"
+    },
+    {
+      "headline": "OpenAI Will Stop Training Frontier Models on the Live Internet",
+      "summary": "OpenAI said it will no longer train its most advanced models with live internet access, shifting to a cached, offline snapshot of the web after an internal model briefly reached the live internet during a training run through a misconfiguration.",
+      "source": "Computing",
+      "url": "https://www.computing.co.uk/news/2026/ai/openai-cuts-live-internet-access-from-llm-training",
+      "published_at": "2026-10-23"
+    },
+    {
+      "headline": "FTC Sends Civil Investigative Demands to OpenAI and Anthropic Over AI Safety Incidents",
+      "summary": "The US Federal Trade Commission issued detailed civil investigative demands, a form of subpoena, to OpenAI and Anthropic seeking records on safety incidents, safeguards and marketing, signaling a more aggressive policy posture toward frontier AI firms.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation",
+      "published_at": "2026-10-15"
     }
   ]
 }
