@@ -1,61 +1,61 @@
 {
-  "generated_at": "2026-10-29T05:15:42Z",
+  "generated_at": "2026-10-30T05:13:05Z",
   "items": [
     {
-      "headline": "Anthropic Files S-1 With the SEC to Go Public",
-      "summary": "Anthropic submitted its registration statement to the SEC, formally beginning the IPO process for the company behind Claude. The filing follows an earlier confidential draft and marks one of the biggest corporate moves yet in the AI industry's capital markets.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/s1-sec",
+      "headline": "OpenAI launches GPT-6.1 Terra with 50% lower pricing and faster computer-use agents",
+      "summary": "OpenAI shipped GPT-6.1 Terra at $1/$5 per million input/output tokens, roughly half the cost of its prior Terra model, while completing computer-use tasks over three times faster and cutting error rates on OpenAI's internal benchmark. It's rolling out to ChatGPT, Codex and the API.",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
       "published_at": "2026-10-26"
     },
     {
-      "headline": "Anthropic Expands 'AI for Science' Program to Foundations and Research Institutions",
-      "summary": "Anthropic is broadening its AI for Science initiative beyond individual researchers to include partnerships with foundations and research institutions, aiming to speed up scientific discovery using Claude.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
-      "published_at": "2026-10-28"
-    },
-    {
-      "headline": "Anthropic Reports Early Progress Accelerating Drug Development With Claude",
-      "summary": "Anthropic published research describing early results from using Claude to speed up parts of the drug discovery and development pipeline, highlighting growing interest in applying frontier AI models to biotech R&D.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "headline": "OpenAI says its models disproved the Exponential Time Hypothesis and made new physics findings",
+      "summary": "OpenAI announced three claimed research results in complexity theory, harmonic analysis and quantum field theory, including a disproof of the long-standing Exponential Time Hypothesis, verified in the Lean proof assistant. Outside experts, including MIT's Ryan Williams, are now reviewing the claims.",
+      "source": "Al Jazeera",
+      "url": "https://aljazeera.com/economy/2026/10/27/ai-makes-discoveries-in-mathematics-computer-science-physics-openai-says",
       "published_at": "2026-10-27"
     },
     {
-      "headline": "Anthropic Expands Claude Access Across US Government via GSA Partnership",
-      "summary": "Anthropic announced an expanded partnership with the US General Services Administration to bring Claude to more federal, state, and local government agencies, deepening AI's footprint in the public sector.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+      "headline": "Google DeepMind unveils Genie 4, a world model with native audio generation",
+      "summary": "Genie 4 generates interactive 3D environments from text prompts that users can navigate in real time, and is DeepMind's first world model to natively produce ambient sound, music and dialogue alongside the scene. It's launching as a limited research preview for trusted testers, paired in demos with Gemini Robotics.",
+      "source": "Digg",
+      "url": "https://digg.com/tech/8q57gd3x",
       "published_at": "2026-10-27"
     },
     {
-      "headline": "OpenAI Ships GPT-6.1 Terra, a Faster and Cheaper Computer-Use Model",
-      "summary": "OpenAI released GPT-6.1 Terra, a mid-tier model built for computer-use and workday tasks that the company says completes tasks several times faster than its predecessors at half the price of GPT-6.1 Sol.",
-      "source": "aiweekly.co",
-      "url": "https://aiweekly.co/alerts/openai-ships-gpt-61-terra-at-15-per-million-half-of-sol",
+      "headline": "Nvidia and AMD commit $4 billion to Meta's AI infrastructure financing",
+      "summary": "Nvidia pledged $3 billion and AMD $1 billion toward Meta's roughly $95 billion equity raise to fund data-center expansion, deepening chip-supply partnerships that include Nvidia's Vera Rubin systems and AMD's Helios racks and Instinct GPUs at Meta.",
+      "source": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/science-technology/meta-unveils-95b-financing-plan-to-fund-ai-expansion/4101382",
       "published_at": "2026-10-26"
     },
     {
-      "headline": "OpenAI Says Its AI System Found a Lean-Verified Disproof of the Exponential Time Hypothesis",
-      "summary": "OpenAI announced that one of its models produced a disproof of the long-standing Exponential Time Hypothesis in complexity theory, formally checked with the Lean proof assistant, alongside other claimed math and physics results now under review by outside experts.",
+      "headline": "UK launches £100m AI Biosecurity Lab backed by OpenAI, Anthropic and Google DeepMind",
+      "summary": "The UK government is funding a new independent AI Biosecurity Lab to spot and counter pathogen-related threats, with OpenAI and Anthropic each pledging up to £100m in model credits and compute access, and Google DeepMind contributing research support and Gemini model access.",
       "source": "The Next Web",
-      "url": "https://thenextweb.com/news/openai-exponential-time-hypothesis-false-kakeya-yang-mills",
+      "url": "https://thenextweb.com/news/uk-funds-100m-ai-biosecurity-lab-with-openai-and-anthropic",
+      "published_at": "2026-10-24"
+    },
+    {
+      "headline": "Anthropic expands into drug discovery with six research partnerships",
+      "summary": "Anthropic announced research collaborations with six organizations developing new medicines, including Bristol Myers Squibb and Generate Biomedicines, built on its Claude Science platform, alongside its own early-stage, preclinical drug discovery work.",
+      "source": "CryptoBriefing",
+      "url": "https://cryptobriefing.com/anthropic-claude-drug-discovery-partnerships/",
       "published_at": "2026-10-27"
     },
     {
-      "headline": "OpenAI Will Stop Training Frontier Models on the Live Internet",
-      "summary": "OpenAI said it will no longer train its most advanced models with live internet access, shifting to a cached, offline snapshot of the web after an internal model briefly reached the live internet during a training run through a misconfiguration.",
-      "source": "Computing",
-      "url": "https://www.computing.co.uk/news/2026/ai/openai-cuts-live-internet-access-from-llm-training",
-      "published_at": "2026-10-23"
+      "headline": "AI chipmaker Tenstorrent raises $1.5 billion Series E at $6.2 billion valuation",
+      "summary": "Tenstorrent closed one of October's largest AI funding rounds, underscoring continued investor appetite for alternatives to Nvidia in AI accelerator hardware even as mega-rounds dominate the sector's headlines.",
+      "source": "ValueAdd VC",
+      "url": "https://valueaddvc.com/blog/october-2026-ai-funding-rounds-tenstorrent-typesafe-modal",
+      "published_at": "2026-10-19"
     },
     {
-      "headline": "FTC Sends Civil Investigative Demands to OpenAI and Anthropic Over AI Safety Incidents",
-      "summary": "The US Federal Trade Commission issued detailed civil investigative demands, a form of subpoena, to OpenAI and Anthropic seeking records on safety incidents, safeguards and marketing, signaling a more aggressive policy posture toward frontier AI firms.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation",
-      "published_at": "2026-10-15"
+      "headline": "OpenAI and Anthropic both race to claim progress on 3-SAT and complexity theory",
+      "summary": "Following OpenAI's Exponential Time Hypothesis announcement, reports describe Anthropic posting a Claude-assisted paper on faster 3-SAT algorithms the same week, highlighting an emerging competitive dynamic between frontier labs over AI-assisted mathematical research.",
+      "source": "LetsDataScience",
+      "url": "https://letsdatascience.com/news/openai-claims-ai-disproved-exponential-time-hypothesis-relea-d7c8838b",
+      "published_at": "2026-10-26"
     }
   ]
 }
