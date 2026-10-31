@@ -1,61 +1,92 @@
 {
-  "generated_at": "2026-10-30T05:13:05Z",
+  "generated_at": "2026-10-31T05:11:04Z",
   "items": [
     {
-      "headline": "OpenAI launches GPT-6.1 Terra with 50% lower pricing and faster computer-use agents",
-      "summary": "OpenAI shipped GPT-6.1 Terra at $1/$5 per million input/output tokens, roughly half the cost of its prior Terra model, while completing computer-use tasks over three times faster and cutting error rates on OpenAI's internal benchmark. It's rolling out to ChatGPT, Codex and the API.",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
+      "headline": "OpenAI says it will no longer train its AI models on the live internet",
+      "summary": "OpenAI announced it will stop letting frontier models learn directly from the live web, moving to cached and simulated internet content instead, citing security risks from adversarial or poisoned live data.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "published_at": "2026-10-23"
+    },
+    {
+      "headline": "Anthropic's IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "summary": "Anthropic's public S-1 filing detailed how the company locks in large enterprise accounts, as part of its first full financial disclosure ahead of a planned public listing under the ticker ANT.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
       "published_at": "2026-10-26"
     },
     {
-      "headline": "OpenAI says its models disproved the Exponential Time Hypothesis and made new physics findings",
-      "summary": "OpenAI announced three claimed research results in complexity theory, harmonic analysis and quantum field theory, including a disproof of the long-standing Exponential Time Hypothesis, verified in the Lean proof assistant. Outside experts, including MIT's Ryan Williams, are now reviewing the claims.",
-      "source": "Al Jazeera",
-      "url": "https://aljazeera.com/economy/2026/10/27/ai-makes-discoveries-in-mathematics-computer-science-physics-openai-says",
-      "published_at": "2026-10-27"
+      "headline": "Anthropic expected to receive high 'junk' rating from credit agencies following IPO",
+      "summary": "A Financial Times report says credit agencies now expect Anthropic to receive a high-yield 'junk' rating after going public, reversing earlier expectations of an investment-grade rating and raising questions about the AI leader's debt profile.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
+      "published_at": "2026-10-30"
     },
     {
-      "headline": "Google DeepMind unveils Genie 4, a world model with native audio generation",
-      "summary": "Genie 4 generates interactive 3D environments from text prompts that users can navigate in real time, and is DeepMind's first world model to natively produce ambient sound, music and dialogue alongside the scene. It's launching as a limited research preview for trusted testers, paired in demos with Gemini Robotics.",
-      "source": "Digg",
-      "url": "https://digg.com/tech/8q57gd3x",
-      "published_at": "2026-10-27"
+      "headline": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "summary": "The privacy-focused AI assistant Ollie will shut down on November 6 after its CEO cited the difficulty of differentiating the product and raising capital amid intense competition in the consumer AI assistant market.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "published_at": "2026-10-30"
     },
     {
-      "headline": "Nvidia and AMD commit $4 billion to Meta's AI infrastructure financing",
-      "summary": "Nvidia pledged $3 billion and AMD $1 billion toward Meta's roughly $95 billion equity raise to fund data-center expansion, deepening chip-supply partnerships that include Nvidia's Vera Rubin systems and AMD's Helios racks and Instinct GPUs at Meta.",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/science-technology/meta-unveils-95b-financing-plan-to-fund-ai-expansion/4101382",
+      "headline": "DoorDash says it's only received 'several hundred' orders from AI agents",
+      "summary": "On its Q3 earnings call, DoorDash disclosed it has received only a few hundred orders placed by third-party AI shopping agents so far, suggesting agentic commerce adoption remains modest despite industry hype.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents",
+      "published_at": "2026-10-30"
+    },
+    {
+      "headline": "Salesforce's M&A spree continues with a reported $375M deal for defense tech startup Rune",
+      "summary": "Salesforce is reportedly acquiring Rune Technologies, a startup that builds AI software helping the U.S. military predict supply needs and manage logistics, for $375 million in cash and stock.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune",
+      "published_at": "2026-10-30"
+    },
+    {
+      "headline": "Meta launches plan for $95 billion stock offering to fund AI expansion",
+      "summary": "Meta unveiled a plan to raise $95 billion through a stock offering to help finance its aggressive build-out of AI infrastructure and data centers as capital spending across the industry accelerates.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
       "published_at": "2026-10-26"
     },
     {
-      "headline": "UK launches £100m AI Biosecurity Lab backed by OpenAI, Anthropic and Google DeepMind",
-      "summary": "The UK government is funding a new independent AI Biosecurity Lab to spot and counter pathogen-related threats, with OpenAI and Anthropic each pledging up to £100m in model credits and compute access, and Google DeepMind contributing research support and Gemini model access.",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/uk-funds-100m-ai-biosecurity-lab-with-openai-and-anthropic",
-      "published_at": "2026-10-24"
+      "headline": "The AI investing story had a rough week as big tech shares slide on spending concerns",
+      "summary": "AI-linked stocks including Nvidia, Intel, Broadcom and Qualcomm fell sharply after Amazon and Intel's earnings stoked investor worries that massive AI infrastructure spending isn't yet paying off, with Intel posting its worst day since the 1970s.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/30/ai-stocks-selloff-ai-spending-returns.html",
+      "published_at": "2026-10-30"
     },
     {
-      "headline": "Anthropic expands into drug discovery with six research partnerships",
-      "summary": "Anthropic announced research collaborations with six organizations developing new medicines, including Bristol Myers Squibb and Generate Biomedicines, built on its Claude Science platform, alongside its own early-stage, preclinical drug discovery work.",
-      "source": "CryptoBriefing",
-      "url": "https://cryptobriefing.com/anthropic-claude-drug-discovery-partnerships/",
-      "published_at": "2026-10-27"
+      "headline": "Indian AI infrastructure firm seeks $3 billion in debt to buy Nvidia's next-gen chips",
+      "summary": "An Indian AI infrastructure company is reportedly seeking to raise $3 billion in debt financing to purchase Nvidia's upcoming Rubin-generation GPUs, underscoring continued global demand for cutting-edge AI compute despite market jitters.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/30/nvidia-india-ai-chips-computing.html",
+      "published_at": "2026-10-30"
     },
     {
-      "headline": "AI chipmaker Tenstorrent raises $1.5 billion Series E at $6.2 billion valuation",
-      "summary": "Tenstorrent closed one of October's largest AI funding rounds, underscoring continued investor appetite for alternatives to Nvidia in AI accelerator hardware even as mega-rounds dominate the sector's headlines.",
-      "source": "ValueAdd VC",
-      "url": "https://valueaddvc.com/blog/october-2026-ai-funding-rounds-tenstorrent-typesafe-modal",
-      "published_at": "2026-10-19"
+      "headline": "White House makes Section 232 determination regarding foreign-made robots",
+      "summary": "A White House investigation concluded that imports of foreign-made robots, including humanoids, pose a threat to U.S. national security and economic competitiveness, signaling possible future tariffs or trade restrictions on robotics imports.",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com/white-house-makes-section-232-determination-regarding-foreign-made-robots/"
     },
     {
-      "headline": "OpenAI and Anthropic both race to claim progress on 3-SAT and complexity theory",
-      "summary": "Following OpenAI's Exponential Time Hypothesis announcement, reports describe Anthropic posting a Claude-assisted paper on faster 3-SAT algorithms the same week, highlighting an emerging competitive dynamic between frontier labs over AI-assisted mathematical research.",
-      "source": "LetsDataScience",
-      "url": "https://letsdatascience.com/news/openai-claims-ai-disproved-exponential-time-hypothesis-relea-d7c8838b",
-      "published_at": "2026-10-26"
+      "headline": "North American robot orders rose 24.8% in Q3 2026",
+      "summary": "Trade group A3 reported that North American robot orders jumped nearly 25% in the third quarter of 2026, with demand from automotive component manufacturers nearly doubling, signaling renewed industrial automation investment.",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com/category/news/"
+    },
+    {
+      "headline": "AGIBOT unveils G2 Max humanoid robot and 'Worken' productivity metric at Innovation Day",
+      "summary": "Chinese robotics firm AGIBOT introduced its G2 Max humanoid and a new hardware platform at its Innovation Day, alongside a proposed productivity-measurement standard called Worken, as the company says its 20,000th robot has rolled off the production line.",
+      "source": "The Robot Report",
+      "url": "https://therobotreport.com/agibot-introduces-worken-measure-robot-productivity-innovation-day-2026"
+    },
+    {
+      "headline": "Bedrock Robotics secures $600 million for autonomous heavy equipment",
+      "summary": "Bedrock Robotics raised $600 million to expand its autonomous retrofit technology for heavy construction and earthmoving equipment, one of the largest recent funding rounds in industrial robotics.",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com/category/financial/investments-funding/"
     }
   ]
 }
