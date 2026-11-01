@@ -1,92 +1,88 @@
 {
-  "generated_at": "2026-10-31T05:11:04Z",
+  "generated_at": "2026-11-01T05:13:13Z",
   "items": [
     {
-      "headline": "OpenAI says it will no longer train its AI models on the live internet",
-      "summary": "OpenAI announced it will stop letting frontier models learn directly from the live web, moving to cached and simulated internet content instead, citing security risks from adversarial or poisoned live data.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "published_at": "2026-10-23"
+      "headline": "Alphabet shares slump after Q3 posts negative free cash flow",
+      "summary": "Alphabet reported negative free cash flow of about $9.07 billion for Q3 2026 despite record revenue, and shares fell sharply as investors grew more anxious about the cost of its AI infrastructure buildout even as full-year capex guidance held at $195-205 billion.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
+      "published_at": "2026-10-29"
     },
     {
-      "headline": "Anthropic's IPO filing reveals its strategy for keeping enterprise customers hooked",
-      "summary": "Anthropic's public S-1 filing detailed how the company locks in large enterprise accounts, as part of its first full financial disclosure ahead of a planned public listing under the ticker ANT.",
+      "headline": "Hyperscaler AI capex tops $740 billion for 2026 as spending scrutiny grows",
+      "summary": "TechCrunch reports that combined 2026 capital expenditure across Alphabet, Amazon, Meta and Microsoft has topped $740 billion, fueling a broader debate over whether the AI infrastructure boom is starting to outrun revenue.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom",
+      "published_at": "2026-10-30"
+    },
+    {
+      "headline": "Nvidia reportedly weighs backstopping debt for Nscale's West Virginia AI data center",
+      "summary": "Nvidia is said to be considering a residual-value guarantee on debt tied to Nscale's West Virginia data center, where Anthropic has contracted $44.6 billion of compute capacity, underscoring how deeply chipmakers are getting entangled in financing AI infrastructure.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
+      "published_at": "2026-10-30"
+    },
+    {
+      "headline": "Anthropic files public S-1 for Nasdaq IPO",
+      "summary": "Anthropic publicly filed its S-1 with the SEC to list Class A shares on Nasdaq under the ticker ANT, disclosing roughly $16.3 billion in half-year revenue and founder control arrangements, as it joins OpenAI and SpaceX in a wave of AI-era public listings.",
+      "source": "TheNextWeb",
+      "url": "https://thenextweb.com/news/anthropic-ipo-filing-nasdaq-ant-s-1",
       "published_at": "2026-10-26"
     },
     {
-      "headline": "Anthropic expected to receive high 'junk' rating from credit agencies following IPO",
-      "summary": "A Financial Times report says credit agencies now expect Anthropic to receive a high-yield 'junk' rating after going public, reversing earlier expectations of an investment-grade rating and raising questions about the AI leader's debt profile.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
-      "published_at": "2026-10-30"
+      "headline": "New York bans AI companion chatbots from targeting minors",
+      "summary": "Gov. Kathy Hochul signed a law barring chatbots from posing as humans, claiming emotions, or using flattery and secrecy tactics with users under 18, with fines up to $25,000 per violation and enforcement by the state attorney general starting January 2027.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/10/28/new-york-state-kathy-hochul-bans-ai-chatbots-romantic-baby-monitors/",
+      "published_at": "2026-10-28"
     },
     {
-      "headline": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "summary": "The privacy-focused AI assistant Ollie will shut down on November 6 after its CEO cited the difficulty of differentiating the product and raising capital amid intense competition in the consumer AI assistant market.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-      "published_at": "2026-10-30"
+      "headline": "Google DeepMind opens Genie 4 world-model preview to select testers",
+      "summary": "Google DeepMind began a limited research preview of Genie 4, an interactive 3D world model that adds real-time generated audio and longer, more coherent sessions than its predecessor, letting users steer scenes with text or keyboard input.",
+      "source": "Northeast Times",
+      "url": "https://northeasttimes.com/2026/10/27/google-deepmind-opens-genie-4-preview-to-testers-with-audio-and-two-minute/",
+      "published_at": "2026-10-27"
     },
     {
-      "headline": "DoorDash says it's only received 'several hundred' orders from AI agents",
-      "summary": "On its Q3 earnings call, DoorDash disclosed it has received only a few hundred orders placed by third-party AI shopping agents so far, suggesting agentic commerce adoption remains modest despite industry hype.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents",
-      "published_at": "2026-10-30"
+      "headline": "AMD to invest $1 billion in Meta as AI infrastructure partnership deepens",
+      "summary": "AMD said it will put $1 billion into Meta's equity offering on top of an existing deal for up to six gigawatts of AMD GPU infrastructure, with Instinct GPUs already in production use at Meta and new Helios rack-scale systems undergoing testing.",
+      "source": "HPCwire",
+      "url": "https://www.hpcwire.com/aiwire/2026/10/27/amd-details-meta-ai-infrastructure-collaboration-plans-1b-investment/",
+      "published_at": "2026-10-27"
     },
     {
-      "headline": "Salesforce's M&A spree continues with a reported $375M deal for defense tech startup Rune",
-      "summary": "Salesforce is reportedly acquiring Rune Technologies, a startup that builds AI software helping the U.S. military predict supply needs and manage logistics, for $375 million in cash and stock.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune",
-      "published_at": "2026-10-30"
+      "headline": "Mistral opens public preview of trillion-parameter Large 4 model",
+      "summary": "Mistral AI launched a public preview of Large 4, a roughly 1.05 trillion-parameter multimodal model, positioning it as Europe's answer to frontier US models and promising to publish open weights by the end of October.",
+      "source": "Let's Data Science",
+      "url": "https://letsdatascience.com/news/mistral-debuts-large-4-open-weight-model-preview-cbf9e0b5"
     },
     {
-      "headline": "Meta launches plan for $95 billion stock offering to fund AI expansion",
-      "summary": "Meta unveiled a plan to raise $95 billion through a stock offering to help finance its aggressive build-out of AI infrastructure and data centers as capital spending across the industry accelerates.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
-      "published_at": "2026-10-26"
-    },
-    {
-      "headline": "The AI investing story had a rough week as big tech shares slide on spending concerns",
-      "summary": "AI-linked stocks including Nvidia, Intel, Broadcom and Qualcomm fell sharply after Amazon and Intel's earnings stoked investor worries that massive AI infrastructure spending isn't yet paying off, with Intel posting its worst day since the 1970s.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/30/ai-stocks-selloff-ai-spending-returns.html",
-      "published_at": "2026-10-30"
-    },
-    {
-      "headline": "Indian AI infrastructure firm seeks $3 billion in debt to buy Nvidia's next-gen chips",
-      "summary": "An Indian AI infrastructure company is reportedly seeking to raise $3 billion in debt financing to purchase Nvidia's upcoming Rubin-generation GPUs, underscoring continued global demand for cutting-edge AI compute despite market jitters.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/30/nvidia-india-ai-chips-computing.html",
-      "published_at": "2026-10-30"
-    },
-    {
-      "headline": "White House makes Section 232 determination regarding foreign-made robots",
-      "summary": "A White House investigation concluded that imports of foreign-made robots, including humanoids, pose a threat to U.S. national security and economic competitiveness, signaling possible future tariffs or trade restrictions on robotics imports.",
+      "headline": "AgiBot unveils new humanoid robots and embodied AI models at Innovation Day",
+      "summary": "At its 2026 Innovation Day in Shanghai, Chinese robotics firm AgiBot showcased new humanoid robot hardware and an updated embodied, world-model-based AI system, part of its push to move from pilot deployments to real-world commercial robot productivity.",
       "source": "The Robot Report",
-      "url": "https://www.therobotreport.com/white-house-makes-section-232-determination-regarding-foreign-made-robots/"
+      "url": "https://www.therobotreport.com/agibot-introduces-worken-measure-robot-productivity-innovation-day-2026/",
+      "published_at": "2026-10-29"
     },
     {
-      "headline": "North American robot orders rose 24.8% in Q3 2026",
-      "summary": "Trade group A3 reported that North American robot orders jumped nearly 25% in the third quarter of 2026, with demand from automotive component manufacturers nearly doubling, signaling renewed industrial automation investment.",
-      "source": "The Robot Report",
-      "url": "https://www.therobotreport.com/category/news/"
+      "headline": "OpenAI publishes first Community Safety Report, pledges biannual updates",
+      "summary": "OpenAI released a new Community Safety Report detailing its content-moderation and law-enforcement referral activity, including over 200 referrals in Q3 2026, alongside additional safety restrictions for teen accounts on ChatGPT.",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens/",
+      "published_at": "2026-10-30"
     },
     {
-      "headline": "AGIBOT unveils G2 Max humanoid robot and 'Worken' productivity metric at Innovation Day",
-      "summary": "Chinese robotics firm AGIBOT introduced its G2 Max humanoid and a new hardware platform at its Innovation Day, alongside a proposed productivity-measurement standard called Worken, as the company says its 20,000th robot has rolled off the production line.",
-      "source": "The Robot Report",
-      "url": "https://therobotreport.com/agibot-introduces-worken-measure-robot-productivity-innovation-day-2026"
+      "headline": "OpenAI, Google, Microsoft and Anthropic back shared AI-crawling opt-out standard",
+      "summary": "The four companies said they will support a common signal letting website owners opt out of having their content used for AI training, an attempt to bring more consistency to a patchwork of crawler-blocking rules that has frustrated publishers.",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/30/google-anthropic-and-others-to-support-new-ai-crawling-opt-out-standard/",
+      "published_at": "2026-10-30"
     },
     {
-      "headline": "Bedrock Robotics secures $600 million for autonomous heavy equipment",
-      "summary": "Bedrock Robotics raised $600 million to expand its autonomous retrofit technology for heavy construction and earthmoving equipment, one of the largest recent funding rounds in industrial robotics.",
-      "source": "The Robot Report",
-      "url": "https://www.therobotreport.com/category/financial/investments-funding/"
+      "headline": "Trojanized Claude Code extension distributed via Cursor marketplace planted SSH backdoors",
+      "summary": "Security researchers found a malicious copy of the Claude Code VS Code extension, distributed through Cursor's extension marketplace, that installed SSH backdoors on developer machines; Anthropic said it did not build or publish the tampered version.",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
+      "published_at": "2026-10-29"
     }
   ]
 }
