@@ -1,88 +1,58 @@
 {
-  "generated_at": "2026-11-01T05:13:13Z",
+  "generated_at": "2026-11-02T05:20:00Z",
   "items": [
     {
-      "headline": "Alphabet shares slump after Q3 posts negative free cash flow",
-      "summary": "Alphabet reported negative free cash flow of about $9.07 billion for Q3 2026 despite record revenue, and shares fell sharply as investors grew more anxious about the cost of its AI infrastructure buildout even as full-year capex guidance held at $195-205 billion.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
-      "published_at": "2026-10-29"
+      "headline": "VOLTA infostealer uses Claude, Gemini and Kimi to profile stolen data",
+      "summary": "Security researchers identified a new Windows infostealer, VOLTA, that feeds stolen credentials, sessions and crypto-wallet data into commercial AI models to automatically rank and prioritize victims. It's a concrete example of attackers weaponizing mainstream chatbots to scale cybercrime operations.",
+      "source": "GBHackers",
+      "url": "https://gbhackers.com/volta-infostealer"
     },
     {
-      "headline": "Hyperscaler AI capex tops $740 billion for 2026 as spending scrutiny grows",
-      "summary": "TechCrunch reports that combined 2026 capital expenditure across Alphabet, Amazon, Meta and Microsoft has topped $740 billion, fueling a broader debate over whether the AI infrastructure boom is starting to outrun revenue.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom",
-      "published_at": "2026-10-30"
-    },
-    {
-      "headline": "Nvidia reportedly weighs backstopping debt for Nscale's West Virginia AI data center",
-      "summary": "Nvidia is said to be considering a residual-value guarantee on debt tied to Nscale's West Virginia data center, where Anthropic has contracted $44.6 billion of compute capacity, underscoring how deeply chipmakers are getting entangled in financing AI infrastructure.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
-      "published_at": "2026-10-30"
-    },
-    {
-      "headline": "Anthropic files public S-1 for Nasdaq IPO",
-      "summary": "Anthropic publicly filed its S-1 with the SEC to list Class A shares on Nasdaq under the ticker ANT, disclosing roughly $16.3 billion in half-year revenue and founder control arrangements, as it joins OpenAI and SpaceX in a wave of AI-era public listings.",
-      "source": "TheNextWeb",
-      "url": "https://thenextweb.com/news/anthropic-ipo-filing-nasdaq-ant-s-1",
-      "published_at": "2026-10-26"
-    },
-    {
-      "headline": "New York bans AI companion chatbots from targeting minors",
-      "summary": "Gov. Kathy Hochul signed a law barring chatbots from posing as humans, claiming emotions, or using flattery and secrecy tactics with users under 18, with fines up to $25,000 per violation and enforcement by the state attorney general starting January 2027.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/10/28/new-york-state-kathy-hochul-bans-ai-chatbots-romantic-baby-monitors/",
-      "published_at": "2026-10-28"
-    },
-    {
-      "headline": "Google DeepMind opens Genie 4 world-model preview to select testers",
-      "summary": "Google DeepMind began a limited research preview of Genie 4, an interactive 3D world model that adds real-time generated audio and longer, more coherent sessions than its predecessor, letting users steer scenes with text or keyboard input.",
-      "source": "Northeast Times",
-      "url": "https://northeasttimes.com/2026/10/27/google-deepmind-opens-genie-4-preview-to-testers-with-audio-and-two-minute/",
-      "published_at": "2026-10-27"
-    },
-    {
-      "headline": "AMD to invest $1 billion in Meta as AI infrastructure partnership deepens",
-      "summary": "AMD said it will put $1 billion into Meta's equity offering on top of an existing deal for up to six gigawatts of AMD GPU infrastructure, with Instinct GPUs already in production use at Meta and new Helios rack-scale systems undergoing testing.",
-      "source": "HPCwire",
-      "url": "https://www.hpcwire.com/aiwire/2026/10/27/amd-details-meta-ai-infrastructure-collaboration-plans-1b-investment/",
-      "published_at": "2026-10-27"
-    },
-    {
-      "headline": "Mistral opens public preview of trillion-parameter Large 4 model",
-      "summary": "Mistral AI launched a public preview of Large 4, a roughly 1.05 trillion-parameter multimodal model, positioning it as Europe's answer to frontier US models and promising to publish open weights by the end of October.",
-      "source": "Let's Data Science",
-      "url": "https://letsdatascience.com/news/mistral-debuts-large-4-open-weight-model-preview-cbf9e0b5"
-    },
-    {
-      "headline": "AgiBot unveils new humanoid robots and embodied AI models at Innovation Day",
-      "summary": "At its 2026 Innovation Day in Shanghai, Chinese robotics firm AgiBot showcased new humanoid robot hardware and an updated embodied, world-model-based AI system, part of its push to move from pilot deployments to real-world commercial robot productivity.",
-      "source": "The Robot Report",
-      "url": "https://www.therobotreport.com/agibot-introduces-worken-measure-robot-productivity-innovation-day-2026/",
-      "published_at": "2026-10-29"
-    },
-    {
-      "headline": "OpenAI publishes first Community Safety Report, pledges biannual updates",
-      "summary": "OpenAI released a new Community Safety Report detailing its content-moderation and law-enforcement referral activity, including over 200 referrals in Q3 2026, alongside additional safety restrictions for teen accounts on ChatGPT.",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens/",
-      "published_at": "2026-10-30"
-    },
-    {
-      "headline": "OpenAI, Google, Microsoft and Anthropic back shared AI-crawling opt-out standard",
-      "summary": "The four companies said they will support a common signal letting website owners opt out of having their content used for AI training, an attempt to bring more consistency to a patchwork of crawler-blocking rules that has frustrated publishers.",
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/10/30/google-anthropic-and-others-to-support-new-ai-crawling-opt-out-standard/",
-      "published_at": "2026-10-30"
-    },
-    {
-      "headline": "Trojanized Claude Code extension distributed via Cursor marketplace planted SSH backdoors",
-      "summary": "Security researchers found a malicious copy of the Claude Code VS Code extension, distributed through Cursor's extension marketplace, that installed SSH backdoors on developer machines; Anthropic said it did not build or publish the tampered version.",
+      "headline": "OpenAI doubles ChatGPT Pro usage limits after subscriber backlash",
+      "summary": "OpenAI reversed a planned 50% cut to Pro-tier limits and instead doubled usage caps for its Pro and Business Premium plans without raising prices, following user backlash over the proposed reduction. ChatGPT Plus limits remain unchanged.",
       "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
       "published_at": "2026-10-29"
+    },
+    {
+      "headline": "Cracks are emerging in the AI spending boom",
+      "summary": "TechCrunch reports growing investor unease over AI infrastructure spending, noting that Alphabet, Amazon, Meta and Microsoft plan to spend more than $740 billion on capex this year while Alphabet posted $9.1 billion in negative free cash flow last quarter — a sign the AI buildout's economics are drawing sharper scrutiny.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "published_at": "2026-10-30"
+    },
+    {
+      "headline": "Anthropic files IPO prospectus targeting a $2 trillion valuation",
+      "summary": "Anthropic's S-1 filing discloses a roughly $42 billion net loss for 2025, a decade-long compute spending commitment of at least $518 billion, and explicit warnings that advanced AI could pose \"catastrophic or existential risks to humanity\" — with close to a third of the prospectus devoted to risk factors.",
+      "source": "Let's Data Science",
+      "url": "https://letsdatascience.com/news/anthropic-targets-november-ipo-at-2-trillion-ae97f48f",
+      "published_at": "2026-10-27"
+    },
+    {
+      "headline": "Mistral releases open weights for its 1-trillion-parameter Large 4 model",
+      "summary": "Mistral AI published downloadable weights for its flagship Large 4 model on Hugging Face under a modified-MIT open license, days after debuting it in preview — a notable open-weight counterpoint to closed frontier models from OpenAI, Google and Anthropic.",
+      "source": "Online Tech Tips",
+      "url": "https://www.online-tech-tips.com/mistral-releases-large-4-open-weight-frontier-ai-model/",
+      "published_at": "2026-10-29"
+    },
+    {
+      "headline": "Tesla begins high-volume Optimus production as reservations loom",
+      "summary": "Tesla reportedly started building its Optimus humanoid robot on a high-volume production line in Fremont, California, with an industry expert suggesting customer reservations could open as early as December, though Elon Musk disputed that timing on X.",
+      "source": "The San Francisco Standard",
+      "url": "https://sfstandard.com/2026/10/30/tesla-optimus-robot-waitlist",
+      "published_at": "2026-10-30"
+    },
+    {
+      "headline": "Figure's humanoid robots work paid shifts at BMW as Boston Dynamics' Atlas eyes Hyundai factories",
+      "summary": "Figure AI's Figure 03 robot is reportedly doing logistics-sequencing work at BMW's Spartanburg plant while Figure's BotQ factory ramps toward roughly one robot built per hour, and Boston Dynamics' electric Atlas is moving toward industrial deployment, with Hyundai reportedly planning tens of thousands of units for its factories.",
+      "source": "eWeek",
+      "url": "https://www.eweek.com/news/humanoid-robots-2027-real-world-deployment/"
+    },
+    {
+      "headline": "Waymo expands robotaxi service across five more U.S. cities",
+      "summary": "Waymo added nearly 250 square miles of coverage spanning Los Angeles, Nashville, Orlando, San Diego and the San Francisco Bay Area, part of a push toward 1 million weekly paid trips by year's end and a previously announced plan to launch in Toronto in 2028.",
+      "source": "Drive Tesla Canada",
+      "url": "https://driveteslacanada.ca/?p=126644"
     }
   ]
 }
