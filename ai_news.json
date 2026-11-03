@@ -1,58 +1,57 @@
 {
-  "generated_at": "2026-11-02T05:20:00Z",
+  "generated_at": "2026-11-03T05:13:05Z",
   "items": [
     {
-      "headline": "VOLTA infostealer uses Claude, Gemini and Kimi to profile stolen data",
-      "summary": "Security researchers identified a new Windows infostealer, VOLTA, that feeds stolen credentials, sessions and crypto-wallet data into commercial AI models to automatically rank and prioritize victims. It's a concrete example of attackers weaponizing mainstream chatbots to scale cybercrime operations.",
-      "source": "GBHackers",
-      "url": "https://gbhackers.com/volta-infostealer"
-    },
-    {
-      "headline": "OpenAI doubles ChatGPT Pro usage limits after subscriber backlash",
-      "summary": "OpenAI reversed a planned 50% cut to Pro-tier limits and instead doubled usage caps for its Pro and Business Premium plans without raising prices, following user backlash over the proposed reduction. ChatGPT Plus limits remain unchanged.",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
-      "published_at": "2026-10-29"
-    },
-    {
-      "headline": "Cracks are emerging in the AI spending boom",
-      "summary": "TechCrunch reports growing investor unease over AI infrastructure spending, noting that Alphabet, Amazon, Meta and Microsoft plan to spend more than $740 billion on capex this year while Alphabet posted $9.1 billion in negative free cash flow last quarter — a sign the AI buildout's economics are drawing sharper scrutiny.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "headline": "OpenAI, Google, Microsoft and Anthropic back a shared robots.txt AI-training opt-out signal",
+      "summary": "The four companies said on October 30 that they will honor a common signal websites can add to robots.txt to express AI-training preferences that apply across providers, an effort that grew out of an IETF AI Preferences working-group draft. It gives publishers one place to set training preferences instead of negotiating with each AI company separately, though compliance is voluntary and implementation details are still being worked out.",
+      "source": "AI Weekly",
+      "url": "https://aiweekly.co/alerts/openai-google-microsoft-anthropic-back-one-ai-opt-out-token",
       "published_at": "2026-10-30"
     },
     {
-      "headline": "Anthropic files IPO prospectus targeting a $2 trillion valuation",
-      "summary": "Anthropic's S-1 filing discloses a roughly $42 billion net loss for 2025, a decade-long compute spending commitment of at least $518 billion, and explicit warnings that advanced AI could pose \"catastrophic or existential risks to humanity\" — with close to a third of the prospectus devoted to risk factors.",
-      "source": "Let's Data Science",
-      "url": "https://letsdatascience.com/news/anthropic-targets-november-ipo-at-2-trillion-ae97f48f",
-      "published_at": "2026-10-27"
+      "headline": "Microsoft's AI Safety & Privacy Standard for US schools takes effect",
+      "summary": "A set of enforceable AI data-protection terms Microsoft negotiated with the American Federation of Teachers and the United Federation of Teachers became effective for US school districts on November 1, barring Microsoft from training models on student data and requiring human oversight of AI decisions affecting students. It gives districts contractual remedies, including termination rights, if the terms are violated.",
+      "source": "Nemko Digital",
+      "url": "https://digital.nemko.com/news/microsoft-ai-guardrails-for-schools-take-effect-november-1",
+      "published_at": "2026-11-01"
     },
     {
-      "headline": "Mistral releases open weights for its 1-trillion-parameter Large 4 model",
-      "summary": "Mistral AI published downloadable weights for its flagship Large 4 model on Hugging Face under a modified-MIT open license, days after debuting it in preview — a notable open-weight counterpoint to closed frontier models from OpenAI, Google and Anthropic.",
-      "source": "Online Tech Tips",
-      "url": "https://www.online-tech-tips.com/mistral-releases-large-4-open-weight-frontier-ai-model/",
-      "published_at": "2026-10-29"
+      "headline": "Amazon reportedly weighing a second multibillion-dollar investment in Anthropic",
+      "summary": "Amazon is said to be considering another large investment in Anthropic while pushing the AI lab to lean more heavily on Amazon's in-house Trainium chips rather than Nvidia GPUs, deepening the cloud giant's strategic stake in Claude as it competes for AI infrastructure share.",
+      "source": "Maginative",
+      "url": "https://www.maginative.com/article/amazon-eyes-second-multibillion-dollar-anthropic-deal-pushes-in-house-chips/"
     },
     {
-      "headline": "Tesla begins high-volume Optimus production as reservations loom",
-      "summary": "Tesla reportedly started building its Optimus humanoid robot on a high-volume production line in Fremont, California, with an industry expert suggesting customer reservations could open as early as December, though Elon Musk disputed that timing on X.",
-      "source": "The San Francisco Standard",
-      "url": "https://sfstandard.com/2026/10/30/tesla-optimus-robot-waitlist",
-      "published_at": "2026-10-30"
+      "headline": "Nvidia and Microsoft jointly invest $15B in Anthropic as it becomes first AI lab on Azure, AWS and Google Cloud",
+      "summary": "Anthropic signed a roughly $30B deal to deploy Claude on AWS while Nvidia and Microsoft jointly put $15B into the company, making it the first major AI lab to offer its models across all three big cloud platforms and pushing its valuation toward $350B.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-signs-usd30-billion-deal-with-amazon-to-deploy-claude-on-aws-nvidia-and-microsoft-jointly-invest-usd15-billion-into-ai-firm-as-it-becomes-first-provider-across-azure-aws-and-google"
     },
     {
-      "headline": "Figure's humanoid robots work paid shifts at BMW as Boston Dynamics' Atlas eyes Hyundai factories",
-      "summary": "Figure AI's Figure 03 robot is reportedly doing logistics-sequencing work at BMW's Spartanburg plant while Figure's BotQ factory ramps toward roughly one robot built per hour, and Boston Dynamics' electric Atlas is moving toward industrial deployment, with Hyundai reportedly planning tens of thousands of units for its factories.",
+      "headline": "Nvidia reportedly weighing another $1B investment in Figure AI's humanoid robots",
+      "summary": "Nvidia is said to be considering a further roughly $1 billion investment in humanoid-robot maker Figure as the company expands its AI infrastructure and production capacity, building on an earlier compute partnership that could bring it up to 100,000 Nvidia GPUs.",
       "source": "eWeek",
-      "url": "https://www.eweek.com/news/humanoid-robots-2027-real-world-deployment/"
+      "url": "https://www.eweek.com/news/nvidia-figure-ai-1-billion-investment-humanoid-robots/"
     },
     {
-      "headline": "Waymo expands robotaxi service across five more U.S. cities",
-      "summary": "Waymo added nearly 250 square miles of coverage spanning Los Angeles, Nashville, Orlando, San Diego and the San Francisco Bay Area, part of a push toward 1 million weekly paid trips by year's end and a previously announced plan to launch in Toronto in 2028.",
-      "source": "Drive Tesla Canada",
-      "url": "https://driveteslacanada.ca/?p=126644"
+      "headline": "GXO and Agility Robotics to expand humanoid robot deployments to two more US warehouses",
+      "summary": "Logistics firm GXO and robotics maker Agility Robotics announced plans to add humanoid robots to two additional US facilities starting in early 2027, extending an existing warehouse deployment as companies push to prove commercial viability for humanoid labor.",
+      "source": "eWeek",
+      "url": "https://www.eweek.com/news/nvidia-figure-ai-1-billion-investment-humanoid-robots/"
+    },
+    {
+      "headline": "Figure AI signs $3.5B Nscale compute deal for up to 100,000 Nvidia Vera Rubin GPUs",
+      "summary": "Humanoid-robotics company Figure struck a multi-year partnership with cloud provider Nscale, committing $3.5B (scalable to over $6B) for up to 100,000 Nvidia Vera Rubin GPUs, with Nscale also taking an equity stake and becoming Figure's preferred compute provider for training its Helix robot-control models.",
+      "source": "AI Weekly",
+      "url": "https://aiweekly.co/alerts/figure-ai-signs-35b-nscale-compute-deal-for-100000-vera-rubin-gpus-scalable-to",
+      "published_at": "2026-09-03"
+    },
+    {
+      "headline": "OpenAI unveils \"Dots,\" persistent always-on AI agents, at DevDay 2026",
+      "summary": "OpenAI introduced Dots, named AI assistants that keep running inside ChatGPT after a user closes the app, each given its own cloud compute environment and the ability to carry context across multiple ongoing projects, alongside a new $500-per-month Pro tier with a premium speed option.",
+      "source": "Let's Data Science",
+      "url": "https://letsdatascience.com/news/openai-introduces-dots-always-on-ai-agents-at-devday-2026-2ced4872",
+      "published_at": "2026-09-29"
     }
   ]
 }
