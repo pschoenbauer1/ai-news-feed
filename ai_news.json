@@ -1,66 +1,79 @@
 {
-  "generated_at": "2026-11-04T05:12:43Z",
+  "generated_at": "2026-11-05T12:00:00Z",
   "items": [
     {
-      "headline": "Anthropic's IPO Filing Reveals Nearly $900 Billion in Compute Commitments",
-      "summary": "Anthropic's amended S-1 filing discloses total infrastructure purchase commitments of about $895.4 billion, with roughly $447.5 billion due by the end of 2030, underscoring the staggering capital intensity behind keeping Claude running at scale.",
-      "source": "Boing Boing",
-      "url": "https://boingboing.net/2026/11/03/anthropic-895-billion-compute-commitments.html",
+      "headline": "Anthropic is building a system to verify which AI model produced a given output",
+      "summary": "Anthropic published research on FlashProve, an open-source project aimed at letting anyone verify the identity of the model that generated a piece of AI output, addressing growing concerns about impersonation and provenance of AI content.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
       "published_at": "2026-11-03"
     },
     {
-      "headline": "Anthropic Tells IPO Investors Claude Is Helping Design Its Own Chips",
-      "summary": "The Information reports that Anthropic's new 15-person chip design team is already using Claude on custom silicon projects, while the company says it will keep sourcing compute from Nvidia, AMD, AWS, and Google rather than depending on a single hardware partner.",
-      "source": "MarketScreener (The Information)",
-      "url": "https://www.marketscreener.com/news/anthropic-using-claude-to-help-design-in-house-chips-ce785fdedb8af621"
-    },
-    {
-      "headline": "Anthropic Clarifies Policy on Banning Persistently Abusive Claude Users",
-      "summary": "Anthropic detailed an enforcement policy under which users who are persistently harmful or abusive toward Claude in conversation can, in extreme cases, face a permanent ban, though the company says Claude ending the conversation remains its main response.",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/11/01/business/anthropic-dont-be-mean-claude-ban",
-      "published_at": "2026-11-01"
-    },
-    {
-      "headline": "Anthropic Confirms Claude Code Now Refuses to Recreate Existing Video Games",
-      "summary": "Anthropic confirmed it added instructions to Claude Code on its Opus 5.5 model steering it away from rebuilding specific existing games to avoid IP infringement, a change some legitimate developers say is causing false refusals on original projects.",
-      "source": "Game Developer",
-      "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
-      "published_at": "2026-10-30"
-    },
-    {
-      "headline": "OpenAI Publishes Briefs Defending Fair Use of Copyrighted Works in AI Training",
-      "summary": "OpenAI highlighted excerpts from roughly 20 amicus filings urging a New York court to find that training large language models on copyrighted material is fair use, part of its defense in the ongoing lawsuit brought by The New York Times.",
-      "source": "IPWatchdog",
-      "url": "https://ipwatchdog.com/2026/11/02/openai-touts-briefs-backing-fair-use-for-ai-training",
+      "headline": "Anthropic warns it is close to recursive self-improvement (RSI) capability",
+      "summary": "In a revised IPO filing, Anthropic said it has already used AI to help develop newer models whose capability leaps it didn't fully anticipate, and warned that AI self-improvement could soon accelerate dramatically, a safety-relevant milestone for the industry.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
       "published_at": "2026-11-02"
     },
     {
-      "headline": "OpenAI Scales Back Fundraising Target to $20 Billion",
-      "summary": "OpenAI is reportedly seeking up to $20 billion in its latest funding round, down from an earlier $30 billion goal, with the round said to value the company at around $1.25 trillion on a post-money basis.",
+      "headline": "Anthropic's amended IPO filing reveals $895 billion in compute commitments",
+      "summary": "Anthropic's revised S-1 showed roughly $17 billion in Q3 revenue alongside nearly $895.4 billion in purchase commitments, almost entirely for computing and data centers, underscoring the massive capital intensity of frontier AI development.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
+      "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+      "published_at": "2026-11-02"
+    },
+    {
+      "headline": "OpenAI raises bug bounty payouts and launches AI-assisted security sprint",
+      "summary": "OpenAI increased payouts for security researchers finding flaws in ChatGPT and its core products to as much as $30,000, while kicking off an AI-assisted testing sprint with outside researchers to harden its systems against emerging threats.",
+      "source": "eSecurityPlanet",
+      "url": "https://esecurityplanet.com/news/news-openai-ai-security-sprint-bug-bounties",
+      "published_at": "2026-11-02"
+    },
+    {
+      "headline": "Google unveils Gemini 4 Carbon, its strongest model yet, focused on cybersecurity",
+      "summary": "Google announced Gemini 4 Carbon, built on Gemini 4 Argon, claiming state-of-the-art performance on cybersecurity tasks like vulnerability discovery and software patching; access is rolling out first to cyber defenders before broader release.",
+      "source": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+      "published_at": "2026-10-28"
+    },
+    {
+      "headline": "Meta reportedly built a humanoid robot prototype with China's Fourier",
+      "summary": "The Information reported that Meta built a 48kg humanoid prototype called 'Max' in collaboration with Shanghai-based robotics firm Fourier in about three months, intended as a research vehicle for embodying Meta's Muse AI agent in household tasks; Meta says it has no plans to sell the units yet.",
+      "source": "The Information (via Reuters/The Next Web)",
+      "url": "https://thenextweb.com/news/meta-humanoid-robot-fourier-max",
       "published_at": "2026-10-31"
     },
     {
-      "headline": "OpenAI to Merge ChatGPT and Codex Usage Limits Starting in December",
-      "summary": "OpenAI confirmed that its Plus, Pro, and Business ChatGPT plans will move to a single shared, token-based usage allowance covering both ChatGPT and Codex beginning in December, consolidating what had been separate quotas.",
-      "source": "Pasquale Pillitteri (reporting OpenAI help center update)",
-      "url": "https://pasqualepillitteri.it/en/news/29063/openai-confirms-shared-usage-limit-chatgpt-codex-december"
+      "headline": "Report: at least 15% of China's humanoid robot makers face bankruptcy or mergers within three years",
+      "summary": "Chinese research firm GGII forecast a coming shakeout among China's crowded humanoid robotics sector even as it projects domestic shipments of finished humanoid robots will top 50,000 units this year, highlighting overcapacity risks amid rapid growth.",
+      "source": "Seoul Economic Daily",
+      "url": "https://en.sedaily.com/international/2026/11/04/china-humanoid-robot-makers-face-shakeout-report-says",
+      "published_at": "2026-11-04"
     },
     {
-      "headline": "Unitree Founder Says GPT-6 Could Trigger a Robotics 'ChatGPT Moment' Within Two Years",
-      "summary": "Wang Xingxing, founder of humanoid robot maker Unitree, said OpenAI's GPT-6 model has raised his expectations that embodied AI could reach a breakthrough moment within one to two years, after testing the model on robotics tasks including painting and playing Go.",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/tech/big-tech/article/3370603/openais-gpt-6-may-lead-robotics-breakthrough-soon-next-year-unitree-founder",
-      "published_at": "2026-10-13"
+      "headline": "Agility Robotics to go public on Nasdaq via SPAC merger valuing it at $2.5 billion",
+      "summary": "The maker of the Digit humanoid robot is merging with blank-check company Churchill Capital Corp XI to list on Nasdaq under ticker 'AGLT', a deal expected to provide over $620 million in cash as the first humanoid robotics company to go public this way.",
+      "source": "GeekWire",
+      "url": "https://www.geekwire.com/2026/digit-maker-agility-robotics-to-go-public-in-2-5b-deal-heres-what-the-filings-say-about-its-finances/"
     },
     {
-      "headline": "Meta Details Prometheus Supercluster Scaling Toward 1 Million GPUs",
-      "summary": "Meta's engineering team published a technical account of its Prometheus data center in Ohio, describing progress toward a roughly 1-million-GPU supercluster that trained the company's Muse AI models and cut daily compute-cluster failures by 99%.",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/meta-prometheus-supercluster-1-million-gpus-muse",
-      "published_at": "2026-10-19"
+      "headline": "Startups YAS and Robolist push to close the robot insurance gap",
+      "summary": "With most deployed robots still uninsured, the two companies announced efforts to build dedicated insurance products for robotics operators, reflecting the industry's push to de-risk rapidly scaling humanoid and mobile robot fleets.",
+      "source": "PR Newswire",
+      "url": "https://manilatimes.net/2026/11/04/tmt-newswire/pr-newswire/most-robots-still-arent-insured-yas-and-robolist-are-changing-that/2461369",
+      "published_at": "2026-11-04"
+    },
+    {
+      "headline": "EU opens feedback window on AI Act implementing act covering high-risk systems",
+      "summary": "The European Commission opened a public feedback period, closing November 9, on an implementing act under the AI Act's Articles 75c and 75d, part of ongoing efforts to operationalize compliance rules for high-risk AI systems across the bloc.",
+      "source": "AI Policy Desk",
+      "url": "https://www.aipolicydesk.com/regulations/changes/2026-10"
+    },
+    {
+      "headline": "China proposes adding AI items to export-restricted technology catalogue",
+      "summary": "China's commerce and science ministries published a draft revision of the country's export-restricted technology catalogue including 23 AI-related items, with public comments open until November 15, signaling tighter controls on sensitive AI exports.",
+      "source": "Digital Policy Alert",
+      "url": "https://digitalpolicyalert.org/event/39424-commission-for-analysis-monitoring-and-evaluation-on-application-and-development-of-ai-announced-law-regulating-and-promoting-use-of-ai"
     }
   ]
 }
