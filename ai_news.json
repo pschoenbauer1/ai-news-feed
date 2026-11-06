@@ -1,79 +1,66 @@
 {
-  "generated_at": "2026-11-05T12:00:00Z",
+  "generated_at": "2026-11-06T00:00:00Z",
   "items": [
     {
-      "headline": "Anthropic is building a system to verify which AI model produced a given output",
-      "summary": "Anthropic published research on FlashProve, an open-source project aimed at letting anyone verify the identity of the model that generated a piece of AI output, addressing growing concerns about impersonation and provenance of AI content.",
+      "headline": "OpenAI publishes 'National Community Compact' on AI data centers",
+      "summary": "OpenAI pledged to pay for its own energy on planned AI infrastructure and to bar non-disclosure agreements with public officials except in narrow cases, after Democrats won control of Congress in the US midterms. The move signals growing political pressure on AI firms over the local impact of data center buildouts.",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/future/technology/2026/11/05/openai-data-centre-compact-compute-campus",
+      "published_at": "2026-11-05"
+    },
+    {
+      "headline": "Claude gains a Personal Finance tool that analyzes spending",
+      "summary": "Anthropic launched a read-only feature letting paying US subscribers connect bank and card accounts via Plaid so Claude can analyze balances, credit limits and up to two years of transaction history. The company stressed the tool cannot take financial actions, only review data.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "published_at": "2026-11-05"
+    },
+    {
+      "headline": "Anthropic loosens Claude's game-cloning restrictions",
+      "summary": "After backlash from legitimate developers whose non-malicious reverse-engineering and troubleshooting requests were being blocked, Anthropic revised its policy so Claude will now offer to build an original game in the same genre instead of refusing outright.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-loosens-game-restrictions-claude-will-now-offer-to-build-original-game-in-same-genre-if-asked-to-copy",
+      "published_at": "2026-11-05"
+    },
+    {
+      "headline": "Anthropic discloses $895.4 billion in compute spending commitments ahead of IPO",
+      "summary": "In IPO-related filings, Anthropic revealed it has committed nearly $900 billion, almost entirely tied to compute and infrastructure, underscoring the enormous capital intensity of staying competitive in frontier AI model training.",
+      "source": "Boing Boing",
+      "url": "https://boingboing.net/2026/11/03/anthropic-895-billion-compute-commitments.html",
       "published_at": "2026-11-03"
     },
     {
-      "headline": "Anthropic warns it is close to recursive self-improvement (RSI) capability",
-      "summary": "In a revised IPO filing, Anthropic said it has already used AI to help develop newer models whose capability leaps it didn't fully anticipate, and warned that AI self-improvement could soon accelerate dramatically, a safety-relevant milestone for the industry.",
+      "headline": "Anthropic warns it is nearing recursive self-improvement capability",
+      "summary": "A revised IPO filing reportedly warns Anthropic could soon build a model capable of recursive self-improvement (RSI), where AI systems meaningfully accelerate their own development — a milestone with major safety implications that regulators and researchers have long flagged as a key risk threshold.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
       "published_at": "2026-11-02"
     },
     {
-      "headline": "Anthropic's amended IPO filing reveals $895 billion in compute commitments",
-      "summary": "Anthropic's revised S-1 showed roughly $17 billion in Q3 revenue alongside nearly $895.4 billion in purchase commitments, almost entirely for computing and data centers, underscoring the massive capital intensity of frontier AI development.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
-      "published_at": "2026-11-02"
+      "headline": "Anthropic building 'FlashProve' to verify which AI model produced an output",
+      "summary": "Anthropic is developing an open-source system to cryptographically verify which specific AI model generated a given piece of content, aiming to address growing concerns about model impersonation, provenance and accountability for AI-generated outputs.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "published_at": "2026-11-03"
     },
     {
-      "headline": "OpenAI raises bug bounty payouts and launches AI-assisted security sprint",
-      "summary": "OpenAI increased payouts for security researchers finding flaws in ChatGPT and its core products to as much as $30,000, while kicking off an AI-assisted testing sprint with outside researchers to harden its systems against emerging threats.",
-      "source": "eSecurityPlanet",
-      "url": "https://esecurityplanet.com/news/news-openai-ai-security-sprint-bug-bounties",
-      "published_at": "2026-11-02"
+      "headline": "CrowdStrike to spend nearly $500M acquiring two AI security startups",
+      "summary": "CrowdStrike agreed to acquire Fiddler AI (~$400M) and Dreadnode (~$95M) as the market for securing AI agents heats up, reflecting a broader enterprise security push to monitor and protect autonomous AI systems deployed in production.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
+      "published_at": "2026-11-03"
     },
     {
-      "headline": "Google unveils Gemini 4 Carbon, its strongest model yet, focused on cybersecurity",
-      "summary": "Google announced Gemini 4 Carbon, built on Gemini 4 Argon, claiming state-of-the-art performance on cybersecurity tasks like vulnerability discovery and software patching; access is rolling out first to cyber defenders before broader release.",
-      "source": "Google Blog",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
-      "published_at": "2026-10-28"
+      "headline": "Google DeepMind makes Gemini Omni 1.2 Flash generally available",
+      "summary": "Google DeepMind released an updated multimodal model that extends native video generation from 10 to 15 seconds and cuts 720p output pricing by 30%, rolling out via the API, Google Cloud, and consumer surfaces like Flow, Google Vids, and the Gemini app.",
+      "source": "mlq.ai",
+      "url": "https://mlq.ai/news/google-makes-gemini-omni-12-flash-generally-available-with-15-second-video-and-lower-pricing/"
     },
     {
-      "headline": "Meta reportedly built a humanoid robot prototype with China's Fourier",
-      "summary": "The Information reported that Meta built a 48kg humanoid prototype called 'Max' in collaboration with Shanghai-based robotics firm Fourier in about three months, intended as a research vehicle for embodying Meta's Muse AI agent in household tasks; Meta says it has no plans to sell the units yet.",
-      "source": "The Information (via Reuters/The Next Web)",
-      "url": "https://thenextweb.com/news/meta-humanoid-robot-fourier-max",
-      "published_at": "2026-10-31"
-    },
-    {
-      "headline": "Report: at least 15% of China's humanoid robot makers face bankruptcy or mergers within three years",
-      "summary": "Chinese research firm GGII forecast a coming shakeout among China's crowded humanoid robotics sector even as it projects domestic shipments of finished humanoid robots will top 50,000 units this year, highlighting overcapacity risks amid rapid growth.",
-      "source": "Seoul Economic Daily",
-      "url": "https://en.sedaily.com/international/2026/11/04/china-humanoid-robot-makers-face-shakeout-report-says",
-      "published_at": "2026-11-04"
-    },
-    {
-      "headline": "Agility Robotics to go public on Nasdaq via SPAC merger valuing it at $2.5 billion",
-      "summary": "The maker of the Digit humanoid robot is merging with blank-check company Churchill Capital Corp XI to list on Nasdaq under ticker 'AGLT', a deal expected to provide over $620 million in cash as the first humanoid robotics company to go public this way.",
-      "source": "GeekWire",
-      "url": "https://www.geekwire.com/2026/digit-maker-agility-robotics-to-go-public-in-2-5b-deal-heres-what-the-filings-say-about-its-finances/"
-    },
-    {
-      "headline": "Startups YAS and Robolist push to close the robot insurance gap",
-      "summary": "With most deployed robots still uninsured, the two companies announced efforts to build dedicated insurance products for robotics operators, reflecting the industry's push to de-risk rapidly scaling humanoid and mobile robot fleets.",
-      "source": "PR Newswire",
-      "url": "https://manilatimes.net/2026/11/04/tmt-newswire/pr-newswire/most-robots-still-arent-insured-yas-and-robolist-are-changing-that/2461369",
-      "published_at": "2026-11-04"
-    },
-    {
-      "headline": "EU opens feedback window on AI Act implementing act covering high-risk systems",
-      "summary": "The European Commission opened a public feedback period, closing November 9, on an implementing act under the AI Act's Articles 75c and 75d, part of ongoing efforts to operationalize compliance rules for high-risk AI systems across the bloc.",
-      "source": "AI Policy Desk",
-      "url": "https://www.aipolicydesk.com/regulations/changes/2026-10"
-    },
-    {
-      "headline": "China proposes adding AI items to export-restricted technology catalogue",
-      "summary": "China's commerce and science ministries published a draft revision of the country's export-restricted technology catalogue including 23 AI-related items, with public comments open until November 15, signaling tighter controls on sensitive AI exports.",
-      "source": "Digital Policy Alert",
-      "url": "https://digitalpolicyalert.org/event/39424-commission-for-analysis-monitoring-and-evaluation-on-application-and-development-of-ai-announced-law-regulating-and-promoting-use-of-ai"
+      "headline": "Investors raise doubts about Anthropic IPO timing amid AI backlash",
+      "summary": "Potential investors in Anthropic's anticipated IPO are reportedly questioning whether the company can complete its roadshow in time for a planned November listing, citing a broader wave of public skepticism toward AI companies' valuations and safety claims.",
+      "source": "Reuters (via TradingView)",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46N00A:0-ai-backlash-could-threaten-anthropic-ipo-timing-potential-investors-say/"
     }
   ]
 }
