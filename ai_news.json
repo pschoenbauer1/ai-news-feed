@@ -1,66 +1,60 @@
 {
-  "generated_at": "2026-11-06T00:00:00Z",
+  "generated_at": "2026-11-07T12:00:00Z",
   "items": [
     {
-      "headline": "OpenAI publishes 'National Community Compact' on AI data centers",
-      "summary": "OpenAI pledged to pay for its own energy on planned AI infrastructure and to bar non-disclosure agreements with public officials except in narrow cases, after Democrats won control of Congress in the US midterms. The move signals growing political pressure on AI firms over the local impact of data center buildouts.",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/future/technology/2026/11/05/openai-data-centre-compact-compute-campus",
-      "published_at": "2026-11-05"
-    },
-    {
-      "headline": "Claude gains a Personal Finance tool that analyzes spending",
-      "summary": "Anthropic launched a read-only feature letting paying US subscribers connect bank and card accounts via Plaid so Claude can analyze balances, credit limits and up to two years of transaction history. The company stressed the tool cannot take financial actions, only review data.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-      "published_at": "2026-11-05"
-    },
-    {
-      "headline": "Anthropic loosens Claude's game-cloning restrictions",
-      "summary": "After backlash from legitimate developers whose non-malicious reverse-engineering and troubleshooting requests were being blocked, Anthropic revised its policy so Claude will now offer to build an original game in the same genre instead of refusing outright.",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-loosens-game-restrictions-claude-will-now-offer-to-build-original-game-in-same-genre-if-asked-to-copy",
-      "published_at": "2026-11-05"
-    },
-    {
-      "headline": "Anthropic discloses $895.4 billion in compute spending commitments ahead of IPO",
-      "summary": "In IPO-related filings, Anthropic revealed it has committed nearly $900 billion, almost entirely tied to compute and infrastructure, underscoring the enormous capital intensity of staying competitive in frontier AI model training.",
-      "source": "Boing Boing",
-      "url": "https://boingboing.net/2026/11/03/anthropic-895-billion-compute-commitments.html",
-      "published_at": "2026-11-03"
-    },
-    {
-      "headline": "Anthropic warns it is nearing recursive self-improvement capability",
-      "summary": "A revised IPO filing reportedly warns Anthropic could soon build a model capable of recursive self-improvement (RSI), where AI systems meaningfully accelerate their own development — a milestone with major safety implications that regulators and researchers have long flagged as a key risk threshold.",
+      "headline": "Anthropic warns it's close to recursive self-improvement capability",
+      "summary": "In an amended S-1 filing ahead of its planned IPO, Anthropic disclosed it may soon meet its own Responsible Scaling Policy threshold for AI that dramatically accelerates its own development (RSI), while stressing no current model has crossed that line. The disclosure is notable because it comes from a company actively seeking public investors, highlighting the tension between safety warnings and commercial momentum.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
       "published_at": "2026-11-02"
     },
     {
-      "headline": "Anthropic building 'FlashProve' to verify which AI model produced an output",
-      "summary": "Anthropic is developing an open-source system to cryptographically verify which specific AI model generated a given piece of content, aiming to address growing concerns about model impersonation, provenance and accountability for AI-generated outputs.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "headline": "US midterm backlash against AI data centers reaches the ballot box",
+      "summary": "Candidates who campaigned against local data-center buildouts won key races in Tuesday's US midterms, as rising electricity costs and land-use fights turned AI infrastructure into a bipartisan political liability. The results suggest growing local resistance could slow the pace of data-center construction underpinning the AI boom.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/04/us-midterm-elections-backlash-to-ai-data-centres-reaches-ballot-boxes",
+      "published_at": "2026-11-04"
+    },
+    {
+      "headline": "AI and chip stocks slide as midterm results compound data-center worries",
+      "summary": "Shares across the AI supply chain fell sharply after Democrats' midterm gains, adding political risk to an AI trade already strained by high interest rates and questions about returns on massive data-center capital spending. Analysts described the buildout as entering a 'war of attrition' as investor patience wears thin.",
+      "source": "CNBC",
+      "url": "https://cnbc.com/2026/11/06/ai-data-center-midterms-selloff.html",
+      "published_at": "2026-11-06"
+    },
+    {
+      "headline": "The AI boom's political reckoning",
+      "summary": "Axios reports that the AI industry's deep alignment with the Trump administration is becoming a political liability as public anxiety over AI's economic and social effects grows, with both parties now finding reasons to criticize the industry's rapid infrastructure expansion.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/31/ai-booms-political-reckoning",
+      "published_at": "2026-10-31"
+    },
+    {
+      "headline": "Anthropic files to go public, targeting a blockbuster Nasdaq IPO",
+      "summary": "Anthropic publicly filed its S-1 with the SEC to list on the Nasdaq under the ticker 'ANT,' reporting roughly $16 billion in first-half 2026 revenue. Reports indicate the company plans to begin marketing the offering as soon as the week of November 9, in a deal that could rival or exceed OpenAI's own path to public markets.",
+      "source": "Engadget",
+      "url": "https://engadget.com/2184970/anthropic-is-set-to-go-public-after-filing-paperwork-with-the-sec",
+      "published_at": "2026-10-26"
+    },
+    {
+      "headline": "AI infrastructure startup fal raises $1.3B, doubling its valuation to $16B",
+      "summary": "GPU-cloud and generative-media infrastructure company fal closed a new funding round led by Bessemer Venture Partners, with Nvidia joining as a strategic investor, underscoring continued investor appetite for the 'picks and shovels' layer of the AI boom even as public AI stocks wobble.",
+      "source": "AIChief",
+      "url": "https://aichief.com/news/fal-secures-13-billion-in-latest-funding-to-reach-16-billion-valuation/",
       "published_at": "2026-11-03"
     },
     {
-      "headline": "CrowdStrike to spend nearly $500M acquiring two AI security startups",
-      "summary": "CrowdStrike agreed to acquire Fiddler AI (~$400M) and Dreadnode (~$95M) as the market for securing AI agents heats up, reflecting a broader enterprise security push to monitor and protect autonomous AI systems deployed in production.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
-      "published_at": "2026-11-03"
+      "headline": "Google to cut off Search access for schools that keep AI tools disabled",
+      "summary": "Google told K-12 school administrators that if they opt out of Gemini and related AI features for student accounts, those students will also lose access to Google Search, a move critics including former FTC chair Lina Khan called an abuse of search dominance to force AI adoption in classrooms.",
+      "source": "NBC News / AP",
+      "url": "https://www.nbcwashington.com/news/national-international/google-shut-search-schools-opt-ai/4176184/"
     },
     {
-      "headline": "Google DeepMind makes Gemini Omni 1.2 Flash generally available",
-      "summary": "Google DeepMind released an updated multimodal model that extends native video generation from 10 to 15 seconds and cuts 720p output pricing by 30%, rolling out via the API, Google Cloud, and consumer surfaces like Flow, Google Vids, and the Gemini app.",
-      "source": "mlq.ai",
-      "url": "https://mlq.ai/news/google-makes-gemini-omni-12-flash-generally-available-with-15-second-video-and-lower-pricing/"
-    },
-    {
-      "headline": "Investors raise doubts about Anthropic IPO timing amid AI backlash",
-      "summary": "Potential investors in Anthropic's anticipated IPO are reportedly questioning whether the company can complete its roadshow in time for a planned November listing, citing a broader wave of public skepticism toward AI companies' valuations and safety claims.",
-      "source": "Reuters (via TradingView)",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46N00A:0-ai-backlash-could-threaten-anthropic-ipo-timing-potential-investors-say/"
+      "headline": "Reflection AI releases 'Beam,' a 1M-token open-weight model",
+      "summary": "Reflection AI open-sourced Beam, a large mixture-of-experts model with a one-million-token context window released under the permissive Apache 2.0 license, adding to a steady stream of high-capability open-weight releases that give developers alternatives to closed frontier models.",
+      "source": "Tech Insider",
+      "url": "https://tech-insider.org/au/?p=3658",
+      "published_at": "2026-10-16"
     }
   ]
 }
