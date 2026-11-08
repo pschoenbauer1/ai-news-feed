@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T12:00:00Z",
+  "generated_at": "2026-11-08T12:00:00Z",
   "items": [
     {
       "headline": "Anthropic warns it's close to recursive self-improvement capability",
@@ -9,29 +9,36 @@
       "published_at": "2026-11-02"
     },
     {
-      "headline": "US midterm backlash against AI data centers reaches the ballot box",
-      "summary": "Candidates who campaigned against local data-center buildouts won key races in Tuesday's US midterms, as rising electricity costs and land-use fights turned AI infrastructure into a bipartisan political liability. The results suggest growing local resistance could slow the pace of data-center construction underpinning the AI boom.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/04/us-midterm-elections-backlash-to-ai-data-centres-reaches-ballot-boxes",
-      "published_at": "2026-11-04"
+      "headline": "AI-linked stocks lose roughly $930 billion in broad November 5 selloff",
+      "summary": "A sharp one-day drop across a dozen major AI-linked stocks, led by Nvidia, Tesla and TSMC, erased close to a trillion dollars in market value as investors weighed chip-demand concerns alongside growing political backlash against data centers.",
+      "source": "FourWeekMBA",
+      "url": "https://fourweekmba.com/ai-nvidia-leads-930b-drop-in-12-ai-stocks-by-10-04-a-m-et/",
+      "published_at": "2026-11-05"
     },
     {
-      "headline": "AI and chip stocks slide as midterm results compound data-center worries",
-      "summary": "Shares across the AI supply chain fell sharply after Democrats' midterm gains, adding political risk to an AI trade already strained by high interest rates and questions about returns on massive data-center capital spending. Analysts described the buildout as entering a 'war of attrition' as investor patience wears thin.",
+      "headline": "AI and chip stocks slide further as midterm results compound data-center worries",
+      "summary": "Shares across the AI supply chain fell again after Democrats' midterm gains, adding political risk to an AI trade already strained by high interest rates and questions about returns on massive data-center capital spending.",
       "source": "CNBC",
       "url": "https://cnbc.com/2026/11/06/ai-data-center-midterms-selloff.html",
       "published_at": "2026-11-06"
     },
     {
-      "headline": "The AI boom's political reckoning",
-      "summary": "Axios reports that the AI industry's deep alignment with the Trump administration is becoming a political liability as public anxiety over AI's economic and social effects grows, with both parties now finding reasons to criticize the industry's rapid infrastructure expansion.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/10/31/ai-booms-political-reckoning",
-      "published_at": "2026-10-31"
+      "headline": "US midterm backlash against AI data centers reaches the ballot box",
+      "summary": "Candidates who campaigned against local data-center buildouts won key races in the US midterms, as rising electricity costs and land-use fights turned AI infrastructure into a bipartisan political liability, suggesting growing local resistance could slow the AI boom's buildout.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/04/us-midterm-elections-backlash-to-ai-data-centres-reaches-ballot-boxes",
+      "published_at": "2026-11-04"
+    },
+    {
+      "headline": "Moonshot AI prepares to open-source weights for Kimi K3.1 Pro",
+      "summary": "Chinese AI lab Moonshot released its Kimi K3.1 Pro model via API with a 1-million-token context window and said it would publish the full open weights by November 4, continuing the rapid cadence of high-capability open-weight releases from Chinese labs.",
+      "source": "Let's Data Science",
+      "url": "https://letsdatascience.com/news/moonshot-releases-kimi-k31-pro-api-open-weights-due-nov-4-786e160c",
+      "published_at": "2026-10-30"
     },
     {
       "headline": "Anthropic files to go public, targeting a blockbuster Nasdaq IPO",
-      "summary": "Anthropic publicly filed its S-1 with the SEC to list on the Nasdaq under the ticker 'ANT,' reporting roughly $16 billion in first-half 2026 revenue. Reports indicate the company plans to begin marketing the offering as soon as the week of November 9, in a deal that could rival or exceed OpenAI's own path to public markets.",
+      "summary": "Anthropic publicly filed its S-1 with the SEC to list on the Nasdaq under the ticker 'ANT,' reporting roughly $16 billion in first-half 2026 revenue. Reports indicate the company plans to begin marketing the offering as soon as mid-November, in a deal that could rival or exceed OpenAI's own path to public markets.",
       "source": "Engadget",
       "url": "https://engadget.com/2184970/anthropic-is-set-to-go-public-after-filing-paperwork-with-the-sec",
       "published_at": "2026-10-26"
@@ -48,6 +55,12 @@
       "summary": "Google told K-12 school administrators that if they opt out of Gemini and related AI features for student accounts, those students will also lose access to Google Search, a move critics including former FTC chair Lina Khan called an abuse of search dominance to force AI adoption in classrooms.",
       "source": "NBC News / AP",
       "url": "https://www.nbcwashington.com/news/national-international/google-shut-search-schools-opt-ai/4176184/"
+    },
+    {
+      "headline": "Hugging Face releases new open-weight OCR and 3D-motion models",
+      "summary": "Hugging Face published two new open multimodal models runnable on consumer GPUs: PP-OCRv6, an OCR model covering roughly 50 languages, and MolmoMotion, a language-guided 3D motion-forecasting model, adding to the steady stream of accessible open-weight tooling for developers.",
+      "source": "DEV Community",
+      "url": "https://dev.to/soytuber/hugging-face-unveils-new-multimodal-models-ai-agent-coding-template-2bgc"
     },
     {
       "headline": "Reflection AI releases 'Beam,' a 1M-token open-weight model",
