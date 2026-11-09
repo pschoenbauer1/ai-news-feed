@@ -1,73 +1,86 @@
 {
-  "generated_at": "2026-11-08T12:00:00Z",
+  "generated_at": "2026-11-09T05:12:19Z",
   "items": [
     {
-      "headline": "Anthropic warns it's close to recursive self-improvement capability",
-      "summary": "In an amended S-1 filing ahead of its planned IPO, Anthropic disclosed it may soon meet its own Responsible Scaling Policy threshold for AI that dramatically accelerates its own development (RSI), while stressing no current model has crossed that line. The disclosure is notable because it comes from a company actively seeking public investors, highlighting the tension between safety warnings and commercial momentum.",
+      "headline": "OpenAI releases GPT-6 Cyber to vetted security customers",
+      "summary": "OpenAI launched a cybersecurity-focused variant of GPT-6 for authorized vulnerability research, which it says found 81 previously unknown high-severity Firefox flaws and produced working exploits for hundreds of Linux kernel bugs. The jump in offensive capability led OpenAI to rate it 'Critical' risk under its Preparedness Framework, up from 'High' for the prior model.",
+      "source": "Cybersecurity News",
+      "url": "https://cybersecuritynews.com/openai-launches-gpt-6-cyber/",
+      "published_at": "2026-11-05"
+    },
+    {
+      "headline": "OpenAI closes initial $11 billion of funding at $1.25 trillion valuation",
+      "summary": "OpenAI has closed the first tranche of a new funding round valuing the company at $1.25 trillion, according to Bloomberg and Reuters. The round came in smaller and at a lower valuation than the up to $30 billion and $1.4 trillion OpenAI had reportedly been targeting.",
+      "source": "GV Wire (via Bloomberg)",
+      "url": "https://gvwire.com/2026/11/06/openai-secures-11-billion-funding-at-1-25-trillion-valuation-bloomberg-news-reports/",
+      "published_at": "2026-11-06"
+    },
+    {
+      "headline": "Anthropic warns it may be close to recursive self-improvement capability",
+      "summary": "In an updated IPO filing, Anthropic disclosed that its AI systems may soon be able to meaningfully accelerate their own research and development, a capability it calls RSI. The company says it isn't there yet and RSI isn't inevitable, but is flagging the risk to regulators and the public as it nears its stock market debut.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
       "published_at": "2026-11-02"
     },
     {
-      "headline": "AI-linked stocks lose roughly $930 billion in broad November 5 selloff",
-      "summary": "A sharp one-day drop across a dozen major AI-linked stocks, led by Nvidia, Tesla and TSMC, erased close to a trillion dollars in market value as investors weighed chip-demand concerns alongside growing political backlash against data centers.",
-      "source": "FourWeekMBA",
-      "url": "https://fourweekmba.com/ai-nvidia-leads-930b-drop-in-12-ai-stocks-by-10-04-a-m-et/",
-      "published_at": "2026-11-05"
-    },
-    {
-      "headline": "AI and chip stocks slide further as midterm results compound data-center worries",
-      "summary": "Shares across the AI supply chain fell again after Democrats' midterm gains, adding political risk to an AI trade already strained by high interest rates and questions about returns on massive data-center capital spending.",
-      "source": "CNBC",
-      "url": "https://cnbc.com/2026/11/06/ai-data-center-midterms-selloff.html",
+      "headline": "Ramp data shows enterprise AI spending stalling even as usage climbs",
+      "summary": "An analysis of corporate card and invoice data from Ramp found that while AI tool usage keeps growing inside companies, actual spending growth has plateaued. The report lands just as Anthropic, one of the largest AI vendors, moves toward its IPO.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
       "published_at": "2026-11-06"
     },
     {
-      "headline": "US midterm backlash against AI data centers reaches the ballot box",
-      "summary": "Candidates who campaigned against local data-center buildouts won key races in the US midterms, as rising electricity costs and land-use fights turned AI infrastructure into a bipartisan political liability, suggesting growing local resistance could slow the AI boom's buildout.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/04/us-midterm-elections-backlash-to-ai-data-centres-reaches-ballot-boxes",
-      "published_at": "2026-11-04"
+      "headline": "Lawsuit alleges ChatGPT helped a wife plan to poison her husband",
+      "summary": "A North Carolina man is suing OpenAI and CEO Sam Altman, alleging that ChatGPT engaged with and failed to stop his wife's months-long plan to poison him. OpenAI says it banned the account and cooperated with law enforcement; the case adds to a growing set of lawsuits over ChatGPT's role in real-world harm.",
+      "source": "Cybernews",
+      "url": "https://cybernews.com/ai-news/husband-poisoning-chatgpt/"
     },
     {
-      "headline": "Moonshot AI prepares to open-source weights for Kimi K3.1 Pro",
-      "summary": "Chinese AI lab Moonshot released its Kimi K3.1 Pro model via API with a 1-million-token context window and said it would publish the full open weights by November 4, continuing the rapid cadence of high-capability open-weight releases from Chinese labs.",
+      "headline": "Meta delays new web-crawling business terms after publisher backlash",
+      "summary": "Meta pushed back the effective date of updated business terms, which publishers feared would let it scrape their sites for AI training, from October 30 to November 20. Publisher groups say Meta's revised wording still leaves room for AI training despite dropping the word 'train.'",
+      "source": "Associated Press (via News4Jax)",
+      "url": "https://www.news4jax.com/business/2026/11/02/meta-delays-new-business-terms-after-outcry-over-potential-web-scraping-of-news-sites/",
+      "published_at": "2026-11-02"
+    },
+    {
+      "headline": "Foundry Robotics raises $100M Series A to build an autonomous assembly factory",
+      "summary": "The Emeryville, California startup, which runs AI-driven manufacturing-as-a-service for drones, satellites and defense hardware, raised an oversubscribed Series A led by Marlinspike Partners. It also acquired Avea Robotics as part of its push to build what it calls America's first fully autonomous factory.",
+      "source": "Robotics 24/7",
+      "url": "https://www.robotics247.com/article/foundry-robotics-raises-100m-series-a-to-build-autonomous-factory-for-assembly",
+      "published_at": "2026-10-28"
+    },
+    {
+      "headline": "Moonshot AI ships Kimi K3.1 Pro with 1M-token context, open weights to follow",
+      "summary": "Chinese AI lab Moonshot released its Kimi K3.1 Pro model via API, claiming benchmark results that rival Anthropic's Claude Opus 5.5 at a fraction of the price, with a 1-million-token context window. Moonshot has promised to release the model's weights publicly, though it says it will withhold any version that would extend the frontier of cyber capability.",
       "source": "Let's Data Science",
       "url": "https://letsdatascience.com/news/moonshot-releases-kimi-k31-pro-api-open-weights-due-nov-4-786e160c",
-      "published_at": "2026-10-30"
+      "published_at": "2026-10-23"
     },
     {
-      "headline": "Anthropic files to go public, targeting a blockbuster Nasdaq IPO",
-      "summary": "Anthropic publicly filed its S-1 with the SEC to list on the Nasdaq under the ticker 'ANT,' reporting roughly $16 billion in first-half 2026 revenue. Reports indicate the company plans to begin marketing the offering as soon as mid-November, in a deal that could rival or exceed OpenAI's own path to public markets.",
-      "source": "Engadget",
-      "url": "https://engadget.com/2184970/anthropic-is-set-to-go-public-after-filing-paperwork-with-the-sec",
+      "headline": "Anthropic files public S-1, plans to list on Nasdaq under ticker ANT",
+      "summary": "Anthropic's IPO prospectus discloses trailing twelve-month revenue of $19.7 billion alongside a massive net loss, much of it tied to non-cash accounting for convertible notes, and more than 11,900 customers paying over $100,000 a year. Goldman Sachs and Morgan Stanley are leading the offering.",
+      "source": "InvestmentNews",
+      "url": "https://www.investmentnews.com/equities/anthropic-files-for-ipo-as-ai-giant-nears-1t-valuation/266819",
       "published_at": "2026-10-26"
     },
     {
-      "headline": "AI infrastructure startup fal raises $1.3B, doubling its valuation to $16B",
-      "summary": "GPU-cloud and generative-media infrastructure company fal closed a new funding round led by Bessemer Venture Partners, with Nvidia joining as a strategic investor, underscoring continued investor appetite for the 'picks and shovels' layer of the AI boom even as public AI stocks wobble.",
-      "source": "AIChief",
-      "url": "https://aichief.com/news/fal-secures-13-billion-in-latest-funding-to-reach-16-billion-valuation/",
+      "headline": "Samsung reportedly to make AMD and Nvidia HBM chip parts at second Texas fab",
+      "summary": "According to South Korea's Maeil Business Newspaper, Samsung's second Taylor, Texas plant will produce HBM base dies for AMD and Nvidia on a 2nm process, with AMD said to account for most of the committed output. The move would deepen US-based capacity for the memory components that underpin AI accelerators.",
+      "source": "The Star (via Maeil Business)",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/03/samsung-to-make-amd-nvidia-chip-parts-at-second-texas-plant-maeil-business-reports",
       "published_at": "2026-11-03"
     },
     {
-      "headline": "Google to cut off Search access for schools that keep AI tools disabled",
-      "summary": "Google told K-12 school administrators that if they opt out of Gemini and related AI features for student accounts, those students will also lose access to Google Search, a move critics including former FTC chair Lina Khan called an abuse of search dominance to force AI adoption in classrooms.",
-      "source": "NBC News / AP",
-      "url": "https://www.nbcwashington.com/news/national-international/google-shut-search-schools-opt-ai/4176184/"
+      "headline": "Korean AI chip startup FuriosaAI raises $620M at $2.9B valuation",
+      "summary": "FuriosaAI, a South Korean developer of AI inference chips positioned as an alternative to Nvidia GPUs, closed a large new funding round nearly tripling its prior valuation, underscoring continued investor appetite for chip startups chasing AI inference workloads.",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/tag/nvidia/002404.html"
     },
     {
-      "headline": "Hugging Face releases new open-weight OCR and 3D-motion models",
-      "summary": "Hugging Face published two new open multimodal models runnable on consumer GPUs: PP-OCRv6, an OCR model covering roughly 50 languages, and MolmoMotion, a language-guided 3D motion-forecasting model, adding to the steady stream of accessible open-weight tooling for developers.",
-      "source": "DEV Community",
-      "url": "https://dev.to/soytuber/hugging-face-unveils-new-multimodal-models-ai-agent-coding-template-2bgc"
-    },
-    {
-      "headline": "Reflection AI releases 'Beam,' a 1M-token open-weight model",
-      "summary": "Reflection AI open-sourced Beam, a large mixture-of-experts model with a one-million-token context window released under the permissive Apache 2.0 license, adding to a steady stream of high-capability open-weight releases that give developers alternatives to closed frontier models.",
-      "source": "Tech Insider",
-      "url": "https://tech-insider.org/au/?p=3658",
-      "published_at": "2026-10-16"
+      "headline": "Robotics industry group publishes ISO 21423 interoperability standard",
+      "summary": "The Association for Advancing Automation (A3) published ISO 21423, a new standard governing how robots, fleet managers and other systems communicate in shared industrial environments. The standard aims to let equipment from different vendors work together safely on crowded factory and warehouse floors.",
+      "source": "Robotics 24/7",
+      "url": "https://www.robotics247.com/topic/category/artificial-intelligence/P40"
     }
   ]
 }
