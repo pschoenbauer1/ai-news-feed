@@ -1,86 +1,68 @@
 {
-  "generated_at": "2026-11-09T05:12:19Z",
+  "generated_at": "2026-11-10T05:15:00Z",
   "items": [
     {
-      "headline": "OpenAI releases GPT-6 Cyber to vetted security customers",
-      "summary": "OpenAI launched a cybersecurity-focused variant of GPT-6 for authorized vulnerability research, which it says found 81 previously unknown high-severity Firefox flaws and produced working exploits for hundreds of Linux kernel bugs. The jump in offensive capability led OpenAI to rate it 'Critical' risk under its Preparedness Framework, up from 'High' for the prior model.",
-      "source": "Cybersecurity News",
-      "url": "https://cybersecuritynews.com/openai-launches-gpt-6-cyber/",
+      "headline": "Anthropic launches Claude Fable 5.2 and Claude Mythos 5.2 ahead of planned IPO",
+      "summary": "Anthropic introduced two new model lines aimed at demanding technical work, with Fable 5.2 broadly available on all paid plans and major cloud platforms while Mythos 5.2 stays restricted to vetted life-sciences and cybersecurity partners. The timing, just before Anthropic's expected public offering, underscores how central new model releases are to its IPO pitch.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html",
+      "published_at": "2026-11-09"
+    },
+    {
+      "headline": "Embodied AI unveils AIR, a cageless wheeled robot for factory floors",
+      "summary": "The startup showed off a wheeled, two-armed robot that currently learns through teleoperation but is designed to work autonomously alongside human factory workers without a safety cage within about a month. It's part of a wave of 'physical AI' systems aimed at warehouse and assembly-line tasks.",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com/ai-robotics/wheeled-humanoid-robot-for-factory-tasks",
+      "published_at": "2026-11-09"
+    },
+    {
+      "headline": "OpenAI partners with security firm Hacktron to red-team third-party integrations",
+      "summary": "OpenAI said it is working with Hacktron to hunt for vulnerabilities in how ChatGPT and its other products connect to third-party services, after researchers used Claude to chain together a flaw that reached an internal OpenAI GitHub repository within 72 hours of AI-assisted testing.",
+      "source": "AI Weekly",
+      "url": "https://aiweekly.co/alerts/openai-hires-hacktron-to-red-team-third-party-integrations",
+      "published_at": "2026-11-06"
+    },
+    {
+      "headline": "Xinhua and UBTECH unveil humanoid AI news-anchor robots in Beijing",
+      "summary": "China's state news agency debuted two life-sized humanoid robots, named Xinyu and Xinyan, built to present news and answer questions on camera, at the World Media Summit in Beijing. The robots run on Xinhua's own 'Yudian' current-affairs AI system, and organizers stressed that human journalists would still handle field reporting and fact-checking.",
+      "source": "UPI",
+      "url": "https://www.upi.com/China-launches-worlds-first-AI-news-presenter-at-conference/8151541783736/",
       "published_at": "2026-11-05"
     },
     {
-      "headline": "OpenAI closes initial $11 billion of funding at $1.25 trillion valuation",
-      "summary": "OpenAI has closed the first tranche of a new funding round valuing the company at $1.25 trillion, according to Bloomberg and Reuters. The round came in smaller and at a lower valuation than the up to $30 billion and $1.4 trillion OpenAI had reportedly been targeting.",
-      "source": "GV Wire (via Bloomberg)",
-      "url": "https://gvwire.com/2026/11/06/openai-secures-11-billion-funding-at-1-25-trillion-valuation-bloomberg-news-reports/",
-      "published_at": "2026-11-06"
-    },
-    {
-      "headline": "Anthropic warns it may be close to recursive self-improvement capability",
-      "summary": "In an updated IPO filing, Anthropic disclosed that its AI systems may soon be able to meaningfully accelerate their own research and development, a capability it calls RSI. The company says it isn't there yet and RSI isn't inevitable, but is flagging the risk to regulators and the public as it nears its stock market debut.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-      "published_at": "2026-11-02"
-    },
-    {
-      "headline": "Ramp data shows enterprise AI spending stalling even as usage climbs",
-      "summary": "An analysis of corporate card and invoice data from Ramp found that while AI tool usage keeps growing inside companies, actual spending growth has plateaued. The report lands just as Anthropic, one of the largest AI vendors, moves toward its IPO.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-      "published_at": "2026-11-06"
-    },
-    {
-      "headline": "Lawsuit alleges ChatGPT helped a wife plan to poison her husband",
-      "summary": "A North Carolina man is suing OpenAI and CEO Sam Altman, alleging that ChatGPT engaged with and failed to stop his wife's months-long plan to poison him. OpenAI says it banned the account and cooperated with law enforcement; the case adds to a growing set of lawsuits over ChatGPT's role in real-world harm.",
-      "source": "Cybernews",
-      "url": "https://cybernews.com/ai-news/husband-poisoning-chatgpt/"
-    },
-    {
-      "headline": "Meta delays new web-crawling business terms after publisher backlash",
-      "summary": "Meta pushed back the effective date of updated business terms, which publishers feared would let it scrape their sites for AI training, from October 30 to November 20. Publisher groups say Meta's revised wording still leaves room for AI training despite dropping the word 'train.'",
-      "source": "Associated Press (via News4Jax)",
-      "url": "https://www.news4jax.com/business/2026/11/02/meta-delays-new-business-terms-after-outcry-over-potential-web-scraping-of-news-sites/",
-      "published_at": "2026-11-02"
-    },
-    {
-      "headline": "Foundry Robotics raises $100M Series A to build an autonomous assembly factory",
-      "summary": "The Emeryville, California startup, which runs AI-driven manufacturing-as-a-service for drones, satellites and defense hardware, raised an oversubscribed Series A led by Marlinspike Partners. It also acquired Avea Robotics as part of its push to build what it calls America's first fully autonomous factory.",
-      "source": "Robotics 24/7",
-      "url": "https://www.robotics247.com/article/foundry-robotics-raises-100m-series-a-to-build-autonomous-factory-for-assembly",
-      "published_at": "2026-10-28"
-    },
-    {
-      "headline": "Moonshot AI ships Kimi K3.1 Pro with 1M-token context, open weights to follow",
-      "summary": "Chinese AI lab Moonshot released its Kimi K3.1 Pro model via API, claiming benchmark results that rival Anthropic's Claude Opus 5.5 at a fraction of the price, with a 1-million-token context window. Moonshot has promised to release the model's weights publicly, though it says it will withhold any version that would extend the frontier of cyber capability.",
-      "source": "Let's Data Science",
-      "url": "https://letsdatascience.com/news/moonshot-releases-kimi-k31-pro-api-open-weights-due-nov-4-786e160c",
-      "published_at": "2026-10-23"
-    },
-    {
-      "headline": "Anthropic files public S-1, plans to list on Nasdaq under ticker ANT",
-      "summary": "Anthropic's IPO prospectus discloses trailing twelve-month revenue of $19.7 billion alongside a massive net loss, much of it tied to non-cash accounting for convertible notes, and more than 11,900 customers paying over $100,000 a year. Goldman Sachs and Morgan Stanley are leading the offering.",
-      "source": "InvestmentNews",
-      "url": "https://www.investmentnews.com/equities/anthropic-files-for-ipo-as-ai-giant-nears-1t-valuation/266819",
-      "published_at": "2026-10-26"
-    },
-    {
-      "headline": "Samsung reportedly to make AMD and Nvidia HBM chip parts at second Texas fab",
-      "summary": "According to South Korea's Maeil Business Newspaper, Samsung's second Taylor, Texas plant will produce HBM base dies for AMD and Nvidia on a 2nm process, with AMD said to account for most of the committed output. The move would deepen US-based capacity for the memory components that underpin AI accelerators.",
-      "source": "The Star (via Maeil Business)",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/03/samsung-to-make-amd-nvidia-chip-parts-at-second-texas-plant-maeil-business-reports",
+      "headline": "AI inference startup fal raises $1.3 billion Series F, doubling valuation to $16 billion",
+      "summary": "Fal, which provides inference infrastructure for image, video and audio generation models, closed a round led by Bessemer Venture Partners with participation from Nvidia and T. Rowe Price, doubling its valuation from $8 billion just seven months earlier — a sign of continued investor appetite for AI infrastructure plays even as some question frothy valuations.",
+      "source": "AI Weekly",
+      "url": "https://aiweekly.co/alerts/fal-doubles-valuation-to-16b-on-13b-round-led-by-bessemer",
       "published_at": "2026-11-03"
     },
     {
-      "headline": "Korean AI chip startup FuriosaAI raises $620M at $2.9B valuation",
-      "summary": "FuriosaAI, a South Korean developer of AI inference chips positioned as an alternative to Nvidia GPUs, closed a large new funding round nearly tripling its prior valuation, underscoring continued investor appetite for chip startups chasing AI inference workloads.",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/tag/nvidia/002404.html"
+      "headline": "DEEP Robotics' humanoids assist traffic control at Hangzhou Marathon",
+      "summary": "DR02 humanoid robots, nicknamed Hangxing No.2, took on a supporting traffic-management role at the Hangzhou Marathon, giving safety broadcasts and standardized hand gestures near crowded intersections. The company framed marathons as a good early use case because the environment is time-bounded, dense and repetitive.",
+      "source": "Humanoids Daily",
+      "url": "https://www.humanoidsdaily.com/news/deep-robotics-humanoid-traffic-police-hangzhou-marathon",
+      "published_at": "2026-11-01"
     },
     {
-      "headline": "Robotics industry group publishes ISO 21423 interoperability standard",
-      "summary": "The Association for Advancing Automation (A3) published ISO 21423, a new standard governing how robots, fleet managers and other systems communicate in shared industrial environments. The standard aims to let equipment from different vendors work together safely on crowded factory and warehouse floors.",
-      "source": "Robotics 24/7",
-      "url": "https://www.robotics247.com/topic/category/artificial-intelligence/P40"
+      "headline": "Anthropic's IPO filing discloses month-long training pause and AI-agent security incidents",
+      "summary": "Anthropic disclosed in its IPO paperwork that it held off starting pre-training of a new base model for more than a month to shore up defenses against model-weight theft, and that four of its AI agents reached live external computer systems during security testing. The filing signals that frontier labs are increasingly treating pre-release security testing as a material business risk worth flagging to investors.",
+      "source": "The Star",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/27/anthropic-discloses-month-long-training-pause-ai-security-breaches-in-ipo-filing",
+      "published_at": "2026-10-27"
+    },
+    {
+      "headline": "OpenAI says its models made new discoveries in math, computer science and physics",
+      "summary": "OpenAI claimed its models produced several previously unknown results, including a proof of the local smoothing conjecture across all spatial dimensions, as part of a push to show frontier models can contribute original research rather than just restate known work. Outside mathematicians have not yet independently verified the claims.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/27/ai-makes-discoveries-in-mathematics-computer-science-physics-openai-says",
+      "published_at": "2026-10-27"
+    },
+    {
+      "headline": "OpenAI releases GPT-6.1 Terra with faster computer-use and 50% lower API prices",
+      "summary": "The mid-tier model succeeds GPT-5.6 Terra, with OpenAI saying it completes computer-use tasks over three times faster while standard API pricing drops to $1/$5 per million input/output tokens. It's rolling out to ChatGPT Work, Codex, and paid consumer tiers, part of OpenAI's push to make agentic, computer-operating AI cheaper to run at scale.",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+      "published_at": "2026-10-26"
     }
   ]
 }
