@@ -1,68 +1,89 @@
 {
-  "generated_at": "2026-11-10T05:15:00Z",
+  "generated_at": "2026-11-11T12:00:00Z",
   "items": [
     {
-      "headline": "Anthropic launches Claude Fable 5.2 and Claude Mythos 5.2 ahead of planned IPO",
-      "summary": "Anthropic introduced two new model lines aimed at demanding technical work, with Fable 5.2 broadly available on all paid plans and major cloud platforms while Mythos 5.2 stays restricted to vetted life-sciences and cybersecurity partners. The timing, just before Anthropic's expected public offering, underscores how central new model releases are to its IPO pitch.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html",
-      "published_at": "2026-11-09"
-    },
-    {
-      "headline": "Embodied AI unveils AIR, a cageless wheeled robot for factory floors",
-      "summary": "The startup showed off a wheeled, two-armed robot that currently learns through teleoperation but is designed to work autonomously alongside human factory workers without a safety cage within about a month. It's part of a wave of 'physical AI' systems aimed at warehouse and assembly-line tasks.",
-      "source": "Interesting Engineering",
-      "url": "https://interestingengineering.com/ai-robotics/wheeled-humanoid-robot-for-factory-tasks",
-      "published_at": "2026-11-09"
-    },
-    {
-      "headline": "OpenAI partners with security firm Hacktron to red-team third-party integrations",
-      "summary": "OpenAI said it is working with Hacktron to hunt for vulnerabilities in how ChatGPT and its other products connect to third-party services, after researchers used Claude to chain together a flaw that reached an internal OpenAI GitHub repository within 72 hours of AI-assisted testing.",
-      "source": "AI Weekly",
-      "url": "https://aiweekly.co/alerts/openai-hires-hacktron-to-red-team-third-party-integrations",
+      "headline": "OpenAI secures $11 billion in fresh funding at $1.25 trillion valuation",
+      "summary": "Bloomberg reported OpenAI closed roughly $11 billion as a first close of a larger round that could reach $20 billion, with the valuation coming in below an earlier $1.4 trillion target. It underscores investors' continued appetite for AI despite a broader tech selloff the same week.",
+      "source": "GV Wire",
+      "url": "https://gvwire.com/2026/11/06/openai-secures-11-billion-funding-at-1-25-trillion-valuation-bloomberg-news-reports/",
       "published_at": "2026-11-06"
     },
     {
-      "headline": "Xinhua and UBTECH unveil humanoid AI news-anchor robots in Beijing",
-      "summary": "China's state news agency debuted two life-sized humanoid robots, named Xinyu and Xinyan, built to present news and answer questions on camera, at the World Media Summit in Beijing. The robots run on Xinhua's own 'Yudian' current-affairs AI system, and organizers stressed that human journalists would still handle field reporting and fact-checking.",
-      "source": "UPI",
-      "url": "https://www.upi.com/China-launches-worlds-first-AI-news-presenter-at-conference/8151541783736/",
+      "headline": "AI stock selloff wipes out $1.44 trillion as Nvidia falls 8.9%",
+      "summary": "A dozen major AI-linked stocks lost about $1.44 trillion in market value in a single session, with Nvidia posting its worst daily close since January 2025, as investors reassessed AI spending and valuations following the US midterm elections.",
+      "source": "FourWeekMBA",
+      "url": "https://fourweekmba.com/ai-12-ai-stocks-lose-1-44t-at-close-as-nvidia-falls-8-9/",
       "published_at": "2026-11-05"
     },
     {
-      "headline": "AI inference startup fal raises $1.3 billion Series F, doubling valuation to $16 billion",
-      "summary": "Fal, which provides inference infrastructure for image, video and audio generation models, closed a round led by Bessemer Venture Partners with participation from Nvidia and T. Rowe Price, doubling its valuation from $8 billion just seven months earlier — a sign of continued investor appetite for AI infrastructure plays even as some question frothy valuations.",
-      "source": "AI Weekly",
-      "url": "https://aiweekly.co/alerts/fal-doubles-valuation-to-16b-on-13b-round-led-by-bessemer",
-      "published_at": "2026-11-03"
+      "headline": "Shield AI to acquire radar maker Echodyne in $5.3 billion deal",
+      "summary": "Defense-tech firm Shield AI agreed to buy counter-drone radar company Echodyne for up to $5.3 billion, funded in part by a new $1 billion Series H round valuing Shield AI at $28.8 billion, as it expands from autonomous aircraft into radar and counter-UAS systems.",
+      "source": "Washington Technology",
+      "url": "https://www.washingtontechnology.com/companies/2026/11/shield-ai-acquires-radar-maker-echodyne-53-billion-deal/417086/",
+      "published_at": "2026-11-05"
     },
     {
-      "headline": "DEEP Robotics' humanoids assist traffic control at Hangzhou Marathon",
-      "summary": "DR02 humanoid robots, nicknamed Hangxing No.2, took on a supporting traffic-management role at the Hangzhou Marathon, giving safety broadcasts and standardized hand gestures near crowded intersections. The company framed marathons as a good early use case because the environment is time-bounded, dense and repetitive.",
-      "source": "Humanoids Daily",
-      "url": "https://www.humanoidsdaily.com/news/deep-robotics-humanoid-traffic-police-hangzhou-marathon",
+      "headline": "Zipline raises $1.5 billion at $21.5 billion valuation to scale US drone delivery",
+      "summary": "Drone-delivery startup Zipline closed a $1.5 billion round, nearly tripling its valuation from earlier in the year, alongside a new multi-year deal with Walmart to add 300 drone delivery sites across the US.",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/zipline-1-5bn-raise-21-5bn-valuation-walmart-300-drone-sites",
+      "published_at": "2026-11-05"
+    },
+    {
+      "headline": "Humble Robotics raises $51 million to build cabless, driverless electric freight trucks",
+      "summary": "The startup, founded by an ex-Apple and Uber self-driving veteran, raised a Series A led by Obvious Ventures to move its cabless 'Humble Hauler' autonomous electric trucks into customer pilots for port drayage and warehouse runs.",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/humble-robotics-51m-series-a-cabless-electric-autonomous-trucks",
+      "published_at": "2026-11-05"
+    },
+    {
+      "headline": "OpenAI to cut off Cursor's access to its models after SpaceX acquisition",
+      "summary": "OpenAI notified SpaceX it will wind down direct model access for the AI coding tool Cursor around November 12, citing concerns about how its technology would be used under SpaceX ownership; Cursor will still offer Grok, Anthropic, and Google models.",
+      "source": "Tom's Guide",
+      "url": "https://www.tomsguide.com/ai/openai-is-leaving-cursor-in-november-here-are-your-3-options",
+      "published_at": "2026-11-06"
+    },
+    {
+      "headline": "Meta rolls out Wonder-trained models to Muse and Meta AI users",
+      "summary": "Meta began pushing models trained using its 'Wonder' technique out to its Muse assistant and the broader Meta AI product, part of the company's push to catch up with OpenAI and Google in consumer AI features.",
+      "source": "Let's Data Science",
+      "url": "https://letsdatascience.com/news/meta-rolls-out-muse-wonder-trained-models-to-muse-and-meta-a-165c6374",
+      "published_at": "2026-11-06"
+    },
+    {
+      "headline": "Report: Google nearing Gemini 4 launch before end of 2026",
+      "summary": "Google DeepMind is reportedly in the final stages of polishing Gemini 4 and aims to ship it well before year-end, after earlier shifting resources toward faster Flash-tier models and delaying a planned Gemini 3.5 Pro release.",
+      "source": "NewsBytes",
+      "url": "https://www.newsbytesapp.com/news/science/report-says-google-nearing-gemini-4-launch-before-end-2026/tldr",
+      "published_at": "2026-11-09"
+    },
+    {
+      "headline": "OpenAI pitches mandatory AI 'speed limits' to Congress in post-midterm policy push",
+      "summary": "Timed to the lame-duck congressional session, OpenAI is proposing mandatory safeguards on the most powerful AI systems, which it is branding as 'speed limits,' while also trying to rebrand data centers as 'AI compute campuses' to ease local opposition.",
+      "source": "Axios",
+      "url": "https://axios.com/2026/11/01/scoop-openai-post-midterm-policy",
       "published_at": "2026-11-01"
     },
     {
-      "headline": "Anthropic's IPO filing discloses month-long training pause and AI-agent security incidents",
-      "summary": "Anthropic disclosed in its IPO paperwork that it held off starting pre-training of a new base model for more than a month to shore up defenses against model-weight theft, and that four of its AI agents reached live external computer systems during security testing. The filing signals that frontier labs are increasingly treating pre-release security testing as a material business risk worth flagging to investors.",
-      "source": "The Star",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/27/anthropic-discloses-month-long-training-pause-ai-security-breaches-in-ipo-filing",
-      "published_at": "2026-10-27"
+      "headline": "OpenAI says ChatGPT's search-style query volume has reached about one-fifth of Google's",
+      "summary": "ChatGPT's consumer product lead said ChatGPT now handles roughly 20% as many search-like queries as Google, a self-reported metric that highlights AI chatbots' growing role as an alternative to traditional web search.",
+      "source": "SEO Roundtable",
+      "url": "https://www.seroundtable.com/chatgpt-20-percent-google-search-volume-42451.html",
+      "published_at": "2026-11-03"
     },
     {
-      "headline": "OpenAI says its models made new discoveries in math, computer science and physics",
-      "summary": "OpenAI claimed its models produced several previously unknown results, including a proof of the local smoothing conjecture across all spatial dimensions, as part of a push to show frontier models can contribute original research rather than just restate known work. Outside mathematicians have not yet independently verified the claims.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/27/ai-makes-discoveries-in-mathematics-computer-science-physics-openai-says",
-      "published_at": "2026-10-27"
+      "headline": "Senior DeepSeek researcher warns rapid AI progress could disrupt workforce within a decade",
+      "summary": "A DeepSeek researcher cautioned that fast-moving AI capability gains could trigger significant labor-market disruption and structural problems for startups within the next five to ten years, adding a note of caution from inside a leading AI lab.",
+      "source": "The Neuron",
+      "url": "https://www.theneuron.ai/explainer-articles/ai-news-overflow-26-stories-we-couldnt-fit-in-todays-newsletter",
+      "published_at": "2026-11-10"
     },
     {
-      "headline": "OpenAI releases GPT-6.1 Terra with faster computer-use and 50% lower API prices",
-      "summary": "The mid-tier model succeeds GPT-5.6 Terra, with OpenAI saying it completes computer-use tasks over three times faster while standard API pricing drops to $1/$5 per million input/output tokens. It's rolling out to ChatGPT Work, Codex, and paid consumer tiers, part of OpenAI's push to make agentic, computer-operating AI cheaper to run at scale.",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-      "published_at": "2026-10-26"
+      "headline": "Kodiak AI nears completion of driverless trucking safety case ahead of IKEA launch",
+      "summary": "Kodiak AI said its safety case for fully driverless freight trucking is about 99% complete, as the company works toward a planned end-of-2026 launch of driver-out operations for retail partner IKEA.",
+      "source": "AutoConnectedCar",
+      "url": "https://www.autoconnectedcar.com/2026/11/autonomous-self-driving-vehicle-news-waymo-toyota-baidu-lyft-freenow-weride-allianz-ping-an-marti-calmcar-tier-iv-ntro-may-mobility-rivian-aurora-roush-kodiak-hyundai-inn/",
+      "published_at": "2026-11-09"
     }
   ]
 }
