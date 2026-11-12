@@ -1,89 +1,74 @@
 {
-  "generated_at": "2026-11-11T12:00:00Z",
+  "generated_at": "2026-11-12T12:00:00Z",
   "items": [
     {
-      "headline": "OpenAI secures $11 billion in fresh funding at $1.25 trillion valuation",
-      "summary": "Bloomberg reported OpenAI closed roughly $11 billion as a first close of a larger round that could reach $20 billion, with the valuation coming in below an earlier $1.4 trillion target. It underscores investors' continued appetite for AI despite a broader tech selloff the same week.",
-      "source": "GV Wire",
-      "url": "https://gvwire.com/2026/11/06/openai-secures-11-billion-funding-at-1-25-trillion-valuation-bloomberg-news-reports/",
-      "published_at": "2026-11-06"
-    },
-    {
-      "headline": "AI stock selloff wipes out $1.44 trillion as Nvidia falls 8.9%",
-      "summary": "A dozen major AI-linked stocks lost about $1.44 trillion in market value in a single session, with Nvidia posting its worst daily close since January 2025, as investors reassessed AI spending and valuations following the US midterm elections.",
-      "source": "FourWeekMBA",
-      "url": "https://fourweekmba.com/ai-12-ai-stocks-lose-1-44t-at-close-as-nvidia-falls-8-9/",
+      "headline": "OpenAI introduces GPT-6 Cyber, a restricted model for vetted security defenders",
+      "summary": "OpenAI launched GPT-6 Cyber behind its application-only 'Daybreak Red' access tier, aimed at authorized vulnerability research and exploit development. The company rates it 'Critical' under its Preparedness Framework, up from 'High' for its predecessor, reflecting a sharp jump in offensive-security capability that also raises dual-use risk.",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber/",
       "published_at": "2026-11-05"
     },
     {
-      "headline": "Shield AI to acquire radar maker Echodyne in $5.3 billion deal",
-      "summary": "Defense-tech firm Shield AI agreed to buy counter-drone radar company Echodyne for up to $5.3 billion, funded in part by a new $1 billion Series H round valuing Shield AI at $28.8 billion, as it expands from autonomous aircraft into radar and counter-UAS systems.",
-      "source": "Washington Technology",
-      "url": "https://www.washingtontechnology.com/companies/2026/11/shield-ai-acquires-radar-maker-echodyne-53-billion-deal/417086/",
+      "headline": "DOJ charges three men in $129 million AI deepfake CEO and lawyer fraud scheme",
+      "summary": "Federal prosecutors in New York charged three defendants with using AI-generated voice and video to impersonate executives and attorneys, tricking companies into wiring over $129 million. The case is one of the largest publicly documented uses of generative AI for financial fraud to date.",
+      "source": "SecurityWeek",
+      "url": "https://securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million",
       "published_at": "2026-11-05"
     },
     {
-      "headline": "Zipline raises $1.5 billion at $21.5 billion valuation to scale US drone delivery",
-      "summary": "Drone-delivery startup Zipline closed a $1.5 billion round, nearly tripling its valuation from earlier in the year, alongside a new multi-year deal with Walmart to add 300 drone delivery sites across the US.",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/zipline-1-5bn-raise-21-5bn-valuation-walmart-300-drone-sites",
+      "headline": "Perplexity launches 'Teammates,' always-on AI agents for Max subscribers",
+      "summary": "Perplexity rolled out persistent AI agents that take on ongoing roles within a workspace, pulling in prior projects, skills, and memory, and integrating with Slack. The move escalates competition with OpenAI, Anthropic, and Microsoft in the race to sell autonomous 'AI coworker' products.",
+      "source": "TechRepublic",
+      "url": "https://www.techrepublic.com/article/news-perplexity-teammates-ai-agents-pricing-features/",
       "published_at": "2026-11-05"
     },
     {
-      "headline": "Humble Robotics raises $51 million to build cabless, driverless electric freight trucks",
-      "summary": "The startup, founded by an ex-Apple and Uber self-driving veteran, raised a Series A led by Obvious Ventures to move its cabless 'Humble Hauler' autonomous electric trucks into customer pilots for port drayage and warehouse runs.",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/humble-robotics-51m-series-a-cabless-electric-autonomous-trucks",
-      "published_at": "2026-11-05"
-    },
-    {
-      "headline": "OpenAI to cut off Cursor's access to its models after SpaceX acquisition",
-      "summary": "OpenAI notified SpaceX it will wind down direct model access for the AI coding tool Cursor around November 12, citing concerns about how its technology would be used under SpaceX ownership; Cursor will still offer Grok, Anthropic, and Google models.",
-      "source": "Tom's Guide",
-      "url": "https://www.tomsguide.com/ai/openai-is-leaving-cursor-in-november-here-are-your-3-options",
-      "published_at": "2026-11-06"
-    },
-    {
-      "headline": "Meta rolls out Wonder-trained models to Muse and Meta AI users",
-      "summary": "Meta began pushing models trained using its 'Wonder' technique out to its Muse assistant and the broader Meta AI product, part of the company's push to catch up with OpenAI and Google in consumer AI features.",
-      "source": "Let's Data Science",
-      "url": "https://letsdatascience.com/news/meta-rolls-out-muse-wonder-trained-models-to-muse-and-meta-a-165c6374",
-      "published_at": "2026-11-06"
-    },
-    {
-      "headline": "Report: Google nearing Gemini 4 launch before end of 2026",
-      "summary": "Google DeepMind is reportedly in the final stages of polishing Gemini 4 and aims to ship it well before year-end, after earlier shifting resources toward faster Flash-tier models and delaying a planned Gemini 3.5 Pro release.",
-      "source": "NewsBytes",
-      "url": "https://www.newsbytesapp.com/news/science/report-says-google-nearing-gemini-4-launch-before-end-2026/tldr",
+      "headline": "Researchers unveil WorldParticle, a single AI model that simulates many physical materials",
+      "summary": "A team from MIT CSAIL, UBC, Meta, and several other universities built one transformer that can simulate cloth, fluids, elastic solids, and granular materials within a unified particle-based framework, potentially replacing a patchwork of specialized physics simulators used in graphics, robotics, and engineering.",
+      "source": "MIT News",
+      "url": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
       "published_at": "2026-11-09"
     },
     {
-      "headline": "OpenAI pitches mandatory AI 'speed limits' to Congress in post-midterm policy push",
-      "summary": "Timed to the lame-duck congressional session, OpenAI is proposing mandatory safeguards on the most powerful AI systems, which it is branding as 'speed limits,' while also trying to rebrand data centers as 'AI compute campuses' to ease local opposition.",
-      "source": "Axios",
-      "url": "https://axios.com/2026/11/01/scoop-openai-post-midterm-policy",
-      "published_at": "2026-11-01"
+      "headline": "NVIDIA Research debuts AgentBaton to cut costs of long-running AI agents",
+      "summary": "NVIDIA Research, with HKUST and UIUC, released AgentBaton, a lightweight detector that mid-task hands off long-horizon agentic work from a capable, expensive model to a cheaper one, reporting large API cost savings on agent benchmarks without major accuracy loss.",
+      "source": "NVIDIA Research",
+      "url": "https://research.nvidia.com/labs/lpr/agentbaton/"
     },
     {
-      "headline": "OpenAI says ChatGPT's search-style query volume has reached about one-fifth of Google's",
-      "summary": "ChatGPT's consumer product lead said ChatGPT now handles roughly 20% as many search-like queries as Google, a self-reported metric that highlights AI chatbots' growing role as an alternative to traditional web search.",
-      "source": "SEO Roundtable",
-      "url": "https://www.seroundtable.com/chatgpt-20-percent-google-search-volume-42451.html",
+      "headline": "Ai2 releases ToyBlocks, an open robot-simulation framework for training manipulation policies",
+      "summary": "The Allen Institute for AI launched ToyBlocks, the first 'FoundationWorld,' an open-source tabletop simulator paired with pre-trained vision-language-action models and tens of thousands of demonstrations, aimed at making robot-learning research more reproducible and accessible.",
+      "source": "LetsDataScience",
+      "url": "https://letsdatascience.com/news/ai2-releases-toyblocks-an-open-tabletop-simulator-for-robot-a2e13867",
+      "published_at": "2026-11-06"
+    },
+    {
+      "headline": "Apple opens Siri AI to all developers in new Developer Preview",
+      "summary": "Apple shipped a developer preview letting any app connect its custom actions to Siri AI, a step toward a more agentic assistant, though App Store apps won't be able to ship the integration until spring 2027. It follows reports of internal pressure to accelerate Apple's AI roadmap.",
+      "source": "PPC Land",
+      "url": "https://ppc.land/apple-opens-siri-ai-to-all-developers-but-apps-cant-ship-it-until-spring/",
       "published_at": "2026-11-03"
     },
     {
-      "headline": "Senior DeepSeek researcher warns rapid AI progress could disrupt workforce within a decade",
-      "summary": "A DeepSeek researcher cautioned that fast-moving AI capability gains could trigger significant labor-market disruption and structural problems for startups within the next five to ten years, adding a note of caution from inside a leading AI lab.",
-      "source": "The Neuron",
-      "url": "https://www.theneuron.ai/explainer-articles/ai-news-overflow-26-stories-we-couldnt-fit-in-todays-newsletter",
-      "published_at": "2026-11-10"
+      "headline": "Chai Discovery partners with Roche to apply AI drug design across its pipeline",
+      "summary": "Biotech AI startup Chai Discovery announced a collaboration with Roche to use its AI models for drug discovery programs, extending a string of 2026 pharma partnerships that also include GSK and Eli Lilly, as AI-designed molecule pipelines move further into mainstream pharma R&D.",
+      "source": "Dealroom",
+      "url": "https://dealroom.co/news/170229-chai-discovery-partners-with-roche-to-apply-ai-drug-design-across-its-pi/",
+      "published_at": "2026-11-05"
     },
     {
-      "headline": "Kodiak AI nears completion of driverless trucking safety case ahead of IKEA launch",
-      "summary": "Kodiak AI said its safety case for fully driverless freight trucking is about 99% complete, as the company works toward a planned end-of-2026 launch of driver-out operations for retail partner IKEA.",
-      "source": "AutoConnectedCar",
-      "url": "https://www.autoconnectedcar.com/2026/11/autonomous-self-driving-vehicle-news-waymo-toyota-baidu-lyft-freenow-weride-allianz-ping-an-marti-calmcar-tier-iv-ntro-may-mobility-rivian-aurora-roush-kodiak-hyundai-inn/",
-      "published_at": "2026-11-09"
+      "headline": "MoleculeMind's AI platform narrows GPCR drug candidates from billions to dozens",
+      "summary": "A Shanghai-based AI drug-discovery effort reported using generative molecular modeling to computationally screen candidate compounds against notoriously hard-to-target GPCR proteins, shrinking a search space of billions down to a handful for lab testing, though independent validation of therapeutic activity is still pending.",
+      "source": "BriefGlance",
+      "url": "https://briefglance.com/articles/from-billions-to-dozens-moleculeminds-ai-upends-gpcr-drug-discovery",
+      "published_at": "2026-11-03"
+    },
+    {
+      "headline": "OpenAI's deadline to cut off Cursor's model access arrives after SpaceX acquisition",
+      "summary": "OpenAI's self-imposed November 12 deadline to stop supplying AI models to the coding tool Cursor took effect, following SpaceX's acquisition of Cursor's parent company and a dispute over whether that change of control violates OpenAI's terms of service. Cursor retains access to Grok, Claude, and Gemini models.",
+      "source": "Tom's Guide",
+      "url": "https://www.tomsguide.com/ai/openai-is-leaving-cursor-in-november-here-are-your-3-options",
+      "published_at": "2026-11-06"
     }
   ]
 }
