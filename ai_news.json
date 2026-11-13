@@ -1,74 +1,68 @@
 {
-  "generated_at": "2026-11-12T12:00:00Z",
+  "generated_at": "2026-11-13T05:16:01Z",
   "items": [
     {
-      "headline": "OpenAI introduces GPT-6 Cyber, a restricted model for vetted security defenders",
-      "summary": "OpenAI launched GPT-6 Cyber behind its application-only 'Daybreak Red' access tier, aimed at authorized vulnerability research and exploit development. The company rates it 'Critical' under its Preparedness Framework, up from 'High' for its predecessor, reflecting a sharp jump in offensive-security capability that also raises dual-use risk.",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-gpt-6-cyber/",
-      "published_at": "2026-11-05"
+      "headline": "Nvidia CEO Jensen Huang resigns amid scrutiny over personal relationships",
+      "summary": "Huang resigned as president, CEO, and board member effective immediately, per an Nvidia SEC 8-K filing, with CFO Colette Kress named interim CEO while the board searches for a permanent successor. Reporting ties the departure to allegations of extramarital relationships, including one involving a suspected foreign intelligence contact, and Nvidia shares fell sharply before paring losses; the story is significant given Nvidia's central role in the AI buildout.",
+      "source": "NBC News / CNBC / CNN / Al Jazeera",
+      "url": "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402",
+      "published_at": "2026-11-12"
     },
     {
-      "headline": "DOJ charges three men in $129 million AI deepfake CEO and lawyer fraud scheme",
-      "summary": "Federal prosecutors in New York charged three defendants with using AI-generated voice and video to impersonate executives and attorneys, tricking companies into wiring over $129 million. The case is one of the largest publicly documented uses of generative AI for financial fraud to date.",
-      "source": "SecurityWeek",
-      "url": "https://securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million",
-      "published_at": "2026-11-05"
+      "headline": "Anthropic launches IPO roadshow ahead of planned Nasdaq listing",
+      "summary": "Anthropic formally launched the roadshow for its proposed initial public offering of Class A common stock, aiming to list on Nasdaq under the ticker 'ANT' with pricing expected around November 18. The move follows its October S-1 filing disclosing rapid revenue growth alongside large accounting-related losses, marking one of the largest AI-sector IPOs to date.",
+      "source": "Anthropic Newsroom",
+      "url": "https://www.anthropic.com/news/roadshow-launch",
+      "published_at": "2026-11-10"
     },
     {
-      "headline": "Perplexity launches 'Teammates,' always-on AI agents for Max subscribers",
-      "summary": "Perplexity rolled out persistent AI agents that take on ongoing roles within a workspace, pulling in prior projects, skills, and memory, and integrating with Slack. The move escalates competition with OpenAI, Anthropic, and Microsoft in the race to sell autonomous 'AI coworker' products.",
-      "source": "TechRepublic",
-      "url": "https://www.techrepublic.com/article/news-perplexity-teammates-ai-agents-pricing-features/",
-      "published_at": "2026-11-05"
+      "headline": "Google DeepMind launches Gemini Robotics 2.5 for humanoid partners",
+      "summary": "DeepMind released Gemini Robotics 2.5, described as its most capable vision-language-action model yet, expanding the range and speed of skills robots can learn. The model is rolling out to robotics partners including Apptronik, Agile Robots, and Boston Dynamics, with Apptronik and Mercedes-Benz reportedly testing Apollo 2 humanoids on an active auto production line.",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "published_at": "2026-11-10"
     },
     {
-      "headline": "Researchers unveil WorldParticle, a single AI model that simulates many physical materials",
-      "summary": "A team from MIT CSAIL, UBC, Meta, and several other universities built one transformer that can simulate cloth, fluids, elastic solids, and granular materials within a unified particle-based framework, potentially replacing a patchwork of specialized physics simulators used in graphics, robotics, and engineering.",
-      "source": "MIT News",
-      "url": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
+      "headline": "Google unveils TPU 8tx and TPU 8i Max chips for the 'agentic era'",
+      "summary": "Google Cloud introduced two new eighth-generation TPUs: 8tx, aimed at secure/confidential inference and small-scale training, and 8i Max, which doubles compute, memory, and bandwidth over TPU 8i for massive-context workloads. The launch underscores Google's push to offer an alternative to Nvidia GPUs for large-scale AI infrastructure.",
+      "source": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
       "published_at": "2026-11-09"
     },
     {
-      "headline": "NVIDIA Research debuts AgentBaton to cut costs of long-running AI agents",
-      "summary": "NVIDIA Research, with HKUST and UIUC, released AgentBaton, a lightweight detector that mid-task hands off long-horizon agentic work from a capable, expensive model to a cheaper one, reporting large API cost savings on agent benchmarks without major accuracy loss.",
-      "source": "NVIDIA Research",
-      "url": "https://research.nvidia.com/labs/lpr/agentbaton/"
+      "headline": "Australia to create a dedicated AI safety regulator after government breach",
+      "summary": "Prime Minister Anthony Albanese announced plans for mandatory AI safety standards and a new regulator empowered to levy significant penalties on frontier AI companies operating in Australia, including mandatory incident reporting and independent model evaluation. The announcement followed a breach of a government Medicare statistics site involving an OpenAI agent.",
+      "source": "Australian Associated Press / Prime Minister of Australia",
+      "url": "https://pm.gov.au/media/new-australian-ai-safety-and-security-protections",
+      "published_at": "2026-11-10"
     },
     {
-      "headline": "Ai2 releases ToyBlocks, an open robot-simulation framework for training manipulation policies",
-      "summary": "The Allen Institute for AI launched ToyBlocks, the first 'FoundationWorld,' an open-source tabletop simulator paired with pre-trained vision-language-action models and tens of thousands of demonstrations, aimed at making robot-learning research more reproducible and accessible.",
-      "source": "LetsDataScience",
-      "url": "https://letsdatascience.com/news/ai2-releases-toyblocks-an-open-tabletop-simulator-for-robot-a2e13867",
-      "published_at": "2026-11-06"
+      "headline": "Meta releases Muse Ember, a small efficient model for AI agent workloads",
+      "summary": "Meta Superintelligence Labs launched Muse Ember, its smallest and most cost-efficient Muse model, designed for repetitive agentic subtasks like tool calls, coding, routing, and document extraction, with a context window over one million tokens. It pairs with the larger Muse Wonder model, which handles higher-level planning.",
+      "source": "The New Stack",
+      "url": "https://thenewstack.io/meta-muse-ember-launch/",
+      "published_at": "2026-11-09"
     },
     {
-      "headline": "Apple opens Siri AI to all developers in new Developer Preview",
-      "summary": "Apple shipped a developer preview letting any app connect its custom actions to Siri AI, a step toward a more agentic assistant, though App Store apps won't be able to ship the integration until spring 2027. It follows reports of internal pressure to accelerate Apple's AI roadmap.",
-      "source": "PPC Land",
-      "url": "https://ppc.land/apple-opens-siri-ai-to-all-developers-but-apps-cant-ship-it-until-spring/",
-      "published_at": "2026-11-03"
+      "headline": "Anthropic releases Claude Fable 5.2 and restricted Mythos 5.2",
+      "summary": "Anthropic made Claude Fable 5.2 generally available across platforms, touting faster coding and advanced reasoning at lower API cost, while Mythos 5.2 remains restricted to vetted organizations through its life-sciences and cybersecurity verification programs due to its more capable, higher-risk profile.",
+      "source": "Silicon Report",
+      "url": "https://www.siliconreport.com/anthropic-releases-mythos-5-2-and-fable-5-2",
+      "published_at": "2026-11-09"
     },
     {
-      "headline": "Chai Discovery partners with Roche to apply AI drug design across its pipeline",
-      "summary": "Biotech AI startup Chai Discovery announced a collaboration with Roche to use its AI models for drug discovery programs, extending a string of 2026 pharma partnerships that also include GSK and Eli Lilly, as AI-designed molecule pipelines move further into mainstream pharma R&D.",
-      "source": "Dealroom",
-      "url": "https://dealroom.co/news/170229-chai-discovery-partners-with-roche-to-apply-ai-drug-design-across-its-pi/",
-      "published_at": "2026-11-05"
+      "headline": "Apple begins charging for extra AI usage with $49.99 Intelligence Usage Packs",
+      "summary": "Apple introduced its first paid AI add-on, a one-time $49.99 'Intelligence Usage Pack' that lets Creator Studio subscribers buy additional capacity for cloud-based AI features after hitting monthly limits, currently available only within Logic Pro. It signals Apple's shift toward monetizing AI compute directly rather than bundling it entirely into subscriptions.",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features/",
+      "published_at": "2026-11-09"
     },
     {
-      "headline": "MoleculeMind's AI platform narrows GPCR drug candidates from billions to dozens",
-      "summary": "A Shanghai-based AI drug-discovery effort reported using generative molecular modeling to computationally screen candidate compounds against notoriously hard-to-target GPCR proteins, shrinking a search space of billions down to a handful for lab testing, though independent validation of therapeutic activity is still pending.",
-      "source": "BriefGlance",
-      "url": "https://briefglance.com/articles/from-billions-to-dozens-moleculeminds-ai-upends-gpcr-drug-discovery",
-      "published_at": "2026-11-03"
-    },
-    {
-      "headline": "OpenAI's deadline to cut off Cursor's model access arrives after SpaceX acquisition",
-      "summary": "OpenAI's self-imposed November 12 deadline to stop supplying AI models to the coding tool Cursor took effect, following SpaceX's acquisition of Cursor's parent company and a dispute over whether that change of control violates OpenAI's terms of service. Cursor retains access to Grok, Claude, and Gemini models.",
-      "source": "Tom's Guide",
-      "url": "https://www.tomsguide.com/ai/openai-is-leaving-cursor-in-november-here-are-your-3-options",
-      "published_at": "2026-11-06"
+      "headline": "OpenAI winds down Cursor's access to its models after SpaceX acquisition",
+      "summary": "OpenAI confirmed it is cutting off model access for Cursor (owned by Anysphere, which SpaceX acquired) effective November 12, citing inability to be confident SpaceX will comply with its usage terms given prior disputes with Musk-affiliated companies. Future OpenAI models will also be withheld from Cursor, though the company says OpenAI models account for only about 5% of its traffic.",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+      "published_at": "2026-11-12"
     }
   ]
 }
