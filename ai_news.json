@@ -1,68 +1,103 @@
 {
-  "generated_at": "2026-11-13T05:16:01Z",
+  "generated_at": "2026-11-14T05:11:58Z",
   "items": [
     {
-      "headline": "Nvidia CEO Jensen Huang resigns amid scrutiny over personal relationships",
-      "summary": "Huang resigned as president, CEO, and board member effective immediately, per an Nvidia SEC 8-K filing, with CFO Colette Kress named interim CEO while the board searches for a permanent successor. Reporting ties the departure to allegations of extramarital relationships, including one involving a suspected foreign intelligence contact, and Nvidia shares fell sharply before paring losses; the story is significant given Nvidia's central role in the AI buildout.",
-      "source": "NBC News / CNBC / CNN / Al Jazeera",
-      "url": "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402",
+      "headline": "Nvidia CEO Jensen Huang resigns; Colette Kress named interim CEO",
+      "summary": "Nvidia announced a CEO transition in an SEC 8-K filing, with Jensen Huang resigning after reports of a board investigation into personal conduct, CFO Colette Kress stepping in as interim CEO, and Harvey C. Jones named the company's first-ever board chair. The leadership shakeup at the world's most valuable chipmaker lands days before Nvidia's Q3 FY2027 earnings and amid intense scrutiny of AI infrastructure spending.",
+      "source": "SEC EDGAR / NVIDIA 8-K filing",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm",
       "published_at": "2026-11-12"
     },
     {
-      "headline": "Anthropic launches IPO roadshow ahead of planned Nasdaq listing",
-      "summary": "Anthropic formally launched the roadshow for its proposed initial public offering of Class A common stock, aiming to list on Nasdaq under the ticker 'ANT' with pricing expected around November 18. The move follows its October S-1 filing disclosing rapid revenue growth alongside large accounting-related losses, marking one of the largest AI-sector IPOs to date.",
-      "source": "Anthropic Newsroom",
+      "headline": "Anthropic sets IPO price range, launches Nasdaq roadshow under ticker ANT",
+      "summary": "Anthropic launched the roadshow for its planned IPO, targeting $70-$78 per Class A share plus a $26 billion private placement from chip and cloud partners, with pricing expected around November 18 and trading to begin under 'ANT' soon after. It would rank among the largest-ever AI sector listings, following the company's October S-1 filing that disclosed fast-growing revenue alongside large losses.",
+      "source": "Anthropic",
       "url": "https://www.anthropic.com/news/roadshow-launch",
       "published_at": "2026-11-10"
     },
     {
+      "headline": "SoftBank posts ~$7 billion quarterly loss on US AI data center writedown",
+      "summary": "SoftBank swung to a large net loss after taking a roughly $3.7 billion charge tied to realigned power-equipment plans for its US AI data center projects, plus an Intel share slide and higher financing costs. Analysts cite it as an early sign of risk in the aggressive buildout of AI infrastructure that SoftBank and peers have bet heavily on.",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/softbank-posts-7-bn-loss-as-us-data-centre-costs-mount-amid-ai-concerns-126111000403_1.html",
+      "published_at": "2026-11-10"
+    },
+    {
+      "headline": "OpenAI winds down Cursor's access to its models after SpaceX acquisition",
+      "summary": "OpenAI is cutting off model access for the AI coding tool Cursor, now owned by Anysphere after SpaceX's acquisition, with the contract winding down around November 12 and future OpenAI models withheld entirely. Cursor's CEO said OpenAI models made up only about 5% of its traffic, and users can still reach them via personal API keys.",
+      "source": "Cybernews",
+      "url": "https://cybernews.com/ai-news/openai-cursor-spacex-contract-termination/",
+      "published_at": "2026-11-12"
+    },
+    {
       "headline": "Google DeepMind launches Gemini Robotics 2.5 for humanoid partners",
-      "summary": "DeepMind released Gemini Robotics 2.5, described as its most capable vision-language-action model yet, expanding the range and speed of skills robots can learn. The model is rolling out to robotics partners including Apptronik, Agile Robots, and Boston Dynamics, with Apptronik and Mercedes-Benz reportedly testing Apollo 2 humanoids on an active auto production line.",
+      "summary": "DeepMind released Gemini Robotics 2.5, its most capable vision-language-action model yet, rolling it out to robotics partners including Apptronik, Agile Robots and Boston Dynamics. Apptronik and Mercedes-Benz are reportedly piloting Apollo 2 humanoids on an active auto production line using the model.",
       "source": "Google DeepMind",
       "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
       "published_at": "2026-11-10"
     },
     {
-      "headline": "Google unveils TPU 8tx and TPU 8i Max chips for the 'agentic era'",
-      "summary": "Google Cloud introduced two new eighth-generation TPUs: 8tx, aimed at secure/confidential inference and small-scale training, and 8i Max, which doubles compute, memory, and bandwidth over TPU 8i for massive-context workloads. The launch underscores Google's push to offer an alternative to Nvidia GPUs for large-scale AI infrastructure.",
-      "source": "Google Blog",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+      "headline": "Anthropic ships Claude Fable 5.2 and restricted Claude Mythos 5.2",
+      "summary": "Anthropic made Claude Fable 5.2 generally available across its platforms with faster coding and reasoning at lower API cost, while the more capable Claude Mythos 5.2 remains restricted to vetted organizations through life-sciences and cybersecurity verification programs due to its higher-risk profile.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
       "published_at": "2026-11-09"
     },
     {
-      "headline": "Australia to create a dedicated AI safety regulator after government breach",
-      "summary": "Prime Minister Anthony Albanese announced plans for mandatory AI safety standards and a new regulator empowered to levy significant penalties on frontier AI companies operating in Australia, including mandatory incident reporting and independent model evaluation. The announcement followed a breach of a government Medicare statistics site involving an OpenAI agent.",
-      "source": "Australian Associated Press / Prime Minister of Australia",
-      "url": "https://pm.gov.au/media/new-australian-ai-safety-and-security-protections",
-      "published_at": "2026-11-10"
+      "headline": "AI hardware-testing startup Nominal raises $240M Series C at $3B valuation",
+      "summary": "Nominal, which builds an AI platform for hardware engineering and testing, raised $240 million led by Lightspeed Venture Partners and Insight Partners, tripling its valuation to $3 billion in eight months. The round follows a $71.2 million US Air Force award tied to Collaborative Combat Aircraft work.",
+      "source": "Runtime Wire",
+      "url": "https://runtimewire.com/article/nominal-raises-240m-3b-valuation-hardware-testing",
+      "published_at": "2026-11-09"
+    },
+    {
+      "headline": "Generative media platform fal raises $1.3B+ at $16B valuation",
+      "summary": "fal disclosed a combined $1.65 billion across Series E and Series F rounds, with the Series F led by Bessemer Venture Partners and backed by Nvidia, doubling its valuation to $16 billion since April. The company provides infrastructure for running generative image and video models at scale.",
+      "source": "Securities.io",
+      "url": "https://securities.io/fal-announces-1-65-billion-in-combined-series-e-and-f-funding",
+      "published_at": "2026-11-03"
+    },
+    {
+      "headline": "Agility Robotics goes public on Nasdaq as AGLT via SPAC merger",
+      "summary": "Agility Robotics completed its merger with Churchill Capital Corp XI and began trading on Nasdaq, raising roughly $465 million in gross proceeds to fund its Digit humanoid robot and expand manufacturing, becoming one of the first pure-play humanoid robot makers to go public.",
+      "source": "Let's Data Science",
+      "url": "https://letsdatascience.com/news/agility-robotics-goes-public-via-spac-raising-about-465-mill-0c592d3c",
+      "published_at": "2026-11-05"
+    },
+    {
+      "headline": "Humble Robotics raises $51M Series A for cabless autonomous freight trucks",
+      "summary": "Humble Robotics, founded by self-driving veterans from Apple and Uber, raised a $51 million Series A led by Obvious Ventures to scale its cabless, autonomous electric freight vehicles, bringing total funding to $75 million ahead of planned 2027 customer pilots.",
+      "source": "Robotics 24/7",
+      "url": "https://www.robotics247.com/article/autonomous-electric-hauling-company-humble-robotics-raises-51m-series-a",
+      "published_at": "2026-11-05"
     },
     {
       "headline": "Meta releases Muse Ember, a small efficient model for AI agent workloads",
-      "summary": "Meta Superintelligence Labs launched Muse Ember, its smallest and most cost-efficient Muse model, designed for repetitive agentic subtasks like tool calls, coding, routing, and document extraction, with a context window over one million tokens. It pairs with the larger Muse Wonder model, which handles higher-level planning.",
+      "summary": "Meta Superintelligence Labs launched Muse Ember, its smallest and most cost-efficient Muse model, aimed at repetitive agentic subtasks like tool calls, coding and document extraction, with a context window over one million tokens, pairing with the larger Muse Wonder model for higher-level planning.",
       "source": "The New Stack",
       "url": "https://thenewstack.io/meta-muse-ember-launch/",
       "published_at": "2026-11-09"
     },
     {
-      "headline": "Anthropic releases Claude Fable 5.2 and restricted Mythos 5.2",
-      "summary": "Anthropic made Claude Fable 5.2 generally available across platforms, touting faster coding and advanced reasoning at lower API cost, while Mythos 5.2 remains restricted to vetted organizations through its life-sciences and cybersecurity verification programs due to its more capable, higher-risk profile.",
-      "source": "Silicon Report",
-      "url": "https://www.siliconreport.com/anthropic-releases-mythos-5-2-and-fable-5-2",
-      "published_at": "2026-11-09"
-    },
-    {
-      "headline": "Apple begins charging for extra AI usage with $49.99 Intelligence Usage Packs",
-      "summary": "Apple introduced its first paid AI add-on, a one-time $49.99 'Intelligence Usage Pack' that lets Creator Studio subscribers buy additional capacity for cloud-based AI features after hitting monthly limits, currently available only within Logic Pro. It signals Apple's shift toward monetizing AI compute directly rather than bundling it entirely into subscriptions.",
+      "headline": "Apple begins charging for extra AI usage with Intelligence Usage Packs",
+      "summary": "Apple introduced its first paid AI add-on, a one-time $49.99 'Intelligence Usage Pack' letting Creator Studio subscribers buy extra cloud AI capacity after hitting monthly limits, currently limited to Logic Pro, signaling a shift toward directly monetizing AI compute.",
       "source": "9to5Mac",
       "url": "https://9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features/",
       "published_at": "2026-11-09"
     },
     {
-      "headline": "OpenAI winds down Cursor's access to its models after SpaceX acquisition",
-      "summary": "OpenAI confirmed it is cutting off model access for Cursor (owned by Anysphere, which SpaceX acquired) effective November 12, citing inability to be confident SpaceX will comply with its usage terms given prior disputes with Musk-affiliated companies. Future OpenAI models will also be withheld from Cursor, though the company says OpenAI models account for only about 5% of its traffic.",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
-      "published_at": "2026-11-12"
+      "headline": "Google unveils TPU 8tx and TPU 8i Max chips for the 'agentic era'",
+      "summary": "Google Cloud introduced two new eighth-generation TPUs: 8tx, aimed at secure and confidential inference plus small-scale training, and 8i Max, which doubles compute, memory and bandwidth over TPU 8i for massive-context workloads, pushing its alternative to Nvidia GPUs for large-scale AI infrastructure.",
+      "source": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+      "published_at": "2026-11-09"
+    },
+    {
+      "headline": "Australia plans dedicated AI safety regulator after government breach",
+      "summary": "Prime Minister Anthony Albanese announced plans for mandatory AI safety standards and a new regulator with power to penalize frontier AI companies, including mandatory incident reporting and independent model evaluation, following a breach of a government Medicare statistics site involving an OpenAI agent.",
+      "source": "Prime Minister of Australia",
+      "url": "https://pm.gov.au/media/new-australian-ai-safety-and-security-protections",
+      "published_at": "2026-11-10"
     }
   ]
 }
