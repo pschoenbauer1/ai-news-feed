@@ -1,103 +1,75 @@
 {
-  "generated_at": "2026-11-14T05:11:58Z",
+  "generated_at": "2026-11-15T06:00:00Z",
   "items": [
     {
-      "headline": "Nvidia CEO Jensen Huang resigns; Colette Kress named interim CEO",
-      "summary": "Nvidia announced a CEO transition in an SEC 8-K filing, with Jensen Huang resigning after reports of a board investigation into personal conduct, CFO Colette Kress stepping in as interim CEO, and Harvey C. Jones named the company's first-ever board chair. The leadership shakeup at the world's most valuable chipmaker lands days before Nvidia's Q3 FY2027 earnings and amid intense scrutiny of AI infrastructure spending.",
-      "source": "SEC EDGAR / NVIDIA 8-K filing",
-      "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm",
-      "published_at": "2026-11-12"
+      "headline": "Apple's $299 HomeView smart display ships, but skips the EU over Siri AI rules",
+      "summary": "Apple began selling its first Siri-powered smart home hub, HomeView, on November 13 for $299, with face recognition and home-control features, but the device will not be sold in the EU because the new Siri AI isn't yet available there. It's a rare case of a major AI-infused consumer device launching everywhere except Europe due to regulatory uncertainty.",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/apple-homeview-not-sold-eu",
+      "published_at": "2026-11-13"
     },
     {
-      "headline": "Anthropic sets IPO price range, launches Nasdaq roadshow under ticker ANT",
-      "summary": "Anthropic launched the roadshow for its planned IPO, targeting $70-$78 per Class A share plus a $26 billion private placement from chip and cloud partners, with pricing expected around November 18 and trading to begin under 'ANT' soon after. It would rank among the largest-ever AI sector listings, following the company's October S-1 filing that disclosed fast-growing revenue alongside large losses.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/roadshow-launch",
+      "headline": "Anthropic's IPO said to be multiple times oversubscribed ahead of Nasdaq debut",
+      "summary": "Bloomberg reported that orders for Anthropic's 825 million IPO shares, priced at $70-$78 each, already run to several times the amount on offer, with pricing expected November 18 and trading to begin under ticker 'ANT' on November 19. A concurrent $26 billion private placement from Nvidia, Google, Microsoft and other partners underscores how central Anthropic has become to AI infrastructure spending.",
+      "source": "StockAnalysis.com",
+      "url": "https://stockanalysis.com/news/anthropic-ipo-multiple-times-oversubscribed/",
+      "published_at": "2026-11-11"
+    },
+    {
+      "headline": "Anthropic launches Claude Meetings and turns connectors into full in-chat apps",
+      "summary": "Anthropic rolled out Claude Meetings in beta, letting Claude join Google Meet calls to take notes and act on action items, alongside generally-available 'interactive connectors' that open full apps like Adobe, Atlassian and HubSpot directly inside a conversation rather than just a preview. New Sheets and Whiteboards betas round out a push to make Claude a general-purpose office suite.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/10/anthropic-claude-meetings-knowledge-work",
       "published_at": "2026-11-10"
     },
     {
-      "headline": "SoftBank posts ~$7 billion quarterly loss on US AI data center writedown",
-      "summary": "SoftBank swung to a large net loss after taking a roughly $3.7 billion charge tied to realigned power-equipment plans for its US AI data center projects, plus an Intel share slide and higher financing costs. Analysts cite it as an early sign of risk in the aggressive buildout of AI infrastructure that SoftBank and peers have bet heavily on.",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/softbank-posts-7-bn-loss-as-us-data-centre-costs-mount-amid-ai-concerns-126111000403_1.html",
-      "published_at": "2026-11-10"
-    },
-    {
-      "headline": "OpenAI winds down Cursor's access to its models after SpaceX acquisition",
-      "summary": "OpenAI is cutting off model access for the AI coding tool Cursor, now owned by Anysphere after SpaceX's acquisition, with the contract winding down around November 12 and future OpenAI models withheld entirely. Cursor's CEO said OpenAI models made up only about 5% of its traffic, and users can still reach them via personal API keys.",
-      "source": "Cybernews",
-      "url": "https://cybernews.com/ai-news/openai-cursor-spacex-contract-termination/",
-      "published_at": "2026-11-12"
-    },
-    {
-      "headline": "Google DeepMind launches Gemini Robotics 2.5 for humanoid partners",
-      "summary": "DeepMind released Gemini Robotics 2.5, its most capable vision-language-action model yet, rolling it out to robotics partners including Apptronik, Agile Robots and Boston Dynamics. Apptronik and Mercedes-Benz are reportedly piloting Apollo 2 humanoids on an active auto production line using the model.",
+      "headline": "Google DeepMind uses AI to formally verify Signal's encryption code",
+      "summary": "DeepMind said its AlphaProof Code system generated several million lines of machine-checked mathematical proof verifying key security guarantees of the Signal protocol's one-to-one messaging, a task that took about four weeks versus years of human effort. When researchers reintroduced two previously fixed bugs, the system correctly flagged both builds as insecure, though the analysis didn't cover group messaging or the full mobile app.",
       "source": "Google DeepMind",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "url": "https://deepmind.google/blog/formal-verification-signal-protocol",
       "published_at": "2026-11-10"
     },
     {
-      "headline": "Anthropic ships Claude Fable 5.2 and restricted Claude Mythos 5.2",
-      "summary": "Anthropic made Claude Fable 5.2 generally available across its platforms with faster coding and reasoning at lower API cost, while the more capable Claude Mythos 5.2 remains restricted to vetted organizations through life-sciences and cybersecurity verification programs due to its higher-risk profile.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "published_at": "2026-11-09"
+      "headline": "Google DeepMind launches Gemini Robotics 2.5 with a new jailbreak safety benchmark",
+      "summary": "DeepMind released Gemini Robotics 2.5, its latest vision-language-action model for humanoid and other robots, with improved operator steerability and stronger resistance to adversarial manipulation. Alongside it, DeepMind published ASIMOV-jailbreak, an open benchmark for testing how robot control models resist being tricked into unsafe behavior.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/gemini-robotics-2-5-launch-everyday-skills/",
+      "published_at": "2026-11-10"
     },
     {
-      "headline": "AI hardware-testing startup Nominal raises $240M Series C at $3B valuation",
-      "summary": "Nominal, which builds an AI platform for hardware engineering and testing, raised $240 million led by Lightspeed Venture Partners and Insight Partners, tripling its valuation to $3 billion in eight months. The round follows a $71.2 million US Air Force award tied to Collaborative Combat Aircraft work.",
-      "source": "Runtime Wire",
-      "url": "https://runtimewire.com/article/nominal-raises-240m-3b-valuation-hardware-testing",
-      "published_at": "2026-11-09"
-    },
-    {
-      "headline": "Generative media platform fal raises $1.3B+ at $16B valuation",
-      "summary": "fal disclosed a combined $1.65 billion across Series E and Series F rounds, with the Series F led by Bessemer Venture Partners and backed by Nvidia, doubling its valuation to $16 billion since April. The company provides infrastructure for running generative image and video models at scale.",
-      "source": "Securities.io",
-      "url": "https://securities.io/fal-announces-1-65-billion-in-combined-series-e-and-f-funding",
-      "published_at": "2026-11-03"
-    },
-    {
-      "headline": "Agility Robotics goes public on Nasdaq as AGLT via SPAC merger",
-      "summary": "Agility Robotics completed its merger with Churchill Capital Corp XI and began trading on Nasdaq, raising roughly $465 million in gross proceeds to fund its Digit humanoid robot and expand manufacturing, becoming one of the first pure-play humanoid robot makers to go public.",
-      "source": "Let's Data Science",
-      "url": "https://letsdatascience.com/news/agility-robotics-goes-public-via-spac-raising-about-465-mill-0c592d3c",
-      "published_at": "2026-11-05"
-    },
-    {
-      "headline": "Humble Robotics raises $51M Series A for cabless autonomous freight trucks",
-      "summary": "Humble Robotics, founded by self-driving veterans from Apple and Uber, raised a $51 million Series A led by Obvious Ventures to scale its cabless, autonomous electric freight vehicles, bringing total funding to $75 million ahead of planned 2027 customer pilots.",
-      "source": "Robotics 24/7",
-      "url": "https://www.robotics247.com/article/autonomous-electric-hauling-company-humble-robotics-raises-51m-series-a",
-      "published_at": "2026-11-05"
-    },
-    {
-      "headline": "Meta releases Muse Ember, a small efficient model for AI agent workloads",
-      "summary": "Meta Superintelligence Labs launched Muse Ember, its smallest and most cost-efficient Muse model, aimed at repetitive agentic subtasks like tool calls, coding and document extraction, with a context window over one million tokens, pairing with the larger Muse Wonder model for higher-level planning.",
+      "headline": "Meta launches Muse Ember, a cheap multimodal model built for AI agent subtasks",
+      "summary": "Meta's Superintelligence Labs released Muse Ember, the smallest model in its Muse family, designed as a low-cost workhorse for high-volume agent subtasks like tool calls, coding, routing and document parsing. It accepts text, images, video, audio and PDFs, offers a roughly 1-million-token context window, and is priced at $0.10 per million input tokens, positioning it to pair with larger planning models like Muse Wonder.",
       "source": "The New Stack",
       "url": "https://thenewstack.io/meta-muse-ember-launch/",
       "published_at": "2026-11-09"
     },
     {
-      "headline": "Apple begins charging for extra AI usage with Intelligence Usage Packs",
-      "summary": "Apple introduced its first paid AI add-on, a one-time $49.99 'Intelligence Usage Pack' letting Creator Studio subscribers buy extra cloud AI capacity after hitting monthly limits, currently limited to Logic Pro, signaling a shift toward directly monetizing AI compute.",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features/",
-      "published_at": "2026-11-09"
-    },
-    {
-      "headline": "Google unveils TPU 8tx and TPU 8i Max chips for the 'agentic era'",
-      "summary": "Google Cloud introduced two new eighth-generation TPUs: 8tx, aimed at secure and confidential inference plus small-scale training, and 8i Max, which doubles compute, memory and bandwidth over TPU 8i for massive-context workloads, pushing its alternative to Nvidia GPUs for large-scale AI infrastructure.",
-      "source": "Google Blog",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
-      "published_at": "2026-11-09"
-    },
-    {
-      "headline": "Australia plans dedicated AI safety regulator after government breach",
-      "summary": "Prime Minister Anthony Albanese announced plans for mandatory AI safety standards and a new regulator with power to penalize frontier AI companies, including mandatory incident reporting and independent model evaluation, following a breach of a government Medicare statistics site involving an OpenAI agent.",
-      "source": "Prime Minister of Australia",
-      "url": "https://pm.gov.au/media/new-australian-ai-safety-and-security-protections",
+      "headline": "OpenAI to retire Advanced and Standard Voice modes in ChatGPT on December 11",
+      "summary": "OpenAI notified users it will phase out its older Advanced and Standard voice modes, defaulting everyone to the newer GPT-Live voice model after December 11; conversation history carries over and live video/screen-sharing stays on Advanced Voice until GPT-Live supports it. The move consolidates ChatGPT's voice stack around a single, more capable architecture after user pushback to earlier voice changes.",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/openai-retiring-chatgpt-advanced-standard-voice-3733978",
       "published_at": "2026-11-10"
+    },
+    {
+      "headline": "OpenAI winds down Cursor's access to its models after SpaceX acquisition",
+      "summary": "OpenAI is cutting off model access for AI coding tool Cursor, now owned by Anysphere following SpaceX's acquisition, with the contract fully lapsing around November 12 and future OpenAI models withheld entirely. Cursor's CEO said OpenAI models made up only about 5% of its traffic, and users can still reach them with personal API keys.",
+      "source": "Cybernews",
+      "url": "https://cybernews.com/ai-news/openai-cursor-spacex-contract-termination/",
+      "published_at": "2026-11-12"
+    },
+    {
+      "headline": "Nominal raises $240M to put AI agents inside hardware testing",
+      "summary": "Hardware-engineering software startup Nominal raised a $240 million Series C led by Lightspeed Venture Partners at a $3 billion valuation, tripling its price tag from March 2026. The round, which follows a $71.2 million U.S. Air Force funding award in October, underscores continued investor appetite for AI tooling aimed at defense and industrial hardware development.",
+      "source": "Let's Data Science",
+      "url": "https://letsdatascience.com/news/nominal-raises-funding-at-3-billion-valuation-for-hardware-e-788a527e",
+      "published_at": "2026-11-09"
+    },
+    {
+      "headline": "Google commits $17 billion to a Wyoming data center as local pushback on AI buildouts grows",
+      "summary": "Google announced a $17 billion AI data center in Wyoming, paired with a 702-megawatt natural-gas fuel-cell power project with carbon capture, that it says it will fully fund itself. The announcement landed the same week that most US data-center-related ballot measures nationwide passed in favor of tighter local controls, highlighting rising friction between AI infrastructure spending and communities hosting it.",
+      "source": "Google (The Keyword)",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
+      "published_at": "2026-11-05"
     }
   ]
 }
