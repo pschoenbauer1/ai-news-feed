@@ -1,75 +1,89 @@
 {
-  "generated_at": "2026-11-15T06:00:00Z",
+  "generated_at": "2026-11-16T05:12:26Z",
   "items": [
     {
-      "headline": "Apple's $299 HomeView smart display ships, but skips the EU over Siri AI rules",
-      "summary": "Apple began selling its first Siri-powered smart home hub, HomeView, on November 13 for $299, with face recognition and home-control features, but the device will not be sold in the EU because the new Siri AI isn't yet available there. It's a rare case of a major AI-infused consumer device launching everywhere except Europe due to regulatory uncertainty.",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/apple-homeview-not-sold-eu",
-      "published_at": "2026-11-13"
+      "headline": "Nvidia's Jensen Huang resigns as CEO; CFO Colette Kress named interim chief",
+      "summary": "Nvidia's board accepted Jensen Huang's resignation as President, CEO and board member effective November 11, 2026, appointing CFO Colette Kress as interim CEO while it searches for a permanent successor, and naming Harvey C. Jones as the company's first-ever independent Board Chair. The abrupt leadership change at the world's most valuable chipmaker comes days before its Q3 FY2027 earnings report.",
+      "source": "SEC EDGAR / Nvidia 8-K filing",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm",
+      "published_at": "2026-11-12"
     },
     {
-      "headline": "Anthropic's IPO said to be multiple times oversubscribed ahead of Nasdaq debut",
-      "summary": "Bloomberg reported that orders for Anthropic's 825 million IPO shares, priced at $70-$78 each, already run to several times the amount on offer, with pricing expected November 18 and trading to begin under ticker 'ANT' on November 19. A concurrent $26 billion private placement from Nvidia, Google, Microsoft and other partners underscores how central Anthropic has become to AI infrastructure spending.",
+      "headline": "Anthropic's IPO several times oversubscribed ahead of Nasdaq debut",
+      "summary": "Orders for Anthropic's 825 million IPO shares, priced at $70-$78 each, are reportedly running several times over the amount on offer, with pricing expected November 18 and trading under ticker 'ANT' to begin November 19. A concurrent $26 billion private placement from Nvidia, Google, Microsoft and other partners underscores how central Anthropic has become to AI infrastructure spending.",
       "source": "StockAnalysis.com",
       "url": "https://stockanalysis.com/news/anthropic-ipo-multiple-times-oversubscribed/",
       "published_at": "2026-11-11"
     },
     {
-      "headline": "Anthropic launches Claude Meetings and turns connectors into full in-chat apps",
-      "summary": "Anthropic rolled out Claude Meetings in beta, letting Claude join Google Meet calls to take notes and act on action items, alongside generally-available 'interactive connectors' that open full apps like Adobe, Atlassian and HubSpot directly inside a conversation rather than just a preview. New Sheets and Whiteboards betas round out a push to make Claude a general-purpose office suite.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/11/10/anthropic-claude-meetings-knowledge-work",
-      "published_at": "2026-11-10"
+      "headline": "OpenAI closes $11 billion first tranche of new round at $1.25 trillion valuation",
+      "summary": "Bloomberg reports OpenAI has wired an initial $11 billion as the first close of a larger funding round, anchored by SoftBank, MGX, Coatue and a UAE-based syndicate, at a valuation of about $1.25 trillion — below the $1.4-1.5 trillion the company had initially sought. The scaled-back figure signals some investor caution even as AI infrastructure spending keeps accelerating.",
+      "source": "Let's Data Science",
+      "url": "https://letsdatascience.com/news/openai-reportedly-closes-11-billion-first-portion-of-round-a-43b7bec2",
+      "published_at": "2026-11-07"
     },
     {
-      "headline": "Google DeepMind uses AI to formally verify Signal's encryption code",
-      "summary": "DeepMind said its AlphaProof Code system generated several million lines of machine-checked mathematical proof verifying key security guarantees of the Signal protocol's one-to-one messaging, a task that took about four weeks versus years of human effort. When researchers reintroduced two previously fixed bugs, the system correctly flagged both builds as insecure, though the analysis didn't cover group messaging or the full mobile app.",
-      "source": "Google DeepMind",
-      "url": "https://deepmind.google/blog/formal-verification-signal-protocol",
-      "published_at": "2026-11-10"
-    },
-    {
-      "headline": "Google DeepMind launches Gemini Robotics 2.5 with a new jailbreak safety benchmark",
-      "summary": "DeepMind released Gemini Robotics 2.5, its latest vision-language-action model for humanoid and other robots, with improved operator steerability and stronger resistance to adversarial manipulation. Alongside it, DeepMind published ASIMOV-jailbreak, an open benchmark for testing how robot control models resist being tricked into unsafe behavior.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/gemini-robotics-2-5-launch-everyday-skills/",
-      "published_at": "2026-11-10"
-    },
-    {
-      "headline": "Meta launches Muse Ember, a cheap multimodal model built for AI agent subtasks",
-      "summary": "Meta's Superintelligence Labs released Muse Ember, the smallest model in its Muse family, designed as a low-cost workhorse for high-volume agent subtasks like tool calls, coding, routing and document parsing. It accepts text, images, video, audio and PDFs, offers a roughly 1-million-token context window, and is priced at $0.10 per million input tokens, positioning it to pair with larger planning models like Muse Wonder.",
-      "source": "The New Stack",
-      "url": "https://thenewstack.io/meta-muse-ember-launch/",
-      "published_at": "2026-11-09"
-    },
-    {
-      "headline": "OpenAI to retire Advanced and Standard Voice modes in ChatGPT on December 11",
-      "summary": "OpenAI notified users it will phase out its older Advanced and Standard voice modes, defaulting everyone to the newer GPT-Live voice model after December 11; conversation history carries over and live video/screen-sharing stays on Advanced Voice until GPT-Live supports it. The move consolidates ChatGPT's voice stack around a single, more capable architecture after user pushback to earlier voice changes.",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/openai-retiring-chatgpt-advanced-standard-voice-3733978",
-      "published_at": "2026-11-10"
-    },
-    {
-      "headline": "OpenAI winds down Cursor's access to its models after SpaceX acquisition",
-      "summary": "OpenAI is cutting off model access for AI coding tool Cursor, now owned by Anysphere following SpaceX's acquisition, with the contract fully lapsing around November 12 and future OpenAI models withheld entirely. Cursor's CEO said OpenAI models made up only about 5% of its traffic, and users can still reach them with personal API keys.",
-      "source": "Cybernews",
-      "url": "https://cybernews.com/ai-news/openai-cursor-spacex-contract-termination/",
+      "headline": "Google releases Gemini 4 Hydrogen, a fast, low-cost coding and agent model",
+      "summary": "Google launched Gemini 4 Hydrogen, positioned for everyday coding and agentic tasks, claiming it runs some workloads 2.5 times faster than Gemini 3.8 Flash while adding a new 'xhigh' thinking-effort setting. It's rolling out immediately in Google AI Studio, the Gemini app, Search and Google Antigravity, priced at $1.50 per million tokens.",
+      "source": "Zeebiz",
+      "url": "https://www.zeebiz.com/technology/news-google-gemini-4-hydrogen-ai-model-405516",
       "published_at": "2026-11-12"
     },
     {
-      "headline": "Nominal raises $240M to put AI agents inside hardware testing",
-      "summary": "Hardware-engineering software startup Nominal raised a $240 million Series C led by Lightspeed Venture Partners at a $3 billion valuation, tripling its price tag from March 2026. The round, which follows a $71.2 million U.S. Air Force funding award in October, underscores continued investor appetite for AI tooling aimed at defense and industrial hardware development.",
-      "source": "Let's Data Science",
-      "url": "https://letsdatascience.com/news/nominal-raises-funding-at-3-billion-valuation-for-hardware-e-788a527e",
+      "headline": "IBM and Microsoft launch Imagine Enterprise, a joint AI agent platform",
+      "summary": "IBM and Microsoft unveiled Imagine Enterprise, a jointly built platform for creating, running and governing AI agents for industry-specific workflows, seeded by IBM's library of more than 6,000 pre-built agents and assets on Microsoft's AI and cloud stack. It launches first for financial services, insurance and retail, with manufacturing, energy, public sector and mobility to follow.",
+      "source": "CIO Dive",
+      "url": "https://www.ciodive.com/news/microsoft-ibm-team-up-ai-agent-platform/874152/",
+      "published_at": "2026-11-10"
+    },
+    {
+      "headline": "Nvidia unveils GR00T 2 robotics foundation model and Isaac Lab 3.0 at CoRL",
+      "summary": "At the Conference on Robot Learning in Austin, Nvidia introduced GR00T 2, an open 'world action model' built on its Cosmos platform that aims to let robots learn delicate manipulation skills directly from human video, alongside Isaac Lab 3.0 and new open robotics benchmarks. Nvidia hasn't yet specified when the weights will be broadly available, with one report pointing to a December target.",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com/nvidia-launches-gr00t-2-isaac-lab-3-0-corl/",
       "published_at": "2026-11-09"
     },
     {
-      "headline": "Google commits $17 billion to a Wyoming data center as local pushback on AI buildouts grows",
-      "summary": "Google announced a $17 billion AI data center in Wyoming, paired with a 702-megawatt natural-gas fuel-cell power project with carbon capture, that it says it will fully fund itself. The announcement landed the same week that most US data-center-related ballot measures nationwide passed in favor of tighter local controls, highlighting rising friction between AI infrastructure spending and communities hosting it.",
-      "source": "Google (The Keyword)",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
+      "headline": "Alibaba teases Qwen4, opens a time-limited Qwen4-Max preview",
+      "summary": "Alibaba's Qwen team announced that its next-generation Qwen4 model family is coming soon and opened a free preview of Qwen4-Max with a 1-million-token context window, available through November 25 via its Token Plan, Qoder, QwenWork and other access points. The company has not yet published benchmarks or a model card for the new generation.",
+      "source": "FourWeekMBA",
+      "url": "https://fourweekmba.com/ai-alibaba-opens-a-350-hour-qwen4-max-preview-with-1m-context/",
+      "published_at": "2026-11-11"
+    },
+    {
+      "headline": "Embodied AI unveils AIR, a humanoid robot that learns factory tasks on the job",
+      "summary": "Swiss startup Embodied AI showed off AIR, a tendon-driven humanoid robot designed to pick up new factory tasks by watching human demonstrations rather than requiring hand-coded programming, at Humanoid Europe 2026. The launch adds to a crowded field of companies racing to get humanoids onto real production lines rather than just demo stages.",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/11/15/embodied-ai-unveils-air-humanoid-robot-designed-to-learn-factory-tasks-on-the-job/107133",
+      "published_at": "2026-11-15"
+    },
+    {
+      "headline": "Global humanoid robotics race intensifies as Unitree holds market lead",
+      "summary": "A roundup of the fast-growing humanoid robot industry puts China's Unitree in the lead with roughly 31% market share, ahead of rivals like UBTECH and AiMOGA, as manufacturers increasingly compete on real-world deployment rather than demos. The piece frames 2026 as the year physical AI shifted from research showcases toward commercial rollout.",
+      "source": "Vanguard",
+      "url": "https://vanguardngr.com/2026/11/global-robotics-industry-races-to-turn-ai-into-physical-machines",
+      "published_at": "2026-11-15"
+    },
+    {
+      "headline": "New survey questions whether interpretability research is actually making AI safer",
+      "summary": "A large survey posted to arXiv by researchers including Yoshua Bengio, Stella Biderman and Mor Geva reviews the state of mechanistic interpretability for AI safety, concluding that the tools are improving but turning readable explanations of model internals into dependable safety guarantees remains unsolved. The authors flag a 'proxy fidelity problem': how closely an interpretable explanation actually tracks what a model is doing.",
+      "source": "arXiv",
+      "url": "https://papers.cool/arxiv/2611.08438",
       "published_at": "2026-11-05"
+    },
+    {
+      "headline": "Mistral AI announces new push for European AI sovereignty",
+      "summary": "Mistral unveiled new initiatives aimed at strengthening European control over AI infrastructure, including expanded local deployment options, broader model access and commitments to long-term European compute capacity, building on its October release of the open-weight, trillion-parameter Mistral Large 4. The moves position Mistral as Europe's standard-bearer against US and Chinese AI labs.",
+      "source": "Freevacy",
+      "url": "https://www.freevacy.com/news/mistral/mistral-announces-moves-towards-european-ai-sovereignty/7634",
+      "published_at": "2026-11-08"
+    },
+    {
+      "headline": "Amazon escalates legal fight with Perplexity over its Comet AI shopping agent",
+      "summary": "Amazon formally opposed Perplexity's motion to dismiss US litigation over Comet, Perplexity's AI browser agent that shops on Amazon's site on users' behalf, arguing Perplexity is trying to conceal how the agent operates. The dispute, which earlier saw a preliminary injunction against Perplexity vacated on appeal, highlights growing friction between retailers and AI agents that act as autonomous shoppers.",
+      "source": "MLex",
+      "url": "https://www.mlex.com/mlex/articles/2546338",
+      "published_at": "2026-11-04"
     }
   ]
 }
