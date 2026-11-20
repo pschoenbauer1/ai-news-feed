@@ -1,82 +1,68 @@
 {
-  "generated_at": "2026-11-19T12:00:00Z",
+  "generated_at": "2026-11-20T05:12:06Z",
   "items": [
     {
-      "headline": "Anthropic set to debut on Nasdaq under ticker ANT",
-      "summary": "Anthropic's IPO is pricing this week with trading set to begin November 19 on the Nasdaq Global Select Market under the symbol ANT, with reports putting the targeted valuation around $1.4 trillion. It would be one of the largest tech listings in history and a major test of investor appetite for AI-lab economics.",
-      "source": "Gagadget",
-      "url": "https://gagadget.com/en/734351-anthropic-eyes-a-14-trillion-nasdaq-debut-on-nov-19/",
-      "published_at": "2026-11-16"
+      "headline": "Anthropic completes IPO, begins trading on Nasdaq as ANT",
+      "summary": "Anthropic priced its IPO at $83 per share, above its $70-$78 range, and began trading on Nasdaq under the ticker ANT on November 19, in one of the largest tech listings on record. The debut tests investor appetite for AI-lab economics amid growing scrutiny of circular financing deals among frontier labs.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "published_at": "2026-11-19"
     },
     {
-      "headline": "Nvidia CEO Jensen Huang resigns after 33 years",
-      "summary": "Huang stepped down as Nvidia's president, CEO and board member effective immediately, with CFO Colette Kress named interim CEO; the company's SEC filing gave no reason, though press reports link the exit to personal-conduct allegations. The move leaves the world's most valuable chipmaker navigating a leadership transition just as it reports quarterly earnings.",
-      "source": "TheNextWeb",
-      "url": "https://thenextweb.com/news/jensen-huang-resigns-as-nvidia-ceo-after-33-years-effective-immediately",
-      "published_at": "2026-11-12"
+      "headline": "Anthropic's Amodei recommits to \"pacing\" AI development at Nasdaq bell",
+      "summary": "At Anthropic's Nasdaq opening-bell ceremony marking its public debut, CEO Dario Amodei reiterated the company's stated commitment to developing AI deliberately rather than racing ahead, regardless of competitive or political pressure. The remarks underscore the tension between Anthropic's safety-focused positioning and its new status as a public, growth-driven company.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+      "published_at": "2026-11-19"
     },
     {
-      "headline": "Alibaba unveils flagship Qwen4-Max model",
-      "summary": "Alibaba launched its largest AI model yet, reportedly scoring near the top of coding benchmarks ahead of rivals like Anthropic's Claude and Moonshot's Kimi, as Chinese labs race to close the gap with US frontier models. The model is not open-weight, though Alibaba says smaller versions are coming.",
-      "source": "The Print",
-      "url": "https://theprint.in/tech/alibaba-unveils-new-flagship-ai-model-as-us-china-ai-race-accelerates/3099682/",
-      "published_at": "2026-11-16"
+      "headline": "Meta's AI agent Muse reportedly mixing up conversations, exposing private data",
+      "summary": "Meta employees have raised internal concerns that the company's AI agent Muse has been crossing conversations between different user accounts, potentially exposing private data, according to a Reuters report. A Meta spokesperson defended the issue as part of normal product-development testing.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "published_at": "2026-11-19"
     },
     {
-      "headline": "Swiss startup Embodied AI unveils AIR, a cageless factory humanoid",
-      "summary": "Embodied AI, an EPFL spinout, debuted AIR at Humanoid Europe 2026 in Munich: a wheeled, tendon-driven two-armed robot designed to work alongside factory staff without a safety cage. The company says it starts under teleoperation and can transition to autonomous operation on a task within about a month.",
-      "source": "Robotics & Automation News",
-      "url": "https://roboticsandautomationnews.com/2026/11/15/embodied-ai-unveils-air-humanoid-robot-designed-to-learn-factory-tasks-on-the-job/107133/",
+      "headline": "Google gives Gemini the ability to take over your Mac",
+      "summary": "Google added computer-use capability to its Gemini app on macOS, letting the assistant perform multi-step tasks on a user's behalf while pausing for approval before key actions. The feature requires a paid Google AI Plus, Pro, or Ultra subscription and extends the ongoing push by major AI labs into autonomous desktop agents.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you",
+      "published_at": "2026-11-19"
+    },
+    {
+      "headline": "US tightens AI chip export rules to close China's overseas data-center loophole",
+      "summary": "The Bureau of Industry and Security issued an interim rule on November 16 aimed at preventing Chinese firms from accessing advanced American chips through overseas cloud data centers. China's Commerce Ministry said on November 17 it firmly opposes the move and warned of retaliatory measures.",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/tech/article/3374639/us-tightens-ai-chip-export-curbs-close-chinas-overseas-data-centre-loophole",
+      "published_at": "2026-11-17"
+    },
+    {
+      "headline": "CoreWeave signs multi-year cloud deal to power Wayve's self-driving AI training",
+      "summary": "Autonomous-driving startup Wayve will train, evaluate and simulate its mapless \"AI Driver\" foundation models on CoreWeave's cloud using Nvidia Blackwell GPUs under a new multi-year agreement. The deal expands Wayve's compute capacity as it pushes toward hardware-agnostic self-driving systems for automakers and fleet operators.",
+      "source": "Data Center Dynamics",
+      "url": "https://datacenterdynamics.com/en/news/coreweave-signs-multi-year-cloud-agreement-with-wayve",
       "published_at": "2026-11-15"
     },
     {
-      "headline": "llama.cpp and ggml reach v1.0.0 after 3.5 years",
-      "summary": "The widely used open-source local-inference libraries hit their first stable release, adopting semantic versioning, an FP8 KV cache and support for over 150 model architectures. The milestone gives developers a formal API/ABI stability promise for building on-device LLM applications.",
-      "source": "NeuroHive",
-      "url": "https://neurohive.io/en/news/llama-cpp-v1-stable-release-semver/",
-      "published_at": "2026-11-13"
+      "headline": "Munich starts autonomous bus trial with real passengers",
+      "summary": "MAN Truck & Bus and transit operator MVG began carrying registered test passengers on a 12-metre autonomous electric bus on Munich route 178 starting November 17, part of the MINGA research project monitored by the Technical University of Munich. The bus still runs as an addition to scheduled service rather than a replacement, with trials set to continue until mid-2027.",
+      "source": "Sustainable Bus",
+      "url": "https://www.sustainable-bus.com/news/man-mvg-launch-minga-project-autonomous-bus-rides/",
+      "published_at": "2026-11-17"
     },
     {
-      "headline": "Pentagon renames its AI office the \"Super Intelligence Office\"",
-      "summary": "The Department of War renamed the Chief Digital and Artificial Intelligence Office (CDAO) to the Super Intelligence Office, following a Trump executive order directing agencies to adopt \"Super Intelligence\" branding. Officials say the rebrand does not change the office's mission overseeing systems like the Maven Smart System.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/",
-      "published_at": "2026-11-13"
-    },
-    {
-      "headline": "Google DeepMind introduces Gemini Robotics 2.5",
-      "summary": "DeepMind's new vision-language-action model is aimed at improving robot dexterity and reliability, reporting a 96% success rate in an automotive kitting pilot with Apptronik and Mercedes-Benz. The release was paired with an open safety benchmark, ASIMOV-jailbreak, targeting security risks in AI-powered robots.",
-      "source": "Robotics 24/7",
-      "url": "https://www.robotics247.com/article/google-deepmind-introduces-gemini-robotics-2.5-ai-model-to-improve-robot-dexterity-and-reliability",
-      "published_at": "2026-11-10"
-    },
-    {
-      "headline": "Fireworks AI discloses second breach after cloud-provider hack",
-      "summary": "The inference-platform company said attackers reached its development machines through a third-party cloud provider, exposing account/billing data and, for a limited set of customers, secrets, datasets and partial model weights. Notion confirmed the incident affected AI chat transcripts for a small fraction of its workspaces.",
-      "source": "BleepingComputer",
-      "url": "https://bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack",
-      "published_at": "2026-11-10"
-    },
-    {
-      "headline": "New York's RAISE Act opens registration for frontier AI developers",
-      "summary": "New York opened a registration portal run by its new DIGIT office within the Department of Financial Services, requiring large frontier AI developers to register ahead of the law's January 2027 safety-framework and incident-reporting requirements. OpenAI and Anthropic are among the companies expected to face the new oversight.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-      "published_at": "2026-11-10"
-    },
-    {
-      "headline": "Helsing unveils Clarity, a European military AI targeting platform",
-      "summary": "Defense-tech firm Helsing launched Clarity, an agentic intelligence platform that runs hundreds of AI agents in parallel to turn sensor feeds and open-source data into target recommendations for human operator review. Positioned as a European rival to Palantir's military targeting software, it's designed to run on customer-owned infrastructure.",
-      "source": "The Star (Malaysia)",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/11/helsing-enters-market-for-battlefield-software-built-on-combat-data",
+      "headline": "DeepMind's AlphaGenome 2 nearly doubles accuracy in predicting disease-linked DNA variants",
+      "summary": "Google DeepMind released AlphaGenome 2, which predicts how DNA variants affect specific human cell types rather than averaged tissue samples, identifying nearly twice as many expression-altering variants as its predecessor. The model is free for academic research via API but not yet validated for clinical or diagnostic use.",
+      "source": "DeepMind",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
       "published_at": "2026-11-11"
     },
     {
-      "headline": "Nvidia guides to $108B quarter in first earnings since Huang's exit",
-      "summary": "Nvidia's fiscal Q3 report, delivered days after Jensen Huang's abrupt resignation, was the first major test of the company's ability to execute under interim CEO Colette Kress, with guidance calling for roughly 90% year-over-year revenue growth excluding China data-center sales.",
-      "source": "FourWeekMBA",
-      "url": "https://fourweekmba.com/ai-nvidia-earnings-nov-17-108b-guide-89-above-a-year-ago/",
-      "published_at": "2026-11-17"
+      "headline": "MIT-developed AI model roughly doubles reliability of 2-6 week weather forecasts",
+      "summary": "Researchers led by MIT's Judah Cohen built an AI postprocessing layer that learns from a forecasting system's historical errors to sharpen subseasonal predictions, doubling forecast reliability for the two-to-six-week range when applied to ECMWF's system. The approach reportedly flagged a severe US cold snap and a major blizzard weeks ahead of traditional long-range models.",
+      "source": "MIT News",
+      "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
+      "published_at": "2026-11-13"
     }
   ]
 }
