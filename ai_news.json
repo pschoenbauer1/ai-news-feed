@@ -1,68 +1,75 @@
 {
-  "generated_at": "2026-11-20T05:12:06Z",
+  "generated_at": "2026-11-21T06:00:00Z",
   "items": [
     {
-      "headline": "Anthropic completes IPO, begins trading on Nasdaq as ANT",
-      "summary": "Anthropic priced its IPO at $83 per share, above its $70-$78 range, and began trading on Nasdaq under the ticker ANT on November 19, in one of the largest tech listings on record. The debut tests investor appetite for AI-lab economics amid growing scrutiny of circular financing deals among frontier labs.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-      "published_at": "2026-11-19"
-    },
-    {
-      "headline": "Anthropic's Amodei recommits to \"pacing\" AI development at Nasdaq bell",
-      "summary": "At Anthropic's Nasdaq opening-bell ceremony marking its public debut, CEO Dario Amodei reiterated the company's stated commitment to developing AI deliberately rather than racing ahead, regardless of competitive or political pressure. The remarks underscore the tension between Anthropic's safety-focused positioning and its new status as a public, growth-driven company.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
-      "published_at": "2026-11-19"
-    },
-    {
-      "headline": "Meta's AI agent Muse reportedly mixing up conversations, exposing private data",
-      "summary": "Meta employees have raised internal concerns that the company's AI agent Muse has been crossing conversations between different user accounts, potentially exposing private data, according to a Reuters report. A Meta spokesperson defended the issue as part of normal product-development testing.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-      "published_at": "2026-11-19"
-    },
-    {
-      "headline": "Google gives Gemini the ability to take over your Mac",
-      "summary": "Google added computer-use capability to its Gemini app on macOS, letting the assistant perform multi-step tasks on a user's behalf while pausing for approval before key actions. The feature requires a paid Google AI Plus, Pro, or Ultra subscription and extends the ongoing push by major AI labs into autonomous desktop agents.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you",
-      "published_at": "2026-11-19"
-    },
-    {
-      "headline": "US tightens AI chip export rules to close China's overseas data-center loophole",
-      "summary": "The Bureau of Industry and Security issued an interim rule on November 16 aimed at preventing Chinese firms from accessing advanced American chips through overseas cloud data centers. China's Commerce Ministry said on November 17 it firmly opposes the move and warned of retaliatory measures.",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/tech/article/3374639/us-tightens-ai-chip-export-curbs-close-chinas-overseas-data-centre-loophole",
+      "headline": "OpenAI launches GPT-6.2 Astra and Sol",
+      "summary": "OpenAI released two new models, GPT-6.2 Astra and GPT-6.2 Sol, aimed at professional work, coding and 3D design while cutting Astra's standard API price by 20% to $8 per million input tokens. The launch comes seven weeks after OpenAI reportedly scrapped a planned GPT-6.1 Astra over an alignment regression found in safety testing.",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
       "published_at": "2026-11-17"
     },
     {
-      "headline": "CoreWeave signs multi-year cloud deal to power Wayve's self-driving AI training",
-      "summary": "Autonomous-driving startup Wayve will train, evaluate and simulate its mapless \"AI Driver\" foundation models on CoreWeave's cloud using Nvidia Blackwell GPUs under a new multi-year agreement. The deal expands Wayve's compute capacity as it pushes toward hardware-agnostic self-driving systems for automakers and fleet operators.",
-      "source": "Data Center Dynamics",
-      "url": "https://datacenterdynamics.com/en/news/coreweave-signs-multi-year-cloud-agreement-with-wayve",
-      "published_at": "2026-11-15"
+      "headline": "Microsoft reinvents Copilot as an autonomous enterprise agent at Ignite 2026",
+      "summary": "At its Ignite conference, Microsoft unveiled Autopilot, an always-on cloud-based Copilot agent that keeps work moving without step-by-step direction, alongside expansions to the Cowork task-delegation portal and Agent 365's AI-budgeting tools. The push signals Microsoft's bet on autonomous agents as the next phase of enterprise AI competition against Google and Meta.",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/11/18/at-ignite-2026-microsoft-reinvents-copilot-as-the-autonomous-engine-of-enterprise-work/",
+      "published_at": "2026-11-18"
     },
     {
-      "headline": "Munich starts autonomous bus trial with real passengers",
-      "summary": "MAN Truck & Bus and transit operator MVG began carrying registered test passengers on a 12-metre autonomous electric bus on Munich route 178 starting November 17, part of the MINGA research project monitored by the Technical University of Munich. The bus still runs as an addition to scheduled service rather than a replacement, with trials set to continue until mid-2027.",
-      "source": "Sustainable Bus",
-      "url": "https://www.sustainable-bus.com/news/man-mvg-launch-minga-project-autonomous-bus-rides/",
+      "headline": "Nvidia CEO Jensen Huang resigns; CFO Colette Kress named interim CEO",
+      "summary": "Nvidia announced that Jensen Huang stepped down immediately as president, CEO and board member after 33 years, with CFO Colette Kress taking over as interim CEO while the board searches for a permanent successor. Shares fell roughly 10% in pre-market trading amid reports linking the exit to a personal-conduct inquiry, which the board said found no evidence company or national-security information was compromised.",
+      "source": "The San Francisco Standard",
+      "url": "https://sfstandard.com/2026/11/12/nvidia-ceo-jensen-huang-resigns/",
+      "published_at": "2026-11-12"
+    },
+    {
+      "headline": "Nvidia halts Hopper-class AI chip shipments to China despite US approval",
+      "summary": "Interim CEO Colette Kress told investors on an earnings call that Nvidia's guidance excludes licensed Hopper-generation data-center chips for China going forward, after selling $2.4 billion of them in the prior quarter, even though Washington had eased licensing earlier in the year. Nvidia also created a new board-level export-control oversight committee the same week, while its more advanced Blackwell and Rubin chips remain barred from the Chinese market entirely.",
+      "source": "Bloomberg Government",
+      "url": "https://news.bgov.com/bloomberg-government-news/nvidia-stops-selling-ai-chips-to-china-despite-us-approval",
       "published_at": "2026-11-17"
     },
     {
-      "headline": "DeepMind's AlphaGenome 2 nearly doubles accuracy in predicting disease-linked DNA variants",
-      "summary": "Google DeepMind released AlphaGenome 2, which predicts how DNA variants affect specific human cell types rather than averaged tissue samples, identifying nearly twice as many expression-altering variants as its predecessor. The model is free for academic research via API but not yet validated for clinical or diagnostic use.",
-      "source": "DeepMind",
-      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-      "published_at": "2026-11-11"
+      "headline": "Meta releases Muse Ember, its smallest and cheapest AI model, for agent workloads",
+      "summary": "Meta Superintelligence Labs launched Muse Ember, a lightweight model priced at $0.10/$0.50 per million input/output tokens and designed to handle high-volume agent execution tasks like tool calls and document parsing while a larger Muse model plans the work. It's the latest step in Meta's pivot away from open-weight Llama releases toward its closed Muse model family.",
+      "source": "Let's Data Science",
+      "url": "https://letsdatascience.com/news/meta-releases-muse-ember-a-low-cost-model-for-agent-executio-7b564cff",
+      "published_at": "2026-11-09"
     },
     {
-      "headline": "MIT-developed AI model roughly doubles reliability of 2-6 week weather forecasts",
-      "summary": "Researchers led by MIT's Judah Cohen built an AI postprocessing layer that learns from a forecasting system's historical errors to sharpen subseasonal predictions, doubling forecast reliability for the two-to-six-week range when applied to ECMWF's system. The approach reportedly flagged a severe US cold snap and a major blizzard weeks ahead of traditional long-range models.",
-      "source": "MIT News",
-      "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-      "published_at": "2026-11-13"
+      "headline": "Anthropic publishes new prompting guidance for Claude Opus 5.5",
+      "summary": "Anthropic released an updated prompting guide advising developers to drop legacy instructions like \"think step by step\" for Claude Opus 5.5, which generates tokens over 30% faster and often finishes tasks with fewer tokens than Opus 5. The guide also notes that extended thinking can no longer be disabled on Opus 5.5 at higher effort levels, which can affect apps relying on fixed output caps.",
+      "source": "Anthropic",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+      "published_at": "2026-11-12"
+    },
+    {
+      "headline": "Boston Dynamics expands Spot deployment and begins Atlas testing at GlobalFoundries",
+      "summary": "Boston Dynamics and chipmaker GlobalFoundries expanded their robotics partnership, with Spot robots taking on asset-management work across GF's semiconductor fabs in New York, Vermont, Germany and Singapore while the humanoid Atlas begins trials there too. It's part of Boston Dynamics' push to move Atlas beyond automotive plants, with all of its 2026 production capacity already committed to customers including Hyundai and Google DeepMind.",
+      "source": "Let's Data Science",
+      "url": "https://letsdatascience.com/news/boston-dynamics-expands-spot-deployment-and-atlas-testing-at-d23ffd8c",
+      "published_at": "2026-11-17"
+    },
+    {
+      "headline": "Boston Dynamics' Atlas humanoid lands its first non-automotive industrial trial",
+      "summary": "Atlas, Boston Dynamics' production humanoid robot built initially for automotive manufacturing floors, has started its first trial deployment outside the auto industry, broadening the commercial case for humanoid labor in general industrial settings. The move follows a leadership change at the company, which named former Amazon executive Rohit Prasad as CEO earlier this fall.",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com/boston-dynamics-atlas-humanoid-lands-first-non-automotive-trial/",
+      "published_at": "2026-11-17"
+    },
+    {
+      "headline": "Agility Robotics goes public as the first US-listed humanoid robotics maker",
+      "summary": "Agility Robotics completed a business combination to begin trading publicly, becoming the first specialist humanoid robotics company listed on a US exchange, entering the market with more than $300 million in conditional multiyear orders for its Digit 5 humanoid. The listing follows Agility's recent commercial deployment agreement with manufacturer AGCO.",
+      "source": "AI Business",
+      "url": "https://aibusiness.com/robotics/agility-robotics-goes-public-first-u-s-specialist-humanoid-maker",
+      "published_at": "2026-11-18"
+    },
+    {
+      "headline": "Edge0 open-sources a 145-billion-parameter model that runs on a single laptop GPU",
+      "summary": "Startup Edge0 released Edge0-145B and a smaller Edge0-120B, billed as the first open-source on-device models at that scale, claiming they can run on a consumer laptop with roughly 29GB of peak memory or a single 16GB consumer GPU. The model is built on Qwen3.8-Flash-Next, with weights on Hugging Face and an Apache-2.0 inference framework on GitHub, though performance figures are the vendor's own and not yet independently verified.",
+      "source": "Let's Data Science",
+      "url": "https://letsdatascience.com/news/edge0-open-sources-145b-on-device-model-for-laptops-e25b70af",
+      "published_at": "2026-11-12"
     }
   ]
 }
