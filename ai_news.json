@@ -1,81 +1,82 @@
 {
-  "generated_at": "2026-11-22T00:00:00Z",
+  "generated_at": "2026-11-23T12:00:00Z",
   "items": [
     {
-      "headline": "Anthropic prices IPO at $83 a share, debuts on Nasdaq at ~$1.5 trillion valuation",
-      "summary": "Anthropic priced its initial public offering above its projected range and began trading on the Nasdaq Global Select Market under the ticker ANT, one of the largest-ever tech listings. It marks the first time a frontier AI lab has gone public, putting its finances and safety practices under new public-market scrutiny.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-      "published_at": "2026-11-18"
+      "headline": "Anthropic makes record-breaking Nasdaq debut",
+      "summary": "Anthropic began trading on Nasdaq under the ticker ANT on November 19 after pricing its IPO at $83 and raising roughly $81 billion at about a $1.5 trillion valuation, the largest IPO in history. The listing is a major test of investor appetite for AI-lab valuations amid growing bubble concerns.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-starts-trading-in-the-us-after-blockbuster-ipo",
+      "published_at": "2026-11-19"
     },
     {
-      "headline": "Nvidia posts record $115.8B quarterly revenue, raises data-center guidance",
-      "summary": "Nvidia reported fiscal Q3 revenue of $115.8 billion, up 103% year over year, with data-center revenue of $107.6 billion, and guided Q4 data-center revenue to about $130 billion. The results underscore continued hyperscaler demand for AI infrastructure even as the company navigates export restrictions.",
-      "source": "TechPowerUp",
-      "url": "https://www.techpowerup.com/354965/nvidia-reports-q3-2026-earnings-of-usd-115-8-billion",
+      "headline": "Asian markets tumble as AI bubble fears mount",
+      "summary": "Stock markets across Asia fell sharply, with the Nasdaq Composite erasing its 2026 gains, as investors grew more skeptical about the sustainability of massive AI infrastructure spending. The selloff underscores widening doubts on Wall Street about whether AI capital expenditure can be justified by returns.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount",
+      "published_at": "2026-11-23"
+    },
+    {
+      "headline": "OpenAI releases GPT-6.2 Astra and Sol",
+      "summary": "OpenAI launched two new models, with Astra priced 20% cheaper than its predecessor and positioned for demanding professional work, while Sol targets everyday use. Astra is the first model OpenAI has deployed externally that meets the 'High' threshold for AI self-improvement under its Preparedness Framework, drawing added safety scrutiny.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/?p=3167633",
       "published_at": "2026-11-17"
     },
     {
-      "headline": "Nvidia halts H200 AI chip shipments to China under new interim CEO",
-      "summary": "Interim CEO Colette Kress confirmed Nvidia has stopped shipping licensed H200-class chips to China after selling $2.4 billion worth last quarter, with no further shipments currently planned. The move follows Jensen Huang's departure and adds fresh uncertainty to US-China AI chip trade.",
-      "source": "The Standard (Hong Kong)",
-      "url": "https://www.thestandard.com.hk/china/article/348898/Nvidia-stops-shipping-US-approved-AI-chips-to-China",
+      "headline": "Four nonprofits sue OpenAI, Anthropic, Google, Meta and SpaceXSI to halt frontier AI development",
+      "summary": "A coalition including Public Citizen and the Alliance for Secure AI filed suit in San Francisco Superior Court seeking an injunction—not damages—to freeze advanced AI research at five major companies, relying on California's unfair competition law in an untested legal theory.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/12/us-nonprofits-sue-tech-giants-to-halt-ai-development",
+      "published_at": "2026-11-12"
+    },
+    {
+      "headline": "Nvidia expands chip supply chain deals with Kinsus and Samsung Electro-Mechanics",
+      "summary": "Nvidia announced new long-term agreements to add substrate capacity and expand production at existing factories, part of its push to secure components for sustained AI data-center chip growth amid continued demand for its GPUs.",
+      "source": "Nvidia Newsroom",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout",
+      "published_at": "2026-11-17"
+    },
+    {
+      "headline": "Nvidia unveils HPC and AI platform advances at Supercomputing '26",
+      "summary": "At the SC26 show in Chicago, Nvidia detailed next-generation GPU and CPU platforms, networking and interconnect technology, and systems aimed at large-scale agentic AI and scientific computing workloads, reinforcing its push to dominate AI infrastructure.",
+      "source": "Network World",
+      "url": "https://www.networkworld.com/article/4250303/nvidia-expands-ai-infrastructure-push-into-high-performance-computing.html",
       "published_at": "2026-11-18"
     },
     {
-      "headline": "Palo Alto Networks to buy AI startup Applied Compute for $4.5 billion",
-      "summary": "The all-stock deal gives the cybersecurity giant technology for training, customizing, and securing open-weight AI models, and is the company's second-largest acquisition ever. It signals growing enterprise demand for securing mixed fleets of open and closed AI models.",
-      "source": "CSO Online",
-      "url": "https://csoonline.com/article/4250669/palo-alto-networks-bets-4-5b-on-enterprise-ai-with-applied-compute-acquisition.html",
-      "published_at": "2026-11-18"
+      "headline": "Google DeepMind introduces Gemini Robotics 2.5",
+      "summary": "DeepMind's most capable vision-language-action model to date is rolling out to robotics partners to improve dexterity, reliability and safety in real-world robot tasks, continuing the push toward general-purpose embodied AI.",
+      "source": "Robotics 24/7",
+      "url": "https://www.robotics247.com/article/google-deepmind-introduces-gemini-robotics-2.5-ai-model-to-improve-robot-dexterity-and-reliability",
+      "published_at": "2026-11-10"
     },
     {
-      "headline": "Arizona AG opens criminal probe of OpenAI over AI agents allegedly infiltrating banks",
-      "summary": "Attorney General Kris Mayes said her office is investigating OpenAI and unnamed other AI companies over autonomous agents allegedly accessing bank systems improperly. The probe, still preliminary, adds to mounting state-level legal pressure on AI firms following a separate California lawsuit over agent safety.",
-      "source": "AIWeekly",
-      "url": "https://aiweekly.co/alerts/arizona-ag-opens-criminal-probe-of-openai-over-rogue-bank-agents",
-      "published_at": "2026-11-18"
+      "headline": "Apptronik's Apollo 2 humanoid hits 96% success rate in Mercedes-Benz factory pilot",
+      "summary": "Apollo 2 humanoid robots ran on active Mercedes-Benz production lines in Hungary and Germany, achieving a 96% task success rate in a proof-of-concept, a notable data point in the race to prove humanoid robots can work reliably in real factories.",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/gemini-robotics-2-whole-body-humanoid-control",
+      "published_at": "2026-11-10"
     },
     {
-      "headline": "Microsoft reinvents Copilot as an autonomous enterprise agent at Ignite 2026",
-      "summary": "At its Ignite conference, Microsoft unveiled Autopilot, an always-on cloud-based Copilot agent that keeps work moving without step-by-step direction, alongside expansions to Copilot Workspaces and Agent 365's AI-budgeting tools. The push signals Microsoft's bet on autonomous agents as the next phase of enterprise AI competition against Google and Meta.",
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/11/18/at-ignite-2026-microsoft-reinvents-copilot-as-the-autonomous-engine-of-enterprise-work/",
-      "published_at": "2026-11-18"
+      "headline": "DeepMind unveils AlphaGenome 2",
+      "summary": "Google DeepMind released an updated model for predicting how DNA sequence variants affect cell types, aimed at improving scientific understanding of disease mechanisms—part of a broader push by DeepMind into AI-driven biology research.",
+      "source": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/?category=Science",
+      "published_at": "2026-11"
     },
     {
-      "headline": "Anthropic launches Claude Fable 5.2 and Claude Mythos 5.2",
-      "summary": "Anthropic released its latest model pair, Claude Fable 5.2 and a more restricted sibling, Claude Mythos 5.2, pitched at coding and enterprise office work. The launch landed just ahead of the company's IPO, positioning its newest models as evidence of continued technical momentum for investors.",
-      "source": "AI Business",
-      "url": "https://aibusiness.com/generative-ai/anthropic-launches-new-ai-models"
-    },
-    {
-      "headline": "Google DeepMind unveils next-generation Gemini Robotics model",
-      "summary": "The new vision-language-action model was tested across more than 200 distinct tasks, including a Mercedes-Benz manufacturing trial that reportedly reached a 96% success rate packing automotive parts. It represents one of the more concrete demonstrations yet of general-purpose robot manipulation at near-production reliability.",
-      "source": "SiliconAngle",
-      "url": "https://siliconangle.com/?p=853854",
+      "headline": "Alibaba opens limited preview of Qwen4-Max",
+      "summary": "Alibaba launched a time-limited preview of Qwen4-Max, the first public model from its Qwen4 family, featuring a 1-million-token context window. The preview runs only through November 25 and is accessible solely via a subscription plan, with no benchmarks or pricing yet disclosed.",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/tech/article/3347272/preview-alibabas-strongest-ai-model-tops-chinese-peers-ranking-lags-us-rivals",
       "published_at": "2026-11-11"
     },
     {
-      "headline": "Google DeepMind announces AlphaGenome 2 for predicting DNA variant effects",
-      "summary": "Released alongside the new Gemini Robotics model, AlphaGenome 2 is designed to predict how DNA sequences and their variations affect different human cell types. It extends DeepMind's push to apply large-scale AI models to genomics and disease research.",
-      "source": "SiliconAngle",
-      "url": "https://siliconangle.com/?p=853854",
-      "published_at": "2026-11-11"
-    },
-    {
-      "headline": "DOJ indicts three in $129M fraud scheme using AI deepfakes of law firm executives",
-      "summary": "US prosecutors charged three foreign nationals accused of using AI-generated audio and video to impersonate CEOs and attorneys at major international law firms to authorize fraudulent wire transfers. The case highlights the growing real-world financial risk from generative-AI-enabled impersonation fraud.",
-      "source": "Techmeme",
-      "url": "https://www.techmeme.com/261119/p7",
-      "published_at": "2026-11-06"
-    },
-    {
-      "headline": "xAI's Grok expands enterprise reach through Coforge partnership",
-      "summary": "Indian IT services firm Coforge joined SpaceX's Super Intelligence Partner Network as a Transformation Partner, building sector-specific Grok tools for enterprise clients. The deal is part of xAI's push to compete with OpenAI and Anthropic for enterprise AI adoption.",
-      "source": "The Star (Malaysia) / Reuters",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/06/india039s-coforge-joins-spacex-partner-network-to-deploy-grok-ai-tools-for-enterprises",
-      "published_at": "2026-11-06"
+      "headline": "Anthropic unveils Claude Fable 5.2 and Mythos 5.2 ahead of IPO",
+      "summary": "Anthropic introduced two new Claude variants focused on coding and office/agentic work just before its Wall Street debut, with Fable 5.2 reportedly scoring 41.3% on the Remote Labor Index, as the company sought to showcase technical momentum to investors.",
+      "source": "Bloomberg Tax",
+      "url": "https://news.bloombergtax.com/private-equity/anthropic-unveils-new-fable-mythos-ai-models-ahead-of-ipo",
+      "published_at": "2026-11-09"
     }
   ]
 }
