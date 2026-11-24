@@ -1,9 +1,16 @@
 {
-  "generated_at": "2026-11-23T12:00:00Z",
+  "generated_at": "2026-11-24T12:00:00Z",
   "items": [
     {
+      "headline": "Jensen Huang resigns as Nvidia CEO; CFO Colette Kress named interim chief",
+      "summary": "Nvidia's board accepted Jensen Huang's resignation after 33 years leading the company, naming CFO Colette Kress as interim CEO while it searches for a permanent successor. The abrupt leadership change at the world's most valuable chipmaker has rattled investors already nervous about AI-sector valuations.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/",
+      "published_at": "2026-11-12"
+    },
+    {
       "headline": "Anthropic makes record-breaking Nasdaq debut",
-      "summary": "Anthropic began trading on Nasdaq under the ticker ANT on November 19 after pricing its IPO at $83 and raising roughly $81 billion at about a $1.5 trillion valuation, the largest IPO in history. The listing is a major test of investor appetite for AI-lab valuations amid growing bubble concerns.",
+      "summary": "Anthropic began trading on Nasdaq under ticker ANT after pricing its IPO at $83 a share and raising roughly $81 billion at about a $1.5 trillion valuation, the largest IPO in history. The listing is a major test of investor appetite for frontier AI-lab valuations amid growing bubble concerns.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-starts-trading-in-the-us-after-blockbuster-ipo",
       "published_at": "2026-11-19"
@@ -17,17 +24,24 @@
     },
     {
       "headline": "OpenAI releases GPT-6.2 Astra and Sol",
-      "summary": "OpenAI launched two new models, with Astra priced 20% cheaper than its predecessor and positioned for demanding professional work, while Sol targets everyday use. Astra is the first model OpenAI has deployed externally that meets the 'High' threshold for AI self-improvement under its Preparedness Framework, drawing added safety scrutiny.",
+      "summary": "OpenAI launched two new models: Astra, priced 20% cheaper than its predecessor and aimed at demanding professional work, and Sol, targeting everyday use. Astra is the first model OpenAI has deployed externally that meets the 'High' threshold for AI self-improvement under its Preparedness Framework, drawing added safety scrutiny.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/?p=3167633",
       "published_at": "2026-11-17"
     },
     {
-      "headline": "Four nonprofits sue OpenAI, Anthropic, Google, Meta and SpaceXSI to halt frontier AI development",
-      "summary": "A coalition including Public Citizen and the Alliance for Secure AI filed suit in San Francisco Superior Court seeking an injunction—not damages—to freeze advanced AI research at five major companies, relying on California's unfair competition law in an untested legal theory.",
+      "headline": "Four nonprofits sue OpenAI, Anthropic, Google, Meta and SpaceX to halt frontier AI development",
+      "summary": "A coalition including Public Citizen and the Alliance for Secure AI filed suit in San Francisco Superior Court seeking an injunction to freeze advanced AI research at five major companies, relying on California's unfair competition law in an untested legal theory.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/11/12/us-nonprofits-sue-tech-giants-to-halt-ai-development",
       "published_at": "2026-11-12"
+    },
+    {
+      "headline": "Nvidia unveils Rubin HPC GPU and Nemotron for Science at Supercomputing '26",
+      "summary": "At the SC26 conference, Nvidia introduced its Rubin HPC GPU for scientific simulation and analytics, part of the Vera Rubin platform, alongside Nemotron for Science, an open model package paired with a chemistry dataset for building research agents. The push signals Nvidia's expansion from AI training workloads into traditional high-performance scientific computing.",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/11/16/nvidia-debuts-new-rubin-hpc-chip-scientific-research-libraries/",
+      "published_at": "2026-11-16"
     },
     {
       "headline": "Nvidia expands chip supply chain deals with Kinsus and Samsung Electro-Mechanics",
@@ -37,46 +51,32 @@
       "published_at": "2026-11-17"
     },
     {
-      "headline": "Nvidia unveils HPC and AI platform advances at Supercomputing '26",
-      "summary": "At the SC26 show in Chicago, Nvidia detailed next-generation GPU and CPU platforms, networking and interconnect technology, and systems aimed at large-scale agentic AI and scientific computing workloads, reinforcing its push to dominate AI infrastructure.",
-      "source": "Network World",
-      "url": "https://www.networkworld.com/article/4250303/nvidia-expands-ai-infrastructure-push-into-high-performance-computing.html",
-      "published_at": "2026-11-18"
-    },
-    {
-      "headline": "Google DeepMind introduces Gemini Robotics 2.5",
-      "summary": "DeepMind's most capable vision-language-action model to date is rolling out to robotics partners to improve dexterity, reliability and safety in real-world robot tasks, continuing the push toward general-purpose embodied AI.",
-      "source": "Robotics 24/7",
-      "url": "https://www.robotics247.com/article/google-deepmind-introduces-gemini-robotics-2.5-ai-model-to-improve-robot-dexterity-and-reliability",
-      "published_at": "2026-11-10"
+      "headline": "Google DeepMind launches Gemini Robotics 2.5",
+      "summary": "DeepMind's newest vision-language-action model reports 30-100% higher task success rates and 20-30% faster completion than its predecessor across more than 200 evaluated tasks, alongside an open-sourced ASIMOV-Jailbreak safety benchmark. It is rolling out first to DeepMind's robotics hardware partners rather than via public API.",
+      "source": "Robotics and Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/11/15/google-deepmind-launches-gemini-robotics-2-5-with-improved-dexterity-and-industrial-capabilities/",
+      "published_at": "2026-11-15"
     },
     {
       "headline": "Apptronik's Apollo 2 humanoid hits 96% success rate in Mercedes-Benz factory pilot",
-      "summary": "Apollo 2 humanoid robots ran on active Mercedes-Benz production lines in Hungary and Germany, achieving a 96% task success rate in a proof-of-concept, a notable data point in the race to prove humanoid robots can work reliably in real factories.",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/gemini-robotics-2-whole-body-humanoid-control",
-      "published_at": "2026-11-10"
-    },
-    {
-      "headline": "DeepMind unveils AlphaGenome 2",
-      "summary": "Google DeepMind released an updated model for predicting how DNA sequence variants affect cell types, aimed at improving scientific understanding of disease mechanisms—part of a broader push by DeepMind into AI-driven biology research.",
-      "source": "DeepMind Blog",
-      "url": "https://deepmind.google/blog/?category=Science",
-      "published_at": "2026-11"
+      "summary": "Running on Google DeepMind's Gemini Robotics ER for task planning, Apptronik's Apollo 2 humanoid achieved a 96% success rate in an automotive parts-kitting trial at a Mercedes-Benz plant, among the strongest reported results yet for humanoid robots in real manufacturing settings.",
+      "source": "Robotics and Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/11/15/google-deepmind-launches-gemini-robotics-2-5-with-improved-dexterity-and-industrial-capabilities/",
+      "published_at": "2026-11-15"
     },
     {
       "headline": "Alibaba opens limited preview of Qwen4-Max",
-      "summary": "Alibaba launched a time-limited preview of Qwen4-Max, the first public model from its Qwen4 family, featuring a 1-million-token context window. The preview runs only through November 25 and is accessible solely via a subscription plan, with no benchmarks or pricing yet disclosed.",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/tech/article/3347272/preview-alibabas-strongest-ai-model-tops-chinese-peers-ranking-lags-us-rivals",
-      "published_at": "2026-11-11"
+      "summary": "Alibaba unveiled Qwen4-Max-Preview, a flagship model with a 1-million-token context window built for coding, frontend design and multistep agent workflows, available only through a time-limited subscription that closes November 25. Alibaba claims 2.4 trillion total parameters, though independent benchmarking remains limited.",
+      "source": "Alibaba Cloud",
+      "url": "https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max",
+      "published_at": "2026-11-16"
     },
     {
-      "headline": "Anthropic unveils Claude Fable 5.2 and Mythos 5.2 ahead of IPO",
-      "summary": "Anthropic introduced two new Claude variants focused on coding and office/agentic work just before its Wall Street debut, with Fable 5.2 reportedly scoring 41.3% on the Remote Labor Index, as the company sought to showcase technical momentum to investors.",
-      "source": "Bloomberg Tax",
-      "url": "https://news.bloombergtax.com/private-equity/anthropic-unveils-new-fable-mythos-ai-models-ahead-of-ipo",
-      "published_at": "2026-11-09"
+      "headline": "Microsoft pushes agentic AI governance and security tools at Ignite 2026",
+      "summary": "At its Ignite conference opening keynote, Microsoft framed Copilot as 'the new operating system for work' and announced Copilot Workspaces for human-agent collaboration, along with Entra Agent ID, Dynamic Agent Risk monitoring, and a broader push to give enterprise AI agents their own identities and oversight.",
+      "source": "Constellation Research",
+      "url": "https://www.constellationr.com/insights/news/ignite-2026-microsoft-makes-case-be-your-work-operating-system-intelligence-layer",
+      "published_at": "2026-11-17"
     }
   ]
 }
