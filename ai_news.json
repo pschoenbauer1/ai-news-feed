@@ -1,82 +1,75 @@
 {
-  "generated_at": "2026-11-24T12:00:00Z",
+  "generated_at": "2026-11-25T05:14:27Z",
   "items": [
     {
-      "headline": "Jensen Huang resigns as Nvidia CEO; CFO Colette Kress named interim chief",
-      "summary": "Nvidia's board accepted Jensen Huang's resignation after 33 years leading the company, naming CFO Colette Kress as interim CEO while it searches for a permanent successor. The abrupt leadership change at the world's most valuable chipmaker has rattled investors already nervous about AI-sector valuations.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/",
-      "published_at": "2026-11-12"
+      "headline": "Federal judge pauses discovery in Amazon's lawsuit against Perplexity",
+      "summary": "A federal court stayed discovery in Amazon's case against Perplexity over its agentic AI shopping tool Comet, days after an appeals court lifted an earlier injunction that had barred the tool from Amazon.com. The dispute is an early test of how courts will treat AI agents that act on a user's behalf on third-party websites.",
+      "source": "Law360",
+      "url": "https://www.law360.com/articles/2552948/perplexity-fights-uphill-to-avoid-amazon-suit-over-ai-tool",
+      "published_at": "2026-11-20"
     },
     {
-      "headline": "Anthropic makes record-breaking Nasdaq debut",
-      "summary": "Anthropic began trading on Nasdaq under ticker ANT after pricing its IPO at $83 a share and raising roughly $81 billion at about a $1.5 trillion valuation, the largest IPO in history. The listing is a major test of investor appetite for frontier AI-lab valuations amid growing bubble concerns.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-starts-trading-in-the-us-after-blockbuster-ipo",
-      "published_at": "2026-11-19"
-    },
-    {
-      "headline": "Asian markets tumble as AI bubble fears mount",
-      "summary": "Stock markets across Asia fell sharply, with the Nasdaq Composite erasing its 2026 gains, as investors grew more skeptical about the sustainability of massive AI infrastructure spending. The selloff underscores widening doubts on Wall Street about whether AI capital expenditure can be justified by returns.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount",
-      "published_at": "2026-11-23"
-    },
-    {
-      "headline": "OpenAI releases GPT-6.2 Astra and Sol",
-      "summary": "OpenAI launched two new models: Astra, priced 20% cheaper than its predecessor and aimed at demanding professional work, and Sol, targeting everyday use. Astra is the first model OpenAI has deployed externally that meets the 'High' threshold for AI self-improvement under its Preparedness Framework, drawing added safety scrutiny.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/?p=3167633",
-      "published_at": "2026-11-17"
-    },
-    {
-      "headline": "Four nonprofits sue OpenAI, Anthropic, Google, Meta and SpaceX to halt frontier AI development",
-      "summary": "A coalition including Public Citizen and the Alliance for Secure AI filed suit in San Francisco Superior Court seeking an injunction to freeze advanced AI research at five major companies, relying on California's unfair competition law in an untested legal theory.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/12/us-nonprofits-sue-tech-giants-to-halt-ai-development",
-      "published_at": "2026-11-12"
-    },
-    {
-      "headline": "Nvidia unveils Rubin HPC GPU and Nemotron for Science at Supercomputing '26",
-      "summary": "At the SC26 conference, Nvidia introduced its Rubin HPC GPU for scientific simulation and analytics, part of the Vera Rubin platform, alongside Nemotron for Science, an open model package paired with a chemistry dataset for building research agents. The push signals Nvidia's expansion from AI training workloads into traditional high-performance scientific computing.",
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/11/16/nvidia-debuts-new-rubin-hpc-chip-scientific-research-libraries/",
+      "headline": "US tightens AI chip export rules to close China's overseas data-center loophole",
+      "summary": "The Trump administration moved to block Chinese firms from indirectly accessing advanced American AI chips and models through data centers in third countries, with lawmakers also pushing tougher legislation. The move extends a broader, ongoing US effort to restrict China's access to frontier AI hardware.",
+      "source": "The Boston Globe",
+      "url": "https://www.bostonglobe.com/2026/11/16/nation/trump-block-china-indirect-access-american-ai-technology/",
       "published_at": "2026-11-16"
     },
     {
-      "headline": "Nvidia expands chip supply chain deals with Kinsus and Samsung Electro-Mechanics",
-      "summary": "Nvidia announced new long-term agreements to add substrate capacity and expand production at existing factories, part of its push to secure components for sustained AI data-center chip growth amid continued demand for its GPUs.",
-      "source": "Nvidia Newsroom",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout",
+      "headline": "Anthropic commits $3.4 billion to gas generators for AI data centers",
+      "summary": "Anthropic agreed to pay roughly $3.4 billion for 1.7 gigawatts of heavy-duty Caterpillar gas generators, taking over orders, engineering and construction from supplier OnePWR Solutions. It's described as the largest known single purchase of power-generation equipment by an AI lab, underscoring how electricity supply is becoming a bottleneck for AI buildouts.",
+      "source": "TechRadar Pro",
+      "url": "https://www.techradar.com/pro/anthropic-is-spending-usd3-4-billion-on-natural-gas-turbines-to-avoid-the-ai-power-crisis-caterpillar-generators-capable-of-producing-up-to-1-7-gigawatts-of-electricity-could-power-the-next-generation-of-claude",
+      "published_at": "2026-11-09"
+    },
+    {
+      "headline": "Meta's infrastructure chief Santosh Janardhan to step down",
+      "summary": "Janardhan, who led Meta's infrastructure organization and co-headed engineering for roughly 17 years, told staff he will leave in early 2027; former AWS executive Dave Brown will take over infrastructure. The shift comes as Meta plans $135-145 billion in capital spending this year, much of it on AI data centers.",
+      "source": "Bloomberg Government",
+      "url": "https://news.bgov.com/tech-and-telecom-law/metas-head-of-infrastructure-engineering-to-step-down-in-2027",
+      "published_at": "2026-11-11"
+    },
+    {
+      "headline": "Wall Street tech selloff deepens on AI spending and export-curb worries",
+      "summary": "US technology and semiconductor stocks fell sharply ahead of Nvidia's quarterly results, as investors weighed new US restrictions on AI chip exports to China alongside broader concern about the sustainability of AI infrastructure spending.",
+      "source": "Business Today Malaysia",
+      "url": "https://www.businesstoday.com.my/2026/11/17/wall-street-sinks-as-ai-jitters-hit-nvidia-and-chip-stocks/",
       "published_at": "2026-11-17"
     },
     {
-      "headline": "Google DeepMind launches Gemini Robotics 2.5",
-      "summary": "DeepMind's newest vision-language-action model reports 30-100% higher task success rates and 20-30% faster completion than its predecessor across more than 200 evaluated tasks, alongside an open-sourced ASIMOV-Jailbreak safety benchmark. It is rolling out first to DeepMind's robotics hardware partners rather than via public API.",
-      "source": "Robotics and Automation News",
-      "url": "https://roboticsandautomationnews.com/2026/11/15/google-deepmind-launches-gemini-robotics-2-5-with-improved-dexterity-and-industrial-capabilities/",
-      "published_at": "2026-11-15"
+      "headline": "Mistral launches Large 4 ('Le Chonk') and expands Studio for enterprise AI agents",
+      "summary": "French AI lab Mistral introduced its Large 4 model, aimed at coding, defensive cybersecurity and document reasoning, alongside an expanded Studio platform for building and deploying managed agents, workflows and apps across cloud, VPC or on-premises environments.",
+      "source": "Mistral AI",
+      "url": "https://mistral.ai/news/build-with-studio/",
+      "published_at": "2026-11-06"
     },
     {
-      "headline": "Apptronik's Apollo 2 humanoid hits 96% success rate in Mercedes-Benz factory pilot",
-      "summary": "Running on Google DeepMind's Gemini Robotics ER for task planning, Apptronik's Apollo 2 humanoid achieved a 96% success rate in an automotive parts-kitting trial at a Mercedes-Benz plant, among the strongest reported results yet for humanoid robots in real manufacturing settings.",
-      "source": "Robotics and Automation News",
-      "url": "https://roboticsandautomationnews.com/2026/11/15/google-deepmind-launches-gemini-robotics-2-5-with-improved-dexterity-and-industrial-capabilities/",
-      "published_at": "2026-11-15"
+      "headline": "Swiss startup Embodied AI unveils AIR, a cageless wheeled factory robot",
+      "summary": "Embodied AI debuted AIR at Humanoid Europe 2026 in Munich: a wheeled, two-armed robot with soft, compliant arms designed to work alongside factory staff without a safety cage, and to learn new tasks from human demonstration within about a month. It reflects a broader industry push toward humanoid-style robots that can be deployed safely in existing factories.",
+      "source": "Robotics 24/7",
+      "url": "https://www.robotics247.com/article/embodied-ai-launches-air-a-physically-safe-humanoid-that-learns-on-the-job",
+      "published_at": "2026-11-06"
     },
     {
-      "headline": "Alibaba opens limited preview of Qwen4-Max",
-      "summary": "Alibaba unveiled Qwen4-Max-Preview, a flagship model with a 1-million-token context window built for coding, frontend design and multistep agent workflows, available only through a time-limited subscription that closes November 25. Alibaba claims 2.4 trillion total parameters, though independent benchmarking remains limited.",
-      "source": "Alibaba Cloud",
-      "url": "https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max",
-      "published_at": "2026-11-16"
+      "headline": "OpenAI and Cisco use AI to hunt and help patch Linux kernel vulnerabilities",
+      "summary": "Through OpenAI's Daybreak cybersecurity program, a cyber-focused model automatically searched for Linux kernel flaws, tested exploitability and suggested fixes, with human researchers reviewing findings before disclosure to maintainers. Cisco is a partner in the effort, which signals growing use of frontier AI for large-scale vulnerability discovery.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/05/openai-linux-cyber-model",
+      "published_at": "2026-11-05"
     },
     {
-      "headline": "Microsoft pushes agentic AI governance and security tools at Ignite 2026",
-      "summary": "At its Ignite conference opening keynote, Microsoft framed Copilot as 'the new operating system for work' and announced Copilot Workspaces for human-agent collaboration, along with Entra Agent ID, Dynamic Agent Risk monitoring, and a broader push to give enterprise AI agents their own identities and oversight.",
-      "source": "Constellation Research",
-      "url": "https://www.constellationr.com/insights/news/ignite-2026-microsoft-makes-case-be-your-work-operating-system-intelligence-layer",
-      "published_at": "2026-11-17"
+      "headline": "Analysis: most AI models released in 2026 are open-weight",
+      "summary": "A BenchLeader analysis found that open-weight models account for about 56% of new AI model releases with known licenses in 2026, even though proprietary models still dominate the very top of performance rankings. It's a data point in the ongoing debate over whether open or closed models will define the AI ecosystem.",
+      "source": "af.net",
+      "url": "https://af.net/realtime/benchleader-open-weights-claim-56-of-2026-ai-releases-but-miss-top-10/",
+      "published_at": "2026-11-12"
+    },
+    {
+      "headline": "AWS open-sources Strands Decider 2B, a fast lightweight decision model",
+      "summary": "Amazon's Strands Labs released an open-source model built on Alibaba's Qwen3.5-2B base that answers from a fixed set of options with a confidence score instead of generating free text, aimed at low-latency agentic decision-making. AWS positions it as a cheaper, open-weight alternative to hosted decision-model APIs like Jev.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+      "published_at": "2026-10-01"
     }
   ]
 }
