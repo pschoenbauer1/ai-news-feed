@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T05:11:15Z",
+  "generated_at": "2026-11-27T06:00:00Z",
   "items": [
     {
       "headline": "Anthropic debuts on Nasdaq in the largest IPO on record",
@@ -7,6 +7,34 @@
       "source": "Fox Business / TechRepublic",
       "url": "https://www.techrepublic.com/article/news-anthropic-ipo-nasdaq-trading-debut/",
       "published_at": "2026-11-19"
+    },
+    {
+      "headline": "Google, Nvidia and other suppliers commit $26B to Anthropic private placement",
+      "summary": "Alongside Anthropic's IPO, Google and Nvidia each pledged $10 billion, with AMD, Micron, Broadcom and Microsoft adding smaller sums, in a share purchase tied to the companies' existing compute and chip supply deals with Anthropic.",
+      "source": "The Motley Fool (via Webull)",
+      "url": "https://www.webull.com/news/15900179245810688",
+      "published_at": "2026-11-19"
+    },
+    {
+      "headline": "Alibaba launches Qwen4-Max, a 2.4-trillion-parameter closed flagship model",
+      "summary": "Alibaba says its newest Qwen model outperforms the prior Qwen3.8-Max while using about 35% fewer tokens and cutting per-task cost by roughly 60%; unlike its predecessor, Qwen4-Max ships API-only, though Alibaba says smaller Qwen4 variants will eventually be open-sourced.",
+      "source": "TechNode",
+      "url": "https://technode.com/2026/11/16/alibaba-launches-qwen4-max-with-lower-api-prices-and-a-million-token-context-window/",
+      "published_at": "2026-11-16"
+    },
+    {
+      "headline": "Anthropic ships Claude Fable 5.2 and restricted sibling Mythos 5.2",
+      "summary": "Fable 5.2 generates output up to 30% faster than Fable 5.1 at a 20% lower token price, with Anthropic citing gains in coding, reasoning and vision; Mythos 5.2, built on the same underlying model, remains gated to vetted cybersecurity and life-sciences organizations.",
+      "source": "SD Times",
+      "url": "https://sdtimes.com/ai/anthropic-introduces-claude-fable-5-2-mythos-5-2/",
+      "published_at": "2026-11-09"
+    },
+    {
+      "headline": "OpenAI launches GPT-6.2 Astra and Sol",
+      "summary": "OpenAI released a refreshed pair of frontier models aimed at professional work (Astra) and everyday tasks (Sol), with lower per-token pricing and claimed coding and reasoning gains; Astra is the first model OpenAI says meets the 'High' threshold for AI self-improvement risk under its own safety framework.",
+      "source": "OpenAI / MarkTechPost",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "published_at": "2026-11-17"
     },
     {
       "headline": "Ousted Nvidia CEO Jensen Huang agrees to testify before Congress Dec. 1",
@@ -23,11 +51,11 @@
       "published_at": "2026-11-16"
     },
     {
-      "headline": "OpenAI launches GPT-6.2 Astra and Sol",
-      "summary": "OpenAI released a refreshed pair of frontier models aimed at professional work (Astra) and everyday tasks (Sol), with lower per-token pricing and claimed coding and reasoning gains; Astra is the first model OpenAI says meets the 'High' threshold for AI self-improvement risk under its own safety framework.",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "published_at": "2026-11-17"
+      "headline": "FBI warns ARTEX AI agent framework is automating cyberattacks at machine speed",
+      "summary": "A FLASH advisory says attackers have repurposed the open-source, LLM-driven penetration-testing tool ARTEX since at least August, with some intrusions reaching privileged access in under three hours; targets span finance, government, healthcare and energy, and the tool keeps spreading via forks even after its original repo was pulled.",
+      "source": "The Record / FBI (IC3)",
+      "url": "https://therecord.media/artex-ai-tool-fbi-flash-alert",
+      "published_at": "2026-11-13"
     },
     {
       "headline": "Google DeepMind uses AI agents to mathematically verify Signal's encryption",
@@ -49,20 +77,6 @@
       "source": "Finimize",
       "url": "https://finimize.com/content/amazon-is-eyeing-a-7-billion-deal-to-buy-ai-startup-decart",
       "published_at": "2026-11-14"
-    },
-    {
-      "headline": "Figure's Helix 2.5 robot completes chores in 30 homes it had never seen",
-      "summary": "Figure says its Helix 2.5 model let a humanoid robot tidy living rooms, fold towels, and make beds across 30 unfamiliar Bay Area homes with a 56% success rate and no site-specific data collection or fine-tuning, versus just 8-9% for a comparable model without broad pretraining.",
-      "source": "TechRepublic",
-      "url": "https://www.techrepublic.com/article/news-figure-helix-2-5-30-homes-56-percent/",
-      "published_at": "2026-09-17"
-    },
-    {
-      "headline": "PrismML open-sources Ternary Bonsai 2 27B, a heavily compressed coding model",
-      "summary": "PrismML released Ternary Bonsai 2 27B under Apache 2.0, a low-bit model built on Qwen3.8 that the company says is roughly 9x smaller than full precision while retaining about 98% of benchmark performance, with notable gains in agentic coding and long-horizon tool use.",
-      "source": "Digg",
-      "url": "https://digg.com/ai/ht1ko92a",
-      "published_at": "2026-09-17"
     },
     {
       "headline": "Meta's Muse personal AI agent expands onto Instagram",
