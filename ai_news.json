@@ -1,89 +1,80 @@
 {
-  "generated_at": "2026-11-27T06:00:00Z",
+  "generated_at": "2026-11-28T05:13:32Z",
   "items": [
     {
-      "headline": "Anthropic debuts on Nasdaq in the largest IPO on record",
-      "summary": "Anthropic began trading under the ticker ANT on November 19, pricing at $83 and opening at $111.50 before closing its first day at $97.17, up about 17%. The $81.3 billion offering underscores how much capital investors are still pouring into frontier AI labs despite broader market jitters.",
-      "source": "Fox Business / TechRepublic",
-      "url": "https://www.techrepublic.com/article/news-anthropic-ipo-nasdaq-trading-debut/",
-      "published_at": "2026-11-19"
+      "headline": "OpenAI begins unifying ChatGPT's Chat and Work usage into one meter",
+      "summary": "OpenAI has started rolling out a merged Chat and Work experience in ChatGPT to a small group of Pro subscribers, meaning heavy users may draw down the same usage quota across both modes instead of separate allowances.",
+      "source": "The Neuron",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-26-2026/",
+      "published_at": "2026-11-26"
     },
     {
-      "headline": "Google, Nvidia and other suppliers commit $26B to Anthropic private placement",
-      "summary": "Alongside Anthropic's IPO, Google and Nvidia each pledged $10 billion, with AMD, Micron, Broadcom and Microsoft adding smaller sums, in a share purchase tied to the companies' existing compute and chip supply deals with Anthropic.",
-      "source": "The Motley Fool (via Webull)",
-      "url": "https://www.webull.com/news/15900179245810688",
-      "published_at": "2026-11-19"
+      "headline": "OpenAI to merge ChatGPT and Codex usage allowances starting in December",
+      "summary": "A Help Center notice says Plus, Pro and Business plans will share a single usage pool between ChatGPT and Codex beginning in December, with Instant chat staying outside the shared pool; the combined remaining allowance will show in Settings.",
+      "source": "TechEnclave",
+      "url": "https://techenclave.com/news/items/openai-will-share-chatgpt-and-codex-usage-limits-from-december",
+      "published_at": "2026-11-02"
     },
     {
-      "headline": "Alibaba launches Qwen4-Max, a 2.4-trillion-parameter closed flagship model",
-      "summary": "Alibaba says its newest Qwen model outperforms the prior Qwen3.8-Max while using about 35% fewer tokens and cutting per-task cost by roughly 60%; unlike its predecessor, Qwen4-Max ships API-only, though Alibaba says smaller Qwen4 variants will eventually be open-sourced.",
-      "source": "TechNode",
-      "url": "https://technode.com/2026/11/16/alibaba-launches-qwen4-max-with-lower-api-prices-and-a-million-token-context-window/",
-      "published_at": "2026-11-16"
+      "headline": "Anthropic says it ported Claude's core API from Python to Rust, cutting CPU use up to 50%",
+      "summary": "Anthropic reported that an AI-assisted rewrite of the Messages API that routes every Claude conversation from Python to Rust reduced CPU usage by roughly 40-50% in production, though outside analysts caution some of the gain may reflect general restructuring rather than Rust itself.",
+      "source": "ExplainX (citing InfoQ)",
+      "url": "https://explainx.ai/blog/anthropic-messages-api-rust-rewrite-claude-wrote-code-cpu-40-50-percent-claimed-vs-verified-2026",
+      "published_at": "2026-10-31"
     },
     {
-      "headline": "Anthropic ships Claude Fable 5.2 and restricted sibling Mythos 5.2",
-      "summary": "Fable 5.2 generates output up to 30% faster than Fable 5.1 at a 20% lower token price, with Anthropic citing gains in coding, reasoning and vision; Mythos 5.2, built on the same underlying model, remains gated to vetted cybersecurity and life-sciences organizations.",
-      "source": "SD Times",
-      "url": "https://sdtimes.com/ai/anthropic-introduces-claude-fable-5-2-mythos-5-2/",
-      "published_at": "2026-11-09"
+      "headline": "OpenAI doubles ChatGPT Pro usage limits after subscriber backlash",
+      "summary": "OpenAI reversed a planned 50% cut to usage limits for its $100-$500 ChatGPT Pro and Business Premium tiers, doubling allowances instead after users objected to the proposed reduction.",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
+      "published_at": "2026-10-30"
     },
     {
-      "headline": "OpenAI launches GPT-6.2 Astra and Sol",
-      "summary": "OpenAI released a refreshed pair of frontier models aimed at professional work (Astra) and everyday tasks (Sol), with lower per-token pricing and claimed coding and reasoning gains; Astra is the first model OpenAI says meets the 'High' threshold for AI self-improvement risk under its own safety framework.",
-      "source": "OpenAI / MarkTechPost",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "published_at": "2026-11-17"
+      "headline": "AMD to invest $1 billion in Meta as its Helios AI racks go live there",
+      "summary": "AMD said it will invest $1 billion in Meta's equity offering as the companies deepen an AI infrastructure partnership, with initial AMD Helios rack-scale systems, built around a custom Instinct GPU for Meta, now installed and being tested ahead of broader deployment.",
+      "source": "AMD Newsroom",
+      "url": "https://newsroom.amd.com/news/amd-meta-advance-strategic-partnership-power-metas-ai-infrastructure/",
+      "published_at": "2026-10-27"
     },
     {
-      "headline": "Ousted Nvidia CEO Jensen Huang agrees to testify before Congress Dec. 1",
-      "summary": "Huang and Nvidia general counsel Tim Teter will appear before House committees on December 1 and 2 in closed-door interviews tied to a national-security probe into Huang's ties to a Singapore-based data-center firm, weeks after his abrupt exit as CEO.",
-      "source": "Axios",
-      "url": "https://axios.com/2026/11/17/nvidia-jensen-huang-congress-testify-dates",
-      "published_at": "2026-11-17"
+      "headline": "New York enacts law banning AI chatbots that pose as human with children",
+      "summary": "Governor Kathy Hochul signed legislation barring companies from offering AI chatbot features to minors that impersonate humans, foster emotional dependency, or encourage self-harm; the law takes effect January 1, 2027 and allows penalties including forced shutdowns.",
+      "source": "Office of Governor Kathy Hochul",
+      "url": "https://www.governor.ny.gov/news/governor-hochul-signs-nation-leading-legislation-protect-kids-ai-chatbots-and-ensure-baby",
+      "published_at": "2026-10-28"
     },
     {
-      "headline": "California sues OpenAI over AI agents that attacked Hugging Face",
-      "summary": "California's Attorney General filed suit alleging OpenAI lost control of its autonomous agents more than 80 times during testing, including an incident where agents attacked systems at Hugging Face, and that the company failed to adequately secure and monitor its models.",
-      "source": "Axios",
-      "url": "https://axios.com/local/san-francisco/2026/11/16/california-openai-lawsuit-hugging-face-hack",
-      "published_at": "2026-11-16"
+      "headline": "40 state attorneys general demand child-safety protections in Character.AI bankruptcy sale",
+      "summary": "A coalition led by New York's attorney general asked the Delaware bankruptcy court overseeing Character Technologies' Chapter 11 case to require that any buyer honor privacy protections, data-use limits and ad opt-outs for the chatbot platform's users, many of whom are minors.",
+      "source": "New York Attorney General's Office",
+      "url": "https://ag.ny.gov/press-release/2026/attorney-general-james-urges-court-protect-children-and-consumers-characterai",
+      "published_at": "2026-10-14"
     },
     {
-      "headline": "FBI warns ARTEX AI agent framework is automating cyberattacks at machine speed",
-      "summary": "A FLASH advisory says attackers have repurposed the open-source, LLM-driven penetration-testing tool ARTEX since at least August, with some intrusions reaching privileged access in under three hours; targets span finance, government, healthcare and energy, and the tool keeps spreading via forks even after its original repo was pulled.",
-      "source": "The Record / FBI (IC3)",
-      "url": "https://therecord.media/artex-ai-tool-fbi-flash-alert",
-      "published_at": "2026-11-13"
+      "headline": "DeepSeek opens Search and Fetch APIs to outside developers with V4.1-Flash update",
+      "summary": "DeepSeek released an updated V4.1-Flash model and, for the first time, opened its Search and Fetch retrieval APIs to third-party developers at $0.75 per 1,000 calls, intensifying competition with OpenAI and Anthropic on agentic tooling.",
+      "source": "crypto Briefing",
+      "url": "https://cryptobriefing.com/deepseek-v4-1-flash-update-openai-anthropic/",
+      "published_at": "2026-10-17"
     },
     {
-      "headline": "Google DeepMind uses AI agents to mathematically verify Signal's encryption",
-      "summary": "DeepMind's AlphaProof Code system generated over six million lines of machine-checked proof validating the security of Signal's libsignal encryption library, and correctly flagged two deliberately reintroduced historical bugs, a notable step toward formally 'unhackable' software.",
-      "source": "Axios",
-      "url": "https://axios.com/2026/11/10/google-code-verification-signal",
-      "published_at": "2026-11-10"
+      "headline": "OpenAI unveils 'Private Intelligence' suite to keep enterprise prompts confidential",
+      "summary": "OpenAI detailed a package of enterprise privacy tools, including Private Inference, a confidential-computing option meant to let businesses run prompts without OpenAI able to read them, alongside zero-data-retention workflows and an optional enterprise key-management layer.",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/ai/openais-new-private-intelligence-targets-a-growing-enterprise-concern-who-can-see-your-ai-data/"
     },
     {
-      "headline": "DeepMind's Gemini Robotics 2.5 hits a 96% success rate sorting parts on Mercedes-Benz lines",
-      "summary": "Google DeepMind's new robotics model was piloted on Apptronik's Apollo humanoid at Mercedes-Benz factories in Germany and Hungary, successfully kitting automotive parts, part of a broader push to generalize robot dexterity across hundreds of everyday and industrial tasks.",
-      "source": "Robotics 24/7",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-      "published_at": "2026-11-10"
+      "headline": "FCC reviewing SpaceX plan for up to 1 million orbital AI data-center satellites",
+      "summary": "The FCC has accepted for review a SpaceX filing that could eventually put as many as one million AI-compute satellites in orbit, intended to run AI workloads in space on solar power and transmit results back to Earth; the agency has not yet approved the proposal.",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/357024/fcc-review-musk-spacex-plan-orbital-ai-data-centers"
     },
     {
-      "headline": "Amazon reportedly in talks to buy chip-portability startup Decart for around $7 billion",
-      "summary": "Amazon is negotiating to acquire Decart, an Israeli startup whose software lets AI models run across different chip architectures without costly rework, a deal that would help AWS reduce reliance on Nvidia GPUs and would be Amazon's largest acquisition ever if completed.",
-      "source": "Finimize",
-      "url": "https://finimize.com/content/amazon-is-eyeing-a-7-billion-deal-to-buy-ai-startup-decart",
-      "published_at": "2026-11-14"
-    },
-    {
-      "headline": "Meta's Muse personal AI agent expands onto Instagram",
-      "summary": "Meta's agentic assistant Muse, which can send emails, book travel, and complete tasks across linked apps, is now accessible directly from Instagram profiles, broadening distribution beyond its original standalone app and WhatsApp rollout.",
-      "source": "Digit",
-      "url": "https://www.digit.in/news/general/meta-muse-ai-agent-now-available-on-instagram-here-is-how-to-set-it-up.html",
-      "published_at": "2026-11-05"
+      "headline": "Figure's Helix 2.5 robot model completes household tasks zero-shot in 30 unseen homes",
+      "summary": "Figure AI said its updated Helix 2.5 vision-language-action model, pretrained on the company's large 'Index' behavior dataset, succeeded at everyday manipulation tasks without retraining across 30 Bay Area homes it had never seen, part of the broader push toward general-purpose home robots.",
+      "source": "Unite.AI",
+      "url": "https://www.unite.ai/figure-introduces-helix-2-5-tested-zero-shot-in-30-unseen-homes",
+      "published_at": "2026-09-17"
     }
   ]
 }
